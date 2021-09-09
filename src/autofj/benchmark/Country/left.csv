@@ -1,0 +1,2792 @@
+id,title
+0,Algeria
+1,Andorra
+2,Aruba
+3,Angola
+4,Albania
+5,Afghanistan
+6,Azerbaijan
+7,Antigua and Barbuda
+8,Anguilla
+9,Akkadian Empire
+10,Almoravid dynasty
+11,Ammon
+12,Assyria
+13,Antigonid dynasty
+14,Austria-Hungary
+15,Durrani Empire
+16,Archbishopric of Riga
+17,Belgium
+18,Brazil
+19,Bulgaria
+20,Bassas da India
+21,Bangladesh
+22,Barbados
+23,The Bahamas
+24,Belarus
+25,Benin
+26,Belize
+27,Bermuda
+28,Bolivia
+29,Bosnia and Herzegovina
+30,Botswana
+31,Brunei
+32,British Virgin Islands
+33,Burkina Faso
+34,Bishopric of Brandenburg
+35,British Empire
+36,Colombia
+37,Czechoslovakia
+38,Czech Republic
+39,Comoros
+40,China
+41,Cameroon
+42,Cayman Islands
+43,Central African Republic
+44,Chad
+45,Chile
+46,Cocos (Keeling) Islands
+47,Christmas Island
+48,Costa Rica
+49,Croatia
+50,Cyprus
+51,Central Powers
+52,Confederate States of America
+53,Cook Islands
+54,Commonwealth of England
+55,Dominican Republic
+56,Dejima
+57,Dahomey
+58,European Union
+59,Ecuador
+60,El Salvador
+61,Equatorial Guinea
+62,Europa Island
+63,European Free Trade Association
+64,European Coal and Steel Community
+65,European Economic Community
+66,Kingdom of Essex
+67,East Pakistan
+68,Finland
+69,Fiji
+70,French Polynesia
+71,French Southern and Antarctic Lands
+72,Federated States of Micronesia
+73,Germany
+74,Guam
+75,Gabon
+76,Gaza Strip
+77,Ghana
+78,Glorioso Islands
+79,Greece
+80,Greenland
+81,Guinea
+82,Guernsey
+83,Guinea-Bissau
+84,German Empire
+85,East Germany
+86,Holy Roman Empire
+87,Hungary
+88,Hittites
+89,Haiti
+90,Holy See
+91,Honduras
+92,Hong Kong
+93,Huns
+94,Hanseatic League
+95,Second Polish Republic
+96,Iceland
+97,Italy
+98,India
+99,Republic of Ireland
+100,Indonesia
+101,Iran
+102,Isle of Man
+103,International Criminal Court
+104,Inca Empire
+105,Japan
+106,Jamaica
+107,Jersey
+108,Juan de Nova Island
+109,Khazars
+110,Kazakhstan
+111,Kiribati
+112,Kalmar Union
+113,Kingdom of Jerusalem
+114,Kerguelen Islands
+115,Kosovo
+116,Kingdom of Judah
+117,Kingdom of Israel (Samaria)
+118,Luxembourg
+119,Latvia
+120,Libya
+121,Lithuania
+122,Laos
+123,Lebanon
+124,Lesotho
+125,Liberia
+126,Liechtenstein
+127,League of Nations
+128,Madagascar
+129,Macau
+130,Macedonia (region)
+131,Malawi
+132,Maldives
+133,Mali
+134,Marshall Islands
+135,Malta
+136,Mauritius
+137,Moldova
+138,Mongolia
+139,Monaco
+140,Montserrat
+141,Morocco
+142,Mozambique
+143,Burma
+144,Montenegro
+145,Netherlands
+146,Nazi Germany
+147,Niue
+148,Norway
+149,North Korea
+150,Namibia
+151,History of Nauru
+152,Nauru
+153,Netherlands Antilles
+154,New Caledonia
+155,Nicaragua
+156,Niger
+157,Nigeria
+158,Northern Mariana Islands
+159,Norfolk Island
+160,Nevis
+161,Ottoman Empire
+162,Oman
+163,World Organisation for Animal Health
+164,Organization for Security and Co-operation in Europe
+165,Papua New Guinea
+166,Poland
+167,Panama
+168,Puerto Rico
+169,Portugal
+170,Pakistan
+171,Palau
+172,Paraguay
+173,Philippines
+174,Pitcairn Islands
+175,Palestinian National Authority
+176,Province of Canada
+177,Qing Dynasty
+178,Russia
+179,Romania
+180,Republic of Texas
+181,Roman Empire
+182,Rwanda
+183,Taiwan
+184,Roman Republic
+185,Roman Kingdom
+186,Rhodesia
+187,Spain
+188,Switzerland
+189,Sri Lanka
+190,Soviet Union
+191,Suriname
+192,Slovakia
+193,Saint Helena
+194,South Korea
+195,Saint Lucia
+196,Saint Kitts and Nevis
+197,Geography of Saint Pierre and Miquelon
+198,Saint Pierre and Miquelon
+199,Saint Vincent and the Grenadines
+200,Samoa
+201,San Marino
+202,Senegal
+203,Serbia and Montenegro
+204,Seychelles
+205,Sierra Leone
+206,Singapore
+207,Slovenia
+208,Somalia
+209,South Georgia and the South Sandwich Islands
+210,Sudan
+211,Svalbard
+212,Swaziland
+213,Special administrative region
+214,Savoy
+215,South African Republic
+216,Seleucid Empire
+217,Principality of Sealand
+218,Serbia
+219,Tenochtitlan
+220,Tajikistan
+221,Tanzania
+222,Thailand
+223,Togo
+224,Tokelau
+225,Tonga
+226,Tromelin Island
+227,Tunisia
+228,Turks and Caicos Islands
+229,Tuvalu
+230,Trust Territory of the Pacific Islands
+231,Tristan da Cunha
+232,United Kingdom
+233,Ukraine
+234,United Nations
+235,Uruguay
+236,Uzbekistan
+237,United States Virgin Islands
+238,United States Minor Outlying Islands
+239,Venezuela
+240,Vatican City
+241,Vanuatu
+242,West Germany
+243,Wallis and Futuna
+244,Western European Union
+245,Wessex
+246,Weimar Republic
+247,West Pakistan
+248,Zimbabwe
+249,Zanzibar
+250,Zambia
+251,Zaire
+252,Thirteen Colonies
+253,Sparta
+254,Non-Aligned Movement
+255,Northumbria
+256,Commonwealth of Independent States
+257,New Sweden
+258,Hohenzollern-Sigmaringen
+259,Etruscan civilization
+260,Hoysala Empire
+261,Viceroyalty of New Granada
+262,United Nations Interim Administration Mission in Kosovo
+263,Mercia
+264,Electoral Palatinate
+265,Italian East Africa
+266,Upper Canada
+267,Macedonia (ancient kingdom)
+268,Republic of Upper Volta
+269,Nordic Council
+270,Irish Free State
+271,South-West Africa
+272,New Netherland
+273,Sui Dynasty
+274,Tang Dynasty
+275,Ming Dynasty
+276,Qin Dynasty
+277,Shang Dynasty
+278,Zhou Dynasty
+279,Xia Dynasty
+280,Han Dynasty
+281,Axis powers
+282,Adjara
+283,Danish West Indies
+284,Biafra
+285,British Cape Colony
+286,Union of South Africa
+287,United Arab Republic
+288,Portuguese Timor
+289,Portuguese Mozambique
+290,Duchy of Schleswig
+291,Dacia
+292,Lower Canada
+293,Moldavia
+294,Wallachia
+295,Organisation of Islamic Cooperation
+296,Organisation of African Unity
+297,Georgia (country)
+298,Lorraine (duchy)
+299,Kingdom of Sussex
+300,Umayyad Caliphate
+301,Abbasid Caliphate
+302,Almohad Caliphate
+303,Democratic Republic of Afghanistan
+304,Straits Settlements
+305,Batavian Republic
+306,Somaliland
+307,British Somaliland
+308,Duchy of Mecklenburg-Strelitz
+309,French Indochina
+310,Kingdom of Asturias
+311,Glamorgan
+312,United Kingdom of the Netherlands
+313,Arab League
+314,Dutch Republic
+315,Kingdom of Holland
+316,French Equatorial Africa
+317,Syldavia
+318,Central Tibetan Administration
+319,Manchukuo
+320,Fatimid Caliphate
+321,Netherlands New Guinea
+322,Liu Song Dynasty
+323,Song Dynasty
+324,Ivory Coast
+325,Belgian Congo
+326,Neutral Moresnet
+327,Western Xia
+328,Guelders
+329,Papal States
+330,South Vietnam
+331,Republic of Benin (1967)
+332,Carolingian Empire
+333,Bourbon Restoration
+334,French First Republic
+335,Austrasia
+336,New Spain
+337,Nagorno-Karabakh
+338,The Gambia
+339,Provisional Revolutionary Government of the Republic of South Vietnam
+340,Kingdom of Strathclyde
+341,Tonkin
+342,United Arab Emirates
+343,Herm
+344,Bishopric of Utrecht
+345,Moab
+346,Seventeen Provinces
+347,Duchy of Carinthia
+348,Carantania
+349,Transvaal Colony
+350,Mauretania
+351,Numidia
+352,Democratic Republic of the Congo
+353,Sovereign Military Order of Malta
+354,Denmark
+355,Colchis
+356,Northern Wei
+357,Kamakura shogunate
+358,Ashikaga shogunate
+359,Tokugawa shogunate
+360,United Nations Transitional Administration in East Timor
+361,Occupation of Japan
+362,Dos Pilas
+363,Philistia
+364,Sark
+365,Kassites
+366,Organisation internationale de la Francophonie
+367,Frisia
+368,Palestinian territories
+369,World government
+370,Saloum
+371,Cayor
+372,Waalo
+373,Basutoland
+374,Medes
+375,Carriacou and Petite Martinique
+376,Kingdom of Tavolara
+377,Association of Southeast Asian Nations
+378,Free Territory of Trieste
+379,"Ravenstein, Netherlands"
+380,Mitanni
+381,Annam (French protectorate)
+382,German Confederation
+383,Gallic Empire
+384,Free French Forces
+385,Hwicce
+386,Golden Horde
+387,Bernicia
+388,Deira
+389,Fugger
+390,Duchy of Mecklenburg-Schwerin
+391,Duchy of Prussia
+392,United Kingdom of Great Britain and Ireland
+393,Old Kingdom of Egypt
+394,Irish Republic
+395,Champa
+396,First Babylonian Dynasty
+397,Thurn und Taxis
+398,Kingdom of Great Britain
+399,Mount Athos
+400,New France
+401,Decapolis
+402,Travancore
+403,Kingdom of Nepal
+404,Commonwealth of the Philippines
+405,Ross Dependency
+406,The Protectorate
+407,Tobago
+408,Majapahit
+409,Malacca sultanate
+410,Principality of Hutt River
+411,Triple Alliance (1882)
+412,Ayutthaya Kingdom
+413,Duchy of Anhalt
+414,History of the Khitans
+415,Bophuthatswana
+416,Kingdom of Ireland
+417,Transkei
+418,Borduria
+419,Lordship of Ireland
+420,Kyrgyzstan
+421,Peru
+422,Nepal
+423,Hasmonean dynasty
+424,Alderney
+425,British Honduras
+426,Goguryeo
+427,Latin Empire
+428,Peter I Island
+429,Unterwalden
+430,Sukhothai Kingdom
+431,Parthenopean Republic
+432,Central African Empire
+433,Vojvodina
+434,Orange Free State
+435,Kingdom of Kent
+436,Safavid dynasty
+437,Mali Empire
+438,Transjordan
+439,Lotharingia
+440,Empire of Japan
+441,Anjouan
+442,Khanate of Sibir
+443,Berg (state)
+444,County of Mark
+445,Republic of Hawaii
+446,Ethiopia
+447,Kara-Khanid Khanate
+448,Kara-Khitan Khanate
+449,Kenya
+450,Goryeo
+451,Baltic states
+452,Colony of Virginia
+453,Congo Free State
+454,County of Nassau
+455,Tanganyika
+456,Orange River Colony
+457,Byelorussian Soviet Socialist Republic
+458,Gold Coast (British colony)
+459,Alawite State
+460,Federal Republic of Central America
+461,German East Africa
+462,Turkmenistan
+463,British Guiana
+464,Kazakh Soviet Socialist Republic
+465,Turkmen Soviet Socialist Republic
+466,Mengjiang
+467,Lanna
+468,Vietnam
+469,Nyasaland
+470,Lan Xang
+471,Kingdom of Laos
+472,British Antarctic Territory
+473,Muang Phuan
+474,French Union
+475,British Overseas Territories
+476,Tuvan People's Republic
+477,Coalition Provisional Authority
+478,QwaQwa
+479,Inini
+480,Saxe-Coburg and Gotha
+481,Principality of Schaumburg-Lippe
+482,Saint-Domingue
+483,Mosquito Coast
+484,Caucasian Albania
+485,Second French Empire
+486,French colonial empire
+487,Osroene
+488,Union between Sweden and Norway
+489,Plymouth Colony
+490,West Indies Federation
+491,British North America
+492,Ayyubid dynasty
+493,Zengid dynasty
+494,Kingdom of Sedang
+495,Khmer Empire
+496,New Hebrides
+497,European Atomic Energy Community
+498,French Third Republic
+499,Gupta Empire
+500,West Jersey
+501,East Jersey
+502,Portuguese Empire
+503,Kingdom of Yugoslavia
+504,Karelo-Finnish Soviet Socialist Republic
+505,Puntland
+506,Swedish Pomerania
+507,Swedish Livonia
+508,Mustang (kingdom)
+509,Cochinchina
+510,Serbian Empire
+511,Mongol Empire
+512,Republic of Rose Island
+513,State of Palestine
+514,Yamhad
+515,Australian Antarctic Territory
+516,Brandenburg-Prussia
+517,Kingdom of Prussia
+518,Khmer Republic
+519,French Fifth Republic
+520,Principality of Calenberg
+521,Kenmu Restoration
+522,Electorate of Mainz
+523,Grand Duchy of Frankfurt
+524,Electorate of Cologne
+525,Chinese Soviet Republic
+526,Freetown Christiania
+527,Somoza family
+528,Archbishopric of Salzburg
+529,Archbishopric of Bremen
+530,County of Edessa
+531,Principality of Antioch
+532,County of Tripoli
+533,Kingdom of Cyprus
+534,Landgraviate of Hesse-Kassel
+535,Archbishopric of Magdeburg
+536,Principality of Lower Pannonia
+537,Colombo Plan
+538,North German Confederation
+539,County of Toulouse
+540,Duchy of Saxony
+541,British Central Africa Protectorate
+542,Solomon Islands
+543,British Cameroons
+544,Conch Republic
+545,Austrian Empire
+546,Colonial Brazil
+547,Empire of Brazil
+548,President of the Philippines
+549,Northern Cyprus
+550,Principality of Serbia (medieval)
+551,Cao Wei
+552,Shu Han
+553,Eastern Wu
+554,Viceroyalty of Peru
+555,Argentine Confederation
+556,Northern Rhodesia
+557,Southern Rhodesia
+558,Gilbert and Ellice Islands
+559,International Energy Agency
+560,List of Zambians
+561,Xin Dynasty
+562,Deheubarth
+563,Duchy of Brittany
+564,Great Moravia
+565,Han (state)
+566,Wei (state)
+567,Islamic State of Afghanistan
+568,First Intermediate Period of Egypt
+569,First Brazilian Republic
+570,Middle Kingdom of Egypt
+571,Republic of Florence
+572,French West Africa
+573,Takrur
+574,Francoist Spain
+575,Company rule in India
+576,Delhi Sultanate
+577,Zunghar Khanate
+578,Kingdom of Romania
+579,Socialist Republic of Romania
+580,Baekje
+581,Socialist Federal Republic of Yugoslavia
+582,Hyderabad State
+583,German Samoa
+584,Libyan Arab Republic
+585,League of God's House
+586,Republic of Formosa
+587,Spanish Empire
+588,Francia
+589,Malayan Union
+590,Federation of Malaya
+591,French Second Republic
+592,Zhao (state)
+593,Ebla
+594,Hephthalite Empire
+595,Empire of Nicaea
+596,Kingdom of Thessalonica
+597,Principality of Achaea
+598,Duchy of Athens
+599,Rouran Khaganate
+600,Italian Social Republic
+601,South Ossetia
+602,Silla
+603,Joseon
+604,Mongolian People's Republic
+605,Rotuma
+606,California Republic
+607,Islamic Emirate of Afghanistan
+608,French Congo
+609,Cambodia
+610,French Fourth Republic
+611,Atropatene
+612,Federated Malay States
+613,Caucasian Iberia
+614,Far Eastern Republic
+615,Pahlavi dynasty
+616,General Government
+617,Yan (state)
+618,Jin (Chinese state)
+619,Gojoseon
+620,Korean Empire
+621,Community of Portuguese Language Countries
+622,Buyeo kingdom
+623,Kingdom of Mutapa
+624,Zimbabwe-Rhodesia
+625,Senegambia and Niger
+626,Kushan Empire
+627,Upper Senegal and Niger
+628,Stellaland
+629,Northern Han
+630,Han Zhao
+631,Republika Srpska
+632,Maratha Empire
+633,Saudi Arabia
+634,French Protectorate of Cambodia
+635,Yemen
+636,Karakalpakstan
+637,Cisalpine Republic
+638,People's Republic of Poland
+639,Herzegovina-Neretva Canton
+640,Little Entente
+641,Republic of Central Lithuania
+642,Reichskommissariat Ostland
+643,Qin (state)
+644,Qi (state)
+645,Appenzell
+646,Duchy of Warsaw
+647,Duchy of Greater Poland
+648,Prussia
+649,German New Guinea
+650,Magadha
+651,Principality of Seborga
+652,July Monarchy
+653,Congress Poland
+654,New Haven Colony
+655,Independent State of Croatia
+656,Roman Republic (19th century)
+657,Transnistria
+658,Moldavian Soviet Socialist Republic
+659,Ukrainian Soviet Socialist Republic
+660,Transcaucasian Socialist Federative Soviet Republic
+661,Bailiwick of Guernsey
+662,Duchy of Normandy
+663,Grand Duchy of Lithuania
+664,Armenian Soviet Socialist Republic
+665,Latvian Soviet Socialist Republic
+666,British Togoland
+667,Icelandic Commonwealth
+668,Federation of Bosnia and Herzegovina
+669,Nakhichivan Autonomous Republic
+670,Duchy of Oldenburg
+671,Gagauzia
+672,North Borneo
+673,Ciskei
+674,Venda
+675,Vladimir-Suzdal
+676,Srivijaya
+677,Jolof Empire
+678,Dutch Language Union
+679,Georgian Soviet Socialist Republic
+680,Azerbaijan Soviet Socialist Republic
+681,Lithuanian Soviet Socialist Republic
+682,Tajik Soviet Socialist Republic
+683,Uzbek Soviet Socialist Republic
+684,Hesse-Homburg
+685,Second Intermediate Period of Egypt
+686,Democratic Republic of Georgia
+687,Kingdom of England
+688,Somali Democratic Republic
+689,Uganda Protectorate
+690,Former Qin
+691,South Asian Association for Regional Cooperation
+692,Scordisci
+693,Hariphunchai
+694,Latin Union
+695,Moche (culture)
+696,Duchy of Bohemia
+697,Protectorate of Bohemia and Moravia
+698,Circassia
+699,Isle de France (Mauritius)
+700,Dominion of New Zealand
+701,Southern Qi
+702,Chen Dynasty
+703,Liang Dynasty
+704,Bechuanaland Protectorate
+705,Kingdom of Majorca
+706,Kingdom of Gwynedd
+707,County of Burgundy
+708,Duchy of Burgundy
+709,Lazica
+710,Cheng Han
+711,Later Zhao
+712,Former Liang
+713,Later Liang
+714,Southern Liang
+715,Western Liang
+716,Northern Liang
+717,State of Deseret
+718,Attalid dynasty
+719,Elmet
+720,Carpatho-Ukraine
+721,Kamerun
+722,Gaya confederacy
+723,Southern African Development Community
+724,Taebong
+725,Military Frontier
+726,Volga Bulgaria
+727,Free City of Danzig
+728,Tahirid dynasty
+729,Vijayanagara Empire
+730,Connecticut Colony
+731,Province of New Hampshire
+732,Province of New York
+733,Province of New Jersey
+734,Province of Georgia
+735,Province of Maryland
+736,"State of Slovenes, Croats and Serbs"
+737,Delaware Colony
+738,Province of Pennsylvania
+739,Colony of Rhode Island and Providence Plantations
+740,Province of South Carolina
+741,Vargas Era
+742,Province of North Carolina
+743,Province of Carolina
+744,Helvetic Republic
+745,Posavina Canton
+746,Republic of Ezo
+747,Portuguese India
+748,Finnish Democratic Republic
+749,Province of Massachusetts Bay
+750,Balhae
+751,Western Roman Empire
+752,Saffarid dynasty
+753,Achaean League
+754,Territories of the United States
+755,Confederation of the Rhine
+756,Italian Somaliland
+757,Ancient Rome
+758,Republic of Serbian Krajina
+759,Canton 10
+760,Republic of Indian Stream
+761,Austrian Netherlands
+762,French Somaliland
+763,French Territory of the Afars and the Issas
+764,Vermont Republic
+765,West Ukrainian People's Republic
+766,Polish government-in-exile
+767,Karamanids
+768,Ilkhanate
+769,Duchy of Aquitaine
+770,Torres Strait Islands
+771,Maurya Empire
+772,Province of Avalon
+773,Republic of Genoa
+774,Buyid dynasty
+775,Estado Novo (Portugal)
+776,Ghaznavids
+777,Sultanate of Rum
+778,Hesse-Marburg
+779,Khwarazmian dynasty
+780,Zhangzhung
+781,New Kingdom of Egypt
+782,Kingdom of Aragon
+783,Songhai Empire
+784,Carchemish
+785,Nuclear Energy Agency
+786,First Mexican Empire
+787,Second Mexican Empire
+788,Territory of Papua
+789,Darfur
+790,Burid dynasty
+791,Khanate of Kazan
+792,Qajar dynasty
+793,Grand Duchy of Avram
+794,History of the Ryukyu Islands
+795,Ryukyu Kingdom
+796,Kingdom of Galicia and Lodomeria
+797,Republic of Venice
+798,Russian Republic
+799,Kingdom of Powys
+800,Wied-Neuwied
+801,Grand Duchy of Finland
+802,Kingdom of Nekor
+803,Aghlabids
+804,Rustamid dynasty
+805,Hammadid dynasty
+806,Zirid dynasty
+807,Duchy of the Archipelago
+808,Barghawata
+809,Crozet Islands
+810,Captaincies of Brazil
+811,Despotate of Epirus
+812,Empire of Trebizond
+813,Economic Cooperation Organization
+814,Duchy of Bar
+815,Duchy of Courland and Semigallia
+816,Timurid Empire
+817,Second Brazilian Republic
+818,Kwantung Leased Territory
+819,Portuguese Guinea
+820,Tabal
+821,Later Qin
+822,Western Qin
+823,Former Yan
+824,Later Yan
+825,Duchy of Milan
+826,Duchy of Modena and Reggio
+827,Duchy of Parma
+828,Grand Duchy of Tuscany
+829,Kingdom of Saxony
+830,Comtat Venaissin
+831,Iraqi Kurdistan
+832,Southern Yan
+833,Northern Yan
+834,Western Yan
+835,Xia (Sixteen Kingdoms)
+836,Later Liang Dynasty
+837,Bosporan Kingdom
+838,County of Boulogne
+839,Duchy of Pomerania
+840,Pechenegs
+841,Basque Country (greater region)
+842,Sultanate of Sulu
+843,County of Hainaut
+844,County of Holland
+845,County of Namur
+846,Kingdom of Navarre
+847,Swedish Ingria
+848,Dominion of Newfoundland
+849,Schwarzburg-Rudolstadt
+850,Schwarzburg-Sondershausen
+851,Ukrainian State
+852,First Spanish Republic
+853,Guangzhouwan
+854,Roman Republic (18th century)
+855,Lakhmids
+856,Himyarite Kingdom
+857,Yemen Arab Republic
+858,South Yemen
+859,Kingdom of Khotan
+860,Democratic Republic of Yemen
+861,Federation of South Arabia
+862,Adiabene
+863,Provisional Government of Hawaii
+864,Later Tang Dynasty
+865,Prisoner in the Vatican
+866,Bremen-Verden
+867,Sayyid dynasty
+868,Kingdom of Castile
+869,Saxe-Coburg
+870,Saxe-Gotha
+871,Croatia in personal union with Hungary
+872,Spanish Sahara
+873,Emirate of Diriyah
+874,Principality of Abkhazia
+875,German colonial empire
+876,Togoland
+877,Sennar (sultanate)
+878,Adal Sultanate
+879,Singhasari
+880,Indo-Greeks
+881,Spanish Guinea
+882,French protectorate in Morocco
+883,Duchy of Teschen
+884,Demerara
+885,Engelberg Abbey
+886,Kara Koyunlu
+887,Nanda Empire
+888,Shishunaga dynasty
+889,Kingdom of Hanover
+890,Crown of Aragon
+891,British Bechuanaland
+892,Indo-Parthian Kingdom
+893,Indo-Scythians
+894,Sokoto Caliphate
+895,Samanids
+896,Patiala and East Punjab States Union
+897,Una-Sana Canton
+898,Central Bosnia Canton
+899,West Herzegovina Canton
+900,Republic of Canada
+901,Deccan sultanates
+902,Natalia Republic
+903,Isfendiyarids
+904,French India
+905,Idel-Ural State
+906,Gurjara-Pratihara
+907,Grande Comore
+908,Kingdom of Hungary
+909,Duchy of Savoy
+910,County of Savoy
+911,Griqualand East
+912,New Swabia
+913,Belarusian People's Republic
+914,New Navarre
+915,Novgorod Republic
+916,Empire of Atlantium
+917,Lebowa
+918,Bahmani Sultanate
+919,Brazilian military government
+920,Cumania
+921,Greater Republic of Central America
+922,Habsburg Spain
+923,Kingdom of Mysore
+924,Valluvanad (southern Malabar)
+925,Derg
+926,Chagatai Khanate
+927,Chu (state)
+928,Sunga Empire
+929,Polish Underground State
+930,Crimean Khanate
+931,Province of Bumbunga
+932,Commander Islands
+933,Pandyan Dynasty
+934,KwaZulu
+935,Bunyoro
+936,Anglo-Egyptian Sudan
+937,Thirtieth Dynasty of Egypt
+938,Astrakhan Khanate
+939,Rozwi Empire
+940,Scattered Islands in the Indian Ocean
+941,Kingdom of Armenia (antiquity)
+942,Nagorno-Karabakh Republic
+943,Republic of Madawaska
+944,Saint Christopher-Nevis-Anguilla
+945,Wari culture
+946,Senegambia Confederation
+947,Wu (state)
+948,Jordanian occupation of the West Bank
+949,Occupation of the Gaza Strip by Egypt
+950,Pauravas
+951,Kanva dynasty
+952,Kalinga (India)
+953,"Mari, Syria"
+954,Greater Lebanon
+955,Akrotiri and Dhekelia
+956,Kingdom of Cochin
+957,Travancore-Cochin
+958,Committee of Members of the Constituent Assembly
+959,Spanish Protectorate in Morocco
+960,Zand dynasty
+961,Odrysian kingdom
+962,State of the Teutonic Order
+963,Kingdom of Iraq (Mandate administration)
+964,Habsburg Monarchy
+965,Warsangali Sultanate
+966,Qasim Khanate
+967,Alamannia
+968,Langkasuka
+969,Pallava dynasty
+970,Ulaid
+971,Republic of South Maluku
+972,Cisrhenian Republic
+973,Northern Qi
+974,"Los Altos, Central America"
+975,Septinsular Republic
+976,Early Dynastic Period of Egypt
+977,Rif Republic
+978,Sovereign State of Aeterna Lucina
+979,Chen (state)
+980,Yue (state)
+981,Tamna
+982,Bavarian Soviet Republic
+983,Armenian Kingdom of Cilicia
+984,Switzerland in the Napoleonic era
+985,Banu Qasi
+986,Nation of Celestial Space
+987,Independent State of Rainbow Creek
+988,Caucasian Imamate
+989,Lokot Autonomy
+990,Kugelmugel
+991,Kadamba Dynasty
+992,Pattani Kingdom
+993,Kingdom of Dali
+994,Third Dynasty of Ur
+995,Gutian dynasty of Sumer
+996,Niger Coast Protectorate
+997,Northern Nigeria Protectorate
+998,Thomond
+999,Southern Nigeria Protectorate
+1000,Eastern Wei
+1001,Transcaucasian Democratic Federative Republic
+1002,Pala Empire
+1003,United Arab States
+1004,Mataram Sultanate
+1005,Hubaekje
+1006,Duchy of Brunswick
+1007,State of Vietnam
+1008,Socialist Republic of Macedonia
+1009,Jin (Korean state)
+1010,Kingdom of Kartli-Kakheti
+1011,Government of Free Vietnam
+1012,Province of Tierra Firme
+1013,Azad Hind
+1014,Qutb Shahi dynasty
+1015,Tannu Uriankhai
+1016,Pan American Health Organization
+1017,Free Republic of Schwarzenberg
+1018,Ruanda-Urundi
+1019,Angevin Empire
+1020,Merkit people
+1021,Chimor
+1022,Diauehi
+1023,Duchy of Spoleto
+1024,Spanish West Africa
+1025,North-Eastern Rhodesia
+1026,Dutch Empire
+1027,Azerbaijan People's Government
+1028,Hafsid dynasty
+1029,Artuqids
+1030,Danishmends
+1031,Bishopric of Dorpat
+1032,Vogtland
+1033,Maitraka
+1034,Anhalt-Dessau
+1035,Republic of West Papua
+1036,Counts of Toggenburg
+1037,Moldavian Democratic Republic
+1038,Tagalog Republic
+1039,Duchy of Masovia
+1040,Third Intermediate Period of Egypt
+1041,Mali Federation
+1042,Arab Islamic Republic
+1043,Gay and Lesbian Kingdom of the Coral Sea Islands
+1044,County of Artois
+1045,Mamluk Sultanate (Delhi)
+1046,Alodia
+1047,Khorezm People's Soviet Republic
+1048,Kerma culture
+1049,Slovak Soviet Republic
+1050,Principality of Reuss-Gera
+1051,Konbaung Dynasty
+1052,Nuevo Santander
+1053,Allied Military Government for Occupied Territories
+1054,Zheng (state)
+1055,Iar Connacht
+1056,Kingdom of Dublin
+1057,Satavahana dynasty
+1058,Azawad
+1059,Duchy of Bavaria
+1060,Confederate Ireland
+1061,Dutch Formosa
+1062,Ziyarid dynasty
+1063,Principality of Wales
+1064,Taqali
+1065,Kingdom of Israel (united monarchy)
+1066,Principality of Regensburg
+1067,Burgundian Netherlands
+1068,Commune of Rome
+1069,Ligurian Republic
+1070,Italian Republic (Napoleonic)
+1071,Bishopric of Worms
+1072,Spanish Netherlands
+1073,Hereti
+1074,Seisyllwg
+1075,Kimek Khanate
+1076,Eurasian Economic Community
+1077,Kingdom of Tungning
+1078,Adil Shahi dynasty
+1079,Kingdom of Etruria
+1080,Afghan Transitional Administration
+1081,Principality of Ansbach
+1082,Principality of Bayreuth
+1083,Kerait
+1084,Minerva Reefs
+1085,Nakhon Si Thammarat Kingdom
+1086,Lands of the Bohemian Crown
+1087,Kingdom of Bohemia
+1088,Sayn-Altenkirchen
+1089,Wuyue
+1090,Duchy of Lucca
+1091,Cispadane Republic
+1092,Principality of Freedonia
+1093,Kingdom of Italy (Napoleonic)
+1094,Tughlaq dynasty
+1095,Southern Han
+1096,First East Turkestan Republic
+1097,Provisional Siberian Government (Vladivostok)
+1098,Marinid dynasty
+1099,Saar (protectorate)
+1100,Revolutionary Government Junta of El Salvador
+1101,Bamana Empire
+1102,Federation of Arab Republics
+1103,Arenberg
+1104,Jingnan
+1105,Principality of Khachen
+1106,Enlightenment in Spain
+1107,Oyo Empire
+1108,Saadi dynasty
+1109,Lodi dynasty
+1110,Chu (Ten Kingdoms)
+1111,South Pacific Mandate
+1112,Southern Tang
+1113,Kingdom of Westphalia
+1114,Zagwe dynasty
+1115,People's Democratic Republic of Ethiopia
+1116,Muzaffarids of Iran
+1117,Norway in 1814
+1118,Palmares (quilombo)
+1119,Kosala
+1120,Duchy of Massa and Carrara
+1121,Duchy of Mantua
+1122,Karabakh Khanate
+1123,Kakatiya dynasty
+1124,Czechoslovak Socialist Republic
+1125,Kingdom of Rwanda
+1126,Kingdom of Burundi
+1127,Duchy of Bukovina
+1128,Duchy of Silesia
+1129,Kingdom of Dalmatia
+1130,Germiyanids
+1131,Nogai Horde
+1132,Afsharid dynasty
+1133,Ober Ost
+1134,Johor Sultanate
+1135,Gangga Negara
+1136,Pan Pan
+1137,Duchy of Limburg
+1138,County of Loon
+1139,Reorganized National Government of China
+1140,Domain of Soissons
+1141,Minnesota Chippewa Tribe
+1142,Autonomous Province of Western Bosnia
+1143,Danish Estonia
+1144,Indian Ocean Rim Association for Regional Cooperation
+1145,Duchy of Cleves
+1146,Stadion-Thannhausen
+1147,Stadion-Warthausen
+1148,Waldburg-Zeil
+1149,Waldburg-Wurzach
+1150,Waldburg-Waldsee
+1151,Twente
+1152,Solms-Wildenfels
+1153,Solms-Laubach
+1154,Solms-Hohensolms-Lich
+1155,Solms-Braunfels
+1156,Spain under the Restoration
+1157,Salm-Reifferscheid-Dyck
+1158,Ortenburg-Neuortenburg
+1159,Wa State
+1160,Principality of Leyen
+1161,Min (Ten Kingdoms)
+1162,Wu (Ten Kingdoms)
+1163,Later Shu
+1164,Kingdom of Kurdistan
+1165,KwaNdebele
+1166,KaNgwane
+1167,Gazankulu
+1168,Khilji dynasty
+1169,Pappenheim (state)
+1170,Wied-Runkel
+1171,Muscat and Oman
+1172,Nanyue
+1173,Bushmanland (South-West Africa)
+1174,Kingdom of Albania
+1175,Khanate of Kokand
+1176,Stolberg-Wernigerode
+1177,Stolberg-Rossla
+1178,Stolberg-Stolberg
+1179,Chobanids
+1180,Damaraland
+1181,Wallis (island)
+1182,Principality of Auersperg
+1183,East Caprivi
+1184,Salm (state)
+1185,Golden Ambrosian Republic
+1186,Salm-Horstmar
+1187,Salm-Kyrburg
+1188,Salm-Salm
+1189,Zutphen County
+1190,East Africa Protectorate
+1191,Principality of Taranto
+1192,Salm-Reifferscheid-Krautheim
+1193,Salm-Reifferscheid-Hainsbach
+1194,Colonial Fiji
+1195,Cossack Hetmanate
+1196,Wied
+1197,County of Manderscheid
+1198,Stadion (state)
+1199,Sena dynasty
+1200,Late Period of ancient Egypt
+1201,Kingdom of Butua
+1202,Bishopric of Speyer
+1203,Galician Soviet Socialist Republic
+1204,Sayn-Wittgenstein
+1205,Sayn-Wittgenstein-Karlsburg
+1206,Sayn-Homburg
+1207,Provisional Government of the Republic of Korea
+1208,Sayn-Wittgenstein-Wittgenstein
+1209,Sayn-Wittgenstein-Vallendar
+1210,Sayn
+1211,Sponheim-Sayn
+1212,Sayn-Wittgenstein-Sayn
+1213,Ladonia (micronation)
+1214,Kediri (historical kingdom)
+1215,French Community
+1216,National Reorganization Process
+1217,Samudera Pasai Sultanate
+1218,Japanese occupation of Hong Kong
+1219,Somali Republic
+1220,Chandela
+1221,Persian Socialist Soviet Republic
+1222,North Borneo Federation
+1223,County of Jaffa and Ascalon
+1224,Principality of Galilee
+1225,Kingdom of Pamplona
+1226,Banat Republic
+1227,Republic of West Florida
+1228,Venad
+1229,Injuids
+1230,Republic of the Rio Grande
+1231,County of Bentheim
+1232,Kingdom of Slavonia
+1233,Finnish Socialist Workers' Republic
+1234,Berbice
+1235,SAO Krajina
+1236,SAO Bosanska Krajina
+1237,"SAO Eastern Slavonia, Baranja and Western Syrmia"
+1238,SAO Herzegovina
+1239,Sam'al
+1240,Nieder-Isenburg
+1241,Second East Turkestan Republic
+1242,Idrisid dynasty
+1243,South Kasai
+1244,Toucouleur Empire
+1245,Wassoulou Empire
+1246,Allies of World War I
+1247,Allies of World War II
+1248,Mahajanapada
+1249,French Togoland
+1250,Kurt Dynasty
+1251,Austrian Silesia
+1252,Sarbadars
+1253,Jinsha (archaeological site)
+1254,Saybrook Colony
+1255,Medang Kingdom
+1256,Sur Empire
+1257,Republic of Alba
+1258,Transpadane Republic
+1259,Republic of Crema
+1260,Anconine Republic
+1261,Tiberina Republic
+1262,Bolognese Republic
+1263,First Republic of South Korea
+1264,Japanese occupation of Singapore
+1265,People's Republic of Korea
+1266,Kingdom of Valencia
+1267,Kingdom of Jimma
+1268,Anga
+1269,Principality of Orange
+1270,Dotawo
+1271,International Naturist Federation
+1272,Ghurid Dynasty
+1273,Lanfang Republic
+1274,Duchy of Magdeburg
+1275,"Northern Region, Nigeria"
+1276,United States Army Military Government in Korea
+1277,Hatay State
+1278,Kingdom of Gera
+1279,Kingdom of Gomma
+1280,Sundgau
+1281,Hohenlohe
+1282,Kingdom of Gumma
+1283,Limmu-Ennarea
+1284,Kingdom of Garo
+1285,Kingdom of Janjero
+1286,Kingdom of Kaffa
+1287,Yamatai
+1288,Wurmbrand-Stuppach
+1289,People's Republic of Bulgaria
+1290,Supreme Council for National Reconstruction
+1291,Second Republic of South Korea
+1292,Emirate of Nejd
+1293,Third Republic of South Korea
+1294,Fourth Republic of South Korea
+1295,Fifth Republic of South Korea
+1296,4th of August Regime
+1297,Republic of Lucca
+1298,County of Hoya
+1299,Azerbaijan Democratic Republic
+1300,Kingdom of Loango
+1301,Rheingau
+1302,Soviet Republic of Naissaar
+1303,Old Saxony
+1304,Bhutan
+1305,Werden Abbey
+1306,Despotate of the Morea
+1307,Barotseland
+1308,Mutawakkilite Kingdom of Yemen
+1309,Second Republic of Venezuela
+1310,Mountainous Republic of the Northern Caucasus
+1311,Kingdom of Mapungubwe
+1312,Kingdom of Redonda
+1313,Panchala
+1314,First Republic of Austria
+1315,Sikh Empire
+1316,Reddy dynasty
+1317,Aztec Triple Alliance
+1318,Elymais
+1319,Balkan Pact
+1320,Qi (Five Dynasties)
+1321,Ifat Sultanate
+1322,Anhalt-Bernburg
+1323,Hohenzollern-Hechingen
+1324,Jaintia Kingdom
+1325,Saxe-Hildburghausen
+1326,Saxe-Coburg-Saalfeld
+1327,United Provinces of Central Italy
+1328,Nawabs of Bengal and Murshidabad
+1329,Adamawa Emirate
+1330,Saxe-Lauenburg
+1331,Nobatia
+1332,First Portuguese Republic
+1333,Aden Protectorate
+1334,Colony of Aden
+1335,Kingdom of Serbia
+1336,Riograndense Republic
+1337,County of Horne
+1338,Pyu city-states
+1339,Tyrconnell
+1340,North Ingria
+1341,Senarica
+1342,Kamarupa
+1343,Principality of Grubenhagen
+1344,United States of Belgium
+1345,Darvaz (region)
+1346,Ba (state)
+1347,Sultanate of Lahej
+1348,Federation of Arab Emirates of the South
+1349,Protectorate of South Arabia
+1350,Kolathunadu
+1351,Pskov Republic
+1352,Kingdom of Imereti
+1353,Kingdom of France
+1354,Hotaki dynasty
+1355,Wattasid dynasty
+1356,Republic of Spanish Haiti
+1357,Republic of Maryland
+1358,Area code 246
+1359,Khanate of Khiva
+1360,Komi Autonomous Soviet Socialist Republic
+1361,Shu (state)
+1362,Tell Leilan
+1363,Serbian Despotate
+1364,Principality of Serbia
+1365,Lower Lorraine
+1366,Chera Dynasty
+1367,Principality of Catalonia
+1368,Former Shu
+1369,Later Jin Dynasty
+1370,Rai Dynasty
+1371,Second Bulgarian Empire
+1372,First Bulgarian Empire
+1373,Subalpine Republic
+1374,Chawda dynasty
+1375,Socialist Republic of Croatia
+1376,Kingdom of Hejaz
+1377,Kingdom of Greece
+1378,Ostrogothic Kingdom
+1379,Serbian-Hungarian Baranya-Baja Republic
+1380,Margraviate of Baden
+1381,Kingdom of Arles
+1382,Austrian Littoral
+1383,United States of Colombia
+1384,Saxe-Weimar
+1385,Hadiya Kingdom
+1386,Republic of Ragusa
+1387,Allied-occupied Germany
+1388,Swedish overseas colonies
+1389,Emirate of Bukhara
+1390,Khanate of Bukhara
+1391,Darul Islam (Indonesia)
+1392,Energy Community
+1393,Dai (Sixteen Kingdoms)
+1394,Kakuyids
+1395,Dian Kingdom
+1396,Principality of Chernigov
+1397,Kingdom of Bavaria
+1398,History of Mahdist Sudan
+1399,Onattukara
+1400,Gyaaman
+1401,Democratic Republic of Armenia
+1402,Bhopal State
+1403,National Coalition Government of the Union of Burma
+1404,Western Satraps
+1405,Kabul Shahi
+1406,Rashtrakuta Dynasty
+1407,Chola dynasty
+1408,Kingdom of Ossory
+1409,Kingdom of Croatia-Slavonia
+1410,Saxe-Eisenach
+1411,Republic of Mainz
+1412,Bornu Empire
+1413,Free State of Fiume
+1414,Ditadura Nacional
+1415,Reichskommissariat Ukraine
+1416,Jalayirid Sultanate
+1417,Powys Fadog
+1418,Powys Wenwynwyn
+1419,Reichskommissariat Moskowien
+1420,Reichskommissariat Kaukasus
+1421,Duchy of Swabia
+1422,Belarusian Central Rada
+1423,Kingdom of Kongo
+1424,Margraviate of Meissen
+1425,Spanish East Indies
+1426,Shan States
+1427,Belgian colonial empire
+1428,Kingdom of Montenegro
+1429,First Republic of Venezuela
+1430,Coalition Government of Democratic Kampuchea
+1431,Shaddadids
+1432,Kingdom of Galicia
+1433,Suebic Kingdom of Galicia
+1434,Parliamentary Assembly of the Organization for Security and Co-operation in Europe
+1435,Operation Atlantis
+1436,Dominion of India
+1437,Essequibo (colony)
+1438,Western Wei
+1439,Northern Zhou
+1440,Arab Federation
+1441,ASEAN Summit
+1442,Tell Brak
+1443,British Western Pacific Territories
+1444,Bishopric of Halberstadt
+1445,County of Roussillon
+1446,County of Barcelona
+1447,Danish India
+1448,Kahlur
+1449,Tuyuhun Kingdom
+1450,Vakataka dynasty
+1451,United States
+1452,Grand Duchy of Oldenburg
+1453,Republic of Kosova
+1454,Tarkhan Dynasty
+1455,West Francia
+1456,Western Ganga Dynasty
+1457,Arghun Dynasty
+1458,Samma Dynasty
+1459,Burgraviate of Nuremberg
+1460,Burtscheid Abbey
+1461,"Goa, Daman and Diu"
+1462,Pacific Union
+1463,Ouaddai Empire
+1464,Malaysia
+1465,People's Revolutionary Government (Grenada)
+1466,Kingdom of Bulgaria
+1467,Principality of Bulgaria
+1468,Ottobeuren Abbey
+1469,Pagaruyung Kingdom
+1470,Petershausen Abbey
+1471,Comburg
+1472,St. Emmeram's Abbey
+1473,British Solomon Islands
+1474,French Chad
+1475,"Alids of Tabaristan, Daylam and Gilan"
+1476,Dominion of Pakistan
+1477,Polish National Government (January Uprising)
+1478,Territory of New Guinea
+1479,Brycheiniog
+1480,Irsee Abbey
+1481,Middle Francia
+1482,Aro Confederacy
+1483,Mari Autonomous Soviet Socialist Republic
+1484,Tuvan Autonomous Oblast
+1485,Chuvash Autonomous Oblast
+1486,Dominion of Fiji
+1487,Principality of Montenegro
+1488,St. Ludger's Abbey
+1489,Single Euro Payments Area
+1490,Bishopric of Trent
+1491,United Suvadive Republic
+1492,Duchy of Amalfi
+1493,Eshnunna
+1494,Captaincy General of Guatemala
+1495,Captaincy General of the Philippines
+1496,Lands of the Crown of Saint Stephen
+1497,Cherokee Nation
+1498,Neresheim Abbey
+1499,Restoration and Regeneration (Switzerland)
+1500,League of the Ten Jurisdictions
+1501,Grey League
+1502,Three Leagues
+1503,Swat (princely state)
+1504,County of Veldenz
+1505,Bulgarian Empire
+1506,Palatinate-Neuburg
+1507,House of Nassau-Weilburg
+1508,Talysh-Mughan Autonomous Republic
+1509,"Michaelsberg Abbey, Siegburg"
+1510,Mexico
+1511,Chitral (princely state)
+1512,Tulunids
+1513,Weingarten Abbey
+1514,British rule in Burma
+1515,Baku Khanate
+1516,History of Laos to 1945
+1517,Varman dynasty
+1518,Danava dynasty
+1519,Mlechchha dynasty
+1520,Pala dynasty (Kamarupa)
+1521,Emirate of Sicily
+1522,Wei (Dingling)
+1523,Gorizia and Gradisca
+1524,Abbey of Saint Peter in the Black Forest
+1525,Jaffna kingdom
+1526,Kingdom of Abkhazia
+1527,Yogyakarta Sultanate
+1528,Palmyrene Empire
+1529,East Bengal
+1530,British Arctic Territories
+1531,"United Kingdom of Portugal, Brazil and the Algarves"
+1532,Republic of Alba (1944)
+1533,Colony of Vancouver Island
+1534,Reformed Government of the Republic of China
+1535,British Raj
+1536,Dutch Gold Coast
+1537,Khen dynasty
+1538,Kingdom of Pajang
+1539,Koch dynasty
+1540,Kachari Kingdom
+1541,Sultanate of Maguindanao
+1542,Tamilakam
+1543,Italian Regency of Carnaro
+1544,Kuru Kingdom
+1545,Panchala Kingdom (Mahabharata)
+1546,Teng (state)
+1547,Kosala Kingdom
+1548,Videha
+1549,Chedi Kingdom
+1550,Gandhara Kingdom
+1551,Vidarbha Kingdom
+1552,Thanjavur Nayak kingdom
+1553,Principality of Polotsk
+1554,Britannic Empire
+1555,Bishopric of Brixen
+1556,Naraka dynasty
+1557,Vishnukundina
+1558,Mushika Kingdom
+1559,Huan Xuan
+1560,Maukhari
+1561,Parthian Empire
+1562,Mondsee Abbey
+1563,Talysh Khanate
+1564,Medieval Cholas
+1565,British America
+1566,Danish Gold Coast
+1567,Thonburi Kingdom
+1568,Ganja khanate
+1569,Shaki Khanate
+1570,Duchy of Brabant
+1571,Dutch Bengal
+1572,Eastern Chalukyas
+1573,Nassau-Siegen
+1574,Dutch Brazil
+1575,Shirvan Khanate
+1576,Misl
+1577,Republic of Bosnia and Herzegovina
+1578,Wettenhausen Abbey
+1579,Nakhichevan Khanate
+1580,Ellwangen Abbey
+1581,Australia
+1582,Buchau Abbey
+1583,Elchingen Abbey
+1584,Provisional Government of the French Republic
+1585,Brandenburger Gold Coast
+1586,Crown of Castile
+1587,Swedish Gold Coast
+1588,Portuguese Gold Coast
+1589,Catalan Republic
+1590,Kurdistan Uyezd
+1591,"Japanese occupation of Malaya, North Borneo and Sarawak"
+1592,Empire of Vietnam
+1593,Erivan Khanate
+1594,Republic of Pisa
+1595,Western Chalukya Empire
+1596,Disentis Abbey
+1597,New Zealand
+1598,British Windward Islands
+1599,Baltic Assembly
+1600,Marquisate of Saluzzo
+1601,Minyue
+1602,Buxheim Charterhouse
+1603,Free Territory
+1604,Territory of the Military Commander in Serbia
+1605,Beylik of Teke
+1606,Eshrefids
+1607,Dulkadirids
+1608,Kazakh Khanate
+1609,Military Administration in France (Nazi Germany)
+1610,Cuba
+1611,Canada
+1612,Sweden
+1613,History of Libya under Muammar Gaddafi
+1614,Principality of Theodoro
+1615,Second Spanish Republic
+1616,Neo-Babylonian Empire
+1617,Croatian Republic of Herzeg-Bosnia
+1618,Duchy of Nassau
+1619,State of Muskogee
+1620,Principality of Trubetsk
+1621,Ahom kingdom
+1622,People's Republic of Hungary
+1623,Song (state)
+1624,Bishopric of Strasbourg
+1625,Chechen Republic of Ichkeria
+1626,Baindt Abbey
+1627,Ochsenhausen Abbey
+1628,Walkenried Abbey
+1629,Gengenbach Abbey
+1630,Gutenzell Abbey
+1631,Salem Abbey
+1632,"St. Maximin's Abbey, Trier"
+1633,Kwantlen First Nation
+1634,Kaisheim Abbey
+1635,Kingdom of Finland (1918)
+1636,Frauenchiemsee
+1637,Islamic Courts Union
+1638,Electorate of Trier
+1639,Saudeleur Dynasty
+1640,Transitional Federal Government
+1641,Kingdom of Syrmia
+1642,Waldsassen Abbey
+1643,Weissenau Abbey
+1644,Hersfeld Abbey
+1645,Republic of North Peru
+1646,Schussenried Abbey
+1647,Bishopric of Metz
+1648,Bishopric of Verdun
+1649,SAO Romanija
+1650,SAO Western Slavonia
+1651,Republic of South Peru
+1652,Administration for Western Armenia
+1653,State of Katanga
+1654,Ancient Diocese of Toul
+1655,State of Somaliland
+1656,Operational Zone of the Alpine Foothills
+1657,Kaabu
+1658,Duchy of Luxembourg
+1659,Empire of Great Fulo
+1660,Conference on Interaction and Confidence-Building Measures in Asia
+1661,Rauracian Republic
+1662,Duchy of Urbino
+1663,United States Civil Administration of the Ryukyu Islands
+1664,First Philippine Republic
+1665,Dominion of Melchizedek
+1666,Bishopric of Regensburg
+1667,Uyghur Khaganate
+1668,Kingdom of Lithuania
+1669,Bishopric of Ratzeburg
+1670,Mossi Kingdoms
+1671,Transitional National Government
+1672,Aussa Sultanate
+1673,Aerican Empire
+1674,France
+1675,Landgraviate of Brabant
+1676,Sassanid Empire
+1677,Kedah Sultanate
+1678,Republic of Cabinda
+1679,Post-war Singapore
+1680,County of Hanau
+1681,Chi Tu
+1682,Avar Khanate
+1683,Sarir
+1684,Vaghela dynasty
+1685,United States of the Ionian Islands
+1686,Duchy of Florence
+1687,Republic of Siena
+1688,Duchy of Ferrara
+1689,People's Republic of Benin
+1690,Government of the Autonomous Republic of Abkhazia
+1691,Keladi Nayaka
+1692,Haryanka dynasty
+1693,County of Ravensberg
+1694,Provisional Government of Saskatchewan
+1695,County of Geneva
+1696,Grand Duchy of Mecklenburg-Schwerin
+1697,Orange River Sovereignty
+1698,Malagasy Protectorate
+1699,Saxe-Jena
+1700,Republic of German-Austria
+1701,Jabal Druze State
+1702,Colony of Natal
+1703,Electorate of Saxony
+1704,Duchy of Austria
+1705,Archduchy of Austria
+1706,County of Tyrol
+1707,Republic of Aras
+1708,Japanese occupation of Indonesia
+1709,Commune of the Working People of Estonia
+1710,Kingdom of Commagene
+1711,Satrapy of Armenia
+1712,Provisional National Government of the Southwestern Caucasus
+1713,Janggala
+1714,Bishopric of Lebus
+1715,Tlaxcala (Nahua state)
+1716,Sajids
+1717,Pagan Kingdom
+1718,Mississippi in the American Civil War
+1719,Texas in the American Civil War
+1720,Kingdom of Breifne
+1721,Adjar Autonomous Soviet Socialist Republic
+1722,Giudicato of Arborea
+1723,Old Swiss Confederacy
+1724,Giudicato of Logudoro
+1725,Tarascan state
+1726,Spanish West Indies
+1727,Mughan Soviet Republic
+1728,Couto Misto
+1729,County of Luxembourg
+1730,Republic of Molossia
+1731,Zapotec civilization
+1732,Captaincy General of Venezuela
+1733,Bishopric of Constance
+1734,East Hebei Autonomous Council
+1735,Duchy of Neopatria
+1736,Oman proper
+1737,Labin Republic
+1738,Hungarian Democratic Republic
+1739,Denkyira
+1740,Grand Duchy of Mecklenburg-Strelitz
+1741,Banu Ilyas
+1742,Republic of Negros
+1743,Aceh Sultanate
+1744,Ajuran Sultanate
+1745,Sultanate of Zanzibar
+1746,Bidar Sultanate
+1747,Gujarat Sultanate
+1748,Provisional Government of Western Thrace
+1749,Nieuwe Republiek
+1750,Imamate of Futa Toro
+1751,Western Turkic Khaganate
+1752,Imamate of Futa Jallon
+1753,Kingdom of Gwent
+1754,Democratic Kampuchea
+1755,Kingdom of Sarawak
+1756,Duchy of Saxe-Wittenberg
+1757,Byzantine Armenia
+1758,Kingdom of Dyfed
+1759,Kong Empire
+1760,County of Oldenburg
+1761,Kingdom of Georgia
+1762,Mankessim Kingdom
+1763,Thinite Confederacy
+1764,Reuss-Ebersdorf
+1765,Reuss-Lobenstein
+1766,Saxe-Gotha-Altenburg
+1767,Free City of Frankfurt
+1768,Grand Duchy of Hesse
+1769,Grand Duchy of Berg
+1770,Syria
+1771,Kuwait
+1772,Iraq
+1773,Jordan
+1774,Madurai Sultanate
+1775,Principality of Outer Baldonia
+1776,Falkland Islands
+1777,Moghulistan
+1778,Ptolemaic Kingdom
+1779,Gibraltar
+1780,Principality of Anhalt-Aschersleben
+1781,Later Han Dynasty (Five Dynasties)
+1782,Later Zhou Dynasty
+1783,Dendi Kingdom
+1784,Republic of Lower Canada
+1785,Republic of Mountainous Armenia
+1786,Later Balhae
+1787,Italian Aegean Islands
+1788,State of Bahrain
+1789,Cascadia (independence movement)
+1790,Yin (Ten Kingdoms)
+1791,Yan (Five Dynasties)
+1792,Second Philippine Republic
+1793,Kingdom of the Lombards
+1794,Duchy of Vasconia
+1795,Great Perm
+1796,Egypt
+1797,Rwenzururu region
+1798,Duchy of Salzburg
+1799,Duchy of Holstein
+1800,Republic of Saugeais
+1801,Kingdom of Pontus
+1802,Shun Dynasty
+1803,Margraviate of Brandenburg
+1804,Territory of Papua and New Guinea
+1805,Qatar
+1806,Centrocaspian Dictatorship
+1807,Principality of Anhalt
+1808,Kingdom of Livonia
+1809,Sultanate of Hobyo
+1810,Bishopric of Courland
+1811,Bishopric of Merseburg
+1812,Dutch Malacca
+1813,Portuguese Malacca
+1814,Straits Settlement of Malacca
+1815,Sallarid dynasty
+1816,Principality of Ryazan
+1817,Kingdom of Lori
+1818,First Czechoslovak Republic
+1819,Tsardom of Russia
+1820,Bishopric of Minden
+1821,People's Republic of the Congo
+1822,Banten Sultanate
+1823,Taungoo Dynasty
+1824,Landgraviate of Hesse-Darmstadt
+1825,Landgraviate of Hesse
+1826,Rashidun Caliphate
+1827,International Association of the Congo
+1828,Malagasy Republic
+1829,Galmudug
+1830,Talossa
+1831,Ay kingdom
+1832,Pridnestrovian Moldavian Soviet Socialist Republic
+1833,Provisional All-Russian Government
+1834,State of Burma
+1835,Alaiye
+1836,Emergency Government of the Republic of Indonesia
+1837,British Military Administration (Malaya)
+1838,Hokuzan
+1839,Principality of Hungary
+1840,Federation of Ethiopia and Eritrea
+1841,Dutch period in Ceylon
+1842,Provisional Military Dictatorship of Mughan
+1843,Saxe-Marksuhl
+1844,British Ceylon
+1845,Chuban
+1846,Gajapati Kingdom
+1847,Electorate of Bavaria
+1848,Provisional Government of the Algerian Republic
+1849,March of Montferrat
+1850,Murbach Abbey
+1851,Nineveh plains
+1852,United Provinces of New Granada
+1853,Republic of New Granada
+1854,Principality of Kiev
+1855,Granadine Confederation
+1856,March of Tuscany
+1857,Second Hellenic Republic
+1858,Socialist Soviet Republic of Abkhazia
+1859,Rhodanic Republic
+1860,Republic of Brescia
+1861,List of Solesvara temples
+1862,Margraviate of Landsberg
+1863,Essen Abbey
+1864,Berchtesgaden Provostry
+1865,"Marmoutier Abbey, Alsace"
+1866,Schuttern Abbey
+1867,St. Ulrich's and St. Afra's Abbey (Augsburg)
+1868,Giudicato of Cagliari
+1869,Israel
+1870,Giudicato of Gallura
+1871,House of Henneberg
+1872,Colonial Nigeria
+1873,Kingdom of Portugal
+1874,Principality of Aschaffenburg
+1875,Ursberg Abbey
+1876,Bavaria-Ingolstadt
+1877,Helmarshausen Abbey
+1878,Republic of Mirdita
+1879,Collectivity of Saint Martin
+1880,Sint Maarten
+1881,Kingdom of Egypt
+1882,Ethiopian Empire
+1883,Werle
+1884,Nanzan
+1885,Moravian Serbia
+1886,First Hellenic Republic
+1887,Rhenish Republic
+1888,Fujian People's Government
+1889,Tsardom of Vidin
+1890,Kingdom of Italy
+1891,United Nations Transitional Authority in Cambodia
+1892,Kingdom of Libya
+1893,Alash Orda
+1894,Beylik of Tunis
+1895,Turgesh
+1896,Cyme (Aeolis)
+1897,Provisional Government of Oregon
+1898,Lemko Republic
+1899,Schaesberg
+1900,"Rheda, Germany"
+1901,Kantipur
+1902,Principality of Lippe
+1903,Principality of Reuss-Greiz
+1904,Demak Sultanate
+1905,Komancza Republic
+1906,Principality of Anhalt-Zerbst
+1907,Principality of Anhalt-Dornburg
+1908,Duchy of Mirandola
+1909,Singranatore family
+1910,African Union
+1911,Bavand Dynasty
+1912,Principality of Guria
+1913,Memleben Abbey
+1914,People's Socialist Republic of Albania
+1915,Albanian Republic
+1916,Herrenalb Abbey
+1917,Areopagus of Eastern Continental Greece
+1918,Kingdom of Lithuania (1918)
+1919,Prince-Bishopric of Bamberg
+1920,Liga Federal
+1921,Political Committee of National Liberation
+1922,Provisional Democratic Government
+1923,Principality of Albania
+1924,Kingdom of Haiti
+1925,Heung-yo kingdom
+1926,Armenia
+1927,State of Haiti
+1928,First Empire of Haiti
+1929,Duchy of Courland and Semigallia (1918)
+1930,Kanem Empire
+1931,Huitzilopochco
+1932,Free City of Danzig (Napoleonic)
+1933,Free State Bottleneck
+1934,Tarumanagara
+1935,Triarchy of Negroponte
+1936,Turkey
+1937,Allied-occupied Austria
+1938,Yanaon
+1939,Eastern Hungarian Kingdom
+1940,Duchies of Silesia
+1941,Sultanate of Sambas
+1942,Bavaria-Landshut
+1943,Gran Colombia
+1944,Gold Coast (region)
+1945,Kingdom of Elleore
+1946,Kingdom of Kandy
+1947,Odessa Soviet Republic
+1948,Principality of Piombino
+1949,March of Austria
+1950,Eastern Turkic Khaganate
+1951,Zamorin of Calicut
+1952,Bruneian Empire
+1953,Albania (satrapy)
+1954,County of Guastalla
+1955,Yenisei Kirghiz
+1956,Duchy of Zator
+1957,Duchy of Bytom
+1958,March of Lusatia
+1959,Eretnids
+1960,Chobanids (beylik)
+1961,Ostikanate of Arminiya
+1962,March of the Nordgau
+1963,Republic of Sonora
+1964,Trans-Oconee Republic
+1965,Duchy of Styria
+1966,Danish Realm
+1967,Visigothic Kingdom
+1968,New Utopia
+1969,Qi (Henan)
+1970,Marchtal Abbey
+1971,Kingdom of Iceland
+1972,SaarLorLux
+1973,Kingdom of Croatia (Habsburg)
+1974,Dominica
+1975,Banu Ifran
+1976,Selz Abbey
+1977,Latvian Socialist Soviet Republic
+1978,Provisional Priamurye Government
+1979,Glywysing
+1980,Republic of Tarnobrzeg
+1981,County of Eberstein
+1982,Bishopric of Havelberg
+1983,Maakhir
+1984,Byzantine Empire under the Komnenos dynasty
+1985,Free Imperial City of Ulm
+1986,Waldburg-Sonnenburg
+1987,Waldburg-Trauchburg
+1988,Waldburg-Capustigall
+1989,Waldburg-Friedburg-Scheer
+1990,Waldburg-Scheer
+1991,Waldburg-Wolfegg-Zeil
+1992,Waldburg-Waldburg
+1993,Waldburg-Wolfegg
+1994,Byzantine Empire under the Palaiologos dynasty
+1995,Roggenburg Abbey
+1996,County of Zeeland
+1997,Kingdom of Cusco
+1998,Kingdom of Rarotonga
+1999,Trust Territory of Somalia
+2000,Ashanti Empire
+2001,Heggbach Abbey
+2002,Arab Monetary Fund
+2003,Dominion of Ceylon
+2004,Little Goguryeo
+2005,Kuban People's Republic
+2006,Emirate of Trarza
+2007,Commemorative coins of Poland
+2008,Dharmasraya
+2009,Neo-Assyrian Empire
+2010,Electorate of Baden
+2011,Haestingas
+2012,Lord of Glamorgan
+2013,Alania
+2014,Kingdom of Ceredigion
+2015,Afghan Interim Administration
+2016,Kingdom of Kakheti
+2017,Lordship of Gower
+2018,County of Sargans
+2019,Wolfstein (principality)
+2020,British Leeward Islands
+2021,Kingdom of Sophene
+2022,Anhalt-Bernburg-Schaumburg-Hoym
+2023,Anhalt-Harzgerode
+2024,Great Seljuq Empire
+2025,Old Assyrian Empire
+2026,Principality of Mingrelia
+2027,An der Etsch
+2028,Byzantine Empire under the Angelos dynasty
+2029,Byzantine Empire under the Heraclian dynasty
+2030,County of Schaumburg
+2031,Sultanate of Deli
+2032,Imperial County of Rantzau
+2033,Classical Athens
+2034,Habsburg Netherlands
+2035,Jeong-an kingdom
+2036,Wari Empire
+2037,Tsardom of Bulgaria
+2038,Kingdom of Brazil
+2039,County of Regenstein
+2040,Mamluk rule in Iraq
+2041,County of Beilstein
+2042,Quedlinburg Abbey
+2043,People's Republic of Kampuchea
+2044,"St. George's Abbey, Isny"
+2045,Abyei
+2046,Byzantine Empire under the Isaurian dynasty
+2047,Byzantine Empire under the Macedonian dynasty
+2048,Lindau Abbey
+2049,Nienburg Abbey
+2050,County of Katzenelnbogen
+2051,Falkland Islands Dependencies
+2052,Italian Libya
+2053,County of Blankenburg
+2054,Alash Autonomy
+2055,Republic of Zamboanga
+2056,Rot an der Rot Abbey
+2057,Juliana Republic
+2058,Gandersheim Abbey
+2059,Herford Abbey
+2060,Autonomous Government of Khorasan
+2061,Remiremont Abbey
+2062,Starhemberg
+2063,Kingdom of Nri
+2064,Eastern Ganga dynasty
+2065,Piemare
+2066,Bandava
+2067,Hamaland
+2068,Pale of Calais
+2069,County of Tecklenburg
+2070,Darfur Regional Authority
+2071,Emirate of Afghanistan
+2072,County of Baden
+2073,Republic of Bouillon
+2074,Principate of Iberia
+2075,Kingdom of Middag
+2076,Prince-Bishopric of Basel
+2077,Nurmekund
+2078,International Authority for the Ruhr
+2079,Alempois
+2080,Zulu Kingdom
+2081,Turkic Khaganate
+2082,Prince-Bishopric of Paderborn
+2083,Bishopric of Hildesheim
+2084,Royal Lao Government in Exile
+2085,Second Czechoslovak Republic
+2086,Reichskommissariat Niederlande
+2087,Prince-Bishopric of Augsburg
+2088,Principality of Koknese
+2089,Metsepole
+2090,Cai (state)
+2091,Vannimai
+2092,Reichskommissariat Norwegen
+2093,Military Administration in Belgium and Northern France
+2094,Thanjavur Maratha kingdom
+2095,Republic of Lakotah
+2096,Avatele
+2097,Duchy of Oels
+2098,"Franceville, New Hebrides"
+2099,Duchy of Legnica
+2100,Seniorate Province
+2101,Duchy of Brzeg
+2102,Duchy of Nysa
+2103,Taifa of Seville
+2104,County of Santa Fiora
+2105,Duchy of Troppau
+2106,Oghuz Yabgu State
+2107,Kirghiz Soviet Socialist Republic
+2108,People's Republic of Angola
+2109,Justanids
+2110,Mihrabanids
+2111,Taifa of Granada
+2112,Duchy of Castro
+2113,Sunda Kingdom
+2114,Governorate of Dalmatia
+2115,Sultanate of Cirebon
+2116,United Nations Temporary Executive Authority
+2117,Bosnia and Herzegovina in Austria-Hungary
+2118,Dutch Loango-Angola
+2119,Corsican Republic
+2120,Cretan State
+2121,Reconquest (Chile)
+2122,Kwararafa
+2123,Bessarabia Governorate
+2124,Sultanate of Nejd
+2125,Galuh Kingdom
+2126,Kingdom of East Anglia
+2127,International Cable Protection Committee
+2128,Government of National Unity (Hungary)
+2129,Xinjiang clique
+2130,Middle Saxons
+2131,Principality of Novgorod-Seversk
+2132,Principality of Pereyaslavl
+2133,Saxe-Weissenfels
+2134,Principality of Smolensk
+2135,Principality of Murom
+2136,Autonomous Province of Kosovo and Metohija
+2137,K'iche' Kingdom of Q'umarkaj
+2138,Republic of Prekmurje
+2139,Italian Tripolitania
+2140,Bureau of Ghana Languages
+2141,Italian Cyrenaica
+2142,People's Republic of Mozambique
+2143,State of Malta
+2144,French Dahomey
+2145,Republic of Dahomey
+2146,Ancient Corinth
+2147,Euro gold and silver commemorative coins
+2148,State of Aleppo
+2149,Spanish Republican government in exile
+2150,Czechoslovak government-in-exile
+2151,State of Damascus
+2152,Provisional Administrative Entity of South Ossetia
+2153,Cricket Samoa
+2154,Coixtlahuaca
+2155,Kingdom of Vikesland
+2156,Principality of Trinidad
+2157,County of Sicily
+2158,Azcapotzalco (altepetl)
+2159,Euro gold and silver commemorative coins (Belgium)
+2160,Tanganyika Territory
+2161,Euro gold and silver commemorative coins (Ireland)
+2162,Duchy of Opole
+2163,Euro gold and silver commemorative coins (France)
+2164,Azadistan
+2165,Kingdom of Armenia (Middle Ages)
+2166,Euro gold and silver commemorative coins (Finland)
+2167,Byzantine Empire
+2168,Islands of Refreshment
+2169,Euro gold and silver commemorative coins (Spain)
+2170,Democratic Republic of Madagascar
+2171,Djibouti
+2172,Guatemala
+2173,Eritrea
+2174,Faroe Islands
+2175,Grenada
+2176,Guyana
+2177,Kingdom of Sikkim
+2178,Euro gold and silver commemorative coins (Cyprus)
+2179,Euro gold and silver commemorative coins (Malta)
+2180,Euro gold and silver commemorative coins (Slovenia)
+2181,South Africa
+2182,Captaincy General of Santo Domingo
+2183,Haitian occupation of Santo Domingo
+2184,Principality of Salm
+2185,Republic of the North Solomons
+2186,Republic of Acre
+2187,Kammanu
+2188,Tlatelolco (altepetl)
+2189,County of Sponheim
+2190,Euro gold and silver commemorative coins (Germany)
+2191,Torres Strait Regional Authority
+2192,Crimean People's Republic
+2193,Frankfurt Constitution
+2194,Anglo-Corsican Kingdom
+2195,Don Republic
+2196,History of the Roman Empire
+2197,Euro gold and silver commemorative coins (Luxembourg)
+2198,Euro gold and silver commemorative coins (San Marino)
+2199,Captaincy General of Puerto Rico
+2200,Euro gold and silver commemorative coins (Vatican)
+2201,Italian Trans-Juba
+2202,Republic of Cospaia
+2203,Occupation of Mongolia
+2204,Mahameghavahana dynasty
+2205,Principality of Erfurt
+2206,Kingdom of Sitawaka
+2207,International Committee on Intellectual Cooperation
+2208,Electorate of Salzburg
+2209,Paramara dynasty
+2210,Cook Islands Federation
+2211,Captaincy General of Cuba
+2212,Colonial Mauritania
+2213,Yotvingia
+2214,Grand Duchy of the Lagoan Isles
+2215,Dominion of British West Florida
+2216,EUCLID (university)
+2217,County of Stolberg
+2218,County of Wernigerode
+2219,Merina Kingdom
+2220,Akhzivland
+2221,Mauritania
+2222,Euro gold and silver commemorative coins (Slovakia)
+2223,Provincias Internas
+2224,Bahrain
+2225,Abkhazia
+2226,Bouvet Island
+2227,Italian Empire
+2228,Kingdom of the Netherlands
+2229,British Indian Ocean Territory
+2230,Argentina
+2231,Sultanate of Egypt
+2232,Khedivate of Egypt
+2233,Ascension Island
+2234,Cape Verde
+2235,East Timor
+2236,Emirate of Granada
+2237,Taifa of Zaragoza
+2238,Pudukkottai state
+2239,CEN 1789
+2240,Taifa of Algeciras
+2241,Taifa of Alpuente
+2242,Taifa of Arcos
+2243,Taifa of Baeza
+2244,Taifa of Carmona
+2245,Taifa of Guadix and Baza
+2246,Taifa of Lisbon
+2247,Taifa of Menorca
+2248,Taifa of Molina
+2249,Taifa of Murviedro and Sagunto
+2250,Taifa of Orihuela
+2251,Taifa of Ronda
+2252,Taifa of Santa Maria do Algarve
+2253,Taifa of Tejada
+2254,Taifa of Toledo
+2255,Taifa of Arjona
+2256,Taifa of Constantina and Hornachuelos
+2257,Kingdom of the Canary Islands
+2258,Spanish Formosa
+2259,Taifa of Valencia
+2260,Taifa of Jerez
+2261,Taifa of Silves
+2262,Taifa of Niebla
+2263,Spanish occupation of the Dominican Republic
+2264,Middle Assyrian Empire
+2265,Kingdom of Namayan
+2266,Phagmodrupa Dynasty
+2267,Governorate of New Castile
+2268,Independent Macedonia (1944)
+2269,Republic of the Congo
+2270,Kenya Colony
+2271,Yuan Dynasty
+2272,Sultanate of Darfur
+2273,Bulgarian government-in-exile
+2274,Duchy of Guastalla
+2275,Euro gold and silver commemorative coins (Greece)
+2276,Lordship of Anholt
+2277,Despotate of Arta
+2278,Despotate of Angelokastron and Lepanto
+2279,Lordship of Berat
+2280,Principality of Kastrioti
+2281,Principality of Arbanon
+2282,Princedom of Albania
+2283,African Free Trade Zone
+2284,Kingdom of Nejd and Hejaz
+2285,Free Republic of Wendland
+2286,Pashalik of Scutari
+2287,County of Rietberg
+2288,County of East Frisia
+2289,Pashalik of Berat
+2290,Republic of San Marco
+2291,Tibetan Empire
+2292,British occupation of Manila
+2293,Kingdom of Butuan
+2294,Rinpungpa
+2295,Tsangpa
+2296,Euro gold and silver commemorative coins (Monaco)
+2297,Hispania
+2298,Vichy France
+2299,Autonomous Republic of Northern Epirus
+2300,Kingdom of Aksum
+2301,American Samoa
+2302,Russian Empire
+2303,Northern Yuan Dynasty
+2304,Federation of Rhodesia and Nyasaland
+2305,Ancient Carthage
+2306,Afrighids
+2307,Ma'munids
+2308,Khamag Mongol
+2309,Mamluk Sultanate (Cairo)
+2310,Sutiya Kingdom
+2311,Grand Duchy of Westarctica
+2312,Republic of Ukraine
+2313,Xianbei state
+2314,CISFTA
+2315,Ahmadnagar Sultanate
+2316,Principality of Samos
+2317,Adriatic Euroregion
+2318,Ghana Empire
+2319,Swedish Empire
+2320,Commonwealth of Nations
+2321,Bavaria-Munich
+2322,Republic of Biak-na-Bato
+2323,Ramnad estate
+2324,Principality of Jersika
+2325,Saxe-Eisenberg
+2326,Saxe-Saalfeld
+2327,Kingdom of Wallachia
+2328,First French Empire
+2329,Taiping Heavenly Kingdom
+2330,Isenburg-Limburg
+2331,Subanon people
+2332,Grand Duchy of Moscow
+2333,Rus' Khaganate
+2334,Kievan Rus'
+2335,Kingdom of the Two Sicilies
+2336,Kingdom of Sardinia
+2337,Burundi
+2338,Edom
+2339,Ternate Sultanate
+2340,Sultanate of Tidore
+2341,Kingdom of Artsakh
+2342,Kingdom of Kush
+2343,Nation.1
+2344,Kingdom of Dambadeniya
+2345,European Rental Association
+2346,Pontianak Sultanate
+2347,Sivaganga estate
+2348,Kwikwetlem First Nation
+2349,Urartu
+2350,County of Rieneck
+2351,Sultanate of Bengal
+2352,Principality of Stavelot-Malmedy
+2353,Lavo Kingdom
+2354,Kingdom of Chiangmai
+2355,Military Administration in Poland
+2356,Colony of Niger
+2357,Ngoenyang
+2358,Kingdom of Corsica (1736)
+2359,Taifa of Lorca
+2360,Taifa of Majorca
+2361,Taifa of Tortosa
+2362,Taifa of Purchena
+2363,Taifa of Segura
+2364,Taifa of Tavira
+2365,"Fief of Purmerend, Purmerland and Ilpendam"
+2366,Save Aramoana Campaign
+2367,United Principalities
+2368,Frisian Kingdom
+2369,Duchy of Jawor
+2370,Duchy of Krnov
+2371,Four Oirats
+2372,Koinon of the Zagorisians
+2373,International Energy Forum
+2374,Kiautschou Bay concession
+2375,Trucial States
+2376,Kingdom of Scotland
+2377,Habbari dynasty
+2378,Rugiland
+2379,Wirtland (micronation)
+2380,Duchy of Sieradz
+2381,Hutsul Republic
+2382,Kingdom of Hawaii
+2383,Anuradhapura Kingdom
+2384,Dutch East Indies
+2385,Liao Dynasty
+2386,Kingdom of Zimbabwe
+2387,North Vietnam
+2388,Republic of Macedonia
+2389,Kingdom of Kotte
+2390,Japanese occupation of Cambodia
+2391,Civitas Schinesghe
+2392,Mallabhum
+2393,Dervish state
+2394,Colony of Tasmania
+2395,Nordic countries
+2396,Kingdom of Afghanistan
+2397,Maku Khanate
+2398,Deva dynasty
+2399,Principality of Drutsk
+2400,Principality of Turov and Pinsk
+2401,Soomra dynasty
+2402,Avar Khaganate
+2403,O'Kennedy
+2404,Dependencies of Norway
+2405,Queen Maud Land
+2406,Epirus (ancient state)
+2407,Fulda monastery
+2408,Emirate of Crete
+2409,Interim Government of India
+2410,Geledi sultanate
+2411,Southern Court
+2412,Mughal Empire
+2413,Quisling regime
+2414,Republic of Zakopane
+2415,Kingdom of Tambapanni
+2416,Kingdom of Upatissa Nuwara
+2417,Marquisate of Ceva
+2418,"Saint Helena, Ascension and Tristan da Cunha"
+2419,Zhedna
+2420,Portuguese Ceylon
+2421,Turkic Council
+2422,Principality of Lucca and Piombino
+2423,Marquisate of Incisa
+2424,County of Portugal
+2425,Northern Liao
+2426,Russian Soviet Federative Socialist Republic
+2427,Russian Dalian
+2428,Corpus separatum (Fiume)
+2429,Other World Kingdom
+2430,Manava (king)
+2431,Byzantine Empire under the Justinian dynasty
+2432,Byzantium under the Constantinian and Valentinian dynasties
+2433,Kingdom of Dazhou
+2434,Kingdom of Bosnia
+2435,Climate Vulnerable Forum
+2436,Lordship of Prilep
+2437,Principality of Valona
+2438,Principality of Volhynia
+2439,Duchy of Belz
+2440,Myinsaing Kingdom
+2441,Thaton Kingdom
+2442,Ettayapuram estate
+2443,Israeli Civil Administration
+2444,County of Kladsko
+2445,Rajahnate of Cebu
+2446,Pinya Kingdom
+2447,Sagaing Kingdom
+2448,Ava Kingdom
+2449,Kingdom of Syria
+2450,Kingdom of Granada (Crown of Castile)
+2451,Commemorative coins of Bulgaria
+2452,Free and high fief of Zuid-Polsbroek
+2453,Benin Empire
+2454,Principality of Yaroslavl
+2455,Cayenne (Dutch colony)
+2456,Dutch Virgin Islands
+2457,Senegambia (Dutch West India Company)
+2458,Lordship of Biscay
+2459,Second Empire of Haiti
+2460,Republic of Baja California
+2461,Mercosur
+2462,Ror Dynasty
+2463,Dutch Suratte
+2464,Ba'athist Iraq
+2465,North Sea Empire
+2466,Liang (state)
+2467,Eastern Guo
+2468,Western Guo
+2469,Portuguese Angola
+2470,Russian Democratic Federative Republic
+2471,Idrisid Emirate of Asir
+2472,Xu (state)
+2473,Cao (state)
+2474,Shen (state)
+2475,Kingdom of Jolof
+2476,Principality of Nassau-Orange-Fulda
+2477,Principality of Orange-Nassau
+2478,Occupation of the Falkland Islands
+2479,Deng (state)
+2480,Xi (state)
+2481,Principality of Lichtenberg
+2482,Japanese colonialism
+2483,Kingdom of Spain (Napoleonic)
+2484,German South-West Africa
+2485,E (state)
+2486,Estonian Soviet Socialist Republic
+2487,Provisional Government of the People's Republic of Bangladesh
+2488,Vogtei Rheintal
+2489,Austria
+2490,Turkish Federated State of Cyprus
+2491,Eurasian Union
+2492,Dao (state)
+2493,Kazikumukh Shamkhalate
+2494,Nayaks of Gingee
+2495,British Hong Kong
+2496,Riva (Belgariad and Malloreon)
+2497,Hanthawaddy Kingdom
+2498,Provisional People's Committee for North Korea
+2499,Federal State of Austria
+2500,Italian Eritrea
+2501,Restored Hanthawaddy Kingdom
+2502,Republic of Afghanistan
+2503,Garhwal Kingdom
+2504,Kition
+2505,Kazikumukh Khanate
+2506,Republic of Galicia
+2507,Khemed
+2508,People's Republic of Zanzibar and Pemba
+2509,Sharifian Caliphate
+2510,Venezuela Province
+2511,Free Imperial City of Nuremberg
+2512,Estonia
+2513,Free and Independent State of Cundinamarca
+2514,Imperial Ducal Abbey of Kempten
+2515,Sultanate of Siak Sri Indrapura
+2516,Sultanate of Banjar
+2517,Beyliks of Canik
+2518,French protectorate of Tunisia
+2519,Government General of Warsaw
+2520,Senate of Western Continental Greece
+2521,Kano Emirate
+2522,Kingdom of Kano
+2523,Xing (state)
+2524,Ondo Kingdom
+2525,Kingdom of Vientiane
+2526,Kingdom of Luang Phrabang
+2527,Twenty-fifth Dynasty of Egypt
+2528,Crimean Regional Government
+2529,Prome Kingdom
+2530,Ruo (state)
+2531,Liao (state)
+2532,Kingdom of Serbia (medieval)
+2533,Shilluk Kingdom
+2534,Unification of Norway
+2535,Kumul Khanate
+2536,Atabegs of Yazd
+2537,North Caucasian Emirate
+2538,Principality of Wy
+2539,Kalingga
+2540,Revolutionary Serbia
+2541,Democratic Government of Albania
+2542,Sui (state)
+2543,Quan (state)
+2544,Pi (state)
+2545,Government of South Russia
+2546,Lai (state)
+2547,Civic-military dictatorship of Uruguay
+2548,Kingdom of Mrauk U
+2549,Awdalland
+2550,Strandzha Commune
+2551,Reichskommissariat Turkestan
+2552,Republic of Anguilla
+2553,Eastern Xia
+2554,Sambuvaraya
+2555,Dutch Cape Colony
+2556,Kingdom of Tahiti
+2557,Kingdom of Candia
+2558,Euro gold and silver commemorative coins (Estonia)
+2559,Elections in Great Britain
+2560,Republic of Central Albania
+2561,Insular Government of the Philippine Islands
+2562,Zhao (Five Dynasties)
+2563,Phayao Kingdom
+2564,State of Goshen
+2565,Sultanate of Bulungan
+2566,Republic of Kuwait
+2567,Thorn Abbey
+2568,Newfoundland Colony
+2569,Western Samoa Trust Territory
+2570,Kingdom of Vaspurakan
+2571,Governorate of New Toledo
+2572,Republic of Mahabad
+2573,Sayn-Wittgenstein-Hohenstein
+2574,Sayn-Wittgenstein-Berleburg
+2575,East Breifne
+2576,Pomeroon (colony)
+2577,Taifa of Murcia
+2578,Greco-Bactrian Kingdom
+2579,Twenty-ninth Dynasty of Egypt
+2580,Taifa of Badajoz
+2581,Chalukya dynasty
+2582,Interim Government of Iran (1979)
+2583,Common Market for Eastern and Southern Africa
+2584,Achaemenid Empire
+2585,Italian protectorate over Albania
+2586,State of Buenos Aires
+2587,Provisional Government of National Union and National Salvation of Cambodia
+2588,National Transitional Council
+2589,Emirate of Cyrenaica
+2590,Duchy of Thuringia
+2591,French Cameroons
+2592,General Governorate of Belgium
+2593,Bonoman
+2594,Mohegan Indian Tribe
+2595,Ghana (Commonwealth realm)
+2596,Federation of Nigeria (Commonwealth realm)
+2597,The Gambia (Commonwealth realm)
+2598,Uganda (Commonwealth realm)
+2599,Sierra Leone (Commonwealth realm)
+2600,Malawi (Commonwealth realm)
+2601,British Mauritius
+2602,Tripolitanian Republic
+2603,Trinidad and Tobago (Commonwealth realm)
+2604,Guyana (Commonwealth realm)
+2605,Serbian Grand Principality
+2606,Chiefdom of Ameca
+2607,Khatumo State
+2608,Kingdom of Sanwi
+2609,State of Brazil
+2610,Verden (state)
+2611,Crimean Socialist Soviet Republic
+2612,General Command of the Armed Forces of South Russia
+2613,Barony of Caux
+2614,Kummuh
+2615,Tan (state)
+2616,Dutch Malabar
+2617,Dutch Coromandel
+2618,Duchy of Bernstadt
+2619,Dutch Mauritius
+2620,County of Buren
+2621,Lagos Colony
+2622,Empire of Harsha
+2623,Mthwakazi
+2624,Duke of Dol-Combourg
+2625,Commemorative coins of Romania
+2626,Reichskommissariat Don-Wolga
+2627,Udmurt Autonomous Soviet Socialist Republic
+2628,Gorno-Altai Autonomous Soviet Socialist Republic
+2629,Kingdom of Gampola
+2630,Kingdom of Bora Bora
+2631,Government of National Salvation
+2632,Mauritius (Commonwealth realm)
+2633,South Sudan
+2634,Kabardino-Balkar Autonomous Soviet Socialist Republic
+2635,Nilambur Kingdom
+2636,Saxe-Zeitz
+2637,Emirate of Jabal Shammar
+2638,Marquisate of Finale
+2639,Arakkal kingdom
+2640,Prince-Bishopric of Montenegro
+2641,British Military Administration (Libya)
+2642,Kingdom of Brittany
+2643,Shirvan Beylarbeylik
+2644,Saxe-Coburg-Eisenach
+2645,Saxe-Merseburg
+2646,Kangar union
+2647,Tatar confederation
+2648,Kingdom of Bumthang
+2649,Zakarid Armenia
+2650,Russian Empire (Suwarrow)
+2651,Herodian kingdom
+2652,Majeerteen Sultanate
+2653,Kingdom of Tunisia
+2654,OECD Development Centre
+2655,Second Federal Republic of Mexico
+2656,Huang (state)
+2657,Kalinyamat Kingdom
+2658,Sultanate of Mogadishu
+2659,Karabakh Beylarbeylik
+2660,Transitional Government of Ethiopia
+2661,Qara Del
+2662,Crown colony of Labuan
+2663,Austenasia
+2664,Organisation for Economic Co-operation and Development
+2665,Emirate of Nejd and Hasa
+2666,Syrian opposition
+2667,Portuguese Cape Verde
+2668,Dutch Celebes
+2669,Medri Bahri
+2670,Phoenicia
+2671,Jin (Five Dynasties)
+2672,Kenya (Commonwealth realm)
+2673,IEA Solar Heating and Cooling Programme
+2674,United States Protectorate over Cuba
+2675,The Khovansky Foundation
+2676,Ji (state)
+2677,Lordship of Hanau
+2678,Colony of Santiago (Jamaica)
+2679,Colony of Jamaica
+2680,Independent Albania
+2681,Lordship of Groningen
+2682,Guan (state)
+2683,Electorate of Hesse
+2684,Lordship of Frisia
+2685,Lordship of Overijssel
+2686,Lordship of Utrecht
+2687,Occupied Enemy Territory Administration
+2688,Third Republic of Madagascar
+2689,United Kingdom Overseas Territories Association
+2690,County of Holzappel
+2691,Outer Schwyz
+2692,Free Imperial City of Aachen
+2693,World Summit of Nobel Peace Laureates
+2694,Sahel-Benin Union
+2695,Free Imperial City of Kempten
+2696,Hilakku
+2697,Tagaung Kingdom
+2698,Vandal Kingdom
+2699,Dutch Slave Coast
+2700,Sri Ksetra Kingdom
+2701,County of Cilli
+2702,Carneola
+2703,Twenty Years' Anarchy
+2704,Colony of New Zealand
+2705,Nikephorian dynasty
+2706,Armani (ancient kingdom)
+2707,Sarab Khanate
+2708,Khoshut Khanate
+2709,Portuguese Macau
+2710,Military-Political System of Samos
+2711,Government of the Grand National Assembly
+2712,Suriname (Kingdom of the Netherlands)
+2713,Surinam (Dutch colony)
+2714,Pacific Alliance
+2715,Peloponnesian Senate
+2716,Dubrovnik Republic (1991)
+2717,Guzhu
+2718,Centralist Republic of Mexico
+2719,Provisional Siberian Government (Omsk)
+2720,Ah Canul
+2721,Ah Kin Chel
+2722,Can Pech
+2723,Cupules
+2724,Ekab
+2725,Tutul-Xiu
+2726,Counts of Wartenberg
+2727,Sheikhdom of Kuwait
+2728,Grand Duchy of Flandrensis
+2729,Principality of Minsk
+2730,Old Great Bulgaria
+2731,Crown Colony of Sarawak
+2732,Gambia Colony and Protectorate
+2733,Principality of Dalmatian Croatia
+2734,Principality of Vitebsk
+2735,Federal Government of Somalia
+2736,Governorate of Cuba
+2737,Syrian Kurdistan
+2738,Janapada
+2739,Early Pagan Kingdom
+2740,Governorate General of Brazil
+2741,Prince-Bishopric of Freising
+2742,Governorate General of Rio de Janeiro
+2743,Governorate General of Bahia
+2744,Himan and Heeb
+2745,Turkmen Armenia
+2746,Holstein-Rendsburg
+2747,Holstein-Pinneberg
+2748,Netherlands lunar sample displays
+2749,Romania lunar sample displays
+2750,Kalmyk Khanate
+2751,French Madagascar
+2752,Kingdom of Singapura
+2753,Mongol Armenia
+2754,Seljuq Armenia
+2755,Principality of Hamamshen
+2756,Monarchy of the North
+2757,United States of Indonesia
+2758,Company rule in Rhodesia
+2759,Kara-Khoja Kingdom
+2760,Provincial deputation in Spanish America
+2761,Hanau-Lichtenberg
+2762,Principality of Bidache
+2763,State of Buryat-Mongolia
+2764,Amazonas Province (Brazil)
+2765,Autonomous territorial unit with special legal status Transnistria
+2766,Passports issued by EU candidate states
+2767,Sip Song Chau Tai
+2768,Naga kings
+2769,Moravian Margraviate
+2770,Bima Sultanate
+2771,Prince-Bishopric of Warmia
+2772,Terra Mariana
+2773,Swedish Wismar
+2774,Uyunid Emirate
+2775,Jubaland
+2776,Principality of Upper Hungary
+2777,Dabuyid dynasty
+2778,Governorate of Ambon
+2779,Governorate of the Banda Islands
+2780,Gumie
+2781,Anglo-French Joint Naval Commission
+2782,Mandatory Palestine
+2783,Global Organization of Parliamentarians Against Corruption
+2784,Malta Colony
+2785,Sahrawi Arab Democratic Republic
+2786,Malta Protectorate
+2787,Gozo (1798-1800)
+2788,Derbent Khanate
+2789,Upingtonia
+2790,Kahuripan

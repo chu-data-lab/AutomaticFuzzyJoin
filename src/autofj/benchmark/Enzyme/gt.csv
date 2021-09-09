@@ -1,0 +1,49 @@
+id_l,title_l,id_r,title_r
+0,Adenylate cyclase,0,Adenylyl cyclase
+15,NADH dehydrogenase (ubiquinone),1,NADH:ubiquinone reductase (H+-translocating)
+42,RNase H,2,Ribonuclease H
+49,Guanylate cyclase,3,Guanylyl cyclase
+151,Ribonuclease A,4,Bovine pancreatic ribonuclease
+153,Gelatinase a,5,Gelatinase A
+189,Carboxypeptidase u,6,Carboxypeptidase U
+234,3-beta-HSD,7,3beta-Hydroxysteroid dehydrogenase
+236,Aspartokinase,8,Aspartate kinase
+261,Serotonin N-acetyltransferase,9,Aralkylamine N-acetyltransferase
+262,CTP synthetase,10,CTP synthase
+328,Alpha-amylase,11,Alpha-Amylase
+333,Carboxypeptidase c,12,Carboxypeptidase C
+350,Amine oxidase,13,Diamine oxidase
+365,A-N-acetylgalactosaminidase,14,Alpha-N-acetylgalactosaminidase
+376,"1,3-Beta-glucan synthase",15,"1,3-beta-glucan synthase"
+380,4-hydroxybutyrate dehydrogenase,16,4-Hydroxybutyrate dehydrogenase
+469,Glycerol-1-phosphate dehydrogenase (NAD(P)+),17,Sn-glycerol-1-phosphate dehydrogenase
+610,3-keto-steroid reductase,18,3-Ketosteroid reductase
+684,(Iso)eugenol O-methyltransferase,19,(iso)eugenol O-methyltransferase
+702,(Myelin basic protein)-arginine N-methyltransferase,20,(myelin basic protein)-arginine N-methyltransferase
+723,(Ribulose-bisphosphate carboxylase)-lysine N-methyltransferase,21,(ribulose-bisphosphate carboxylase)-lysine N-methyltransferase
+855,(Formate-C-acetyltransferase)-activating enzyme,22,(formate-C-acetyltransferase)-activating enzyme
+858,Sulfur reductase,23,Sulfhydrogenase
+898,4-Hydroxyphenylacetate 3-monooxygenase,24,4-hydroxyphenylacetate 3-monooxygenase
+945,Deacetoxyvindoline 4-hydroxylase,25,Desacetoxyvindoline 4-hydroxylase
+1043,2-hydroxyglutarate dehydrogenase,26,L-2-hydroxyglutarate dehydrogenase
+1185,4-Cresol dehydrogenase (hydroxylating),27,4-cresol dehydrogenase (hydroxylating)
+1199,(Methionine synthase) reductase,28,(methionine synthase) reductase
+1220,"5,10-Methenyltetrahydromethanopterin hydrogenase",29,"5,10-methenyltetrahydromethanopterin hydrogenase"
+1233,Chlorite O2-lyase,30,Chlorite dismutase
+1363,NAD(P)+ transhydrogenase (AB-specific),31,NAD(P)+ transhydrogenase (Re/Si-specific)
+1364,NAD(P)+ transhydrogenase (B-specific),32,NAD(P)+ transhydrogenase (Si-specific)
+2192,(myosin-light-chain) phosphatase,33,Myosin-light-chain phosphatase
+2728,2-Hydroxyacylsphingosine 1-beta-galactosyltransferase,34,2-hydroxyacylsphingosine 1-beta-galactosyltransferase
+3031,Isocitrate dehydrogenase (NADP+) kinase,35,(isocitrate dehydrogenase (NADP+)) kinase
+3118,CCA tRNA nucleotidyltransferase,36,TRNA cytidylyltransferase
+3151,4-Hydroxy-3-methylbut-2-enyl diphosphate reductase,37,4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+3179,Cyanate hydratase,38,Cyanase
+3180,Formylglycine-generating sulfatase enzyme,39,Formylglycine-generating enzyme
+3185,Nucleotide Pyrophosphatase/Phosphodiesterase (NPP),40,Nucleotide pyrophosphatase/phosphodiesterase
+3188,IgA protease,41,IgA specific serine endopeptidase
+3286,Cortisone b-reductase,42,5-beta-reductase
+3736,"Dolichyl-P-Glc:Glc2Man9GlcNAc2-PP-dolichol alpha-1,2-glucosyltransferase",43,ALG10 (enzyme class)
+3745,"Dolichyl-P-Glc:Glc1Man9GlcNAc2-PP-dolichol alpha-1,3-glucosyltransferase",44,ALG8 (enzyme class)
+3747,"Dolichyl-P-Glc:Man9GlcNAc2-PP-dolichol alpha-1,3-glucosyltransferase",45,ALG6 (enzyme class)
+3828,Metionin transaminase,46,Methionine transaminase
+3915,4-sulfomuconolactone hydrolase,47,4-Sulfomuconolactone hydrolase

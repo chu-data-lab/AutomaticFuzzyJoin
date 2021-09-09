@@ -1,0 +1,306 @@
+id_l,title_l,id_r,title_r
+3,The Louvre,0,Louvre
+3,The Louvre,1,MusÃ©e du Louvre
+29,"Doge's Palace, Venice",2,Doge's Palace
+36,"Science Museum, London",3,Science Museum (London)
+38,National Motor Museum,4,"National Motor Museum, Beaulieu"
+39,Royal Academy of Arts,5,Royal Academy
+82,Natural History Museum,6,"Natural History Museum, London"
+92,Prince of Wales Museum,7,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya
+94,Canadian Museum of Civilization,8,Canadian Museum of History
+100,California Palace of the Legion of Honor,9,Legion of Honor (museum)
+118,National Yiddish Book Center,10,Yiddish Book Center
+121,"Old Stone House (Brooklyn, New York)",11,Old Stone House (Brooklyn)
+125,Olde Fort Erie,12,Old Fort Erie
+138,CFB Petawawa,13,Garrison Petawawa
+145,Northumberland Fusiliers Museum,14,Fusiliers Museum of Northumberland
+149,Kansas Cosmosphere and Space Center,15,Cosmosphere
+169,Derby Industrial Museum,16,Derby Silk Mill
+181,"Thinktank, Birmingham",17,"Thinktank, Birmingham Science Museum"
+184,Coldrum Long Barrow,18,Coldrum Stones
+202,Museum of History & Industry (MOHAI),19,Museum of History and Industry
+235,Medway megaliths,20,Medway Megaliths
+238,Addington long barrow,21,Addington Long Barrow
+260,Stedelijk Museum Amsterdam,22,Stedelijk Museum
+304,Wing Luke Museum of the Asian Pacific American Experience,23,Wing Luke Asian Museum
+305,Serpentine Gallery,24,Serpentine Galleries
+345,Walthamstow Pump House Museum,25,Walthamstow Pumphouse Museum
+352,Queens Museum of Art,26,Queens Museum
+353,Swedish Museum of National Antiquities,27,Swedish History Museum
+355,Museum of Reading,28,Reading Museum
+358,Accademia,29,Gallerie dell'Accademia
+361,Dublin City Gallery The Hugh Lane,30,Hugh Lane Gallery
+381,American Computer Museum,31,American Computer & Robotics Museum
+391,Museum of the Confederacy,32,American Civil War Museum
+399,People's Palace,33,"People's Palace, Glasgow"
+405,Jewish Museum (New York),34,Jewish Museum (Manhattan)
+416,Asiatic Society of Mumbai,35,The Asiatic Society of Mumbai
+433,Shildon Locomotion Museum,36,National Railway Museum Shildon
+445,Srimanta Sankaradeva Kalakshetra,37,Srimanta Sankardev Kalakshetra
+445,Srimanta Sankaradeva Kalakshetra,38,Shankardev Kalakshetra
+451,Minneapolis Institute of Arts,39,Minneapolis Institute of Art
+470,Jewish Museum London,40,London Jewish Museum
+480,National Museum (Malaysia),41,National Museum of Malaysia
+500,National Botanic Garden of Belgium,42,Botanic Garden Meise
+601,National World War II Museum,43,The National WWII Museum
+615,Pope John Paul II Cultural Center,44,Saint John Paul II National Shrine
+615,Pope John Paul II Cultural Center,45,Blessed John Paul II Shrine
+627,Salten Museum,46,Nordlandsmuseet
+657,McDonald's USA First Store Museum,47,McDonald's No. 1 Store Museum
+662,De Havilland Aircraft Heritage Centre,48,De Havilland Aircraft Museum
+665,Heeresgeschichtliches Museum,49,"Museum of Military History, Vienna"
+669,Army Quartermaster Museum,50,U.S. Army Quartermaster Museum
+670,Marconi National Historic Sites of Canada,51,Marconi National Historic Site of Canada
+686,New South Wales Rail Transport Museum,52,Trainworks Railway Museum
+704,Delta Heritage Museum,53,Delta Flight Museum
+706,Old Railway Station Museum,54,Old Train Station and Railway Museum
+715,M. H. de Young Memorial Museum,55,De Young (museum)
+718,North American Black Historical Museum,56,Amherstburg Freedom Museum
+732,Naturalis,57,Naturalis Biodiversity Center
+743,Dana Centre,58,Dana Library and Research Centre
+750,Railway Museum (Netherlands),59,Nederlands Spoorwegmuseum
+751,Museo di Capodimonte,60,National Museum of Capodimonte
+778,Brunswick Railroad Museum,61,Brunswick Heritage Museum
+789,Sheffield Fire and Police Museum,62,National Emergency Services Museum
+798,Cold Spring Harbor Whaling Museum,63,The Whaling Museum & Education Center
+806,The Journey Museum and Gardens,64,The Journey Museum and Learning Center
+824,Telus World of Science (Calgary),65,Telus Spark
+841,Statens Museum for Kunst,66,National Gallery of Denmark
+852,Burchfield Penney Art Center,67,Burchfield-Penney Art Center
+862,Snape Anglo-Saxon Cemetery,68,Snape ship burial
+870,National Museum Soares dos Reis,69,Soares dos Reis National Museum
+889,National Museum of Rome,70,National Roman Museum
+899,Fort Vredeburg,71,Fort Vredeburg Museum
+899,Fort Vredeburg,72,Yogyakarta Fortress Museum
+901,Heritage Motor Centre,73,British Motor Museum
+903,Zimmerli Art Museum at Rutgers University,74,Jane Voorhees Zimmerli Art Museum
+904,Buffalo Niagara Heritage Village,75,Amherst Museum
+914,Valentine Richmond History Center,76,The Valentine
+950,Kew Bridge Steam Museum,77,London Museum of Water & Steam
+977,Oude Kerk,78,"Oude Kerk, Amsterdam"
+977,Oude Kerk,79,Oude Kerk (Amsterdam)
+978,Civil War Museum of Philadelphia,80,Civil War and Underground Railroad Museum of Philadelphia
+999,The Dallas Contemporary,81,Dallas Contemporary
+1005,Hancock Museum,82,Great North Museum: Hancock
+1012,"Beneski Museum of Natural History, Amherst College",83,Beneski Museum of Natural History
+1012,"Beneski Museum of Natural History, Amherst College",84,Amherst College Museum of Natural History
+1017,Taiping Kingdom History Museum,85,Taiping Heavenly Kingdom History Museum
+1024,Discovery Science Center,86,Discovery Cube Orange County
+1041,"Cloth Hall, Ypres",87,Ypres Cloth Hall
+1062,Dakshinchitra,88,DakshinaChitra
+1065,Public Museum of Grand Rapids,89,Grand Rapids Public Museum
+1074,Technikmuseum Speyer,90,Technik Museum Speyer
+1086,Costume Museum,91,Costume Museum of Canada
+1089,Gallery One One One,92,Gallery One One One and FitzGerald Study Centre
+1094,"Museo Nacional de Arte, Mexico City",93,Museo Nacional de Arte
+1095,La Maison Gabrielle Roy,94,Maison Gabrielle-Roy
+1099,"Steamtown, Peterborough Railway Preservation Society Inc.",95,Steamtown Peterborough Railway Preservation Society
+1130,"Royal Museum of Fine Arts, Antwerp",96,Royal Museum of Fine Arts Antwerp
+1133,Bullock Texas State History Museum,97,Bob Bullock Texas State History Museum
+1138,UCLA Fowler Museum of Cultural History,98,Fowler Museum at UCLA
+1140,Western Canada Aviation Museum,99,Royal Aviation Museum of Western Canada
+1141,COPIA,100,Copia (museum)
+1143,Darlington Railway Centre and Museum,101,Head of Steam
+1154,International Museum of Horology,102,MusÃ©e international d'horlogerie
+1180,Military Museum (Belgrade),103,"Military Museum, Belgrade"
+1183,Port Erin Railway Museum,104,Isle of Man Railway Museum
+1206,Wild Center,105,Natural History Museum of the Adirondacks
+1252,Anand Bhavan (newer one),106,Anand Bhavan
+1261,Albuquerque Museum,107,Albuquerque Museum of Art and History
+1288,Bailey-Matthews Shell Museum,108,Bailey-Matthews National Shell Museum
+1303,Eyebeam Art and Technology Center,109,Eyebeam (organization)
+1342,Art Pavilion in Zagreb,110,"Art Pavilion, Zagreb"
+1344,Museum of Contemporary Art (Belgrade),111,"Museum of Contemporary Art, Belgrade"
+1346,Las Vegas Walk of Stars,112,Las Vegas Walk of Fame
+1353,National World War I Museum,113,National World War I Museum and Memorial
+1355,Gulf Coast Exploreum Science Center,114,Gulf Coast Exploreum
+1360,Underwater Archaeology Centre,115,Sunken Secrets
+1364,Museum of Hungarian Aviation,116,Airplane Museum of Szolnok
+1372,Pulitzer Foundation for the Arts,117,Pulitzer Arts Foundation
+1373,Kota Lukut,118,Lukut Fort and Museum
+1373,Kota Lukut,119,Lukut Museum and Fort
+1402,National Railway Museum (Port Adelaide),120,"National Railway Museum, Port Adelaide"
+1404,Galleria Ferrari,121,Museo Ferrari
+1409,Serralves Foundation,122,Serralves
+1415,Burlington Art Centre,123,Art Gallery of Burlington
+1425,Zieglei Lage,124,Ziegelei Lage
+1457,"Museum of the Great Patriotic War, Kiev",125,Museum of The History of Ukraine in World War II
+1473,Autry National Center,126,Autry Museum of the American West
+1493,War Remnants Museum,127,War Remnants Museum (Ho Chi Minh City)
+1501,Tuscaloosa Museum of Art,128,Westervelt Warner Museum of American Art
+1518,Scienceworks Museum (Melbourne),129,Scienceworks (Melbourne)
+1533,Museum of Aviation (Warner Robins),130,Museum of Aviation
+1546,Hallwyl Museum,131,Hallwyl Palace
+1548,Stax Museum,132,Stax Museum of American Soul Music
+1552,Blaffer Gallery,133,Blaffer Art Museum
+1578,The British Postal Museum & Archive,134,The Postal Museum
+1597,Mumok,135,MUMOK
+1603,National Wool Museum,136,National Woollen Museum
+1615,Pirate Soul Museum,137,St. Augustine Pirate & Treasure Museum
+1629,Art Gallery of Ballarat,138,Ballarat Fine Art Gallery
+1645,"Oak Hall (Niagara Falls, Ontario)",139,Oak Hall (Niagara Falls)
+1656,Museum of Aviation (Belgrade),140,"Museum of Aviation, Belgrade"
+1662,Museum of Natural History (Belgrade),141,"Museum of Natural History, Belgrade"
+1664,Museum of Applied Arts (Belgrade),142,"Museum of Applied Arts, Belgrade"
+1670,Museum of Innovation and Science,143,Schenectady Museum
+1674,Village Historique Acadien,144,Village historique acadien
+1685,"Art, Design & Architecture Museum",145,"University Art Museum, Santa Barbara"
+1697,Resurgo Place,146,Moncton Museum
+1701,Museum of Witchcraft,147,Museum of Witchcraft and Magic
+1731,Telfair Museum of Art,148,Telfair Museums
+1749,Kvindemuseet i Danmark,149,"Women's Museum, Aarhus"
+1749,Kvindemuseet i Danmark,150,Kvindemuseet
+1750,Rural Architecture Museum of Sanok,151,"Museum of Folk Architecture, Sanok"
+1750,Rural Architecture Museum of Sanok,152,Muzeum Budownictwa Ludowego w Sanoku
+1763,MTN Sciencentre,153,Cape Town Science Centre
+1770,National Art Gallery of Singapore,154,National Gallery Singapore
+1775,Railway Museum (Belgrade),155,"Railway Museum, Belgrade"
+1802,Building of Bath Collection,156,Museum of Bath Architecture
+1811,The History Museum at the Castle,157,History Museum at the Castle
+1827,Spanish Military Hospital Museum,158,The Spanish Military Hospital Museum
+1847,Lied Discovery Children's Museum,159,Discovery Children's Museum
+1852,St. Lucie County Historical Museum,160,St. Lucie County Regional History Center
+1854,Svrzo's House,161,Svrzo House
+1863,Holburne Museum of Art,162,Holburne Museum
+1874,Natuurhistorisch Museum Rotterdam,163,Natural History Museum Rotterdam
+1895,South Florida Science Museum,164,South Florida Science Center and Aquarium
+1918,The Mary Brogan Museum of Art and Science,165,Mary Brogan Museum of Art and Science
+1919,Polk County Historical Museum,166,Polk County Historical Museum (Florida)
+1957,Zigler Art Museum,167,Zigler Museum
+1988,Stibbert Museum,168,Stibbert museum
+2009,North Williamstown railway museum,169,Australian Railway Historical Society Museum
+2044,Catalyst (museum),170,Catalyst Science Discovery Centre
+2058,Sanskriti Museums,171,Sanskriti Kendra Museum
+2065,National Art Museum of Azerbaijan,172,Azerbaijan State Museum of Art
+2075,Umm Kulthum Museum,173,Om Kalthoum Museum
+2081,Artsonje Center,174,Art Sonje Center
+2098,Total Museum of Contemporary Art,175,Total Museum
+2118,Emphietsoglou Gallery Museum,176,Emfietzoglou Gallery Museum
+2120,Tsisdarakis Mosque,177,Tzistarakis Mosque
+2137,Folk Art and History Museum of Pilion,178,Museum of Folk Art and History of Pelion
+2144,Fort Collins Museum and Discovery Science Center,179,Fort Collins Museum of Discovery
+2155,Darwin Military Museum,180,Darwin Military museum
+2157,NASA Visitor Center (Wallops Flight Facility),181,Wallops Flight Facility Visitor Center
+2176,Museum of Wellington City & Sea,182,Wellington Museum
+2193,Landeszeughaus,183,Styrian Armoury
+2197,Museum of Canterbury,184,Canterbury Heritage Museum
+2201,Railway Museum (Zambia),185,"Railway Museum (Livingstone, Zambia)"
+2250,SITE Santa Fe,186,Site Santa Fe
+2253,Gitwangak National Historic Site,187,Gitwangak Battle Hill National Historic Site
+2288,Austin Museum of Art,188,The Contemporary Austin
+2310,Ukrainian National Chornobyl Museum,189,Ukrainian National Chernobyl Museum
+2314,Royal Museum of the Armed Forces and Military History,190,Royal Museum of the Armed Forces and of Military History
+2347,Cumberland Inn Museum,191,Cumberland Inn & Museum
+2351,Salisbury and South Wiltshire Museum,192,The Salisbury Museum
+2404,Wiltshire Heritage Museum,193,Wiltshire Museum
+2414,Blue Star Contemporary Art Museum,194,Blue Star Contemporary Art Center
+2418,Museum of Science and Technology (PUCRS),195,PUCRS Museum of Science and Technology
+2431,Perot Museum of Nature and Science,196,Museum of Nature & Science
+2435,Azerbaijan State Museum of History,197,National Museum of History of Azerbaijan
+2450,Museum of Cultures (Lugano),198,Museo delle Culture
+2459,Cabinet des estampes et des dessins (Strasbourg),199,Cabinet des estampes et des dessins
+2501,Museum Paleontologic and Archaeological Walter Ilha,200,Paleontological and Archaeological Museum Walter Ilha
+2534,Chianciano Museum of Art,201,Museo d'Arte di Chianciano Terme
+2553,Koshare Indian Museum,202,Koshare Indian Museum and Dancers
+2555,Hamburgmuseum,203,Hamburg Museum
+2566,Monterey Maritime and History Museum,204,Museum of Monterey
+2591,International museum and library of music,205,International Museum and Library of Music of Bologna
+2591,International museum and library of music,206,International Museum and Library of Bologna
+2593,Museum of the History of Polish Jews,207,POLIN Museum of the History of Polish Jews
+2593,Museum of the History of Polish Jews,208,Museum of the History of the Polish Jews
+2609,David Collection,209,The David Collection
+2638,Dadiani Palaces Museum,210,Dadiani Palace
+2659,Museum of Florida Art,211,Museum of Art - DeLand
+2659,Museum of Florida Art,212,"Museum of Art - DeLand, Florida"
+2690,Ethnographic Museum (Belgrade),213,"Ethnographic Museum, Belgrade"
+2715,Dr. Bhau Daji Lad Museum,214,Bhau Daji Lad Museum
+2718,"National Handicrafts and Handlooms Museum, New Delhi",215,National Handicrafts and Handlooms Museum
+2729,Dunster Doll Museum,216,Dunster Museum & Doll Collection
+2734,Currency Museum,217,Currency Museum (Canada)
+2737,Bell Lightbox,218,TIFF Bell Lightbox
+2780,Goa Science Centre,219,Goa Science Center
+2783,National Archives of Serbia,220,Archive of Serbia
+2785,The Higgins Art Gallery & Museum,221,Cecil Higgins Art Gallery & Bedford Museum
+2794,Russian Cultural Centre (London),222,Pushkin House (London)
+2808,Ifa gallery,223,Ifa Gallery
+2828,Wings of a Dream Museum,224,TAM Museum
+2843,Museo de Arte Popular,225,Popular Art Museum (Mexico City)
+2867,MOTI,226,Museum of the Image
+2887,National History Museum of Moldova,227,National Museum of History of Moldova
+2894,Fine Art and Ceramic Museum,228,Museum of Fine Arts and Ceramics (Jakarta)
+2897,Lobkowicz palace,229,Lobkowicz Palace
+2914,National Art Gallery of Albania,230,National Gallery of Figurative Arts of Albania
+2932,Roman Museum,231,Canterbury Roman Museum
+2934,"Archaeological Museum, Thrissur",232,"Archaeological and Art Museum, Thrissur"
+2963,Royal Museum and Art Gallery,233,Beaney House of Art and Knowledge
+2989,Hungarian Railway Museum,234,Hungarian Railway History Park
+3002,Suquamish Museum and Cultural Center,235,Suquamish Museum
+3033,Roman Baths Museum,236,Caerleon Roman Fortress and Baths
+3048,Porlock Museum,237,Dovery Manor Museum
+3070,Fairplex railway exhibit,238,RailGiants Train Museum
+3082,Mathura Museum,239,"Government Museum, Mathura"
+3092,"Steamtown, USA",240,"Steamtown, U.S.A."
+3109,National Archives of Albania,241,Albanian National Archives
+3127,Museum of John Paul II Collection,242,John Paul II Collection Museum
+3134,Wawel Royal Castle National Art Collection,243,Zamek KrÃ³lewski na Wawelu â PaÅstwowe Zbiory Sztuki
+3144,Great General DR. Abdul Haris Nasution Museum,244,Jenderal Besar DR. Abdul Haris Nasution Museum
+3162,Azerbaijan State Carpet Museum,245,Azerbaijan Carpet Museum
+3165,National Historical Museum of Ukraine,246,National Museum of the History of Ukraine
+3169,World Aquarium,247,St. Louis World Aquarium
+3183,Harrisonburg Children's Museum,248,Explore More Discovery Museum
+3188,National Jazz Museum in Harlem,249,National Jazz Museum In Harlem
+3203,The Danish Immigrant Museum,250,Museum of Danish America
+3228,Kentucky Coal Mining Museum,251,Kentucky Coal Museum
+3233,Museum of the American Revolution,252,The American Revolution Center
+3234,Historisch Museum Haarlem,253,Museum Haarlem
+3255,Chen Clan Academy,254,Chen Clan Ancestral Hall
+3271,Kansas Underground Salt Museum,255,Strataca
+3278,The Mennello Museum of American Art,256,Mennello Museum of American Art
+3295,Tyrolean Museum Railways,257,Tiroler MuseumsBahnen
+3296,Maritime Command Museum,258,Naval Museum of Halifax
+3310,Lichfield Heritage Centre,259,Lichfield Museum
+3332,Newcomb Art Gallery,260,Newcomb Art Museum
+3353,Aviation Heritage Museum,261,Aviation Heritage Museum (Western Australia)
+3359,Imagine It! The Children's Museum of Atlanta,262,Children's Museum of Atlanta
+3373,21 21 DESIGN SIGHT,263,21 21 Design Sight
+3377,Naval Museum Great Lakes,264,Great Lakes Naval Museum
+3383,Eternal telethon,265,Eternal Telethon
+3390,Museum aan de Stroom,266,Museum Aan de Stroom
+3405,Leventio Museum,267,Leventis Municipal Museum of Nicosia
+3411,Brampton Walk of Fame,268,Brampton Arts Walk of Fame
+3420,PLACE Architecture & Built Environment Centre,269,PLACE Built Environment Centre
+3436,The Lillie and Hugh Roy Cullen Sculpture Garden,270,Lillie and Hugh Roy Cullen Sculpture Garden
+3455,Jimmy Doolittle Air & Space Museum,271,Travis Air Force Base Heritage Center
+3484,Shanghai Automobile Museum,272,Shanghai Auto Museum
+3485,Toyohashi City Museum of Art and History,273,Toyohashi City Museum Art and History
+3499,Buckhorn Saloon & Museum (San Antonio),274,"Buckhorn Saloon & Museum (San Antonio, Texas)"
+3502,Hathaway Ranch Museum,275,Hathaway Ranch & Oil Museum
+3536,"Archaeological Museum, Zagreb",276,Archaeological Museum in Zagreb
+3539,"Science Center, Seville",277,La Casa de la Ciencia de Sevilla - Science Museum
+3545,Troy Museum and Historic Village,278,Troy Historic Village
+3554,Museum of Fine Arts Berne,279,Museum of Fine Arts Bern
+3569,Beijing Lu Xun Museum,280,Lu Xun Museum
+3572,Quanzhou Overseas Relations Museum,281,Quanzhou Maritime Museum
+3577,Nantong museum,282,Nantong Museum
+3585,Archaeological Museum of Aruba,283,National Archaeological Museum Aruba
+3611,Tehran peace museum,284,Tehran Peace Museum
+3612,Swords and Ploughshares Museum,285,Swords And Ploughshares Museum
+3614,Hainan Provincial Museum,286,Hainan Museum
+3662,Burano Lace Museum,287,Lace Museum
+3663,Carlo Goldoni's House,288,House of Carlo Goldoni
+3700,Disseny Hub Barcelona,289,Design Museum of Barcelona
+3735,Nortd Labs,290,NORTD Labs
+3737,Japan Coast Guard Museum Yokohama,291,Japan Coast Guard Museum YOKOHAMA
+3739,Military Museum of Tasmania,292,Australian Army Museum Tasmania
+3766,Satria Mandala Museum,293,Satriamandala Museum
+3771,Regional Railway Museum (Chennai),294,"Regional Railway Museum, Chennai"
+3788,"National Maritime Museum, South Korea",295,Korea National Maritime Museum
+3795,West Stow Anglo-Saxon village,296,West Stow Anglo-Saxon Village
+3802,The Museum of Ancient Art,297,Museo d'Arte Antica
+3807,Pijpenkabinet & Smokiana,298,Amsterdam Pipe Museum
+3814,MARTa,299,MARTa Herford
+3850,Sazmanab Platform for Contemporary Arts,300,SAZMANAB
+3850,Sazmanab Platform for Contemporary Arts,301,Sazmanab Center for Contemporary Art
+3934,Chopin Family Parlor,302,Chopin family parlor
+3968,Louis Vuitton Foundation for Creation,303,Louis Vuitton Foundation
+3972,Tank Museum Ahmednagar,304,"Cavalry Tank Museum, Ahmednagar"

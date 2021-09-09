@@ -1,0 +1,659 @@
+id_l,title_l,id_r,title_r
+35,Game.com,0,Game com
+62,Quarrel,1,Crossbow bolt
+65,Sega 32X,2,32X
+66,Sega Mega-CD,3,Sega CD
+72,Tsurugi,4,Tsurugi (sword)
+77,V-2,5,V-2 rocket
+107,GameCube,6,Nintendo GameCube
+144,Luger pistol,7,Luger P08 pistol
+150,Master System,8,Sega Master System
+166,Electronika BK,9,Elektronika BK
+185,Mark 24 Tigerfish,10,Tigerfish (torpedo)
+188,Iosif Stalin tank,11,IS tank family
+192,Sega Nomad,12,Genesis Nomad
+200,Arrow (Israeli missile),13,Arrow (missile)
+203,GBU-43/B Massive Ordnance Air Blast bomb,14,GBU-43/B Massive Ordnance Air Blast
+205,Strela 2,15,9K32 Strela-2
+239,Canon de 76 M(montagne) modele 1909 Schneider,16,76 mm mountain gun M1909
+247,Katar (dagger),17,Katara (dagger)
+256,Slant Four,18,Vauxhall Slant-4 engine
+257,Power Macintosh G3,19,Power Macintosh G3 beige
+272,Lewis Gun,20,Lewis gun
+302,N-Gage (device),21,N-Gage
+315,R4M,22,R4M (rocket)
+319,Meteor (missile),23,MBDA Meteor
+320,ALARM,24,ALARM (missile)
+370,Electronika 60,25,Elektronika 60
+377,MIM-14 Nike-Hercules,26,MIM-14 Nike Hercules
+381,AMX-56 Leclerc,27,AMX Leclerc
+382,Toldi (tank),28,38M Toldi
+441,PC-1512,29,PC1512
+447,RSD-10 Pioneer,30,SS-20 Saber
+455,Centurion tank,31,Centurion (tank)
+474,Beretta M1935,32,Beretta M 1935
+475,Pioneer LaserActive,33,LaserActive
+485,Mowag Piranha,34,MOWAG Piranha
+489,Beretta M1934,35,Beretta M 1934
+494,M728 Combat Engineer Vehicle,36,M728 combat engineer vehicle
+505,M197 Gatling gun,37,M197 electric cannon
+509,Bristol Bloodhound,38,Bloodhound (missile)
+520,Heckler & Koch Mark 23,39,Heckler & Koch MK23
+527,M1A rifle,40,Springfield Armory M1A
+542,Beretta 950 Jetfire,41,Beretta 950
+548,Bofors 40 mm,42,Bofors 40 mm gun
+564,M79 Osa,43,M79 Rocket Launcher
+582,Comet tank,44,Comet (tank)
+586,Vis pistol,45,FB Vis
+592,R4 assault rifle,46,Vektor R4
+599,Yellow Sun,47,Yellow Sun (nuclear weapon)
+611,Ordnance QF 17-pounder,48,Ordnance QF 17 pounder
+612,Type 59,49,Type 59 tank
+613,Type 69/79,50,Type 69/79 main battle tank
+621,Sharp X68000,51,X68000
+629,Sea Dart (missile),52,Sea Dart
+651,Standoff Land Attack Missile,53,AGM-84E Standoff Land Attack Missile
+659,SuperGrafx,54,PC Engine SuperGrafx
+676,Long-bearded axe,55,Bearded axe
+686,GM Family II engine,56,GM Ecotec engine
+698,Chrysler flathead engine,57,Chrysler Flathead engine
+700,Lancia IZM,58,Lancia 1ZM
+703,Fiat Ansaldo,59,Ansaldo Armored Car (1925)
+723,GM LS engine,60,LS based GM small-block engine
+723,GM LS engine,61,General Motors small-block engine
+723,GM LS engine,62,GM small-block engine
+726,GM 2300 engine,63,Chevrolet 2300 engine
+727,GM Iron Duke engine,64,Iron Duke engine
+728,Chevrolet straight-6 engine,65,Chevrolet Straight-6 engine
+752,PM-84 Glauberyt,66,FB Glauberyt
+753,Kbs wz. 1996 Beryl,67,FB Beryl
+756,Type 96,68,Type 96 tank
+759,GM High Feature engine,69,General Motors High Feature engine
+766,GM High Value engine,70,General Motors High Value engine
+790,R-77 (missile),71,R-77
+800,RT-2UTTKh Topol-M,72,RT-2PM2 Topol-M
+811,PP-19 Bizon,73,Bizon SMG
+873,Thermos Bomb,74,Thermos bomb
+890,Armalite AR-18,75,ArmaLite AR-18
+937,Ordnance QF 25 pounder,76,Ordnance QF 25-pounder
+939,Ordnance QF 18 pounder,77,Ordnance QF 18-pounder
+955,Oldsmobile Diesel engine,78,Oldsmobile Diesel V6 engine
+956,GM Quad-4 engine,79,Quad 4 engine
+956,GM Quad-4 engine,80,Oldsmobile Quad 4 engine
+959,GM Atlas engine,81,General Motors Atlas engine
+968,APS underwater rifle,82,APS amphibious rifle
+980,Kh-15,83,Kh-15 (missile)
+980,Kh-15,84,AS-16 Kickback
+985,Kh-55 (missile family),85,Kh-55
+988,Chieftain tank,86,Chieftain (tank)
+990,TAM (tank),87,Tanque Argentino Mediano
+1012,GM 122 engine,88,General Motors 122 engine
+1032,MATADOR,89,MATADOR (weapon)
+1045,K-100 (missile),90,Novator K-100
+1064,Milkor Stopper 37/38 mm riot gun,91,Milkor 37/38mm and 40mm Stopper
+1091,Alcatel One Touch 501,92,Alcatel OT 501
+1102,BL 2.75 inch Mountain Gun,93,BL 2.75-inch mountain gun
+1102,BL 2.75 inch Mountain Gun,94,BL 2.75-inch Mountain Gun
+1113,Steyr Mannlicher M1901,95,Mannlicher M1901
+1130,Steyr Mannlicher M1894,96,Mannlicher M1894
+1188,Beretta M1951,97,Beretta M 1951
+1190,S-200 Angara/Vega/Dubna,98,S-200 (missile)
+1205,Steyr-Mannlicher M1895,99,Mannlicher M1895
+1245,British Heavy Tanks of World War I,100,British heavy tanks of World War I
+1245,British Heavy Tanks of World War I,101,Mark I tank
+1259,Conqueror tank,102,Conqueror (tank)
+1263,Jericho 941,103,IWI Jericho 941
+1266,R-9 Desna,104,SS-8 Sasin
+1267,R-14 Chusovaya,105,R-14 Usovaya
+1294,Jam Tin Grenade,106,Jam tin grenade
+1313,Rheinmetall MG3,107,Rheinmetall MG 3
+1317,BL 60 pounder gun,108,BL 60-pounder gun
+1334,Epoch Cassette Vision,109,Cassette Vision
+1338,Motorola Razr,110,Motorola RAZR
+1351,QF 2 pounder naval gun,111,QF 2-pounder naval gun
+1369,Type 99,112,Type 99 tank
+1370,Alfa Romeo Flat-4 engine,113,Alfa Romeo Boxer engine
+1379,M103 heavy tank,114,M103 (heavy tank)
+1393,R-12 Dvina,115,SS-4 Sandal
+1394,BL 7.2-inch howitzer,116,BL 7.2 inch Howitzer
+1401,PM-63 RAK,117,FB PM-63
+1424,Pinaka Multi Barrel Rocket Launcher,118,Pinaka multi barrel rocket launcher
+1427,Ordnance QF 6 pounder,119,Ordnance QF 6-pounder
+1428,Ordnance QF 2 pounder,120,Ordnance QF 2-pounder
+1432,Kbk wz. 1988 Tantal,121,FB Tantal
+1434,Type 97 automatic cannon,122,Type 97 20 mm anti-tank rifle
+1435,Type 98 20 mm AA Machine Cannon,123,Type 98 20 mm AA machine cannon
+1436,Type 2 20 mm AA Machine Cannon,124,Type 2 20 mm AA machine cannon
+1437,Type 4 20 mm Twin AA Machine Cannon,125,Type 4 20 mm twin AA machine cannon
+1438,AA Mine Discharger,126,AA mine discharger
+1439,Type 11 75 mm AA Gun,127,Type 11 75 mm AA gun
+1443,Type 14 10 cm AA Gun,128,Type 14 10 cm AA gun
+1472,MAG-95,129,FB MAG
+1478,Type 74 Nana-yon,130,Type 74
+1484,Sting Ray (torpedo),131,Sting Ray torpedo
+1502,Nambu Type 94 pistol,132,Type 94 Nambu pistol
+1515,Mk 13 missile launcher,133,Mark 13 missile launcher
+1520,BL 5.5 inch Medium Gun,134,BL 5.5-inch Medium Gun
+1521,BL 4.5 inch Medium Field Gun,135,BL 4.5-inch Medium Field Gun
+1553,ACV-S,136,FNSS ACV-19
+1560,MR-UR-100 Sotka,137,SS-17 Spanker
+1563,RT-2,138,SS-13 Savage
+1566,Alvis Stalwart (FV620),139,Alvis Stalwart
+1567,RT-21 Temp 2S,140,SS-16 Sinner
+1575,TR-1 Temp,141,SS-12 Scaleboard
+1576,RT-15,142,SS-14 Scapegoat
+1580,Browning wz.1928,143,Browning wz. 1928
+1594,Ruger P series,144,Ruger P-Series
+1598,Nokia 6610i,145,Nokia 6610
+1609,FH-70,146,FH70
+1616,Color TV Game,147,Color TV-Game
+1618,9K11 Malyutka,148,9M14 Malyutka
+1620,T95 Medium Tank,149,T95
+1623,Beretta M1918,150,Beretta Model 1918
+1626,3M11 Falanga,151,9M17 Fleyta
+1626,3M11 Falanga,152,9M17
+1630,Beretta M3,153,Beretta Model 3
+1652,Kropatschek,154,Kropatschek rifle
+1656,Remington 788,155,Remington Model 788
+1672,M320 Grenade Launcher Module,156,M320 grenade launcher
+1674,9M120 Ataka-V,157,9M120 Ataka
+1688,QF 3.7 inch AA gun,158,QF 3.7-inch AA gun
+1703,Remington Model 51,159,Remington 51
+1709,Sharp X1,160,X1 (computer)
+1711,Type 11 70 mm Infantry Mortar,161,Type 11 70 mm infantry mortar
+1714,Type 31 75 mm Mountain Gun,162,Type 31 75 mm mountain gun
+1717,Type 93/Type 100 flamethrower,163,Type 93 and 100 flamethrowers
+1724,Type 11 37 mm Infantry Gun,164,Type 11 37 mm infantry gun
+1738,HBX,165,High Blast Explosive
+1740,Type 96 15 cm howitzer,166,Type 96 15 cm Howitzer
+1741,OTO Melara 76 mm,167,Otobreda 76 mm
+1763,Ckm wz.30,168,Ckm wz. 30
+1765,Kbk wz. 1929,169,Karabinek wz. 1929
+1770,Schwarzlose MG M.07/12,170,Schwarzlose machine gun
+1775,GAZ-3937,171,GAZ Vodnik
+1811,L118 light gun,172,L118 Light Gun
+1815,Mark 30 torpedo,173,18\
+1819,M2 Light Tank,174,M2 light tank
+1831,QF 3.7-inch mountain howitzer,175,QF 3.7 inch Mountain Howitzer
+1844,Motorola Rokr,176,Motorola ROKR
+1847,HP 9800 series desktop computers,177,HP 9800 series
+1853,Mowag Eagle,178,MOWAG Eagle
+1855,Sword of Justice,179,Sword of justice
+1858,Outbound Laptop,180,Outbound laptop
+1863,Cannone da 47/32 M35,181,Cannone da 47/32
+1879,Oerlikon 35 mm twin cannon,182,Oerlikon GDF
+1889,English Electric Thunderbird,183,Thunderbird (missile)
+1895,BXP,184,Milkor BXP
+1895,BXP,185,Milkor 9mm BXP Sub-Machine Gun
+1928,T17 Armored Car,186,T17 (armored car)
+1929,Mark 24 Mine,187,Mark 24 mine
+1971,G60,188,Volkswagen G60 engine
+1979,T54 (American tank),189,T54
+1988,Type 97 light machine gun,190,Type 97 heavy tank machine gun
+1996,Rheinmetall MK 20 Rh 202,191,Rheinmetall Rh 202
+2002,Simca Type 315,192,Simca Poissy engine
+2005,Colt M1905 New Marine,193,Colt Model 1905 Marine Corps
+2009,Polsten,194,20 mm Polsten
+2015,APF-MP1000,195,APF-M1000
+2037,OTs-14 Groza,196,OC-14-4A
+2048,XaviXPort gaming console,197,Xavix
+2061,Springfield Model 1873,198,Springfield model 1873
+2069,Hi-Point .45 ACP,199,Hi-Point Model JHP
+2078,Spice (guidance kit),200,Spice (bomb)
+2105,9K22 Tunguska,201,2K22 Tunguska
+2110,9M119 Svir,202,9M119
+2129,Ford Mondeo V6 engine,203,Ford Duratec V6 engine
+2134,P-270 Moskit,204,Moskit
+2141,PSA X engine,205,PSA-Renault X-Type engine
+2149,PSA XU,206,PSA XU engine
+2167,BL 6 inch 26 cwt howitzer,207,BL 6-inch 26 cwt howitzer
+2180,Ordnance ML 3 inch Mortar,208,Ordnance ML 3 inch mortar
+2223,Kh-31,209,AS-17 Krypton
+2247,DUX,210,DUX submachine gun
+2254,Motorola Pebl,211,Motorola PEBL
+2261,SIG-Sauer SSG 3000,212,SIG Sauer SSG 3000
+2285,AR-7,213,Armalite AR-7
+2292,Thompson-Center Contender,214,Thompson/Center Contender
+2328,Opel straight-6 engine,215,Opel Straight-6 engine
+2333,Lanchester 6x4 Armoured Car,216,Lanchester 6x4 armoured car
+2347,Remington Model 14,217,Remington model 14
+2362,ELBO Leonidas-2,218,ELVO Leonidas-2
+2363,ELBO Kentaurus,219,ELVO Kentaurus
+2383,China Lake Grenade Launcher,220,China Lake grenade launcher
+2387,Springfield Model 1840 flintlock musket,221,Springfield Model 1840 Flintlock Musket
+2403,Barak 1,222,Barak 1 (missile)
+2426,Hoot (missile),223,Hoot (torpedo)
+2444,ACV-300,224,FNSS ACV-15
+2450,Bagh nakh,225,Bagh naka
+2475,M55 Self Propelled Howitzer,226,M55 self propelled howitzer
+2475,M55 Self Propelled Howitzer,227,M55 howitzer
+2485,M1905 bayonet,228,M series bayonet
+2489,Kh-58,229,AS-11 Kilter
+2491,MX-774,230,RTV-A-2 Hiroc
+2495,Dardanelles Gun,231,Great Turkish Bombard
+2499,Bushmaster M4 Type Carbine,232,Bushmaster M4-type Carbine
+2509,Fiat 128 SOHC engine,233,Fiat SOHC
+2528,P-64 (pistol),234,FB P-64
+2554,3B1,235,AT&T Unix PC
+2575,Nike+iPod,236,Nike+
+2597,Diamond T tank transporter,237,M19 Tank Transporter
+2632,Opel Family II engine,238,GM Family II engine
+2636,Daimler V8 engines,239,Daimler 2.5 & 4.5 litre
+2637,BL 13.5 inch Mk V naval gun,240,BL 13.5-inch Mk V naval gun
+2642,JERRVs,241,JERRV
+2649,MP-444,242,MR-444
+2661,Ingwe (missile),243,ZT3 Ingwe
+2664,Ordnance QF 13 pounder,244,Ordnance QF 13-pounder
+2702,Semmerling,245,Semmerling LM4
+2721,Renault E-Type engine,246,Renault Energy engine
+2725,Renault S-Type engine,247,Sofim 8140 engine
+2736,Skyguard (area defense system),248,Skyguard (airport defense system)
+2746,RAAD (anti-tank missile),249,RAAD (anti tank missile)
+2751,Springfield Model 1870,250,Springfield model 1870
+2753,Springfield Model 1871,251,Springfield model 1871
+2754,List of Xbox 360 accessories,252,Xbox 360 accessories
+2771,Motorola Fone,253,Motorola FONE
+2777,Motorola Krzr,254,Motorola KRZR
+2817,Motorola Rizr,255,Motorola RIZR
+2835,KH-2002,256,Khaybar KH2002
+2856,Type 92 Battalion Gun,257,Type 92 battalion gun
+2876,Motorola Ming,258,Motorola MING
+2881,Terradyne Armored Vehicles Inc. GURKHA,259,Terradyne Armored Vehicles Gurkha
+2892,Austin K2,260,Austin K2/Y
+2924,AP-9,261,Kimel AP-9
+2924,AP-9,262,AA Arms AP-9
+2940,BMPT,263,BMPT Terminator
+2980,Denel Y3 AGL,264,Vektor Y3 AGL
+2983,Daewoo Precision Industries K7,265,Daewoo Telecom K7
+2986,L9A1 51 mm Light Mortar,266,L9A1 51 mm light mortar
+2998,Two-section staff,267,Two section staff
+3010,M48 Mauser,268,Zastava M48
+3025,Pattern 1861 Enfield musketoon,269,Pattern 1861 Enfield Musketoon
+3037,NEC PC-6601,270,PC-6600 Series
+3037,NEC PC-6601,271,PC-6601
+3045,Koksan (artillery),272,Koksan
+3075,Remington Model 241,273,Remington 241
+3076,AMC straight-4 engine,274,AMC Straight-4 engine
+3087,V-42 stiletto,275,V-42 Stiletto
+3099,6 inch siege gun M1877,276,6-inch siege gun M1877
+3100,6 inch siege gun M1904,277,6-inch siege gun M1904
+3141,Agat computer,278,Agat (computer)
+3142,Girandoni Air Rifle,279,Girandoni air rifle
+3145,Stechkin automatic pistol,280,Stechkin APS
+3158,Remington Model 511 Scoremaster,281,Remington Scoremaster 511
+3159,Ruger Model 77 rotary magazine,282,Ruger 77/22
+3179,Hi-Point Model 40SW,283,Hi-Point Model JCP
+3181,United States Marine Corps noncommissioned officer's sword,284,"Marine non-commissioned officers' sword, 1859-present"
+3186,Volkssturmgewehr 1-5,285,Volkssturmgewehr
+3189,PSS Silent Pistol,286,PSS silent pistol
+3202,Motorola Slvr,287,Motorola SLVR
+3214,SIG-Sauer SSG 2000,288,SIG Sauer SSG 2000
+3220,Beretta BM59,289,Beretta BM 59
+3233,Pantech C300,290,Pantech PG-C300
+3250,3 inch Gun M5,291,3-inch Gun M5
+3256,Gun hybrid,292,Combination weapons
+3280,C1 NES TV,293,Sharp Nintendo Television
+3298,Maynard carbine,294,Maynard Carbine
+3307,Ruger Single Six,295,Ruger Single-Six
+3309,Mowag Duro,296,MOWAG Duro
+3317,Hartung Game Master,297,Game Master (console)
+3331,GKN Simba,298,Simba (APC)
+3332,MTs-255,299,MTs255
+3360,T7 Combat Car,300,T7 Armored Car
+3361,T55E1 Gun Motor Carriage,301,T55E1 Motor Carriage
+3370,Sisu RA-140 DS,302,Sisu Raisu
+3383,Zastava M70,303,Zastava M-70
+3387,Zastava M77B1,304,Zastava M77 B1
+3390,Rolls-Royce Experimental Machine Gun,305,Rolls-Royce .50 Cal Experimental Machine Gun
+3402,DTCN F17,306,F17 torpedo
+3411,A-Darter,307,A-Darter (missile)
+3412,R-Darter,308,R-Darter (missile)
+3432,Sumitomo Type 62,309,Sumitomo NTK-62
+3456,AAM-5 (Japanese missile),310,Mitsubishi AAM-5
+3459,Shuang shou jian,311,Shuangshou jian
+3472,Parabellum MG 14,312,Parabellum MG14
+3472,Parabellum MG 14,313,Parabellum MG 14/17
+3477,M1841 Mississippi rifle,314,M1841 Mississippi Rifle
+3507,LG Shine (KE970),315,LG Shine
+3513,Kh-23,316,Kh-23 Grom
+3514,Kh-28,317,AS-9 Kyle
+3515,Remington 513,318,Remington Model 513
+3516,Heckler & Koch AG-C/GLM,319,Heckler & Koch AG-C/EGLM
+3522,Type 60 122 mm Field Gun,320,Type 60 122 mm field gun
+3533,Defensive grenade wz.33,321,Defensive grenade wz. 33
+3552,57 mm AZP S-60,322,AZP S-60
+3555,M25 Sniper Weapon System,323,M25 sniper rifle
+3560,Type 88 tank (China),324,Type 80/88 main battle tank
+3574,Mark 18 torpedo,325,Mark 18 Torpedo
+3582,Rheinmetall YAK,326,Rheinmetall MAN Military Vehicles YAK
+3583,Remington Model 512 Sportsmaster,327,Remington Sportmaster 512
+3614,13.2 mm Hotchkiss machine gun,328,Hotchkiss M1929 machine gun
+3625,Ordnance QF 3 pounder Vickers,329,Ordnance QF 3-pounder Vickers
+3638,Assault Pistol,330,Assault pistol
+3639,Arz missile,331,Cedar rocket
+3670,OLPC XO-1,332,OLPC XO
+3692,QF 4.5-inch howitzer,333,QF 4.5 inch Howitzer
+3693,Newton 6 inch Mortar,334,Newton 6-inch Mortar
+3707,Xbox 360 Controller,335,Xbox 360 controller
+3722,KSR-2,336,KSR-2 (Russian rocket)
+3722,KSR-2,337,AS-5 Kelt
+3723,Crosspad,338,CrossPad
+3745,2 inch Medium Mortar,339,2-inch Medium Mortar
+3751,9.45 inch Heavy Mortar,340,9.45-inch Heavy Mortar
+3764,Charioteer tank destroyer,341,Charioteer (tank)
+3796,Ssg 82,342,SSG 82
+3807,BL 6 inch 30 cwt howitzer,343,BL 6-inch 30 cwt howitzer
+3808,QF 13 pounder 9 cwt,344,QF 13-pounder 9 cwt
+3809,BL 6 inch Mk VII naval gun,345,BL 6-inch Mk VII naval gun
+3816,QF 2.95 inch Mountain Gun,346,QF 2.95-inch Mountain Gun
+3819,AS-30,347,AS-30L
+3842,8 inch Gun M1,348,8-inch Gun M1
+3843,Uralmash-1,349,SU-101 and SU-102 self-propelled guns
+3856,Ruger SP-101,350,Ruger SP101
+3867,Bichawa,351,Bichuwa
+3869,1897 Pattern British Infantry Officer's Sword,352,1897 pattern British infantry officer's sword
+3876,BL 5-inch howitzer,353,BL 5 inch Howitzer
+3877,37mm Gun M1,354,37 mm Gun M1
+3881,Rb 05,355,Robot 05
+3883,Ordnance BLC 15 pounder,356,Ordnance BLC 15-pounder
+3885,Ordnance QF 15 pounder,357,Ordnance QF 15-pounder
+3887,BL 9.2-inch howitzer,358,BL 9.2 inch Howitzer
+3889,RML 17.72 inch gun,359,100-ton gun
+3894,BL 12 inch railway howitzer,360,BL 12-inch railway howitzer
+3895,BL 15-inch howitzer,361,BL 15 inch Howitzer
+3896,BL 10 pounder Mountain Gun,362,BL 10-pounder mountain gun
+3896,BL 10 pounder Mountain Gun,363,BL 10-pounder Mountain Gun
+3899,BL 12 inch railway gun,364,BL 12-inch railway gun
+3899,BL 12 inch railway gun,365,BL 12 inch Railway Gun
+3915,BL 12-inch howitzer,366,BL 12 inch Howitzer
+3942,BL 6 inch Gun Mk XIX,367,BL 6-inch Gun Mk XIX
+3947,Thermal weapon sight,368,Thermal Weapon Sight
+3951,Ruger SR series,369,Ruger SR-Series
+3958,QF 3 inch 20 cwt,370,QF 3-inch 20 cwt
+3959,Mark 16/1 triple 6 in /47 Turret,371,6\
+3965,M80 Zolja,372,M80 Rocket Launcher
+3968,RM-38,373,PM-38
+3975,ZEN (portable media player),374,Zen (portable media player)
+3981,42 line gun M1877,375,42-line fortress and siege gun Pattern of 1877
+4002,4.5 inch Gun M1,376,4.5-inch Gun M1
+4010,QF 12 pounder 12 cwt AA gun,377,QF 12-pounder 12 cwt AA gun
+4021,QF 13 pounder 6 cwt AA gun,378,QF 13-pounder 6 cwt AA gun
+4022,QF 13 pounder Mk IV AA gun,379,QF 13-pounder Mk IV AA gun
+4028,Ordnance QF 12 pounder 8 cwt,380,Ordnance QF 12-pounder 8 cwt
+4029,VHS assault rifle,381,HS Produkt VHS
+4032,United States Marine Raider stiletto,382,United States Marine Raider Stiletto
+4035,CITER 155mm L33 Gun,383,CITER 155mm L33 gun
+4039,Ordnance BL 12 pounder 6 cwt,384,Ordnance BL 12-pounder 6 cwt
+4046,BL 5.4-inch howitzer,385,BL 5.4 inch Howitzer
+4065,Skbk wz. 1989 Onyks,386,FB Onyks
+4066,Kbk wz. 1996 Mini-Beryl,387,FB Mini-Beryl
+4070,P-83 Wanad,388,FB Wanad
+4098,LBD Gargoyle,389,McDonnell LBD Gargoyle
+4122,Time Capsule (Apple),390,AirPort Time Capsule
+4122,Time Capsule (Apple),391,Apple Time Capsule
+4127,Motorola Razr2,392,Motorola RAZR2
+4132,C-602,393,YJ-62
+4141,QF 12 pounder 12 cwt naval gun,394,QF 12-pounder 12 cwt naval gun
+4148,QF 6 pounder Hotchkiss,395,QF 6-pounder Hotchkiss
+4149,QF 6 pounder 6 cwt Hotchkiss,396,QF 6-pounder 6 cwt Hotchkiss
+4151,Kahr K series,397,Kahr K9
+4152,Armscor AK22,398,Armscor AK 47/22
+4157,Indian Ballistic Missile Defence Programme,399,Indian Ballistic Missile Defense Program
+4160,QF 3 pounder Hotchkiss,400,QF 3-pounder Hotchkiss
+4171,Brandt Mle 27/31,401,Brandt mle 27/31
+4182,BL 14 inch Railway Gun,402,BL 14-inch Railway Gun
+4185,Renault FT-17 (EST),403,Renault FT in Estonian service
+4189,OTs-12 assault rifle,404,OC-12 assault rifle
+4215,OVP (firearm),405,Beretta OVP
+4216,Nintendo GameCube controller,406,GameCube controller
+4259,Dan Wesson M1911 ACP Pistol,407,Dan Wesson M1911 ACP pistol
+4273,Richmond rifle,408,Richmond Rifle
+4281,FN Baby Browning,409,Baby Browning
+4289,Vz. 52 (machine gun),410,Vz. 52 machine gun
+4308,Motorola Razr3,411,Motorola RAZR3
+4310,QF 1 pounder pom-pom,412,QF 1-pounder pom-pom
+4313,Famicom Modem,413,Family Computer Network System
+4339,Xbox,414,Xbox (console)
+4359,L10 Ranger Anti-Personnel Mine,415,L10 Ranger Anti-Personnel mine
+4400,AGM-176 Griffin,416,AGM-175 Griffin
+4401,Motorola Zine,417,Motorola ZINE
+4403,TKB-011,418,TKB-011 2M
+4432,10 cm houfnice vz. 30 (howitzer),419,10 cm houfnice vz. 30 (Howitzer)
+4440,ASAI One-Pro 45,420,ASAI One Pro 45
+4468,Ferrari/Maserati engine,421,Ferrari F136 engine
+4493,12 cm Kanone M 80,422,12-cm Kanone M 80
+4498,Tosan (tank),423,Tosan tank
+4516,Canone de 120 L mle 1931,424,Canon de 120mm L mle 1931
+4521,Type 91 10 cm howitzer,425,Type 91 10 cm Howitzer
+4534,Type 38 75 mm Field Gun,426,Type 38 75 mm field gun
+4537,Unattended Ground Sensors,427,Unattended ground sensor
+4552,Canon de 75 mle GP11,428,Canon de 75 mle GP II
+4553,Canon de 75 mle GP III,429,Canon de 75 mle GP111
+4558,Common Anti-Air Modular Missile,430,CAMM (missile family)
+4569,10.5 cm howitzer Model 1924,431,10.5 cm Howitzer Model 1924
+4614,Granatnik wz.36,432,Granatnik wz. 36
+4628,Strv L-60,433,Stridsvagn L-60
+4657,D-74 122 mm Field Gun,434,D-74 122 mm field gun
+4663,Samsung GT-i8510,435,Samsung i8510
+4686,Benelli MP 90 S World Cup 22LR,436,Benelli MP 90S
+4687,Benelli MP 95E 22LR,437,Benelli MP 95E
+4692,Anoa (armoured personnel carrier),438,Anoa (Armoured Personnel Carrier)
+4713,RML 6.3-inch howitzer,439,RML 6.3 inch Howitzer
+4747,Reffye 85 mm cannon,440,Reffye 85mm cannon
+4756,Reffye 75 mm cannon,441,Reffye 75mm cannon
+4803,Newton (platform),442,Apple Newton
+4806,Experimental Model 2 submachine gun,443,Type II machine pistol
+4831,BL 7.5 inch Mk I naval gun,444,BL 7.5-inch Mk I naval gun
+4837,Ruger Security Six,445,Ruger Security-Six
+4839,BL 7.5-inch naval howitzer,446,BL 7.5 inch Naval Howitzer
+4865,Sccy CPX-1,447,SCCY CPX-1
+4881,Dahong Palay,448,Dahong palay
+4922,SIG MKMS,449,SIG MKMO
+4922,SIG MKMS,450,SIG MKMO submachine-gun
+4930,JNG-90,451,MKEK JNG-90
+4936,Rast-Gasser M1898,452,Rast & Gasser M1898
+4937,Erma EMP-35,453,Erma EMP
+4940,M1870 Gasser,454,Gasser M1870
+4947,Savage Model 64F,455,Savage Model 64
+4978,2S25 Sprut-SD,456,2S25
+4979,Akdal Ghost,457,Akdal Ghost TR01
+4994,Lorenz rifle,458,Lorenz Rifle
+5002,Oerlikon Millennium 35 mm Naval Revolver Gun System,459,Rheinmetall Oerlikon Millennium Gun
+5003,Hongniao (missile),460,Hongniao
+5031,ClassPad,461,Classpad
+5038,Chevrolet G506 trucks,462,Chevrolet G506
+5039,Dingoo A320,463,Dingoo
+5052,Samsung i7500,464,Samsung Galaxy (original)
+5053,Acer Aspire Revo,465,Acer AspireRevo
+5056,Sauer 200 STR,466,SIG Sauer 200 STR
+5059,Orange Vegas,467,ZTE X760
+5060,Armoured Vehicle (VRDE),468,VRDE Light Armoured Vehicle
+5060,Armoured Vehicle (VRDE),469,Armoured Vehicle (VDRE)
+5083,Nokia E52,470,Nokia E52/E55
+5085,OQF 3 pounder gun,471,OQF 3-pounder gun
+5113,Charron-Girardot-Voigt 1902,472,"Charron, Girardot et Voigt 1902"
+5132,Six Ton Tank M1917,473,M1917 light tank
+5136,Sony Vaio FW series,474,Sony VAIO FW series
+5169,Motorola Aura,475,Motorola AURA
+5172,Istiglal Anti-Material Rifle,476,Istiglal anti-materiel rifle
+5202,Sony Vaio W series,477,Sony VAIO W series
+5209,Xperia,478,Sony Xperia
+5261,No. 15 Ball grenade,479,No. 15 ball grenade
+5266,Future Tactical Truck Systems,480,Future Tactical Truck System
+5272,Type 77 Heavy Machine Gun,481,Type 77 heavy machine gun
+5276,VBTP-MR,482,VBTP-MR Guarani
+5303,12.8 cm PaK 44,483,12.8 cm Pak 44
+5312,Maverick (armored vehicle),484,Maverick (armoured vehicle)
+5328,Panter howitzer,485,Panter Howitzer
+5329,AVMT-300,486,AVTM-300
+5367,Remington Model 121 Fieldmaster,487,Remington Model 121
+5378,Advanced Light Torpedo Shyena,488,Shyena
+5384,SF-1 SNES TV,489,Super Famicom Naizou TV SF1
+5388,M1944 Hyde Carbine,490,Hyde Carbine
+5396,Hae Sung,491,SSM-700K Haeseong
+5399,GW525,492,LG GW525
+5404,Remington Model 521 TL Junior,493,Remington JuniorTarget 521TL
+5415,Merrill carbine,494,Merrill Carbine
+5422,Wimmersperg Spz-kr,495,Wimmersperg Spz
+5425,Volksmaschinengewehr VMG-27,496,VMG 1927
+5440,M74 Tank Recovery Vehicle,497,M74 Armored Recovery Vehicle
+5480,AO-46 personal defence weapon,498,AO-46 (firearm)
+5484,TRW Low Maintenance Rifle,499,Thompson Ramo Wooldridge Low-Maintenance Rifle
+5493,Starr carbine,500,Starr Carbine
+5495,P60B40,501,BMW P60B40
+5502,Model 1817 common rifle,502,Model 1817 Common Rifle
+5524,15.5 cm/60 3rd Year Type,503,15.5 cm/60 3rd Year Type naval gun
+5549,Landsverk L-120,504,Stridsvagn L-120
+5550,381mm / 50 Model 1934 naval gun,505,Cannone da 381/50 Ansaldo M1934
+5560,M6-640,506,M6 mortar
+5584,Ka-Bar,507,KA-BAR
+5606,Spider Light Strike Vehicle,508,Light Strike Vehicle (Singapore)
+5621,Hughes Breech-loading cannon,509,Hughes breech-loading cannon
+5630,Hongyi-po,510,Hongyipao
+5640,Samsung YP-S3JAB/XAA,511,Samsung YP-S3
+5648,M1875 Mountain Gun,512,M1875 mountain gun
+5649,M1841 Mountain Howitzer,513,M1841 mountain howitzer
+5665,M6 Bomb Truck,514,M6 Bomb Service Truck
+5677,DARPA TX,515,Aerial Reconfigurable Embedded System
+5677,DARPA TX,516,Transformer (flying car)
+5691,Magnavox Odyssey series,517,Magnavox Odyssey Series
+5702,WZ-523 Wheeled Armored Personnel Carrier,518,WZ523
+5711,FHJ 84,519,FHJ-84
+5716,Mobarez Tank,520,Mobarez tank
+5723,Springfield Model 1880,521,Springfield model 1880
+5726,Springfield Model 1884,522,Springfield model 1884
+5739,IPhone (1st generation),523,IPhone (original)
+5739,IPhone (1st generation),524,IPhone (first generation)
+5746,S&T Motiv K12,525,S&T Daewoo XK12
+5771,ECTACO jetBook,526,Ectaco jetBook
+5778,Samsung Galaxy Beam i8520,527,Samsung Beam i8520
+5778,Samsung Galaxy Beam i8520,528,I8520 (Galaxy Beam)
+5784,Vajra-mushti,529,Vajra-musti
+5808,MSBS Radon,530,FB MSBS
+5811,North American MQM-42 Redhead-Roadrunner,531,MQM-42 Redhead
+5823,LG GT540,532,LG Optimus (original)
+5827,ThinkPad Edge,533,ThinkPad E Series
+5828,Ulfberht,534,Ulfberht swords
+5847,8 inch Mk. VI railway gun,535,8-inch Mk. VI railway gun
+5848,"Henrion, Dassy & Heuschen Revolver",536,"Henrion, Dassy & Heuschen double-barrel revolvers"
+5849,Samsung Galaxy Tab (7.0-inch),537,Samsung Galaxy Tab 7.0
+5849,Samsung Galaxy Tab (7.0-inch),538,Samsung Galaxy Tab
+5850,"1.59 inch Breech-Loading Vickers Q.F. Gun, Mk II",539,"1.59-inch Breech-Loading Vickers Q.F. Gun, Mk II"
+5862,Heckler & Koch HK121,540,Heckler & Koch MG5
+5889,XM2010 Enhanced Sniper Rifle,541,M2010 Enhanced Sniper Rifle
+5902,Cameleon IV440 Modular Mission Vehicle,542,OVIK Cameleon IV440 Modular Mission Vehicle
+5937,M1918 240 mm howitzer,543,M1918 240 mm Howitzer
+5943,Sony Vaio M series,544,Sony VAIO M series
+5946,Ordnance QF 95 mm howitzer,545,Ordnance QF 95 mm Howitzer
+5952,Samsung i5500,546,Samsung Galaxy 5
+5961,Long Range Anti-Ship Missile,547,AGM-158C LRASM
+5972,Xperia Play,548,Sony Ericsson Xperia Play
+5981,Smith & Wesson Model 320 revolving rifle,549,Smith & Wesson Model 320
+5988,SRAAM,550,Hawker Siddeley SRAAM
+5999,Pyros (bomb),551,Small Tactical Munition
+6002,IOF .315 Sporting Rifle,552,IOF .315 sporting rifle
+6017,10.5 cm SK L/40 naval gun,553,10.5 cm SK L/40 gun
+6031,Lancia 3 RO,554,Lancia 3Ro
+6043,Archos 101 Internet Tablet,555,Archos 101
+6044,BOAR,556,BOAR (rocket)
+6069,Sansa c200 Series,557,Sansa c200 series
+6077,Cruz (Velocity Micro),558,Cruz (Tablet)
+6104,Smith & Wesson Lemon Squeezer,559,Smith & Wesson Safety Hammerless
+6114,12-inch Gun M1895,560,12-inch gun M1895
+6118,Pistol HORHE,561,Horhe
+6118,Pistol HORHE,562,Horhe (pistol)
+6122,Arming sword,563,Knightly sword
+6133,Rashomon pistol,564,Zastava PPZ
+6150,Bushmaster Arm Pistol,565,Bushmaster (rifle)
+6171,Semovente 75/46,566,Semovente da 75/46
+6175,Autocarro blindato Fiat 626 NM,567,Fiat 626
+6204,Persian Gulf (missile),568,Khalij Fars
+6214,Milkymist,569,M-Labs
+6226,Droid Charge,570,Samsung Galaxy S 4G LTE
+6227,120 mm Krupp howitzer M1905,571,120mm Krupp Howitzer M1905
+6235,Garanin machine gun,572,Garanin general-purpose machine guns
+6235,Garanin machine gun,573,2B-P-10
+6238,Bandayevsky RB-12,574,Zlatoust RB-12
+6252,Didgori Armoured Personnel Carrier,575,Didgori-1
+6272,FM-11,576,Fujitsu FM-11 EX
+6284,VK3001P,577,VK 3001 (P)
+6325,Wii U GamePad,578,Wii U controller
+6343,KB-P 790,579,KB-P-790
+6347,Xiaomi MI-One,580,Xiaomi Mi 1
+6351,KSPZ Horhe Jager,581,KSPZ Jager
+6353,Mk 11 missile launcher,582,Mark 11 missile launcher
+6355,Springfield Armory XDM,583,XD(M)
+6357,Samsung Galaxy Note,584,Samsung Galaxy Note (original)
+6370,Superav,585,Iveco SuperAV
+6370,Superav,586,Iveco Superav
+6406,Droid Razr,587,Droid RAZR
+6420,M1946 Sieg automatic rifle,588,Sieg automatic rifle
+6439,LG Enlighten,589,LG Optimus Zip
+6442,Universal Combat Platform T-99,590,Armata Universal Combat Platform
+6453,Dlugov assault rifle,591,Daugov assault rifle
+6465,Model 1814 common rifle,592,Model 1814 Common Rifle
+6476,Huawei IDEOS U8150,593,Huawei IDEOS
+6478,GAZ Tigr,594,GAZ Tiger
+6493,LG Nitro HD,595,LG Optimus LTE
+6503,Barak 8,596,Barak 8 (missile)
+6504,Raad (anti-ship missile),597,Raad (Anti Ship)
+6518,T1 Cunningham,598,T1 Light Tank
+6520,SIG SG 516,599,SIG 516
+6533,Lenovo IdeaPad Yoga 13,600,Lenovo IdeaPad Yoga
+6541,Asus Padfone,601,Asus PadFone
+6545,SAM-N-2 Lark,602,Lark (missile)
+6552,IPad (3rd generation),603,IPad (third generation)
+6554,ZCRS-122,604,RS-122
+6554,ZCRS-122,605,DRS-122
+6561,Neo Geo X,606,NeoGeo X
+6562,HTC Evo Design 4G,607,HTC EVO Design 4G
+6570,Google Glass,608,Project Glass
+6571,Modular Sniper Rifle,609,Remington MSR
+6573,Nokia Lumia,610,Microsoft Lumia
+6573,Nokia Lumia,611,Nokia Lumia series
+6592,ENT machine rifle,612,Rossignol ENT
+6596,Intel AZ210,613,XOLO X900
+6597,Light-weight Combat Vehicle System,614,Light-weight Combat Vehicle (LCV) System
+6600,Rheinmetall MG60,615,Rheinmetall MG 60
+6607,Droid Incredible 4G LTE,616,HTC Incredible 4G
+6630,Sony Xperia ion,617,Sony Xperia Ion
+6638,Sony Xperia Go,618,Sony Xperia go
+6645,Hopper (DVR),619,Dish Hopper (DVR)
+6650,HW 35,620,Weihrauch HW 35
+6661,Steyr-Mannlicher M1888,621,Mannlicher M1888
+6669,CZ SCORPION EVO 3 A1,622,CZ Scorpion Evo 3
+6669,CZ SCORPION EVO 3 A1,623,CZ Scorpion Evo 3 A1
+6699,Nexus 7,624,Nexus 7 (2012)
+6699,Nexus 7,625,Nexus 7 (2012 version)
+6703,Xiaomi Phone 2,626,Xiaomi Mi 2
+6710,Ruger American rifle,627,Ruger American Rifle
+6715,Ruger 96,628,Ruger Model 96
+6724,ARDE 40 mm Under Barrel Grenade Launcher,629,ARDE 40 mm under barrel grenade launcher
+6739,Kindle Fire HD,630,Fire HD
+6743,M44 Self Propelled Howitzer,631,M44 self propelled howitzer
+6780,VK4501,632,VK 4501 (P)
+6786,IPad (4th generation),633,IPad (fourth generation)
+6788,IPad (1st generation),634,IPad (first generation)
+6792,VRT35,635,Nissan VRT35
+6794,Surface Pro,636,Microsoft Surface Pro
+6802,Acer CloudMobile,637,Acer CloudMobile S500
+6803,M56 Howitzer,638,M-56 Howitzer
+6814,Gada (weapon),639,Gada (mace)
+6829,Samsung C414,640,Samsung SGH-C414
+6830,47 mm Anti-tank Gun Model 1931,641,47 mm Model 1931 anti-tank gun
+6832,Barrett Optical Ranging System (BORS),642,Barrett Optical Ranging System
+6834,Barrett MRAD (Multi-Role Adaptive Design),643,Barrett MRAD
+6858,12 cm Mortar,644,Type 2 12 cm Mortar
+6864,Project Shield,645,Shield Portable
+6864,Project Shield,646,Nvidia Shield
+6871,SYHK,647,FNSS Samur
+6879,Nokia Asha 206,648,Nokia 206
+6884,Samsung Galaxy Tab,649,Samsung Galaxy Tab series
+6893,HTC One (device),650,HTC One (M7)
+6893,HTC One (device),651,HTC One (2013)
+6907,Grosstraktor (prototype medium tank),652,Grosstraktor
+6921,120 mm Shneider-Canet M1897 long gun,653,120 mm Schneider-Canet M1897 long gun
+6925,VK4502(p),654,VK 4502 (P)
+6925,VK4502(p),655,VK4502(P)
+6928,Spice stellar nhance mi-435,656,Spice Stellar Nhance Mi-435
+6931,HTC Myst,657,HTC First

@@ -1,0 +1,2034 @@
+id,title
+0,Ahab
+1,Alaric I
+2,Alexander I of Scotland
+3,Alexander Jannaeus
+4,Alexios II Komnenos
+5,Alexios III Angelos
+6,Alexios V Doukas
+7,Amyntas I of Macedon
+8,Ancus Marcius
+9,Andronikos III Palaiologos
+10,Andronikos I Komnenos
+11,Andronikos II Palaiologos
+12,Arcadius
+13,Abbas II of Egypt
+14,Abdur Rahman Khan
+15,Ahuitzotl
+16,Axayacatl
+17,Bumin Qaghan
+18,Constans
+19,Dalai Lama
+20,David
+21,Domitian
+22,Emperor Kimmei
+23,Emperor Sushun
+24,Emperor Bidatsu
+25,Emperor Tenji
+26,Emperor Temmu
+27,Emperor Mommu
+28,Emperor Junnin
+29,Emperor Suizei
+30,Emperor Annei
+31,Emperor Kaika
+32,Emperor Suinin
+33,Emperor Sujin
+34,Emperor Nintoku
+35,Emperor Hanzei
+36,Emperor Seinei
+37,Emperor Ninken
+38,Emperor Buretsu
+39,Emperor Keitai
+40,Emperor Ankan
+41,Emperor Senka
+42,Emperor Montoku
+43,Emperor Seiwa
+44,Emperor Uda
+45,Emperor Kazan
+46,Honorius (emperor)
+47,Galba
+48,Galla Placidia
+49,Heraclius
+50,Hezekiah
+51,Elagabalus
+52,Jehu
+53,Jeroboam
+54,Justinian I
+55,Marcus Aurelius
+56,Mieszko I of Poland
+57,Moctezuma I
+58,Moctezuma II
+59,Malcolm III of Scotland
+60,Otho
+61,Omri
+62,Anastasios II
+63,Anastasius I (emperor)
+64,Saladin
+65,Solomon
+66,Sennacherib
+67,Theodosius I
+68,Theoderic the Great
+69,Emperor Go-Reizei
+70,Emperor Go-Suzaku
+71,Odoacer
+72,Emperor Sutoku
+73,Emperor Toba
+74,Phocas
+75,Claudius Gothicus
+76,Manuel I Komnenos
+77,Manuel II Palaiologos
+78,Emperor Juntoku
+79,Emperor Go-Saga
+80,Emperor Go-Horikawa
+81,Emperor Go-Fukakusa
+82,Emperor Go-Uda
+83,Emperor Go-Fushimi
+84,Emperor Go-Kameyama
+85,Emperor Go-Daigo
+86,Xerxes II of Persia
+87,Xerxes I of Persia
+88,Basil II
+89,Samuel of Bulgaria
+90,Cambyses II
+91,Constantine VIII
+92,Offa of Mercia
+93,Edmund Ironside
+94,Darius II
+95,Darius I
+96,Louis the German
+97,Justin I
+98,Magnus Maximus
+99,Caracalla
+100,Julius Nepos
+101,Nebuchadnezzar II
+102,Basarab I of Wallachia
+103,Marcian
+104,Philip II of Macedon
+105,Olybrius
+106,Titus
+107,Casimir I the Restorer
+108,Theodosius II
+109,Constantine XI Palaiologos
+110,Maurice (emperor)
+111,Leo I the Thracian
+112,Herod the Great
+113,Abijah of Judah
+114,Agrippa I
+115,Artaxerxes I of Persia
+116,John IV Laskaris
+117,Michael VIII Palaiologos
+118,Arminius
+119,Totila
+120,Isaac I Komnenos
+121,Isaac II Angelos
+122,Basil I
+123,Justin II
+124,Justinian II
+125,Heraklonas
+126,Philippikos Bardanes
+127,Leo V the Armenian
+128,Leo IV the Khazar
+129,Theodosios III
+130,Nikephoros I
+131,Nikephoros II Phokas
+132,Nikephoros III Botaneiates
+133,Romanos I Lekapenos
+134,Romanos II
+135,Romanos III Argyros
+136,Romanos IV Diogenes
+137,John II Komnenos
+138,Theophilos (emperor)
+139,Irene of Athens
+140,Theodore I Laskaris
+141,Theodora (11th century)
+142,Theodore II Laskaris
+143,John III Doukas Vatatzes
+144,John VI Kantakouzenos
+145,John V Palaiologos
+146,John VII Palaiologos
+147,John VIII Palaiologos
+148,Michael III
+149,Michael I Rangabe
+150,Michael II
+151,Michael V Kalaphates
+152,Michael IV the Paphlagonian
+153,Michael VI Bringas
+154,Michael VII Doukas
+155,Decius
+156,Mithridates II of Parthia
+157,Zeno (emperor)
+158,Emperor Jomei
+159,Procles
+160,Eurysthenes
+161,Demetrius I of Macedon
+162,Demetrius II Aetolicus
+163,Demetrius I Soter
+164,Berenice II
+165,Berenice I of Egypt
+166,Oswiu of Northumbria
+167,Antiochus V
+168,Shalmaneser III
+169,King Hiram I
+170,Pygmalion of Tyre
+171,Antigonus I Monophthalmus
+172,Ithobaal I
+173,Arsinoe III of Egypt
+174,Cleopatra I Syra
+175,Antiochus VI Dionysus
+176,Diodotus Tryphon
+177,Antiochus IV Epiphanes
+178,Artaxerxes II of Persia
+179,Aelia Eudocia
+180,Leonidas I
+181,Sargon II
+182,Philip V of Macedon
+183,Abd al-Malik ibn Marwan
+184,Childeric II
+185,Pontius Pilate
+186,Carus
+187,Kavadh I
+188,Khosrau I
+189,Kavadh II
+190,Khosrau II
+191,Hormizd I
+192,Hormizd II
+193,Hormizd III
+194,Hormizd VI
+195,Peroz I
+196,Hormizd IV
+197,Yazdegerd II
+198,Balash
+199,Yazdegerd I
+200,Bahram II
+201,Bahram I
+202,Yazdegerd III
+203,Bahram III
+204,Bahram IV
+205,Bahram V
+206,Shapur III
+207,Shapur II
+208,Shapur I
+209,Ardashir II
+210,Ardashir III
+211,Gordian I
+212,Gordian II
+213,Narseh
+214,Anthemius
+215,Constantius III
+216,Lucius Verus
+217,Philip the Arab
+218,Basiliscus
+219,Ecgfrith of Northumbria
+220,Penda of Mercia
+221,Trebonianus Gallus
+222,Aemilianus
+223,Bardiya
+224,Wallia
+225,Herennius Etruscus
+226,David I of Scotland
+227,Malcolm IV of Scotland
+228,"Edgar, King of Scotland"
+229,Donald III of Scotland
+230,Pescennius Niger
+231,Constantine III (Western Roman Emperor)
+232,Pertinax
+233,Clodius Albinus
+234,Quintillus
+235,Florianus
+236,Edmund the Martyr
+237,Nabonassar
+238,Lothair I
+239,John I Tzimiskes
+240,Euthydemus I
+241,Diodotus I
+242,Arsaces I of Parthia
+243,Shahrbaraz
+244,Antiochus VII Sidetes
+245,Philip III of Macedon
+246,Decebalus
+247,Constantine X Doukas
+248,Belshazzar
+249,Alexios IV Angelos
+250,Menander I
+251,Staurakios
+252,Tigranes the Great
+253,Sten Sture the Younger
+254,Svante Nilsson (regent of Sweden)
+255,Sten Sture the Elder
+256,Batu Khan
+257,Esarhaddon
+258,Emperor Go-Momozono
+259,Emperor Momozono
+260,Emperor Go-Nara
+261,Emperor Go-Kashiwabara
+262,Emperor Go-Tsuchimikado
+263,Emperor Go-Hanazono
+264,Emperor Go-Murakami
+265,Emperor Go-Komatsu
+266,Emperor Fushimi
+267,Emperor Tsuchimikado
+268,Emperor Antoku
+269,Emperor Go-Toba
+270,Emperor Go-Shirakawa
+271,Emperor Konoe
+272,Usman dan Fodio
+273,Khama III
+274,Alexander IV of Macedon
+275,Emperor Horikawa
+276,Emperor Shirakawa
+277,Emperor Reizei
+278,Sisavang Vong
+279,Anouvong
+280,Phetsarath Rattanavongsa
+281,Fa Ngum
+282,Samsenethai
+283,Theodahad
+284,Bounkhong
+285,Mohammed V of Morocco
+286,Sourigna Vongsa
+287,Yusef of Morocco
+288,Emperor Go-Sai
+289,Emperor Reigen
+290,Emperor Nakamikado
+291,Seljuk
+292,Nezahualcoyotl
+293,Emperor Higashiyama
+294,Emperor Hanazono
+295,Emperor Kameyama
+296,Emperor Takakura
+297,Stefan Radoslav of Serbia
+298,Tervel of Bulgaria
+299,Ottokar II of Bohemia
+300,Eugenius
+301,Artabasdos
+302,Antigonus II Gonatas
+303,Kanishka
+304,Tiberius II Constantine
+305,Constantine III (Byzantine emperor)
+306,Constans II
+307,Constantine IV
+308,Leontios
+309,Tiberios III
+310,Burebista
+311,Constantine V
+312,Constantine VI
+313,Alexander (Byzantine emperor)
+314,Leo VI the Wise
+315,Constantine VII
+316,Constantine IX Monomachos
+317,Andronikos IV Palaiologos
+318,Nur ad-Din Zangi
+319,Lembitu
+320,Nabopolassar
+321,Nabonidus
+322,Petronius Maximus
+323,Postumus
+324,Marcus Aurelius Marius
+325,Laelianus
+326,Stephen III of Moldavia
+327,Canute IV of Denmark
+328,Ibrahim Pasha of Egypt
+329,Abdallah ibn Al-Aftas
+330,Kaloyan of Bulgaria
+331,Kiya
+332,Pulcheria
+333,Verina
+334,Lapu-Lapu
+335,Artaxerxes III
+336,Muhammad Ahmad
+337,Asparukh of Bulgaria
+338,Birendra of Nepal
+339,Dost Mohammad Khan
+340,Chedorlaomer
+341,Ashurbanipal
+342,Alexander I of Macedon
+343,Lazar of Serbia
+344,K'inich Janaab' Pakal
+345,Ntare V of Burundi
+346,Peter I of Bulgaria
+347,Boris I of Bulgaria
+348,Presian I of Bulgaria
+349,Omurtag of Bulgaria
+350,Krum
+351,Simeon I of Bulgaria
+352,Mithridates I of Parthia
+353,Ibrahim Lodi
+354,Kubrat
+355,Artemisia I of Caria
+356,Hulagu Khan
+357,Nezahualpilli
+358,Herod Antipas
+359,Yax Nuun Ayiin I
+360,Sak K'uk'
+361,Ermanaric
+362,Dagobert II
+363,Malik-Shah I
+364,Cleomenes III
+365,Perdiccas I of Macedon
+366,Perdiccas III of Macedon
+367,Perdiccas II of Macedon
+368,Jigme Singye Wangchuck
+369,Zayed bin Sultan Al Nahyan
+370,"Redbad, King of the Frisians"
+371,Jeconiah
+372,Yazid I
+373,Meritaten
+374,"Leo I, Prince of Armenia"
+375,"Thoros II, Prince of Armenia"
+376,"Mleh, Prince of Armenia"
+377,"Constantine II, Prince of Armenia"
+378,"Ruben III, Prince of Armenia"
+379,"Ruben II, Prince of Armenia"
+380,Radu cel Frumos
+381,Sogdianus of Persia
+382,Cambyses I
+383,George Ghica
+384,Isa bin Salman Al Khalifa
+385,Cyrus I
+386,David of Trebizond
+387,Dingane kaSenzangakhona
+388,Cyaxares the Great
+389,Queen Seondeok of Silla
+390,Zechariah of Israel
+391,Muawiya II
+392,Marwan I
+393,Al-Walid I
+394,Sulayman ibn Abd al-Malik
+395,Yazid II
+396,Hisham ibn Abd al-Malik
+397,Al-Walid II
+398,Yazid III
+399,Ibrahim ibn al-Walid
+400,Marwan II
+401,Eurotas
+402,Tahir ibn Husayn
+403,Aelia Eudoxia
+404,Jayavarman VII
+405,Dharanindravarman II
+406,Pachacuti
+407,Acamapichtli
+408,Atahualpa
+409,Huayna Capac
+410,Itzcoatl
+411,Titu Cusi
+412,Ahaziah of Judah
+413,Amaziah of Judah
+414,Manasseh of Judah
+415,Ahmose (queen)
+416,Tiglath-Pileser I
+417,Ponhea Yat
+418,Taejong of Joseon
+419,Vlad II Dracul
+420,Bardyllis
+421,Big Bear
+422,Mpande kaSenzangakhona
+423,Ranjit Singh
+424,Muhammad Thakurufaanu Al Auzam
+425,Tahmasp I
+426,Seru Epenisa Cakobau
+427,Ismail I
+428,Archduke Eugen of Austria
+429,Domitius Alexander
+430,Aldfrith of Northumbria
+431,Altan Khan
+432,Yuri Dolgorukiy
+433,Wihtred of Kent
+434,Tey
+435,Sher Ali Khan
+436,Vladimir of Bulgaria
+437,Iskandar of Johor
+438,Mwambutsa IV Bangiriceng of Burundi
+439,Vytautas
+440,Ibrahim of Johor
+441,George Tupou II
+442,George Tupou I
+443,Ashurnasirpal II
+444,Josiah
+445,Ashur-nadin-ahhe II
+446,Aj Ne' Yohl Mat
+447,Yohl Ik'nal
+448,K'uk' B'alam I
+449,B'utz Aj Sak Chiik
+450,Ahkal Mo' Naab' I
+451,Kan B'alam I
+452,K'inich Ahkal Mo' Naab' III
+453,Firuz Shah Tughlaq
+454,Zaman Shah Durrani
+455,Habibullah Khan
+456,Olaf the Black
+457,Harald Olafsson
+458,Ahmad Shah Qajar
+459,Tytila of East Anglia
+460,Tetisheri
+461,"Mikhail, Prince of Abkhazia"
+462,Vlad the Impaler
+463,Pitikwahanapiwiyin
+464,Abimelech (Judges)
+465,Asa of Judah
+466,Amon of Judah
+467,Mohammad Ali Shah Qajar
+468,Idris I of Morocco
+469,Inayatullah Khan
+470,Raghib Pasha
+471,Achaemenes
+472,Jochi
+473,Tokhtamysh
+474,Chlodio
+475,Ur-Nammu
+476,Finn (Frisian)
+477,Gajah Mada
+478,Apollodotus I
+479,Eucratides I
+480,Antimachus I
+481,Agathocles of Bactria
+482,Hermaeus
+483,Pantaleon
+484,King Nicias
+485,Philoxenus Anicetus
+486,Mahmud Shah Durrani
+487,Ali Shah Durrani
+488,Ayub Shah Durrani
+489,Kujula Kadphises
+490,Hayam Wuruk
+491,Balarama Varma
+492,Kanishka II
+493,Vima Kadphises
+494,Vima Takto
+495,Huvishka
+496,Gondophares
+497,Ardashir I
+498,Isma'il Pasha
+499,Muhammad VIII al-Amin
+500,Mohammad Shah Qajar
+501,Dutugamunu
+502,Fath-Ali Shah Qajar
+503,Kigeli V of Rwanda
+504,Vratislaus II of Bohemia
+505,Robert Henry Clarence
+506,Jonathan Charles Frederick
+507,Andrew Hendy
+508,Oldman
+509,George William Albert Hendy
+510,William Henry Clarence
+511,Mozaffar ad-Din Shah Qajar
+512,Ashur-etil-ilani
+513,Salome Alexandra
+514,Mzilikazi
+515,Archelaus I of Macedon
+516,Alexander II of Macedon
+517,Andrew Bertie
+518,Naser al-Din Shah Qajar
+519,Mutara II Rwogera
+520,Antigonus III Doson
+521,Batbayan of Bulgaria
+522,"Floris III, Count of Holland"
+523,Manius Tullius Longus
+524,Tekuder
+525,Razia Sultana
+526,Karim Khan
+527,Iltutmish
+528,Antialcidas
+529,Nicholas Alexander of Wallachia
+530,Vladislav I of Wallachia
+531,Radu I of Wallachia
+532,Dan I of Wallachia
+533,Vlad I of Wallachia
+534,Michael I of Wallachia
+535,Mircea II of Wallachia
+536,Askia Mohammad I
+537,Sultan Husayn
+538,"Murdoch Stewart, Duke of Albany"
+539,Boris II of Bulgaria
+540,Samsu-iluna
+541,Tewfik Pasha
+542,Traidenis
+543,Vladislav II of Wallachia
+544,Arioch
+545,Pazhassi Raja
+546,Yeongjo of Joseon
+547,Tantamani
+548,Vong Savang
+549,Amel-Marduk
+550,Liu Xiang (scholar)
+551,Algirdas
+552,Ahmose-Nefertari
+553,Krishnadevaraya
+554,Abd al-Mu'min
+555,Mwanga II of Buganda
+556,Muhammad al-Nasir
+557,Dromichaetes
+558,Manco Inca Yupanqui
+559,Muhammed Bello
+560,Topa Inca Yupanqui
+561,Lakandula
+562,Agesipolis I
+563,Shekha of Amarsar
+564,Shah Shujah Durrani
+565,Aristobulus I
+566,Raja Raja Chola I
+567,Agathokleia
+568,Strato I
+569,Hippostratos
+570,Manuel III of Trebizond
+571,As-Salih Ayyub
+572,Centwine of Wessex
+573,Daudi Cwa II of Buganda
+574,Sigebert II
+575,Artemidoros
+576,Theophilos (king)
+577,Menander II
+578,Apollodotus II
+579,Azes II
+580,Azes I
+581,Zoilos I
+582,Zoilos II
+583,Dionysios Soter
+584,Apollophanes
+585,"Thoros I, Prince of Armenia"
+586,Te Atairangikaahu
+587,Muhammad Quli Qutb Shah
+588,Aspelta
+589,Epander
+590,Diomedes Soter
+591,Tahmasp II
+592,Demetrius II of India
+593,Qutb-ud-din Aibak
+594,Lysias Anicetus
+595,Amyntas IV of Macedon
+596,Huitzilihuitl
+597,Chimalpopoca
+598,Al-Nasir Muhammad
+599,Abdullah Khan II
+600,Al-Adil I
+601,Sikandar Lodi
+602,Vologases I of Parthia
+603,Chamarajendra Wadiyar X
+604,Arghun
+605,Demetrios Palaiologos
+606,Alan of Galloway
+607,Sa'id of Egypt
+608,Strato II and III
+609,Tzitzak
+610,Demetrios III
+611,Archebius
+612,Abu Marwan Abd al-Malik I Saadi
+613,Uzun Hassan
+614,Zbigniew of Poland
+615,Abas I of Armenia
+616,Ahmad ibn Ibrihim al-Ghazi
+617,Agis I
+618,Agis IV
+619,Tairrdelbach Ua Conchobair
+620,Matshobana KaMangete
+621,Bintanath
+622,Tin Hinan
+623,Janybek Khan
+624,Mohamoud Ali Shire
+625,Phraates II of Parthia
+626,Phraates I of Parthia
+627,Orodes II of Parthia
+628,Artavasdes II of Armenia
+629,Artabanus V (of Parthia)
+630,Artabanus III (of Parthia)
+631,Abu Yusuf Yaqub al-Mansur
+632,Gotarzes II of Parthia
+633,Arsaces II of Parthia
+634,Phriapatius of Parthia
+635,Bezprym
+636,Gotarzes I of Parthia
+637,Quli Qutb Mulk
+638,Abul Hasan Qutb Shah
+639,Berke
+640,Mohammed Ben Aarafa
+641,Kadashman-Enlil I
+642,Heliokles II
+643,Adad-nirari III
+644,Jani Beg
+645,"Choekyi Gyaltsen, 10th Panchen Lama"
+646,Hydarnes
+647,Yasovarman I
+648,Gelawdewos
+649,Na'od
+650,Menas of Ethiopia
+651,Sarsa Dengel
+652,Yaqob
+653,Za Dengel
+654,Susenyos I
+655,Fasilides
+656,Yohannes I
+657,Iyasu I
+658,Muwenda Mutebi II of Buganda
+659,Manuel I of Trebizond
+660,Djamasp
+661,Hussein Kamel of Egypt
+662,Newaya Maryam
+663,Newaya Krestos
+664,Amda Seyon I
+665,Dawit I
+666,Amyntas Nikator
+667,King Telephos
+668,Takla Maryam
+669,Sarwe Iyasus
+670,Amda Iyasus
+671,Zara Yaqob
+672,Baeda Maryam I
+673,Amda Seyon II
+674,Eskender
+675,Polyxenos Epiphanes Soter
+676,Antimachus II
+677,Yusuf ibn Tashfin
+678,John I of Trebizond
+679,Demetrius of Pharos
+680,Andronikos II of Trebizond
+681,"George, Emperor of Trebizond"
+682,Andronikos I of Trebizond
+683,Alexios I of Trebizond
+684,John II of Trebizond
+685,Ya'qub ibn al-Layth al-Saffar
+686,"Liutprand, King of the Lombards"
+687,Mahfuz
+688,Myles
+689,Tezozomoc (Azcapotzalco)
+690,Ivan Asen I of Bulgaria
+691,Maxtla
+692,Sadayavarman Sundara Pandyan I
+693,Sabin of Bulgaria
+694,Muhammad Ibrahim (Mughal emperor)
+695,Iyoas I
+696,Susenyos II
+697,Tekle Giyorgis I
+698,Salomon II
+699,Atse Iyasu
+700,Atse Baeda Maryam
+701,Tekle Haymanot of Gondar
+702,Hezqeyas
+703,Baeda Maryam III
+704,Ecgric of East Anglia
+705,Akbar Khan
+706,Ghazan
+707,Bernard of Italy
+708,"Ruben I, Prince of Armenia"
+709,"Constantine I, Prince of Armenia"
+710,Sunjo of Joseon
+711,Cleopatra IV of Egypt
+712,Cleopatra Selene I
+713,Muhammad Shamsuddeen III
+714,Mazen Asfour
+715,Gavril Radomir of Bulgaria
+716,Ivan Vladislav of Bulgaria
+717,Artaxias I
+718,Artaxias III
+719,Kashta
+720,Astyages
+721,Al-Harith ibn Jabalah
+722,Boril of Bulgaria
+723,Kaliman I of Bulgaria
+724,Michael Asen I of Bulgaria
+725,Kaliman Asen II of Bulgaria
+726,Ivan Asen III of Bulgaria
+727,Theodore Svetoslav of Bulgaria
+728,Ivan Shishman of Bulgaria
+729,George II of Bulgaria
+730,George I of Bulgaria
+731,Ivan Stephen of Bulgaria
+732,Michael Shishman of Bulgaria
+733,Eurydice I of Macedon
+734,Mahmud Shah of Malacca
+735,Dowlatshah
+736,Zariadres
+737,"Mahbub Ali Khan, Asaf Jah VI"
+738,"Osman Ali Khan, Asaf Jah VII"
+739,David of Taman
+740,Agrippa Menenius Lanatus (consul 503 BC)
+741,Thirumalai Nayak
+742,K'inich Yax K'uk' Mo'
+743,Maathorneferure
+744,Krishna Raja Wadiyar IV
+745,Jalal ud din Firuz Khilji
+746,Qasim ibn Hasan
+747,Taejo of Goryeo
+748,Cotiso
+749,Ali al-Akbar ibn Husayn
+750,Abba Jifar I
+751,Abba Bok'a
+752,Abba Gomol
+753,Abba Jifar II
+754,Abba Jofir
+755,Mohammad Yaqub Khan
+756,Endubis
+757,Alla Amidas
+758,Azilises
+759,Muhammad Imaaduddeen VI
+760,Kato Kintu
+761,Chwa I of Buganda
+762,Kotrag
+763,Hyrcanus II
+764,Ibrahim Adil Shah II
+765,Bogdan I of Moldavia
+766,"Mir Sa'id Muhammad Khan, Salabat Jang"
+767,Nuh II
+768,Abd al-Malik I (Samanid emir)
+769,Michael IX Palaiologos
+770,Munjong of Joseon
+771,Baji Rao II
+772,Jayachamarajendra Wadiyar
+773,Gentius
+774,Scerdilaidas
+775,Pleuratus I
+776,Uaxaclajuun Ub'aah K'awiil
+777,Jasaw Chan K'awiil I
+778,Indravarman II
+779,Kimera of Buganda
+780,Gwangjong of Goryeo
+781,Ahmad al-Mansur
+782,Askia Daoud
+783,Askia Mohammad Benkan
+784,Trisong Detsen
+785,Seonjo of Joseon
+786,Marduk-apla-iddina I
+787,Chand Kaur
+788,Nasrullah Khan (Afghanistan)
+789,Mohammad Ayub Khan
+790,Zakarine
+791,Al-Mustain I
+792,Modibo Adama
+793,Lan Kham Deng
+794,"Donnchadh, Earl of Carrick"
+795,Nebuchadnezzar I
+796,Liuvigild
+797,Jeongjo of Joseon
+798,Rajah Tupas
+799,Suna II of Buganda
+800,Thomas Palaiologos
+801,Dheeran Chinnamalai
+802,Sartaq Khan
+803,Ahmad Alaq
+804,Zorsines
+805,Dervan
+806,Ahmad ibn Asad
+807,Mansur II
+808,Andrianampoinimerina
+809,Ahmad Samani
+810,Nuh I
+811,Bela ben Beor
+812,Mansur I
+813,Mir Jafar
+814,Caranus of Macedon
+815,Coenus of Macedon
+816,Al-Malik al-Rahim
+817,Empress Ma (Ming)
+818,Viracocha Inca
+819,Asaf-Ud-Dowlah
+820,'Izz al-Dawla
+821,Constantine Mavrocordatos
+822,Mithrenes
+823,Matthew Kantakouzenos
+824,Sa'ad ad-Din II
+825,Haqq ad-Din II
+826,Ali ibn Sabr ad-Din
+827,Jamal ad-Din I
+828,Sabr ad-Din I
+829,Haqq ad-Din I
+830,Sabr ad-Din II
+831,"Yusuf II, Almohad Caliph"
+832,"Abdul-Wahid I, Almohad Caliph"
+833,Abdallah al-Adil
+834,"William I, Count of Holland"
+835,Mu'izz al-Dawla
+836,Ahmad ibn Ali
+837,Jamal ad-Din II
+838,Mansur ad-Din of Adal
+839,Badlay ibn Sa'ad ad-Din
+840,Muhammad ibn Badlay
+841,Shams ad-Din ibn Muhammad
+842,Muhammad ibn Azhar ad-Din
+843,Abu Bakr ibn Muhammad
+844,Umar Din
+845,Ali ibn Umar Din
+846,Barakat ibn Umar Din
+847,Mutik Tsenpo
+848,'Imad al-Dawla
+849,Abu Taleb Rostam
+850,"Sultan Shah Jahan, Begum of Bhopal"
+851,Eadberht of Northumbria
+852,Ljudevit Posavski
+853,Khai Bua Ban
+854,Mara Takla Haymanot
+855,Tatadim
+856,Jan Seyum
+857,Germa Seyum
+858,Yemrehana Krestos
+859,Gebre Mesqel Lalibela
+860,Yetbarak
+861,Lysandra
+862,Shammuramat
+863,Eurydice of Egypt
+864,Sangolli Rayanna
+865,Ghiyas ud din Balban
+866,Khalil Sultan
+867,Alexios IV of Trebizond
+868,Aravan
+869,Mutnedjmet
+870,Chey Chettha II
+871,Churaman
+872,Badan Singh
+873,Hermann Billung
+874,Manuchihr
+875,Cottius
+876,Vushmgir
+877,Harihara II
+878,Archelaus of Cappadocia
+879,Alexios III of Trebizond
+880,Manuel II of Trebizond
+881,Jayavarman II
+882,Jeongjong of Joseon
+883,Danjong of Joseon
+884,Sejo of Joseon
+885,"Dirk VI, Count of Holland"
+886,"Dirk VII, Count of Holland"
+887,"Floris IV, Count of Holland"
+888,Constantine Doukas (co-emperor)
+889,Idris II of Morocco
+890,Sas of Moldavia
+891,Balc of Moldavia
+892,"Dirk III, Count of Holland"
+893,"Dirk IV, Count of Holland"
+894,"Floris I, Count of Holland"
+895,Yusuf Adil Shah
+896,Petru Cercel
+897,Qabus
+898,William of Champlitte
+899,Mihnea Turcitul
+900,Sayajirao Gaekwad III
+901,Artavasdes I of Armenia
+902,Isetnofret
+903,Jaja of Opobo
+904,Audoin
+905,Humaid bin Rashid Al Nuaimi
+906,Meritamen
+907,Amun-her-khepeshef
+908,Isma'il ibn Ahmad
+909,Nasr II
+910,Somerled
+911,Rajasinghe II of Kandy
+912,Radu Mihnea
+913,Ballaios
+914,Mitso Asen of Bulgaria
+915,Geoffrey II of Villehardouin
+916,Geoffrey I of Villehardouin
+917,Isaac Komnenos (son of Alexios I)
+918,Mirambo
+919,Andronikos III of Trebizond
+920,Basil of Trebizond
+921,Irene Palaiologina of Trebizond
+922,Anna of Trebizond
+923,John III of Trebizond
+924,Michael of Trebizond
+925,Martina (empress)
+926,Yusuf Karamanli
+927,Philaretos Brachamios
+928,Safi of Persia
+929,Suleiman I of Persia
+930,Nahapana
+931,Alara of Nubia
+932,Indravarman I
+933,Ali ibn Yusuf
+934,Suleyman Shah
+935,Ibrahim I of Shirvan
+936,Drest X of the Picts
+937,Bridei VII of the Picts
+938,Ciniod II of the Picts
+939,Bridei VI of the Picts
+940,Abdul Momin
+941,"Cepheus, King of Aethiopia"
+942,Ciniod I of the Picts
+943,Khalilullah I
+944,Abol Fath Khan
+945,Raja Melewar
+946,Jafar Khan
+947,Sadiq Khan Zand
+948,Bhagabhadra
+949,Serfoji II
+950,Ealdwulf of East Anglia
+951,Ali Murad Khan
+952,Raja Petra Kamarudin
+953,Mohammad Ali Khan
+954,Sayed Murad Khan
+955,Sharaf Khan Bidlisi
+956,Umadevi
+957,Ismail Adil Shah
+958,Yuhi V of Rwanda
+959,Galdan Boshugtu Khan
+960,Radu IV the Great
+961,Sultan Ali Shah
+962,Abbas III
+963,Mallu Adil Shah
+964,Mangammal
+965,Rudradaman I
+966,Nasir ud din Mahmud
+967,Dahir (Raja)
+968,Burna-Buriash II
+969,Malietoa Laupepa
+970,"Otto II, Duke of Swabia"
+971,Sames of Commagene
+972,Arsames I
+973,Arsames II
+974,Xerxes of Armenia
+975,Abdissares
+976,Mengu-Timur
+977,Tuya (queen)
+978,Amanishakheto
+979,"Enno III, Count of East Frisia"
+980,Jinpyeong of Silla
+981,Teqerideamani I
+982,Harsiotef
+983,Nastasen
+984,Shorkaror
+985,Baskakeren
+986,Sawai Man Singh II
+987,Al-Aziz Uthman
+988,Shanakdakhete
+989,Kalinga Magha
+990,Amanikhareqerem
+991,Mir Qasim
+992,Bhavavarman I
+993,Viestards
+994,Mardavij
+995,Zainatuddin of Aceh
+996,"Ordulf, Duke of Saxony"
+997,Zhizhi Chanyu
+998,Agnimitra
+999,Shaokang
+1000,Sicard of Benevento
+1001,Mezezius
+1002,Abdul Samad of Selangor
+1003,Farrukh Yassar
+1004,Theodore Komnenos Doukas
+1005,Zhu of Xia
+1006,Peter IV of Bulgaria
+1007,"Bernard I, Duke of Saxony"
+1008,Bithiah
+1009,"Bernard II, Duke of Saxony"
+1010,Sultanah Kalsom binti Abdullah
+1011,Devanampiya Tissa of Anuradhapura
+1012,Veerapandiya Kattabomman
+1013,Bilichild
+1014,Harbai
+1015,Presian II of Bulgaria
+1016,Andronikos V Palaiologos
+1017,"Manuchar, Prince of Abkhazia"
+1018,"Zegnak, Prince of Abkhazia"
+1019,Al-Ashraf Qansuh al-Ghawri
+1020,Ramsingh I
+1021,Mohammad Afzal Khan
+1022,Attalus I
+1023,Telerig of Bulgaria
+1024,Gyeongjong of Joseon
+1025,Heonjong of Joseon
+1026,Bayanchur Khan
+1027,Modu Chanyu
+1028,Nasir-ud-Din Qabacha
+1029,Elyas ibn Asad
+1030,Ibrahim ibn Ilyas
+1031,K'inich K'an Joy Chitam II
+1032,Baraq (Khan of Golden Horde)
+1033,Rangsit Prayurasakdi
+1034,"Khedrup Gelek Pelzang, 1st Panchen Lama"
+1035,Michael II Komnenos Doukas
+1036,Chokkanatha Nayak
+1037,John Doukas (Caesar)
+1038,Ahhotep I
+1039,Abu al-Ghazi Bahadur
+1040,Muirchertach Mac Lochlainn
+1041,Ernest of Bavaria
+1042,Adityawarman
+1043,Javanshir
+1044,Olaf I Godredsson
+1045,Bhupinder Singh of Patiala
+1046,Oun Kham
+1047,John IV of Trebizond
+1048,Vibhavadi Rangsit
+1049,Ismail II
+1050,Florent of Hainaut
+1051,"Edzard II, Count of East Frisia"
+1052,Argaeus I of Macedon
+1053,Sigeberht of East Anglia
+1054,Eorpwald of East Anglia
+1055,Ricberht of East Anglia
+1056,Amr ibn al-Layth
+1057,Ahmad ibn Muhammad
+1058,Khalaf ibn Ahmad
+1059,Mohammed Khodabanda
+1060,Abbas II of Persia
+1061,Mohammad Ghaznavi
+1062,Maw'dud Ghaznavi
+1063,Athrwys ap Meurig
+1064,Jashwant Singh
+1065,Ratan Singh of Bharatpur
+1066,Kehri Singh
+1067,Ranjit Singh of Bharatpur
+1068,Kishan Singh of Bharatpur
+1069,Aeropus I of Macedon
+1070,Aeropus II of Macedon
+1071,Dharma Raja
+1072,Constantine Laskaris
+1073,Raden Wijaya
+1074,Mihirakula
+1075,Ayilyam Thirunal
+1076,Abu al-Hasan Ali
+1077,Andragoras (Seleucid satrap)
+1078,Altun Tash
+1079,Ahhotep II
+1080,Tuheitia Paki
+1081,"Harun, Ghaznavid Governor of Khwarezm"
+1082,Cankili I
+1083,Battles involving the Maratha Empire
+1084,Muhammadu Maccido
+1085,Kashtiliash IV
+1086,Raja Lumu
+1087,Mircea the Shepherd
+1088,Agrasena
+1089,Malietoa Tanumafili I
+1090,Stephen II of Croatia
+1091,Vishvendra Singh
+1092,Kusaila
+1093,Abdallah ibn Tahir al-Khurasani
+1094,K'ak' Tiliw Chan Yopaat
+1095,Senseneb
+1096,Amoghabhuti
+1097,Ablai Khan
+1098,Sunan Gunungjati
+1099,Abdallah al-Ghalib
+1100,Moolam Thirunal
+1101,Parakramabahu I
+1102,Muhammad ibn Idris
+1103,Ali ibn Muhammad
+1104,Yahya ibn Muhammad
+1105,Yahya ibn Yahya
+1106,Ali ibn Umar
+1107,Yahya ibn Al-Qassim
+1108,Yahya ibn Idris ibn Umar
+1109,Al-Hajjam al-Hasan ibn Muhammad ibn al-Qassim
+1110,Al Qasim Guennoun
+1111,Abu l-Aish Ahmad
+1112,Al-Hasan ibn Kannun
+1113,Al-Fadhl ibn Muhammad
+1114,Enlil-nadin-apli
+1115,"Dirk I, Count of Holland"
+1116,Khwaja Salimullah
+1117,Khwaja Habibullah
+1118,Domenico Selvo
+1119,Muhammad Ibn Abi'l-Saj
+1120,Yusuf ibn Abi'l-Saj
+1121,Eurycratides
+1122,Mir Wais Hotak
+1123,Pandara Vannian
+1124,Muhammad ibn Ilyas
+1125,Wuffa of East Anglia
+1126,Wehha of East Anglia
+1127,"Robert de Brus, 4th Lord of Annandale"
+1128,Ismail Khandan
+1129,Mattan I
+1130,Amanirenas
+1131,Muhammed Saadatullah Khan I
+1132,Rudolf Duala Manga Bell
+1133,Mansur Shah of Malacca
+1134,Askia Musa
+1135,Alauddin Riayat Shah II of Johor
+1136,Abu Abdallah Mohammed II Saadi
+1137,Muzaffar II of Johor
+1138,Tidal (Bible)
+1139,Alexandru Coconul
+1140,Alexandru II Mircea
+1141,Mircea III Dracul
+1142,Fabia Eudokia
+1143,Marzuban ibn Muhammad
+1144,Ali Mughayat Syah
+1145,Donnus
+1146,Salahuddin of Aceh
+1147,Alauddin al-Kahar
+1148,Iskandar Muda
+1149,Iskandar Thani
+1150,Taj ul-Alam
+1151,Touman
+1152,"Woldemar, Prince of Lippe"
+1153,"Leopold III, Prince of Lippe"
+1154,Mahmud Hotaki
+1155,"Leopold II, Prince of Lippe"
+1156,Beonna of East Anglia
+1157,Alberht of East Anglia
+1158,Kalema of Buganda
+1159,Vasujyeshtha
+1160,Ashraf Hotaki
+1161,Lone Horn
+1162,Ariadne (empress)
+1163,Tiy-Merenese
+1164,Touch the Clouds
+1165,Vasumitra
+1166,Duatentopet
+1167,Chastana
+1168,Ejei Khan
+1169,Ligdan Khan
+1170,Azarmidokht
+1171,Henutmire
+1172,Nebettawy
+1173,Princess Tia
+1174,Devabhuti
+1175,Khabul Khan
+1176,Nicholas Kanabos
+1177,Jjunju of Buganda
+1178,Abdal-Latif Mirza
+1179,"Husain Bey, Crown Prince of Tunisia"
+1180,Langdarma
+1181,Peibio Clafrog
+1182,Erb of Gwent
+1183,Cynfyn
+1184,Gwrfoddw
+1185,Gwrgan Fawr
+1186,Bharmal
+1187,Mahendravarman
+1188,Tapa Tchermoeff
+1189,Danishmend Gazi
+1190,Skanderbeg
+1191,Anaxander
+1192,Talabuga
+1193,Satiah
+1194,Tlacacuitlahuatzin
+1195,Aculnahuacatl Tzaqualcatl
+1196,Acolnahuacatl
+1197,Alauddin Riayat Shah of Malacca
+1198,Huitzilatzin
+1199,Shivaji II
+1200,Ramaswami Amarasimha Bhonsle
+1201,Ankhesenpepi I
+1202,Shiban
+1203,Raja Azureen
+1204,Raja Eleena
+1205,Raja Yong Sofia
+1206,Iaret
+1207,Nazi-Maruttash
+1208,Marduk-nadin-ahhe
+1209,Marduk-zakir-shumi I
+1210,Tigranes Orontid
+1211,Kaykaus II
+1212,Gowri Lakshmi Bayi
+1213,Kiurike I
+1214,David I Anhoghin
+1215,Kiurike II of Lori
+1216,David II of Lori
+1217,Oswald of East Anglia
+1218,Gowri Parvati Bayi
+1219,Sitdjehuti
+1220,Ahmose-Henuttamehu
+1221,Ahmose-Sitkamose
+1222,Indravarman III
+1223,Iset (queen)
+1224,Ascall mac Ragnaill
+1225,Yik'in Chan K'awiil
+1226,Krishnaraja Wadiyar II
+1227,Muhammad bin Shaddad
+1228,Ali I bin Muhammad Lashkari
+1229,Marzuban bin Muhammad (Shaddadid)
+1230,Abu-l-Fa't Musa
+1231,Ali II Lashkari
+1232,Anushirvan bin Ali II Lashkari
+1233,Al Fadl II bin Shavur I
+1234,Abu-l-Aswar Shavur I bin al-Fadl I
+1235,Ashot bin Shavur I
+1236,Iset Ta-Hemdjert
+1237,Tiye (20th dynasty)
+1238,Tiaa
+1239,Amun-her-khepeshef (20th dynasty)
+1240,Vikramabahu of Ruhuna
+1241,Baal-Eser II
+1242,Visakham Thirunal
+1243,Sebastiano Mocenigo
+1244,Alvise Giovanni Mocenigo
+1245,Nikephoros Bryennios the Elder
+1246,Nikephoros Basilakes
+1247,Nikephoros Melissenos
+1248,Franz von Hillenbrand
+1249,Nahathai Thewphaingarm
+1250,Kayqubad II
+1251,Yusuf Ali Kenadid
+1252,Ibrahim Adil Shah I
+1253,Ali Adil Shah I
+1254,Mohammed Adil Shah
+1255,Ali Adil Shah II
+1256,Sikandar Adil Shah
+1257,Abu Syahid Shah
+1258,Saadat Ali Khan II
+1259,Chief Mqalo
+1260,Ralpacan
+1261,Nur ibn Mujahid
+1262,Rajah Humabon
+1263,Purgaz
+1264,Sadnalegs
+1265,Kanthirava Narasaraja II
+1266,Mangsong Mangtsen
+1267,Tridu Songtsen
+1268,Me Agtsom
+1269,Ragnall mac Somairle
+1270,Audulf
+1271,Tini Beg
+1272,Tuda Mengu
+1273,Vijayabahu I of Polonnaruwa
+1274,Muhammad Aytimur
+1275,Philip I of Macedon
+1276,Viqar-ul-Umra
+1277,Yashwantrao Holkar
+1278,Wajih ad-Din Mas'ud
+1279,Maharaja Sir Kishen Pershad
+1280,Itzamnaaj B'alam II
+1281,Yaxun B'alam III
+1282,Lady Eveningstar
+1283,Boromma Chayasiri
+1284,Shams al-Din ibn Fazl Allah
+1285,Khwaja Shams al-Din 'Ali
+1286,Najimuddin Ali Khan
+1287,Najabut Ali Khan
+1288,Mansur Ali Khan
+1289,Yahya Karawi
+1290,Zahir al-Din Karawi
+1291,Lutf Allah
+1292,Delbeg Khan
+1293,Oyiradai
+1294,Adai Khan
+1295,Rajasinha I of Sitawaka
+1296,Thakur Nawal Singh
+1297,Mubarak Ali Khan II
+1298,Raisal of Khandela
+1299,Martanda Cinkaiariyan
+1300,Cankili II
+1301,Al-Said Barakah
+1302,Ethirimana Cinkam
+1303,Alcetas I of Macedon
+1304,Alcetas II of Macedon
+1305,Puviraja Pandaram
+1306,Longarus
+1307,Periyapillai
+1308,Singai Pararasasegaram
+1309,Kanakasooriya Cinkaiariyan
+1310,Hassan Ali Mirza
+1311,Wasif Ali Mirza
+1312,Varodaya Cinkaiariyan
+1313,Waris Ali Mirza
+1314,Tukojirao Holkar II
+1315,Kulasekara Cinkaiariyan
+1316,Zainal Abidin III of Terengganu
+1317,Pratap Singh of Thanjavur
+1318,Uthradom Thirunal
+1319,Jeyaveera Cinkaiariyan
+1320,Nasir al-Din Muhammad
+1321,Vimaladharmasuriya I of Kandy
+1322,Chak Tok Ich'aak I
+1323,Bai Koblo Pathbana II
+1324,Lucy Gulama
+1325,"Eudokia, wife of Constantine V"
+1326,"Maria, wife of Constantine V"
+1327,"Maria, wife of Leo III"
+1328,Theodora of Khazaria
+1329,Anastasia (wife of Constantine IV)
+1330,Jayanta Mongkol
+1331,Fausta (wife of Constans II)
+1332,Gregoria
+1333,Leontia
+1334,Constantina (empress)
+1335,Ino Anastasia
+1336,Keakealaniwahine
+1337,Keakamahana
+1338,Kukailani
+1339,Keliiokaloa
+1340,Monunius I of Dardania
+1341,Bato of Dardania
+1342,Grabos
+1343,Bircenna
+1344,Cleitus the Illyrian
+1345,Mytilus of Illyria
+1346,Audata
+1347,Etuta
+1348,Jai Singh Prabhakar
+1349,Yax Pasaj Chan Yopaat
+1350,Yax Nuun Ayiin II
+1351,Sophia (empress)
+1352,Euphemia (empress)
+1353,Uthradom Thirunal Marthanda Varma
+1354,Zenonis
+1355,Ali bin Abdullah Al Thani
+1356,Yaxun B'alam IV
+1357,Al-Afdal ibn Salah ad-Din
+1358,Ashraf Ali Khan
+1359,Gerolf of Holland
+1360,Agum III
+1361,Vigrahapala III
+1362,Mahipala II
+1363,Shurapala II
+1364,Ramapala
+1365,Donnchad mac Briain
+1366,Tyrimmas of Macedon
+1367,"Dirk II, Count of Holland"
+1368,Orestes of Macedon
+1369,Pausanias of Macedon
+1370,Raghoji II Bhonsle
+1371,Crateuas of Macedon
+1372,Malik Altunia
+1373,Gregory the Patrician
+1374,Sayf al-Dawla
+1375,Epulon
+1376,Agesipolis III
+1377,Malietoa Moli
+1378,"Arnulf, Count of Holland"
+1379,Khadijah of the Maldives
+1380,Raadhafathi of the Maldives
+1381,Dhaain of the Maldives
+1382,Mahmud IV
+1383,Kakaalaneo
+1384,Kahekili I
+1385,Casper (Maya ruler)
+1386,Sakinah (Fatima al-Kubra) bint Husayn
+1387,Sekgoma II
+1388,Kapiliele Faupala
+1389,Aramatle-qo
+1390,Rajendravarman II
+1391,Malonaqen
+1392,Aryamani
+1393,Aktisanes
+1394,Sultan Mahmud ibn Nizam al-Din Yahya
+1395,Nabu-apla-iddina
+1396,Tarekeniwal
+1397,King Nga'ara
+1398,Upatissa of Upatissa Nuwara
+1399,Sena and Guttika
+1400,Panduvasdeva of Upatissa Nuwara
+1401,Abhaya of Upatissa Nuwara
+1402,Tissa of Upatissa Nuwara
+1403,Women rulers in Maya society
+1404,Mithridates VI of Pontus
+1405,Sharif Kabungsuwan
+1406,Alexios Komnenos (co-emperor)
+1407,Phaya Sai Songkhram
+1408,Luethai
+1409,Abu Mansur Fulad Sutun
+1410,Tuman bay II
+1411,Mago I of Carthage
+1412,Kaloyan (sebastocrator)
+1413,Wazir Ali Khan
+1414,Sri Vijaya Rajasinha of Kandy
+1415,Dhatusena of Anuradhapura
+1416,Kashyapa I of Anuradhapura
+1417,Vimaladharmasurya II of Kandy
+1418,Senarat of Kandy
+1419,Mahasena of Anuradhapura
+1420,Pandukabhaya of Anuradhapura
+1421,Mutasiva of Anuradhapura
+1422,Mwanga I of Buganda
+1423,Hasdrubal I of Carthage
+1424,Hamilcar I of Carthage
+1425,Viswanatha Nayak
+1426,Akram Shammaa
+1427,Arikesari Maravarman
+1428,Kochadaiyan Ranadhiran
+1429,Maravarman Rajasimha II
+1430,Ajit Singh of Khetri
+1431,Amanitore
+1432,Phelles
+1433,Astarymus
+1434,Deleastartus
+1435,Astartus
+1436,Abdastartus
+1437,Baal-Eser I
+1438,Abibaal
+1439,Chikka Devaraja
+1440,"Alexander Og MacDonald, Lord of Islay"
+1441,Jasaw Chan K'awiil II
+1442,Jayabahu I of Polonnaruwa
+1443,Vikramabahu I of Polonnaruwa
+1444,Gajabahu II of Polonnaruwa
+1445,Vijayabahu II of Polonnaruwa
+1446,Askia Ishaq I
+1447,Dodda Krishnaraja I
+1448,Gerad Hamar Gale
+1449,Thored
+1450,Sargon of Akkad
+1451,Porga of Croatia
+1452,Jivadaman
+1453,Azim-ud-Daula
+1454,Farrukhzad
+1455,Rama Varma XV
+1456,Nissanka Malla of Polonnaruwa
+1457,Turan-Shah
+1458,Jassim bin Mohammed Al Thani
+1459,Ibrahim Adeer
+1460,Mahamud Ibrahim
+1461,Yusuf Mahamud Ibrahim
+1462,Ahmed Yusuf (Gobroon)
+1463,Al-Mansur Ibrahim
+1464,As-Salih Ismail
+1465,Gerad Ali Dable
+1466,Abdullah bin Jassim Al Thani
+1467,Mohammed bin Thani
+1468,Vira Narendra Sinha of Kandy
+1469,Mohammed bin Jassim Al Thani
+1470,Nabu-mukin-zeri
+1471,Nabu-suma-ukin II
+1472,Nabu-nadin-zeri
+1473,Velu Nachiyar
+1474,Nader Shah
+1475,Muhammad Shah of Selangor
+1476,Glaucias of Taulanti
+1477,Uttiya of Anuradhapura
+1478,Mahasiva of Anuradhapura
+1479,Suratissa of Anuradhapura
+1480,Asela of Anuradhapura
+1481,Saddha Tissa of Anuradhapura
+1482,Gothabhaya of Anuradhapura
+1483,Al-Muzaffar Umar
+1484,Louis the Younger
+1485,Mahinda V of Anuradhapura
+1486,Abbas I of Egypt
+1487,Theodoric I
+1488,Qutb Shah
+1489,Mas'ud I of Ghazni
+1490,Babar Ali Khan
+1491,Ahmad Ali Khan
+1492,Al-Mundhir III ibn al-Nu'man
+1493,Kurigalzu I
+1494,Osman Ahmed
+1495,Comosicus
+1496,Duras (Dacian king)
+1497,Theodore Mangaphas
+1498,Pseudo-Alexios II
+1499,Konstantios Doukas
+1500,Ttembo of Buganda
+1501,Kiggala of Buganda
+1502,Kiyimba of Buganda
+1503,Kayima of Buganda
+1504,Nakibinge of Buganda
+1505,Mulondo of Buganda
+1506,Jemba of Buganda
+1507,Suuna I of Buganda
+1508,Sekamaanya of Buganda
+1509,Kimbugwe of Buganda
+1510,Kateregga of Buganda
+1511,Mutebi I of Buganda
+1512,Juuko of Buganda
+1513,Kayemba of Buganda
+1514,Tebandeke of Buganda
+1515,Ndawula of Buganda
+1516,Kagulu of Buganda
+1517,Kikulwe of Buganda
+1518,Mawanda of Buganda
+1519,Namuggala of Buganda
+1520,Kyabaggu of Buganda
+1521,Semakookiro of Buganda
+1522,Kamaanya of Buganda
+1523,Muteesa I of Buganda
+1524,Eshaq Khan Qaraei-Torbati
+1525,Mohammad Khan Qaraei-Torbati
+1526,Iset (priestess)
+1527,Nubkhesbed
+1528,Kiweewa of Buganda
+1529,Abd al-Aziz of Mogadishu
+1530,Pratapaditya
+1531,Henuttawy (priestess)
+1532,Thulatthana of Anuradhapura
+1533,Abdulkadir Isse Ahmed Salah
+1534,Akhsitan I ibn Minuchihr III
+1535,Peggielene Bartels
+1536,Khenemetneferhedjet I
+1537,Khamerernebty I
+1538,Pleurias
+1539,Mentuhotep (queen)
+1540,Mago II of Carthage
+1541,Ineni (queen)
+1542,Emperor Itoku
+1543,Ivar of Limerick
+1544,Himilco (general)
+1545,Nikephoros Diogenes
+1546,Kavan Tissa of Ruhuna
+1547,Lanja Tissa of Anuradhapura
+1548,Khallata Naga of Anuradhapura
+1549,Gothabhaya of Ruhuna
+1550,Maxhob'ayakhawuleza Sandile
+1551,Orontes I Sakavakyats
+1552,Hidarnes I
+1553,Hidarnes II
+1554,Hidarnes III
+1555,"Ulrich I, Count of East Frisia"
+1556,"Edzard I, Count of East Frisia"
+1557,Mahanaga of Ruhuna
+1558,"Enno II, Count of East Frisia"
+1559,Yatala Tissa of Ruhuna
+1560,Orontes II
+1561,Artavasdes I of Media Atropatene
+1562,Abu Sa'id Uthman II
+1563,Abu al-Rabi Sulayman
+1564,Abu Thabit Amir
+1565,Abu Yaqub Yusuf an-Nasr
+1566,Nubwenet
+1567,Abu Yusuf Yaqub ibn Abd Al-Haqq
+1568,Timur
+1569,Shah Kalim Allah Jahanabadi
+1570,Herneith
+1571,Tiberius Petasius
+1572,Gunchen Chanyu
+1573,Vasabha of Anuradhapura
+1574,Titus Herminius Aquilinus
+1575,Thurisind
+1576,Al-Mundhir III ibn al-Harith
+1577,Jabalah IV ibn al-Harith
+1578,Jayanegara
+1579,Genseric
+1580,"Rudolf Christian, Count of East Frisia"
+1581,"Ulrich II, Count of East Frisia"
+1582,"Enno Louis, Prince of East Frisia"
+1583,Gerad Dhidhin
+1584,Shaka Kushan
+1585,Kristin Sigurdsdatter
+1586,Amir Suri
+1587,Dragimir of Travunia and Zachlumia
+1588,Dawlat Berdi
+1589,Sirras
+1590,Dietrich I von Hengebach
+1591,Dharmapala of Kotte
+1592,Tamelerdeamani
+1593,Ghiyas ad-Din Ghori
+1594,The Five Dravidians
+1595,Benerib
+1596,Raja Sitaram Ray
+1597,Isetnofret II
+1598,Karomama II
+1599,Isetemkheb D
+1600,Makea Takau Ariki
+1601,Nakhtneith
+1602,Tabiry
+1603,Abar (Queen)
+1604,Khensa
+1605,Arikhankharer
+1606,Peksater
+1607,Naparaye
+1608,Tabekenamun
+1609,Qalhata
+1610,Nasakhma
+1611,Amanikhabale
+1612,Akhraten
+1613,Malewiebamani
+1614,Amanineteyerike
+1615,Siaspiqa
+1616,Man Singh Tomar
+1617,Analmaye
+1618,Adikhalamani
+1619,Talakhamani
+1620,Amanibakhi
+1621,Abdurrahman Aamir'Dhuubow'
+1622,Eormenred of Kent
+1623,Yarrow Maaytey
+1624,Muhammad Metwali Alsharawi
+1625,Ichise Chanyu
+1626,Chedihou Chanyu
+1627,Dewey Beard
+1628,Crow Dog
+1629,John Grass
+1630,Henutwati
+1631,Tawerettenru
+1632,Gofraid Donn
+1633,Andronikos Doukas (co-emperor)
+1634,Miliduch
+1635,Bhavashankari
+1636,Jeremy I
+1637,Jeremy II
+1638,Peter I of the Miskito nation
+1639,Robert Charles Frederic
+1640,George Frederic Augustus I
+1641,George II Frederic
+1642,Abu al-Abbas Ahmad ibn Muhammad
+1643,George Augustus Frederic II
+1644,Christopher Lekapenos
+1645,Makea Pori Ariki
+1646,Stephen Lekapenos
+1647,Constantine Lekapenos
+1648,Mahinda VI of Polonnaruwa
+1649,Vira Bahu I of Polonnaruwa
+1650,Hussain Hotaki
+1651,Patareshnes
+1652,Karomama A
+1653,Maatkare B
+1654,Tashedkhonsu
+1655,Nesitaudjatakhet
+1656,Kapes
+1657,Leo Diogenes
+1658,Constantine (son of Leo V)
+1659,Theodosios Monomachos
+1660,Constantine Angelos Doukas
+1661,Tuanku Aishah Rohani
+1662,Old Chief Smoke
+1663,Abdul Aziz Hotak
+1664,Napki Malka
+1665,Edward I (Moskito)
+1666,Qiangqui
+1667,Heraclius (son of Constans II)
+1668,Tiberius (son of Constans II)
+1669,Uwei Chanyu
+1670,Theodosius (son of Maurice)
+1671,Bistam (Sassanid king)
+1672,Tashfin ibn Ali
+1673,Puli Thevar
+1674,Parameswara (sultan)
+1675,Abu Yaqub Yusuf
+1676,Dion (mythology)
+1677,Ivan Asen II of Bulgaria
+1678,Sena Sammatha Wickramabahu of Kandy
+1679,George I (Moskito)
+1680,Orontes III
+1681,Manga Ndumbe Bell
+1682,Ndumbe Lobe Bell
+1683,Prince Imperial Heung
+1684,Pebatjma
+1685,Orontes I
+1686,Artasyrus
+1687,Orontes IV
+1688,Mithrenes II
+1689,Tankiz
+1690,Agum II
+1691,Prince Kinashi no Karu
+1692,Monunius II of Dardania
+1693,Indradyumna
+1694,Sambhaji Shahaji Bhosale
+1695,Paddy Roy Bates
+1696,Koon Pandiyan
+1697,Mirza Fath-ul-Mulk Bahadur
+1698,Mirza Shah Abbas
+1699,Bardylis II
+1700,"Yahya, Almohad Caliph"
+1701,Idris al-Ma'mun
+1702,Abd al-Wahid II
+1703,Abu al-Hasan as-Said al-Mutadid
+1704,Johan II of East Frisia
+1705,Abu Hafs Umar al-Murtada
+1706,Idris al-Wathiq
+1707,Pleuratus III
+1708,Pleuratus II
+1709,Grabus
+1710,Jayaweera Astana of Kandy
+1711,Karaliyadde Bandara of Kandy
+1712,Dona Catherina of Kandy
+1713,Bhuvanekabahu VII of Kotte
+1714,Dharma Parakramabahu IX of Kotte
+1715,Vijayabahu VII of Kotte
+1716,Jayabahu II of Kotte
+1717,Parakramabahu VII of Kotte
+1718,Parakramabahu VIII of Kotte
+1719,Parakrama Pandyan II
+1720,Lokissara
+1721,Vikramabahu II of Polonnaruwa
+1722,Chodaganga of Polonnaruwa
+1723,Kalyanavati of Polonnaruwa
+1724,Sahassa Malla of Polonnaruwa
+1725,Anikanga of Polonnaruwa
+1726,Dharmasoka of Polonnaruwa
+1727,Artas of Messapia
+1728,Mohammad Azam Khan
+1729,Burnaburiash I
+1730,King Manisarus
+1731,Karaindash
+1732,Kadashman-harbe I
+1733,Kutlug I Bilge Kagan
+1734,Siyaj Chan K'awiil II
+1735,Ulamburiash
+1736,Pa Maretu Ariki
+1737,Tinomana Mereana Ariki
+1738,Numangatini Tione Ariki
+1739,Kurigalzu II
+1740,Kadashman-Turgu
+1741,Kadashman-Enlil II
+1742,Kudur-Enlil
+1743,Shagarakti-Shuriash
+1744,Makea Te Vaerua Ariki
+1745,Pa Upoko Takau Ariki
+1746,Enlil-nadin-shumi
+1747,Kadashman-Harbe II
+1748,Adad-shuma-iddina
+1749,Adad-shuma-usur
+1750,Puresh
+1751,Zababa-shuma-iddin
+1752,Enlil-nadin-ahi
+1753,Darvish Mohammed Khan
+1754,Osman Mahamuud
+1755,Ibrahim ibn Tashfin
+1756,Ishaq ibn Ali
+1757,Vankanasika Tissa of Anuradhapura
+1758,Mahallaka Naga of Anuradhapura
+1759,Cuauhtototzin
+1760,"Malek Jahan Khanom, Mahd-e Olia"
+1761,Nabu-shum-libur
+1762,Adad-apla-iddina
+1763,Marduk-ahhe-eriba
+1764,Erra-imitti
+1765,Mar-biti-apla-usur
+1766,Marduk-shapik-zeri
+1767,Marduk-kabit-ahheshu
+1768,Kashshu-nadin-ahi
+1769,Ea-mukin-zeri
+1770,Itti-Marduk-balatu (king)
+1771,Iter-pisha
+1772,Simbar-shipak
+1773,Eulmash-shakin-shumi
+1774,Ninurta-kudurri-usur I
+1775,Ninurta-nadin-shumi
+1776,Marduk-zer-X
+1777,Shirikti-shuqamuna
+1778,Ilunga Sungu
+1779,Shu-Ilishu
+1780,Enlil-bani
+1781,Zambiya
+1782,Lipit-Enlil
+1783,Ur-du-kuga
+1784,K'an I
+1785,Yajaw Te' K'inich II
+1786,Knot Ajaw
+1787,K'an II
+1788,List of Nayakars
+1789,Affreca de Courcy
+1790,Iddin-Dagan
+1791,Ur-Ninurta
+1792,Mahendradatta
+1793,Al-Ashraf Musa
+1794,Suen-magir
+1795,Bur-Suen
+1796,Nabu-shuma-ukin I
+1797,Shamash-mudammiq
+1798,Mar-biti-ahhe-iddina
+1799,Ninurta-kudurri-usur II
+1800,Damiq-ilishu
+1801,Marduk-balassu-iqbi
+1802,Eriba-Marduk
+1803,Baba-aha-iddina
+1804,Marduk-bel-zeri
+1805,Marduk-apla-usur
+1806,Nabu-shuma-ishkun
+1807,Ninurta-apla-X
+1808,Kumalae
+1809,Sanjar al-Jawli
+1810,Abu Sa'id Mirza
+1811,Jalal al-Din Khan ibn Tokhtamysh
+1812,King Xolotl
+1813,Tayatzin
+1814,Amina of the Maldives
+1815,Lady of Tikal
+1816,Arrigo della Rocca
+1817,Abu Sa'id Bahadur Khan
+1818,Ali al-Sulayhi
+1819,Iah (queen)
+1820,Kusmasana Devi
+1821,Moggallana II of Anuradhapura
+1822,Marcus (son of Basiliscus)
+1823,Khosrau IV
+1824,Teuruarii IV
+1825,Khosrau III
+1826,Mubarak Ali Khan (Nawab of Bengal)
+1827,Mahendra Singh of Patiala
+1828,Prince Giorgi Mikhailovitch Shervashidze
+1829,"Dmitry, Prince of Abkhazia"
+1830,Tiberius (son of Justinian II)
+1831,Gerulf I of Frisia
+1832,Theophylact (son of Michael I)
+1833,Thakur Bhojraj
+1834,Jettha Tissa I of Anuradhapura
+1835,Neferu II
+1836,Tamaeva IV
+1837,Haytham ibn Khalid
+1838,Muhammed II Shirvanshah
+1839,Haytham II Shirvanshah
+1840,Shirvanshah Ali
+1841,Muhammed III Shirvanshah
+1842,Abu Tahir Yazid
+1843,Shirvanshah Ahmad
+1844,Muhammed V Shirvanshah
+1845,Yazid III Shirvanshah
+1846,Shirvanshah Manuchehr I
+1847,Shirvanshah Ali II
+1848,Shirvanshah Kubad
+1849,Shirvanshah Ali III
+1850,Shirvanshah Salar
+1851,Shirvanshah Fariburz
+1852,Shirvanshah Manuchehr II
+1853,Shirvanshah Afridun I
+1854,Shirvanshah Manuchehr III
+1855,Shirvanshah Afridun II
+1856,Shirvanshah Shahanshah
+1857,Shirvanshah Fariburz II
+1858,Shirvanshah Farrukhzad I
+1859,Shirvanshah Gushtasb I
+1860,Shirvanshah Fariburz III
+1861,Shirvanshah Akhsitan II
+1862,Shirvanshah Farrukhzad II
+1863,Shirvanshah Akhsitan III
+1864,Shirvanshah Keykavus I
+1865,Shirvanshah Keykubad I
+1866,Shirvanshah Kavus
+1867,Shirvanshah Hushang
+1868,Zain-ud-Din Ali Khan
+1869,Mwanawina II
+1870,Visvaldis
+1871,Malinxalchitl
+1872,Kalanipehu
+1873,Kahokuohua
+1874,Kapohauola
+1875,Kawaokaohele
+1876,Nuku Muhammad Amiruddin
+1877,Prince Daniyal
+1878,Kamaloohua
+1879,Mauiloa
+1880,Abu Muhammad Lu'lu' al-Kabir
+1881,Kapitan Laut Buisan
+1882,Raghunatha Nayak
+1883,Nasir al-Dawla
+1884,Gagik I of Vaspurakan
+1885,Derenik-Ashot of Vaspurakan
+1886,Abusahl-Hamazasp of Vaspurakan
+1887,Ashot-Sahak of Vaspurakan
+1888,Gurgen-Khachik of Vaspurakan
+1889,Seneqerim-Hovhannes of Vaspurakan
+1890,Sa'd al-Dawla
+1891,Abu Taghlib
+1892,Sayf ad-Din Inal
+1893,Mirza Jahangir
+1894,Mirza Jahan Shah
+1895,Mirza Salim
+1896,Baybars al-Ala'i
+1897,Prince Ismail Imaduddeen
+1898,Jovan Vladimir
+1899,Indrajayavarman
+1900,Igwe Iwuchukwu Ezeifekaibeya
+1901,Igwe Orizu I (Eze Ugbonyamba)
+1902,Igwe Josiah Orizu II
+1903,Titus Flavius Claudius Sulpicianus
+1904,Titus Flavius Postumius Titianus
+1905,Balumama
+1906,Hasan Sultan
+1907,Khri ma lod
+1908,Quintus Cloelius Siculus
+1909,Gaius Veturius Geminus Cicurinus
+1910,Chantharath
+1911,Simha Varman II
+1912,Parakrama Bahu Epa of Gampola
+1913,Vira Bahu II of Gampola
+1914,Parakkamabahu V of Gampola
+1915,Vikramabahu III of Gampola
+1916,Bhuvanaikabahu V of Gampola
+1917,The Six Dravidians
+1918,Tugstumur Khan
+1919,Agvarjin (Jonon) Khan
+1920,Alauddin Khilji
+1921,Malekeh Jahan
+1922,Sa'id al-Dawla
+1923,Al-Mansur Nasir al-Din Muhammad
+1924,Publius Servilius Priscus Structus
+1925,Titus Verginius Tricostus Caeliomontanus
+1926,Publius Suillius Rufus
+1927,Varaz Grigor
+1928,Varaz Trdat
+1929,Muhammad Ali of Egypt
+1930,Timur Shah Durrani
+1931,Gediminas
+1932,Gaumata (False Bardiya)
+1933,Vytenis
+1934,Ngamaru Rongotini Ariki
+1935,Vijayabahu III of Dambadeniya
+1936,Bhuvanaikabahu IV of Gampola
+1937,Parakkamabahu II of Dambadeniya
+1938,Vijayabahu IV of Dambadeniya
+1939,Bhuvanaikabahu I of Dambadeniya
+1940,Parakkamabahu III of Dambadeniya
+1941,Parakkamabahu IV of Dambadeniya
+1942,Bhuvanaikabahu II of Dambadeniya
+1943,Bhuvanaikabahu III of Dambadeniya
+1944,Vijayabahu V of Dambadeniya
+1945,Aulus Verginius Tricostus Caeliomontanus
+1946,Titus Veturius Geminus Cicurinus (consul 494 BC)
+1947,Devavarman (Champa)
+1948,Abd al-Karim Sabun
+1949,Mahakuli Mahatissa of Anuradhapura
+1950,Siva I of Anuradhapura
+1951,Vatuka of Anuradhapura
+1952,Darubhatika Tissa of Anuradhapura
+1953,Niliya of Anuradhapura
+1954,Kutakanna Tissa of Anuradhapura
+1955,Bhatikabhaya Abhaya of Anuradhapura
+1956,Mahadathika Mahanaga of Anuradhapura
+1957,Amandagamani Abhaya of Anuradhapura
+1958,Kanirajanu Tissa of Anuradhapura
+1959,Chulabhaya of Anuradhapura
+1960,Sivali of Anuradhapura
+1961,Ilanaga of Anuradhapura
+1962,Chandamukha of Anuradhapura
+1963,Yassalalaka Tissa of Anuradhapura
+1964,Subharaja of Anuradhapura
+1965,Bhatika Tissa of Anuradhapura
+1966,Kanittha Tissa of Anuradhapura
+1967,Cula Naga of Anuradhapura
+1968,Kuda Naga of Anuradhapura
+1969,Siri Naga I of Anuradhapura
+1970,Voharika Tissa of Anuradhapura
+1971,Abhaya Naga of Anuradhapura
+1972,Siri Naga II of Anuradhapura
+1973,Sangha Tissa I of Anuradhapura
+1974,Siri Sangha Bodhi I of Anuradhapura
+1975,Vijaya Kumara of Anuradhapura
+1976,Jettha Tissa II of Anuradhapura
+1977,Sirimeghavanna of Anuradhapura
+1978,Buddhadasa of Anuradhapura
+1979,Upatissa I of Anuradhapura
+1980,Mahanama of Anuradhapura
+1981,Soththisena of Anuradhapura
+1982,Chattagahaka Jantu of Anuradhapura
+1983,Mittasena of Anuradhapura
+1984,Moggallana I of Anuradhapura
+1985,Kumara Dhatusena of Anuradhapura
+1986,Kittisena of Anuradhapura
+1987,Siva II of Anuradhapura
+1988,Upatissa II of Anuradhapura
+1989,Silakala Ambosamanera of Anuradhapura
+1990,Dathappabhuti of Anuradhapura
+1991,Kittisiri Meghavanna of Anuradhapura
+1992,Maha Naga of Anuradhapura
+1993,Aggabodhi I of Anuradhapura
+1994,Aggabodhi II of Anuradhapura
+1995,Sangha Tissa II of Anuradhapura
+1996,Moggallana III of Anuradhapura
+1997,Silameghavanna of Anuradhapura
+1998,Aggabodhi III of Anuradhapura
+1999,Jettha Tissa III of Anuradhapura
+2000,Dathopa Tissa I of Anuradhapura
+2001,Kassapa II of Anuradhapura
+2002,Dappula I of Anuradhapura
+2003,Dathopa Tissa II of Anuradhapura
+2004,Aggabodhi IV of Anuradhapura
+2005,Unhanagara Hatthadatha of Anuradhapura
+2006,Manavanna of Anuradhapura
+2007,Aggabodhi V of Anuradhapura
+2008,Kassapa III of Anuradhapura
+2009,Aggabodhi VI of Anuradhapura
+2010,Mahinda I of Anuradhapura
+2011,Aggabodhi VII of Anuradhapura
+2012,Mahinda II of Anuradhapura
+2013,Dappula II of Anuradhapura
+2014,Mahinda III of Anuradhapura
+2015,Aggabodhi VIII of Anuradhapura
+2016,Dappula III of Anuradhapura
+2017,Aggabodhi IX of Anuradhapura
+2018,Sena I of Anuradhapura
+2019,Sena II of Anuradhapura
+2020,Udaya I of Anuradhapura
+2021,Kassapa IV of Anuradhapura
+2022,Kassapa V of Anuradhapura
+2023,Dappula IV of Anuradhapura
+2024,Dappula V of Anuradhapura
+2025,Sena III of Anuradhapura
+2026,Udaya II of Anuradhapura
+2027,Udaya III of Anuradhapura
+2028,Sena IV of Anuradhapura
+2029,Mahinda IV of Anuradhapura
+2030,Sena V of Anuradhapura
+2031,Hajji Muhammad Ali Khan
+2032,Aghasi Khan

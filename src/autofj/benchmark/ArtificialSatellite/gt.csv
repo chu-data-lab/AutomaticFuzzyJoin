@@ -1,0 +1,73 @@
+id_l,title_l,id_r,title_r
+119,Soyuz 18a,0,Soyuz 7K-T No.39
+200,Pad Abort Test-1 (Apollo),1,Pad Abort Test 1
+201,A-101 (spacecraft),2,AS-101 (spacecraft)
+202,A-102 (spacecraft),3,AS-102 (spacecraft)
+219,Spirit (rover),4,Spirit rover
+220,Opportunity (rover),5,Opportunity rover
+302,UoSAT-2,6,UO-11
+374,A-104 (spacecraft),7,AS-104 (spacecraft)
+375,A-103 (spacecraft),8,AS-103 (spacecraft)
+376,A-105 (spacecraft),9,AS-105 (spacecraft)
+378,Pad Abort Test-2 (Apollo),10,Pad Abort Test 2
+410,Soyuz T-10-1,11,Soyuz 7K-ST No. 16L
+450,SpaceShipOne flight 17P,12,SpaceShipOne Flight 17P
+527,NuSTAR,13,Nuclear Spectroscopic Telescope Array
+530,Eutelsat 28A,14,Eutelsat 33C
+542,SEASAT,15,Seasat
+544,Foton-M2,16,Foton-M No.2
+584,CHAMP,17,CHAMP (satellite)
+607,Bion 1,18,Kosmos 605
+608,Bion 7,19,Kosmos 1667
+619,CUTE-1.7,20,CUTE-1.7 + APD
+622,Eutelsat 33A,21,Eutelsat 31A
+640,Nilesat 103,22,Eutelsat 16B
+669,Geotail,23,GEOTAIL
+688,Fengyun 2-05,24,Fengyun 2D
+716,Active Cavity Radiometer Irradiance Monitor Satellite,25,ACRIMSAT
+733,Resurs-DK1,26,Resurs-DK No.1
+759,HYLAS-1,27,HYLAS
+783,Landsat Data Continuity Mission,28,Landsat 8
+786,Proba-2,29,PROBA2
+796,P78-1,30,Solwind
+798,UoSat-1,31,UoSAT-1
+798,UoSat-1,32,UoSat-OSCAR 9
+804,A Broadband Imaging X-ray All-sky Survey,33,ABRIXAS
+831,Agila 2,34,ABS-3
+832,Sentinel 3,35,Sentinel-3
+840,Soil Moisture and Ocean Salinity satellite,36,Soil Moisture and Ocean Salinity
+854,MightySat-2,37,MightySat-2.1
+886,Aditya (spacecraft),38,Aditya (satellite)
+898,Eutelsat 28B,39,Eutelsat 48D
+898,Eutelsat 28B,40,Eutelsat 48B
+898,Eutelsat 28B,41,Afghansat 1
+899,Hot Bird 9,42,Hot Bird 13C
+911,AMC 1,43,AMC-1
+924,Prisma,44,Prisma (satellite project)
+953,Eurobird 4A,45,Eutelsat 4A
+959,CP-6,46,CP6 (satellite)
+1089,Satmex 6,47,Eutelsat 113 West A
+1093,Orion 3 (satellite),48,Orion 3
+1219,Azerspace-1/Africasat-1a,49,Azerspace
+1274,LightSail-1,50,LightSail 2
+1277,Eutelsat 70A,51,Eutelsat 33B
+1277,Eutelsat 70A,52,Eutelsat 25C
+1337,SpaceX COTS Demo Flight 1,53,COTS Demo Flight 1
+1370,Dragon C2+,54,COTS Demo Flight 2
+1371,SpaceX CRS-1,55,Dragon C3
+1415,NEE-01 Pegasus,56,NEE-01 Pegaso
+1421,SES7,57,SES-7
+1423,Europa Lander,58,Laplace-P
+1460,New Dawn (satellite),59,Intelsat 28
+1470,Ziyuan 3,60,Ziyuan III-01
+1472,Zond 3MV-1 No.2,61,Venera 3MV-1 No.2
+1490,Cygnus 1,62,Cygnus Orb-D1
+1491,Ekspress-AM4,63,Ekspress AM4
+1495,IRNSS-1,64,IRNSS-1A
+1575,SpaceX CRS-2,65,Dragon C4
+1577,Estrela do Sul 1,66,Telstar 14
+1646,GPS IIF-4,67,USA-242
+1699,Mangalyaan,68,Mars Orbiter Mission
+1703,AIDA (spacecraft),69,AIDA (mission)
+1774,TDRS-K,70,TDRS-11
+1798,Satmex 8,71,Eutelsat 117 West A

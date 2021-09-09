@@ -1,0 +1,513 @@
+id,title
+0,Waltham Abbey (abbey)
+1,Ãglise de la Madeleine
+2,Westminster Central Hall
+3,"Mary, Queen of the World Cathedral"
+4,St. Patrick's Cathedral (Manhattan)
+5,Riddarholm Church
+6,"St Benet's, Paul's Wharf"
+7,Saint Thomas Church (Manhattan)
+8,"St Clement's, Eastcheap"
+9,St Andrew-by-the-Wardrobe
+10,Cathedral Basilica of Our Lady of Peace
+11,Cathedral of Our Lady of Peace (Honolulu)
+12,Cathedral Basilica of Our Lady of Peace (Honolulu)
+13,Meycauayan Church
+14,Cathedral Church of Saint Andrew (Honolulu)
+15,Avaldsnes Church
+16,Cathedral of Jesus' Heart
+17,Magdeburg Cathedral
+18,"St Francis Xavier Church, Liverpool"
+19,St Francis Xavier Church
+20,"Gustav Adolf Church, Liverpool"
+21,Gustav Adolfs Kyrka
+22,Cathedral of St. Michael and St. Gudula
+23,Hong Kong Catholic Cathedral of the Immaculate Conception
+24,San Agustin Church (Manila)
+25,Ji Le Temple
+26,Wellington Cathedral of St Paul
+27,"Cathedral of St Bavo, Haarlem"
+28,Notre-Dame Cathedral Basilica (Ottawa)
+29,"St Stephen's, Walbrook"
+30,Influencers Church
+31,"St Andrew's Church, Liverpool"
+32,"St Peter's Church, Woolton, Liverpool"
+33,"Cathedral of St. Matthew the Apostle (Washington, D.C.)"
+34,"Cathedral of Saint Mary of the Assumption (San Francisco, California)"
+35,Holy Trinity Brompton Church
+36,Abundant Life Church
+37,"Episcopal Cathedral of Saint Philip (Atlanta, Georgia)"
+38,"St. Louis Cathedral, New Orleans"
+39,"Saints Peter and Paul Cathedral (St. Thomas, U.S. Virgin Islands)"
+40,"Holy Family Cathedral (Anchorage, Alaska)"
+41,"Cathedral of the Holy Family (Tafuna, American Samoa)"
+42,Cathedral of Saint Patrick in Harrisburg
+43,"Church of St Matthew and St James, Mossley Hill"
+44,Grace Toronto Church
+45,"St. Thomas Syro-Malabar Catholic Church, Malayattoor"
+46,Malayattoor Saint Thomas Church
+47,St. Andrew's Presbyterian Church (Windsor)
+48,"St. Michan's Church, Dublin"
+49,Life.Church
+50,Saint Mark's Coptic Orthodox Cathedral
+51,Jesus Is Lord Church
+52,"St Andrew's Church, West Bromwich"
+53,Wat Ratchanatdaram
+54,"St. Eric's Cathedral, Stockholm"
+55,"St Patrick's Basilica, Ottawa"
+56,St. Patrick's Basilica (Ottawa)
+57,"St Andrew's Church, Kowloon"
+58,"St Helen's Church, Bishopsgate"
+59,St Helen Bishopsgate
+60,Hildesheim Cathedral
+61,"Valley View Christian Church, Dallas, Texas"
+62,St. Paul's Basilica
+63,St. Mary's Basilica (Halifax)
+64,"Sandor, Thane"
+65,Dresden Cathedral
+66,"St. Joseph Cathedral (Buffalo, New York)"
+67,"St. Stanislaus Catholic Church (Milwaukee, Wisconsin)"
+68,St. Paul's Cathedral (Regina)
+69,Holy Rosary Cathedral (Regina)
+70,Masthugg Church
+71,Masthugg church
+72,"St. Andreas, Hildesheim"
+73,Three Pagodas of Chongsheng Temple (Dali)
+74,"Cathedral of Saint Bonaventure, Banja Luka"
+75,"St. Matthias, Bellwoods"
+76,St. Peter's Lutheran Church (Ottawa)
+77,Holy Name of Jesus Church (San Francisco)
+78,"St. Stephen's Cathedral, Passau"
+79,Frederick's Church
+80,"St Mary's Church, Mary Street, Dublin"
+81,"St Andrew's Church, Mells"
+82,"St. Mary's Cathedral Basilica, Ernakulam"
+83,"Church St. Nicholas, Kumanovo"
+84,Saint Sophia (Los Angeles)
+85,Grace Church (Manhattan)
+86,"Cathedral of Saint Francis Xavier (Green Bay, Wisconsin)"
+87,"St Jude's Church, Carlton"
+88,"Sacred Heart Church, Wimbledon"
+89,"St Andrew's Church, Goldsworth Park"
+90,San Sebastian Church (Manila)
+91,Papal Basilica of Saint Mary of the Angels in Assisi
+92,Wealthy Park Baptist Church
+93,"St. Michael's Cathedral, Belgrade"
+94,"St Saviour's Church, Branston"
+95,"St Julian's Church, Norwich"
+96,"St. John's Cathedral (Jacksonville, Florida)"
+97,"Holy Trinity Church, Fulnek"
+98,"St. Peter's Cathedral Basilica, London, Ontario"
+99,Valjala Church
+100,"Alexander Nevsky Cathedral, Howell"
+101,"St. Alexander Nevsky Cathedral (Howell, New Jersey)"
+102,Baclaran Church
+103,Shwesandaw Pagoda (Bagan)
+104,Notre-Dame-des-Victoires Church
+105,Fort-de-France Cathedral
+106,Papeete Cathedral
+107,"Notre Dame Cathedral, Taiohae"
+108,"Holy Trinity Church, Marylebone"
+109,Browns Bridge Church
+110,Great St. Martin Church
+111,"Cathedral of the Holy Cross (Boston, Massachusetts)"
+112,"St George's Cathedral, London"
+113,"San Pietro Martire, Naples"
+114,"All Saints' Church, Tudeley"
+115,Calvary Chapel Fort Lauderdale
+116,St. Paul Episcopal Cathedral (Cincinnati)
+117,Cathedral of Christ the King (Hamilton)
+118,Our Lady of Dolours Syro-Malabar Catholic Basilica
+119,Basilica of Our Lady of Dolours
+120,The Rock Church
+121,Our Lady of Lourdes Metropolitan Cathedral
+122,Zamora Cathedral
+123,"St Piran's Chapel, Trethevy"
+124,"All Hallows, Bread Street"
+125,Kheng Hock Keong
+126,"Our Lady of Victories Church, Valletta"
+127,Acropolium of Carthage
+128,"Saint Louis Cathedral, Carthage"
+129,Duke Street Baptist Church
+130,"St Paul's, Deptford"
+131,"St. John the Baptist Church, Pottsville, PA"
+132,Church of St Nicholas (Amsterdam)
+133,"Christ the King Cathedral, Mullingar"
+134,"All Saints Church, Lund"
+135,"St Mary's Cathedral, Kilkenny"
+136,Church of St Mary Axe
+137,Downtown Presbyterian Church (Nashville)
+138,"St Michael and St George Cathedral, Grahamstown"
+139,"Our Lady of the Scapular Parish (Wyandotte, Michigan)"
+140,St. James Cathedral (Chicago)
+141,St. Mary of the Angels (Chicago)
+142,Saint-Pierre Cathedral
+143,"St Audoen's Catholic Church, Dublin"
+144,St. Aloysius Church
+145,"All Saints Church, Selsley"
+146,"St Matthews Church, Cotham"
+147,"St. Pancras, Ipswich"
+148,Marybone Chapel
+149,"Old St. Luke's Episcopal Church (Cincinnati, Ohio)"
+150,"St Mary the Virgin, Wotton-under-Edge"
+151,Church of Our Saviour (Cincinnati)
+152,Saint Stephen's Parish Church (Manila)
+153,St. Stephen's Parish (Manila)
+154,St Andrew Holborn (church)
+155,"St Andrew's, Holborn"
+156,St. Barbara Church (Chicago)
+157,St. Wenceslaus in Chicago
+158,St. Stanislaus Kostka Church (Chicago)
+159,St. Hedwig's Church (Chicago)
+160,Holy Innocents Church (Chicago)
+161,"City of Conquerors Church, Philadelphia"
+162,"Cathedral of St. John of Nepomuk, Zrenjanin"
+163,Holy Trinity Roman Catholic Church (Chicago)
+164,Biddlestone Chapel
+165,St. Michael's in Chicago
+166,St. Mary of Perpetual Help Church (Chicago)
+167,St. John Cantius Church (Chicago)
+168,St. Joseph Roman Catholic Church (Chicago)
+169,St. Josaphat Roman Catholic Church (Chicago)
+170,Leeds Parish Church
+171,"Church of the Holy Spirit, Lund"
+172,St. Ladislaus Roman Catholic Church (Chicago)
+173,"First Baptist Church (Atlanta, Georgia)"
+174,Shwesandaw Pagoda (Pyay)
+175,"Basilica of San Francesco, Bologna"
+176,Wat Yannawa
+177,Basilica of Our Lady Immaculate
+178,"Basilica of Our Lady Immaculate, Guelph"
+179,"St. Michael's Church, Basingstoke"
+180,Christian Cultural Center
+181,"Covenant Presbyterian Church (Chicago, Illinois)"
+182,Church of Saint Nectan
+183,"Church of the Good Shepherd (Beverly Hills, California)"
+184,Church of the Virgin Mary (Haret Zuweila)
+185,"St Cuthbert's Church, Edinburgh"
+186,"St Finian's Church, Newcastle"
+187,"St Mary's Church, Cheltenham"
+188,St Alphege London Wall
+189,"Church of St. Nicholas, Vilnius"
+190,Church of St. Panteleimon (Gorno Nerezi)
+191,Kyaikpun Buddha
+192,Shwemawdaw Pagoda
+193,"St Gregory's Minster, Kirkdale"
+194,Ankoku-ji (Fukuyama)
+195,Managua Cathedral
+196,Church of Saint Mary of the Mongols
+197,Shatin baptist church
+198,"Holy Trinity, Sloane Street"
+199,"Holy Name of Jesus Catholic Church (Indialantic, Florida)"
+200,"All Saints' Church, Stand"
+201,"St Columba's Church, St Columb Minor"
+202,James River Church
+203,"Saint James Evangelical Lutheran Church of Milwaukee, Wisconsin"
+204,Ãglise Saint-Augustin de Paris
+205,Christ Church Cathedral (Indianapolis)
+206,St Mel's Cathedral
+207,Proto-Cathedral of St. Mary Byzantine Catholic Church
+208,"First Presbyterian Church, San Luis Obispo"
+209,"St. Andrew's Catholic Church (Pasadena, California)"
+210,"St. Monica Catholic Church (Santa Monica, California)"
+211,"St. Augustine Catholic Church, Culver City"
+212,Seventh-day Adventist Church of Tonga
+213,"St Chad's, Burton upon Trent"
+214,"St. John the Evangelist Church (Cambridge, Massachusetts)"
+215,St Mary Magdalene Woolwich
+216,"St George the Martyr, Holborn"
+217,"Shrine Church of St. Stanislaus (Cleveland, Ohio)"
+218,"Sacred Heart Cathedral (Fairbanks, Alaska)"
+219,"St Sebastian's Syro-Malabar Church, Neyyassery"
+220,"Cathedral of St. Ignatius Loyola (Palm Beach, Florida)"
+221,St. Mary & St. Antonios Coptic Orthodox Church
+222,St. James Episcopal Church (Sonora)
+223,"St. James Anglican Church (Sonora, California)"
+224,"Church of Saint-Laurent, Paris"
+225,"St Andrew's Church, Nottingham"
+226,"Church of St Joseph, Beijing"
+227,"St James' Church, Louth"
+228,"St Peter and St Paul's Church, Shelford"
+229,"Church of St. Mary and All Angels, Bingham"
+230,"St Patrick's R C Church, Grangetown"
+231,"St Andrew's Church, Langar"
+232,"St Andrew's Church, Caunton"
+233,"St Andrew's Church, Skegby"
+234,"St Paul's Church, Auckland"
+235,Essen Cathedral
+236,"St Sampson's church, Golant"
+237,Basilica of Our Lady of Walsingham
+238,"City Temple, London"
+239,Church of St Peter and St Paul (Amsterdam)
+240,Church of Our Lady (Amsterdam)
+241,Begijnhof Chapel (Amsterdam)
+242,"St. Audoen's Church, Dublin (Church of Ireland)"
+243,St. Audoen's Church
+244,"St. Catherine's Church, Dublin"
+245,"St Grada & Holy Cross Church, Grade"
+246,St. Michael and All Angels Anglican Church
+247,Santa Brigida a Campo de' Fiori
+248,Loma Linda University Church
+249,"St Anne's Church, Worksop"
+250,"St Alphege Church, Solihull"
+251,Lugano Cathedral
+252,"St John's Seminary, Wonersh"
+253,"St Andrew's Church, Chale"
+254,"St Mary the Virgin Church, Cowes"
+255,"St James's Church, East Cowes"
+256,"St Mildred's Church, Whippingham"
+257,"Church of St Saviour-on-the-Cliff, Shanklin"
+258,"St Augustine's Church, Hedon"
+259,"Our Lady of Good Counsel Church, Sion"
+260,Portuguese Church
+261,"St Peter and St Paul's Church, New Brighton"
+262,"St Peter's Church, Petersham"
+263,"St. Vito's Church (Mamaroneck, New York)"
+264,"St Saviour's, Pimlico"
+265,Nuremberg Frauenkirche
+266,Basilica of Saint Martin of Tours
+267,Ceuta Cathedral
+268,St. James Anglican Church
+269,"St. Peter the Rock Cathedral, Cashel"
+270,St Mary's Chapel (Hampstead)
+271,"First Baptist Church (Dallas, Texas)"
+272,"St Materiana's Church, Tintagel"
+273,"St Michael's Church, Turku"
+274,"St Mary with St Richard, Northolt"
+275,"St John the Evangelist's Church, Preston Village"
+276,"St Andrew's Church, Backwell"
+277,"St Paul's, Harringay"
+278,"Macedonian Orthodox Cathedral of the Dormition of the Virgin Mary (Reynoldsburg, Ohio)"
+279,"St Hilary's Church, St Hilary"
+280,"St. George Syro-Malabar Catholic Forane Church, Edappally"
+281,"St. George's Forane Church, Edappally"
+282,"St John's, Notting Hill"
+283,"St Peter's, Notting Hill"
+284,Santa Maria del Priorato Church
+285,Andaw-thein Temple
+286,Ratanabon Temple
+287,"St Maddern's Church, Madron"
+288,"St Petroc's Church, Bodmin"
+289,"St. Francis de Sales Church (St. Louis, Missouri)"
+290,"First Church of Christ, Scientist (Pittsburgh, Pennsylvania)"
+291,Tayabas Basilica
+292,"Serbian Orthodox Cathedral, Zagreb"
+293,Serbian Orthodox Cathedral in Zagreb
+294,"St Tallanus' Church, Talland"
+295,"St. Mary's Church, Hayling Island"
+296,Holy Trinity Church (Hrastovlje)
+297,All Souls Unitarian Church
+298,"St Wilfrid's Church, Alford"
+299,"St. John the Forerunner Church, Riga"
+300,"St Stephen's Church, Gateacre"
+301,"St Breage's Church, Breage"
+302,"Cathedral of All Souls (Asheville, North Carolina)"
+303,"St. James' Church and Cemetery, Dublin"
+304,"St Boniface Church, Germiston"
+305,"Church of St. Achillius, Arilje"
+306,Zion Church (Worpswede)
+307,"St. Casimir Parish,Terryville"
+308,"Church of Holy Cross, Nin"
+309,"St. Bartholomew's Episcopal Church (Atlanta, Georgia)"
+310,Saint Jacques-sur-Coudenberg
+311,"St. Andrew's Church, Westland Row, Dublin"
+312,Trinity Presbyterian Church
+313,La Laguna Cathedral
+314,St. Paul's Anglican Church (Dawson City)
+315,"All Hallows, Twickenham"
+316,Hvalsey Church
+317,St. Timothy Catholic Church (Los Angeles)
+318,"St. George Basilica, Angamaly"
+319,St. Ann's Episcopal Church (Bronx)
+320,St. Ann's Church Complex (Bronx)
+321,"St Michael's Church, Yanworth"
+322,St Mary The Boltons
+323,"Church of St. Elijah, Podujevo"
+324,"St. Joseph's Cathedral, Hanoi"
+325,Shwezedi Monastery
+326,Church of St. Paul the Apostle (New York City)
+327,"St. Catherine's Church, Turku"
+328,Romanian Church of the Holy Trinity in Deliblato
+329,"St. Andrew's Church, Andrew St., Dublin"
+330,"St. Mary's Church, Turku"
+331,"Church of St. Nicholas Within, Dublin"
+332,"Church of the Sacred Hearts of Jesus and Mary (Manhattan, New York)"
+333,"St Anne's Church, Kew"
+334,"San Isidoro, Oviedo"
+335,"Santo Domingo, Oviedo"
+336,"San Juan el Real, Oviedo"
+337,"St Mary's Church, Hanwell"
+338,St Leonards-on-Sea United Reformed Church
+339,"St Andrew's Church, Chippenham"
+340,"Saint John the Baptist Cathedral (Fresno, California)"
+341,"St. Paulinus' Church, Trier"
+342,"St Peter's Church, Barnburgh"
+343,"St. Mary's Roman Catholic Church (Philadelphia, Pennsylvania)"
+344,"St Mary the Virgin's Church, Middleton"
+345,"Bethesda Methodist Chapel, Stoke-on-Trent"
+346,"St Benet Fink, Tottenham"
+347,"Cathedral of Saint Augustine (Tucson, Arizona)"
+348,Five Wounds Portuguese National Parish
+349,"St. Peter's Church Phibsborough, Dublin"
+350,The Cathedral Church of St. Eunan
+351,Our Lady of the Sacred Heart Parish Church
+352,"Church of Michael Archangel, Baku"
+353,"Welsh Presbyterian Church, Liverpool"
+354,"St Mary The Church of Our Lady, Merevale"
+355,"St Peter & St Paul's Church, Syston"
+356,Ngahtatgyi Buddha Temple
+357,"St. Nicolas' Church, Guildford"
+358,"Church of Saint Edmund, Rochdale"
+359,Pitakataik (Bagan)
+360,"St Anne's Church, Singleton"
+361,"St James, Muswell Hill"
+362,"St. Mary's Church, Helminghausen"
+363,"St Andrews Church, Arbroath"
+364,"St Mary the Virgin's Church, Deane"
+365,"St James' Church, Normanton"
+366,"Cathedral of the Nativity of the Blessed Virgin Mary, Trebinje"
+367,"All Hallows, Tottenham"
+368,St. John's Shrewsbury Anglican Church
+369,Our Lady of Lourdes Church (Manhattan)
+370,Holy Innocents Church (New York City)
+371,Church of Sts. Cyril & Methodius and St. Raphael (New York City)
+372,Shrine Church of St. Ann (Bronx)
+373,Nordbotn Church
+374,Santa Monica Parish Church (Sarrat)
+375,Santa Monica Church (Sarrat)
+376,Church of Our Lady of Guadalupe (Manhattan)
+377,"St. Luke's Church, Munich"
+378,St Peirio's Church
+379,Saint Gabriel Church
+380,Saint Lawrence Church
+381,"St. Gregory the Great Church, Danbury"
+382,"St. Laurence and All Saints Church, Eastwood"
+383,"St Gabriel's, Cricklewood"
+384,Salem Baptist Church (Chicago)
+385,Fagerhaug Church
+386,"Church of St. Evphemianos (or Themonianos) in Lysi, Cyprus"
+387,St Gallgo's Church
+388,"St. John's Church (St. Petersburg, Russia)"
+389,"Saint John the Baptist, Maddermarket, Norwich"
+390,"Church of Saint John the Baptist, Maddermarket, Norwich"
+391,Sts. Constantine and Helen Serbian Orthodox Church
+392,Proto-Cathedral of St. James the Greater
+393,"Christ Church, Brixton Road"
+394,Ronde Lutherse Kerk
+395,First Baptist Church of Montana (Helena)
+396,"St. Andrew's Church, Cologne"
+397,"Old and St Andrew's Church, Montrose"
+398,"I Gesuiti, Venice"
+399,Berg Church
+400,Oratory of Our Mother of Perpetual Help
+401,National Shrine of the Divine Mercy (Philippines)
+402,"St Paul's, Tottenham"
+403,St. Kunibert (Cologne)
+404,"St James the Great Church, Wrightington"
+405,C.S.I. Ellis Memorial Church
+406,St. Dominic's Church (Macau)
+407,"St Mary and St Bodfan Church, Llanaber"
+408,Boston University Marsh Chapel
+409,"St. Andrew's Episcopal Church Emporia, Kansas"
+410,Armenian Church of St.John the Baptist
+411,Tuam Cathedral
+412,"Holy Trinity Church, Ashby-de-la-Zouch"
+413,"St Andrew's Church, Folkingham"
+414,"Christ Church, Copenhagen"
+415,"St Lawrence's Church, Morecambe"
+416,Church of the Holy Venerable Mother Parascheva
+417,Lazarica Church
+418,Lifehouse International Church
+419,"St. Matthew Cathedral (South Bend, Indiana)"
+420,"St Matthew's Church, Jersey"
+421,St Gwenllwyfo's Church
+422,"Cathedral of the Sacred Heart (San Angelo, Texas)"
+423,"St. Stephen Cathedral (Owensboro, Kentucky)"
+424,"Church of St Nonna, Altarnun"
+425,"St. Mary's Cathedral (Ogdensburg, New York)"
+426,"Our Lady of Victory Cathedral (Victoria, Texas)"
+427,"Our Lady of Lourdes Church, Tiruchirappalli"
+428,"St Michael and All Angel's Church, Ashton-on-Ribble"
+429,St Cynfarwy's Church
+430,Church of Saint Francis Xavier (Singapore)
+431,Shepherd's Grove
+432,"Independent Presbyterian Church (Birmingham, Alabama)"
+433,"Church of St. Nicholas, Vukovar"
+434,"Church of the Assumption of the Blessed Virgin, Negoslavci"
+435,"Church of St Conan, Egloshayle"
+436,"St Mary Our Lady, Sidlesham"
+437,Mo Church (Nordland)
+438,"St. Catherine's, Meath Street"
+439,"St John the Baptist Church, Burscough"
+440,"All Saints Episcopal Church (Jacksonville, Florida)"
+441,"St. Alban's Church, Southampton"
+442,Myogaksa temple
+443,"Church of the Holy Annunciation, Dubrovnik"
+444,"Christ Church, Shelton and Oxon"
+445,"St. Spyridon Church, Peroj"
+446,Cathedral of Saint Peter-in-Chains (Peterborough)
+447,"Our Lady and St Wilfrid's Church, Warwick Bridge"
+448,"St Mary Magdalen's Church, Ribbleton"
+449,The Convent of Ibrahim Al Khalil
+450,"St Senara's Church, Zennor"
+451,"All Saints Church, Hesketh Bank"
+452,Church of San Diego de Alcala
+453,Saint Carolus Borromeus church
+454,"St Mary's Church, Holyhead"
+455,Lutsk Orthodox Fellowship of the True Cross
+456,"St. George Indian Orthodox Church, Perth, Western Australia"
+457,"Holy Rosary Cathedral, Semarang"
+458,"Old Church of St. Nicholas, Javorani"
+459,Saint Sava Serbian Orthodox Church
+460,"Immanuel Baptist Church (Yangon, Burma)"
+461,"Emmanuel Baptist Church (Yangon, Burma)"
+462,Sand Church (Nordland)
+463,"St Olaf's Church, Poughill"
+464,All Saints United Reformed Church
+465,"The Vineyard Life Church, Richmond"
+466,Richmond and Putney Unitarian Church
+467,St. Paul the Apostle Church (Toronto)
+468,"Church of St. Nicholas, Karlovac"
+469,"Church of St. Nicholas, Rijeka"
+470,Maha Bodhi Tahtaung
+471,"St Barnabas's, Bethnal Green"
+472,"St Paul's, Old Ford"
+473,"St Paul's, Bow Common"
+474,"St Oswald's Church, Padgate"
+475,Bantay Church
+476,"St Andrew's Church, Kovilthottam"
+477,St. Anne's Anglican Church
+478,"Basilica of Our Lady of Snows, Pallippuram"
+479,"Sacred Heart Syro-Malabar Cathedral, Rajkot"
+480,Prem Mandir Gujarat
+481,St Mary's Syro-Malabar Catholic Metropolitan Cathedral
+482,"St John the Baptist Church, Kirk Hammerton"
+483,Betis Church
+484,"Church of St. Nicholas, Vrlika"
+485,"Cathedral of St. John the Baptist (Parma, Ohio)"
+486,"St. Josaphat's Ukrainian Catholic Cathedral (Parma, Ohio)"
+487,"St. Paul's Church, Aarhus"
+488,West Bridgford Methodist Church
+489,Saints Peter and Paul Parish Church (Calasiao)
+490,Dagupan Cathedral
+491,Santuario de San Juan Evangelista
+492,Our Lady of Most Holy Rosary Parish Church (Makinabang)
+493,Saint Augustine Parish Church (Baliuag)
+494,"St Matthew's, Bethnal Green"
+495,Santa Monica Parish Church (Minalin)
+496,"St Peter's, Bethnal Green"
+497,Saint Paul Lutheran and Roman Catholic Community of Faith
+498,Songdhammakalyani Monastery
+499,"First Presbyterian Church (Jackson, Mississippi)"
+500,"St Swithin's Church, Lincoln"
+501,St Peter at Gowts
+502,"Church of the Immaculate Conception, Farm Street"
+503,"Holy Trinity Church, Salzburg"
+504,"Church of St. Martin, Kaczanowo"
+505,Muhudu Maha Viharaya
+506,"Chaplaincy of Saint Nicholas, Helsinki"
+507,"St John the Baptist Church, Bromsgrove"
+508,"St Colanus' Church, Colan"
+509,"Church of Cosmas and Damian, Moscow"
+510,"St Thomas Aquinas Church, Ham"
+511,"St Peter and St Paul's Cathedral, Tallinn"

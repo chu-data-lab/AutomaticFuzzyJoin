@@ -1,0 +1,217 @@
+id_l,title_l,id_r,title_r
+6,Sejm of the Republic of Poland,0,Sejm
+26,House of Representatives (Netherlands),1,House of Representatives of the Netherlands
+27,Riksdag,2,Parliament of Sweden
+28,National Diet,3,Diet of Japan
+31,Parliament of Norway,4,Storting
+36,States-General of the Netherlands,5,States General of the Netherlands
+38,National Assembly (Republic of China),6,National Assembly of the Republic of China
+40,House of Councillors,7,House of Councillors (Japan)
+41,House of Representatives (Japan),8,House of Representatives of Japan
+42,National Council (Austria),9,National Council of Austria
+43,Federal Council (Austria),10,Federal Council of Austria
+52,Secretariat of the Communist Party of China Central Committee,11,Secretariat of the Communist Party of China
+59,National Assembly (France),12,National Assembly of France
+63,National Council (Switzerland),13,National Council of Switzerland
+64,Council of States (Switzerland),14,Council of States of Switzerland
+73,House of Representatives of New Zealand,15,New Zealand House of Representatives
+85,Parliament of Croatia,16,Croatian Parliament
+87,Parliament of India,17,Indian Parliament
+88,Congress of the Union,18,Congress of Mexico
+89,Chamber of Deputies (Mexico),19,Chamber of Deputies of Mexico
+113,National Assembly (Kuwait),20,National Assembly of Kuwait
+116,Folketing,21,The Folketing
+121,Senate of the Republic (Mexico),22,Senate of Mexico
+124,Senate of the Republic of Poland,23,Senate of Poland
+130,National Council (Slovakia),24,National Council of the Slovak Republic
+138,National Assembly (Venezuela),25,National Assembly of Venezuela
+146,National Assembly (Poland),26,National Assembly of the Republic of Poland
+149,Walloon Parliament,27,Parliament of Wallonia
+156,Senate (France),28,Senate of France
+174,National Assembly (Hungary),29,National Assembly of Hungary
+175,Senate (Netherlands),30,Senate of the Netherlands
+176,National Assembly (South Korea),31,National Assembly of South Korea
+179,National Assembly (Serbia),32,National Assembly of Serbia
+181,National Assembly (Panama),33,National Assembly of Panama
+190,Parliament of Fiji Islands,34,Parliament of Fiji
+228,National Assembly (Pakistan),35,National Assembly of Pakistan
+242,Senate of the Republic (Italy),36,Italian Senate
+255,City Council of Cincinnati elections,37,"City Council of Cincinnati, Ohio elections"
+261,List of Nova Scotia General Assemblies,38,General Assembly of Nova Scotia
+266,French Parliament,39,Parliament of France
+279,Senate (Belgium),40,Belgian Senate
+281,Assembly of the Republic (Portugal),41,Assembly of the Republic of Portugal
+287,Chamber of Deputies (Italy),42,Italian Chamber of Deputies
+295,Senate (Romania),43,Senate of Romania
+296,Chamber of Deputies (Romania),44,Chamber of Deputies of Romania
+302,Federal Assembly (Russia),45,Federal Assembly of Russia
+303,Federation Council (Russia),46,Federation Council of Russia
+308,25th Alberta Legislative Assembly,47,25th Alberta Legislature
+309,List of Alberta Legislative Assemblies,48,Alberta Legislature
+314,Italian Parliament,49,Parliament of Italy
+321,Arizona State Legislature,50,Arizona Legislature
+324,House of Representatives (Trinidad and Tobago),51,House of Representatives of Trinidad and Tobago
+326,Senate (Trinidad and Tobago),52,Senate of Trinidad and Tobago
+330,Landtag of Saxony,53,Landtag of the Free State of Saxony
+332,Central Commission for Discipline Inspection of the Communist Party of China,54,Central Commission for Discipline Inspection
+333,Chennai Corporation,55,Greater Chennai Corporation
+337,Plurinational Legislative Assembly,56,National Congress of Bolivia
+338,Chamber of Deputies (Brazil),57,Chamber of Deputies of Brazil
+339,Argentine National Congress,58,National Congress of Argentina
+343,National Assembly (Nicaragua),59,National Assembly of Nicaragua
+348,National Council (Monaco),60,National Council of Monaco
+358,House of Elders (Afghanistan),61,House of Elders
+360,Federal Assembly (Switzerland),62,Federal Assembly of Switzerland
+369,National Assembly (Nigeria),63,National Assembly of Nigeria
+372,House of Representatives (Egypt),64,People's Assembly of Egypt
+384,General Council of Andorra,65,General Council (Andorra)
+386,National Assembly (Bulgaria),66,National Assembly of Bulgaria
+390,National Assembly (Belize),67,National Assembly of Belize
+393,Austrian Parliament,68,Parliament of Austria
+395,House of Representatives (Bosnia and Herzegovina),69,House of Representatives of Bosnia and Herzegovina
+402,National Assembly (Burundi),70,National Assembly of Burundi
+404,Senate (Burundi),71,Senate of Burundi
+408,Chamber of Deputies (Tunisia),72,Chamber of Deputies of Tunisia
+418,"Urban Council, Hong Kong",73,Urban Council
+418,"Urban Council, Hong Kong",74,Urban Council (Hong Kong)
+420,National Assembly (Djibouti),75,National Assembly of Djibouti
+421,Chamber of Deputies (Luxembourg),76,Chamber of Deputies of Luxembourg
+424,Chamber of Deputies (Rwanda),77,Chamber of Deputies of Rwanda
+434,House of Representatives (Belize),78,House of Representatives of Belize
+444,People's Majlis,79,Majlis of the Maldives
+449,House of Representatives (Liberia),80,House of Representatives of Liberia
+450,Senate (Liberia),81,Senate of Liberia
+458,National Assembly (Bahrain),82,National Assembly of Bahrain
+459,Council of Representatives (Bahrain),83,Council of Representatives of Bahrain
+460,Consultative Council (Bahrain),84,Consultative Council of Bahrain
+466,Senate (Democratic Republic of the Congo),85,Senate of the Democratic Republic of the Congo
+483,National Parliament (East Timor),86,National Parliament of East Timor
+486,National Assembly (Botswana),87,National Assembly of Botswana
+491,National Assembly (Cape Verde),88,National Assembly of Cape Verde
+495,National Assembly (Namibia),89,National Assembly of Namibia
+496,Assembly of the Republic (Mozambique),90,Assembly of the Republic of Mozambique
+497,House of Assembly (Zimbabwe),91,House of Assembly of Zimbabwe
+498,National Council (Namibia),92,National Council of Namibia
+499,National Assembly (Niger),93,National Assembly of Niger
+502,National Assembly (Central African Republic),94,National Assembly of the Central African Republic
+503,National Assembly (Zambia),95,National Assembly of Zambia
+504,National Assembly (Seychelles),96,National Assembly of Seychelles
+505,National Assembly (Guinea),97,National Assembly of Guinea
+506,National Assembly (Lesotho),98,National Assembly of Lesotho
+507,Parliament of Transnistria,99,Supreme Council (Transnistria)
+509,Chamber of People's Representatives,100,Chamber of Deputies (Equatorial Guinea)
+510,National Assembly (Togo),101,National Assembly of Togo
+511,National People's Assembly (Guinea-Bissau),102,National People's Assembly of Guinea-Bissau
+513,House of Representatives (Nigeria),103,House of Representatives of Nigeria
+517,National Assembly (Mauritania),104,National Assembly of Mauritania
+519,National Legislature (Sudan),105,National Legislature of Sudan
+520,House of Representatives (Zanzibar),106,Zanzibar House of Representatives
+520,House of Representatives (Zanzibar),107,House of Representatives of Zanzibar
+523,House of Representatives (Antigua and Barbuda),108,House of Representatives of Antigua and Barbuda
+525,National Assembly (Burkina Faso),109,National Assembly of Burkina Faso
+527,National Assembly (Mali),110,National Assembly of Mali
+531,National Assembly (Kenya),111,National Assembly of Kenya
+532,Chamber of Representatives (Belgium),112,Belgian Chamber of Representatives
+544,National Assembly (Suriname),113,National Assembly of Suriname
+545,National Assembly (Afghanistan),114,National Assembly of Afghanistan
+546,National Assembly (Angola),115,National Assembly of Angola
+547,National Assembly (Armenia),116,National Assembly of Armenia
+549,National Assembly (Azerbaijan),117,National Assembly of Azerbaijan
+563,Senate (Thailand),118,Senate of Thailand
+564,House of Representatives (Thailand),119,House of Representatives of Thailand
+566,National Assembly (Republika Srpska),120,National Assembly of the Republika Srpska
+566,National Assembly (Republika Srpska),121,People's Assembly (Republika Srpska)
+570,National Assembly (Vietnam),122,National Assembly of Vietnam
+571,National Assembly (Benin),123,National Assembly of Benin
+573,Senate (Belize),124,Senate of Belize
+576,Senate (Antigua and Barbuda),125,Senate of Antigua and Barbuda
+577,National Assembly (Ivory Coast),126,National Assembly of CÃ´te d'Ivoire
+579,House of Representatives (Yemen),127,Assembly of Representatives of Yemen
+580,Supreme Assembly (Uzbekistan),128,Supreme Assembly of Uzbekistan
+581,National Assembly (Tanzania),129,National Assembly of Tanzania
+584,National Assembly (Cameroon),130,National Assembly of Cameroon
+586,Senate (Cambodia),131,Senate of Cambodia
+587,National Assembly (Cambodia),132,National Assembly of Cambodia
+588,National Assembly (Chad),133,National Assembly of Chad
+589,National Assembly (Eritrea),134,National Assembly of Eritrea
+590,House of Representatives (Cyprus),135,House of Representatives of Cyprus
+591,National Assembly (Guyana),136,National Assembly of Guyana
+595,House of Peoples (Bosnia and Herzegovina),137,House of Peoples of Bosnia and Herzegovina
+597,Chamber of Deputies (Haiti),138,Chamber of Deputies of Haiti
+599,National Assembly (Laos),139,National Assembly of Laos
+600,House of Assembly (Kiribati),140,House of Assembly of Kiribati
+601,National Assembly (Malawi),141,National Assembly of Malawi
+604,National Assembly (Mauritius),142,National Assembly of Mauritius
+605,National Parliament of Solomon Islands,143,National Parliament of the Solomon Islands
+609,National Assembly (Saint Kitts and Nevis),144,National Assembly of Saint Kitts and Nevis
+612,Macedonian Parliament,145,Assembly of the Republic of Macedonia
+616,Supreme Assembly (Tajikistan),146,Supreme Assembly of Tajikistan
+618,House of Representatives (Morocco),147,Assembly of Representatives of Morocco
+619,Mauritanian Parliament,148,Parliament of Mauritania
+620,Supreme Council (Kyrgyzstan),149,Supreme Council of Kyrgyzstan
+625,Council of States (Sudan),150,Council of States of Sudan
+626,National Assembly (Sudan),151,National Assembly of Sudan
+723,Local government in Peterborough,152,Peterborough City Council
+726,Federal Senate,153,Senate of Brazil
+770,National Assembly (Democratic Republic of the Congo),154,National Assembly of the Democratic Republic of the Congo
+794,Senate (Haiti),155,Senate of Haiti
+808,Supreme Council of Crimea,156,State Council of Crimea
+810,Chamber of States,157,LÃ¤nderkammer
+818,Imperial Legislative Council (India),158,Imperial Legislative Council
+824,House of Lords of Prussia,159,Prussian House of Lords
+831,Kurdistan Parliament,160,Iraqi Kurdistan Parliament
+842,List of city council members in Charlotte,161,Charlotte City Council
+855,Assembly of Madrid,162,Madrid Assembly
+862,List of Prince Edward Island General Assemblies,163,General Assembly of Prince Edward Island
+868,National Assembly (Thailand),164,National Assembly of Thailand
+869,KwaZulu-Natal Legislature,165,KwaZuluâNatal Legislature
+878,List of New Brunswick Legislative Assemblies,166,New Brunswick Legislature
+880,National Council (Bhutan),167,National Council of Bhutan
+884,National Assembly (Bhutan),168,National Assembly of Bhutan
+888,Municipal Council of Penang Island,169,Penang Island City Council
+890,27th Alberta Legislative Assembly,170,27th Alberta Legislature
+893,Wigan Council,171,Wigan Metropolitan Borough Council
+894,Senate (Ceylon),172,Senate of Ceylon
+895,Poole Borough Council,173,Borough of Poole
+911,Chamber of Advisors,174,Chamber of Councillors of Tunisia
+912,House of Representatives (Ceylon),175,House of Representatives of Ceylon
+917,Landtag of Saarland,176,Landtag of the Saarland
+921,Bradford City Council,177,City of Bradford Metropolitan District Council
+927,Assembly of the Community of Municipalities of the Autonomous Province of Kosovo and Metohija,178,"Assembly of the Community of Municipalities, Autonomous Province of Kosovo and Metohija"
+927,Assembly of the Community of Municipalities of the Autonomous Province of Kosovo and Metohija,179,Assembly of the Community of Serbian municipalities
+941,North Down and Ards District Council,180,Ards and North Down Borough Council
+942,Antrim and Newtownabbey District Council,181,Antrim and Newtownabbey Borough Council
+943,Mid and East Antrim District Council,182,Mid and East Antrim Borough Council
+955,List of Newfoundland and Labrador General Assemblies,183,General Assembly of Newfoundland and Labrador
+974,State Assembly of Bashkortostan,184,State Assembly of the Republic of Bashkortostan
+982,House of Commons (South Korea),185,House of Commons of South Korea
+983,Senate (South Korea),186,Senate of South Korea
+991,Legislative Assembly of the Azores,187,Legislative Assembly of the Autonomous Region of the Azores
+1040,"Cumberland County Council, England",188,Cumberland County Council
+1060,Current members of the Plurinational Legislative Assembly,189,Current members of the Bolivian Plurinational Legislative Assembly
+1080,Senate (Kenya),190,Senate of Kenya
+1084,York City Council,191,City of York Council
+1095,Soviet of the Republic (Supreme Soviet of Russia),192,Soviet of the Republic
+1100,National Assembly (Ecuador),193,National Assembly of Ecuador
+1112,Assembly of the Union,194,Pyidaungsu Hluttaw
+1113,House of Nationalities,195,Amyotha Hluttaw
+1114,House of Representatives (Burma),196,House of Representatives (Myanmar)
+1114,House of Representatives (Burma),197,Pyithu Hluttaw
+1120,Odisha Legislative Assembly,198,Orissa Legislative Assembly
+1120,Odisha Legislative Assembly,199,Legislative Assembly of Odisha
+1135,General Assembly of the Ottoman Empire,200,Parliament of the Ottoman Empire
+1158,National Legislature (South Sudan),201,National Legislature of South Sudan
+1159,National Legislative Assembly (South Sudan),202,National Legislative Assembly of South Sudan
+1160,Council of States (South Sudan),203,Council of States of South Sudan
+1162,List of British Columbia Legislative Assemblies,204,Parliament of British Columbia
+1167,Chavakachcheri Urban Council,205,Chavakacheri Urban Council
+1177,Coimbatore City Municipal Corporation,206,Coimbatore Municipal Corporation
+1213,Chavakachcheri Divisional Council,207,Chavakacheri Divisional Council
+1241,List of Saskatchewan Legislative Assemblies,208,Saskatchewan Legislature
+1244,Constituent Assembly of Egypt,209,Egyptian Constituent Assembly of 2012
+1287,Constituent Assembly (Portugal),210,Constituent Assembly of Portugal
+1289,List of constituencies of Gujarat Vidhan Sabha,211,List of constituencies of Gujarat Legislative Assembly
+1291,General Junta,212,General Junta of the Principality of Asturias
+1294,Sejm of the Land,213,Diet of Galicia and Lodomeria
+1306,Regional Council of Emilia-Romagna,214,Legislative Assembly of Emilia-Romagna
+1310,History of Pakistan National Assembly,215,History of the National Assembly of Pakistan

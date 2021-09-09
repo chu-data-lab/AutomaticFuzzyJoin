@@ -1,0 +1,385 @@
+id_l,title_l,id_r,title_r
+28,Neptune Theatre,0,Epstein Theatre
+37,"Orchestra Hall (Detroit, Michigan)",1,Orchestra Hall (Detroit)
+40,National Indoor Arena,2,Barclaycard Arena
+70,La Monnaie,3,La Monnaie/De Munt
+79,Orchestra Hall (Minneapolis),4,"Orchestra Hall (Minneapolis, Minnesota)"
+84,London Coliseum,5,Coliseum Theatre
+97,Bagh-e-Jinnah (Lahore),6,"Bagh-e-Jinnah, Lahore"
+97,Bagh-e-Jinnah (Lahore),7,Bagh-e-Jinnah
+109,John F. Kennedy Stadium,8,John F. Kennedy Stadium (Philadelphia)
+118,The Forum (Inglewood),9,"The Forum (Inglewood, California)"
+135,Olympia (London),10,"Olympia, London"
+150,Avery Fisher Hall,11,David Geffen Hall
+160,Copps Coliseum,12,FirstOntario Centre
+202,TCL Chinese Theatre,13,Grauman's Chinese Theatre
+207,"Fox Theatre (Atlanta, Georgia)",14,Fox Theatre (Atlanta)
+208,Breakers Stadium,15,The Gardens Greyhound and Sporting Complex
+209,"Open Air Theatre, Regent's Park",16,Regent's Park Open Air Theatre
+212,London IMAX,17,BFI IMAX
+217,Imperial Garden Theater,18,Imperial Theatre (Japan)
+218,"St James Park, Exeter",19,St James Park (Exeter)
+222,"Electric Cinema, Birmingham",20,"The Electric, Birmingham"
+228,Camden Palace Theatre,21,KOKO (music venue)
+228,Camden Palace Theatre,22,Koko (venue)
+256,Wells Fargo Arena (Des Moines),23,"Wells Fargo Arena (Des Moines, Iowa)"
+261,"Fox Theatre (Detroit, Michigan)",24,Fox Theatre (Detroit)
+292,"The Forum, London",25,London Forum
+298,Victoria Hall (Hanley),26,"Victoria Hall, Stoke-on-Trent"
+302,Generals Park,27,The Ballpark at Jackson
+302,Generals Park,28,Pringles Park
+303,Palace Theatre (Broadway),29,Palace Theatre (New York City)
+312,Overture Center,30,Overture Center for the Arts
+318,National Hockey Stadium,31,National Hockey Stadium (Milton Keynes)
+321,NewBridge Bank Park,32,Yadkin Bank Park
+322,"Landmark Theater (Richmond, Virginia)",33,Altria Theater
+324,"Kings Theatre (Brooklyn, New York)",34,Kings Theatre (Brooklyn)
+342,Cumberland County Civic Center,35,Cross Insurance Arena
+358,Sex (boutique),36,SEX (boutique)
+360,Cumberland County Crown Coliseum,37,Crown Coliseum
+361,Idaho Center,38,Ford Idaho Center
+379,Donald L. Tucker Center,39,Donald L. Tucker Civic Center
+405,Palais Omnisports de Paris-Bercy,40,AccorHotels Arena
+405,Palais Omnisports de Paris-Bercy,41,Bercy Arena
+408,Stade Pierre de Coubertin,42,Stade Pierre de Coubertin (Paris)
+416,Abuja Stadium,43,"National Stadium, Abuja"
+417,Stade du 26 Mars,44,Stade 26 mars
+419,Estadio Corona (1970),45,Corona Stadium (1970)
+420,Shafa Stadium,46,Inter Arena
+421,Ravenhill Stadium,47,Kingspan Stadium
+435,Desert Sky Pavilion,48,Ak-Chin Pavilion
+435,Desert Sky Pavilion,49,Ashley Furniture HomeStore Pavilion
+438,Shepherds Bush Empire,50,Shepherd's Bush Empire
+447,Colonial Theatre (Boston),51,"Colonial Theatre (Boston, Massachusetts)"
+514,Workers Stadium,52,Workers' Stadium
+523,"Sleep Train Amphitheatre (Chula Vista, California)",53,Cricket Wireless Amphitheatre
+540,The Cameron House,54,Cameron Public House
+546,Buck Shaw Stadium,55,Stevens Stadium
+550,The Loft,56,The Loft (New York City)
+575,Barfly (club),57,The Barfly
+579,Lyric Opera House,58,Modell Performing Arts Center
+580,Pier Six Concert Pavilion,59,Pier Six Pavilion
+601,Medeo,60,Medeu
+609,Shubert Theatre (Broadway),61,Shubert Theatre (New York City)
+633,Little Shubert Theatre,62,Stage 42
+637,Fox Theatre (St. Louis),63,"Fox Theatre (St. Louis, Missouri)"
+647,Hyde Road,64,Hyde Road (stadium)
+649,Fair Park Coliseum (Dallas),65,"Fair Park Coliseum (Dallas, Texas)"
+656,Susquehanna Bank Center,66,BB&T Pavilion
+675,Kursaal convention centre,67,Kursaal Congress Centre and Auditorium
+696,Traktar Stadium,68,Traktor Stadium
+697,John E. Worthen Arena,69,Worthen Arena
+703,"Luna Park, Buenos Aires",70,Estadio Luna Park
+704,"Comcast Center (Mansfield, Massachusetts)",71,"Xfinity Center (Mansfield, Massachusetts)"
+704,"Comcast Center (Mansfield, Massachusetts)",72,Comcast Center (amphitheatre)
+704,"Comcast Center (Mansfield, Massachusetts)",73,Xfinity Center
+709,U.S. Century Bank Arena,74,FIU Arena
+726,Town Hall (New York),75,The Town Hall (New York City)
+726,Town Hall (New York),76,The Town Hall
+761,Obafemi Awolowo Stadium,77,Liberty Stadium (Ibadan)
+768,New York Shakespeare Festival,78,Shakespeare in the Park (New York City)
+775,Bottom Line,79,The Bottom Line (venue)
+777,"Henry I. Willet, Jr. Hall",80,Willett Hall
+780,Yaumati Theatre,81,Yau Ma Tei Theatre
+801,"Capitol Theatre, Melbourne",82,Capitol Theatre (Melbourne)
+804,Darulmakmur Stadium,83,Darul Makmur Stadium
+814,Changwon Civic Stadium,84,Changwon Sports Park
+839,Khimik Stadium,85,Khimik Stadium (Kemerovo)
+842,Schauinsland-Reisen-Arena,86,MSV-Arena
+874,"The Troubadour, West Hollywood",87,"Troubadour (West Hollywood, California)"
+874,"The Troubadour, West Hollywood",88,The Troubadour (Los Angeles)
+876,Stade Victor Boucquey,89,Stade Henri-Jooris
+879,Idrottsparken,90,Nya Parken
+885,Kazhimukan Munaitpasov Stadium (Shymkent),91,Kazhymukan Munaitpasov Stadium (Shymkent)
+894,Harras El-Hedoud Stadium,92,Harras El Hodoud Stadium
+902,"Manor Ground, Plumstead",93,Manor Ground (Plumstead)
+907,"Tower Theater (Upper Darby, Pennsylvania)",94,"Tower Theater (Upper Darby Township, Pennsylvania)"
+913,Bill Harris Arena,95,Fair Park Arena
+919,Notting Hill Coronet,96,Coronet Cinema
+928,Stade Amahoro,97,Amahoro Stadium
+947,Alexandra Stadium,98,Gresty Road
+956,Stadio Comunale (Teramo),99,Stadio Gaetano Bonolis
+978,Ruzhdi Bizhuta Stadium,100,Elbasan Arena
+983,The Broadway Theatre,101,Broadway Theatre (53rd Street)
+988,First Midwest Bank Amphitheatre,102,"Hollywood Casino Amphitheatre (Tinley Park, Illinois)"
+991,Vivian Beaumont Theater,103,Vivian Beaumont Theatre
+1001,Foxwoods Theatre,104,Lyric Theatre (1998 New York City)
+1007,Ambassador Theatre (New York),105,Ambassador Theatre (New York City)
+1014,Times Square Theatre,106,Times Square Theater
+1041,Omladinski Stadium,107,Omladinski stadion
+1042,Banja Luka City Stadium,108,Gradski stadion (Banja Luka)
+1051,Outsourcing Stadium Nihondaira,109,IAI Stadium Nihondaira
+1086,"City Ground, Cambridge",110,City Ground (Cambridge)
+1087,Swan Theatre (Stratford),111,"Swan Theatre, Stratford-upon-Avon"
+1090,Live Nation Amphitheatre at the Florida State Fairgrounds,112,MidFlorida Credit Union Amphitheatre
+1090,Live Nation Amphitheatre at the Florida State Fairgrounds,113,1-800-ASK-GARY Amphitheatre
+1131,Coop Arena,114,Coop Norrbotten Arena
+1132,FM Mattsson Arena,115,Smidjegrav Arena
+1139,Stadium Meteor,116,Meteor Stadium
+1141,Kazhimukan Munaitpasov Stadium (Astana),117,Kazhymukan Munaitpasov Stadium (Astana)
+1167,PalaDesio,118,Palasport di Desio
+1173,Standard Bank Arena,119,Ellis Park Arena
+1174,White Ring (arena),120,White Ring
+1187,Stade d'Agadir,121,Stade Adrar
+1199,Toyota Pavilion at Montage Mountain,122,"The Pavilion (Scranton, Pennsylvania)"
+1205,Ernst-Abbe-Sportfeld,123,Ernst Abbe Sportfield
+1209,Dnipro-Arena,124,Dnipro Arena
+1210,Oleksiy Butovskyi Vorskla Stadium,125,Oleksiy Butovsky Vorskla Stadium
+1228,Harris Theater (Pittsburgh),126,"Harris Theater (Pittsburgh, Pennsylvania)"
+1232,San Jose Civic Auditorium,127,City National Civic
+1237,The Egg (Theatre),128,The Egg (theatre)
+1241,Ob Jezeru City Stadium,129,Ob Jezeru Stadium
+1245,Lokomotiv Republican Sports Complex,130,Lokomotiv Stadium (Simferopol)
+1246,Rialto Theatre (Arizona),131,"Rialto Theatre (Tucson, Arizona)"
+1275,Enghelab Stadium (Karaj),132,Enghelab Stadium
+1284,National Gugak Center,133,The National Center for Korean Traditional Performing Arts
+1303,"Eugene E. Stone III Stadium (Columbia, South Carolina)",134,Eugene E. Stone III Stadium (Columbia)
+1310,Munayshy Stadium,135,Munaishy Stadium
+1312,Gany Muratbayev Stadium,136,Gani Muratbayev Stadium
+1314,Shakhtyor Stadium (Karagandy),137,Shakhter Stadium (Karagandy)
+1353,Upper Brown Street,138,Sue Townsend Theatre
+1393,Ying Tung Stadium,139,Henry Fok Stadium
+1395,Avalon Ballroom,140,The Avalon
+1418,"Orpheum Theatre (Minneapolis, Minnesota)",141,Orpheum Theatre (Minneapolis)
+1426,Ovalhouse,142,Oval House Theatre
+1457,Tipsport Arena (2005),143,Tipsport Arena (Liberec)
+1457,Tipsport Arena (2005),144,Tipsport Arena (built 2005)
+1467,"Beacon Theatre, New York",145,Beacon Theatre (New York City)
+1475,"Clarence Park, St Albans",146,Clarence Park (St Albans)
+1489,Fusha Sportive Peqin,147,Shkumbini Stadium
+1490,Mehdi Huseynzade Stadium,148,Kapital Bank Arena
+1503,Muhoroni Stadium,149,Furaha Academy Sports Ground
+1508,Green Stadium,150,"Green Stadium, Awendo"
+1514,Wad Madani Stadium,151,Stade Wad Medani
+1544,Lorraine Kimsa Theatre for Young People,152,Young People's Theatre
+1550,A.O. Shirley Recreation Ground,153,A. O. Shirley Recreation Ground
+1555,Charter One Pavilion,154,FirstMerit Bank Pavilion
+1565,"Verizon Wireless Amphitheatre (Charlotte, North Carolina)",155,PNC Music Pavilion
+1565,"Verizon Wireless Amphitheatre (Charlotte, North Carolina)",156,Verizon Wireless Amphitheatre (Charlotte)
+1583,Progress Energy Center for the Performing Arts,157,Duke Energy Center for the Performing Arts
+1584,The Drill Hall,158,RADA Studios
+1590,Colorado State Fair Events Center,159,Southwest Motors Events Center
+1596,Anyang Stadium,160,Anyang Sports Complex
+1612,The Home Depot Center (tennis),161,Stubhub Center (tennis)
+1621,"Princes Park, Dartford",162,Princes Park (Dartford)
+1622,Owensboro Sportscenter,163,Owensboro Sports Center
+1629,Lyric Theatre (New York),164,Lyric Theatre (1903 New York City)
+1633,Cruzan Amphitheatre,165,Perfect Vodka Amphitheatre
+1634,"Orpheum Theatre (Memphis, Tennessee)",166,Orpheum Theatre (Memphis)
+1645,Santa Clara Stadium,167,Levi's Stadium
+1647,"Sports Arena, Kingston upon Hull",168,Bonus Arena
+1658,"Verizon Wireless Amphitheatre (Irvine, California)",169,"Irvine Meadows Amphitheatre (Irvine, California)"
+1658,"Verizon Wireless Amphitheatre (Irvine, California)",170,Verizon Wireless Amphitheatre (Irvine)
+1718,Dynamo Samarkand Stadium,171,Dinamo Samarkand Stadium
+1721,Markaziy Stadium (Dzhizakh),172,Sogdiana Stadium
+1721,Markaziy Stadium (Dzhizakh),173,Markaziy Stadium Jizzakh
+1733,Chavez Theatre,174,Abraham Chavez Theatre
+1745,Tofiq Ismayilov Stadium,175,Tofig Ismayilov Stadium
+1766,Scotch of St James,176,The Scotch of St. James
+1808,"Starlight Theatre (Kansas City, Missouri)",177,Starlight Theatre (Kansas City)
+1832,"Verizon Wireless Music Center (Pelham, Alabama)",178,Oak Mountain Amphitheatre
+1832,"Verizon Wireless Music Center (Pelham, Alabama)",179,Verizon Wireless Music Center (Birmingham)
+1836,Harris Theater (Chicago),180,"Harris Theater (Chicago, Illinois)"
+1839,Moore Theatre,181,"Moore Theatre (Seattle, Washington)"
+1847,Comfort Dental Amphitheatre,182,Fiddler's Green Amphitheatre
+1867,Pikes Peak Center,183,Pikes Peak Center for the Performing Arts
+1872,Soldotna Sports Center,184,Soldotna Regional Sports Complex
+1873,"Verizon Wireless Amphitheater (Maryland Heights, Missouri)",185,"Hollywood Casino Amphitheatre (Maryland Heights, Missouri)"
+1873,"Verizon Wireless Amphitheater (Maryland Heights, Missouri)",186,Verizon Wireless Amphitheater (St. Louis)
+1873,"Verizon Wireless Amphitheater (Maryland Heights, Missouri)",187,Hollywood Casino Amphitheatre
+1891,United Palace Theater,188,United Palace
+1893,Cougar Field,189,Schroeder Park
+1899,Farm Bureau Live at Virginia Beach,190,Veterans United Home Loans Amphitheater
+1899,Farm Bureau Live at Virginia Beach,191,Farm Bureau Live
+1910,Benjamin Mkapa National Stadium,192,National Stadium (Tanzania)
+1911,Pavilion Theatre (Brighton),193,Studio Theatre (Brighton)
+1912,Jacobs Pavilion at Nautica,194,Jacobs Pavilion
+1919,Vikings Stadium,195,U.S. Bank Stadium
+1928,Det Ny Theater,196,Det Ny Teater
+1951,Old Red Lion Theatre,197,"The Old Red Lion, Islington"
+1956,Miller Symphony Hall,198,Allentown Symphony Hall
+1971,The Rave,199,The Rave / Eagles Club
+2001,McKellar Park (Canberra),200,Belconnen Soccer Centre
+2035,Best Buy Theater,201,PlayStation Theater
+2048,The Blue Note (Missouri),202,"The Blue Note (Columbia, Missouri)"
+2054,Mill Volvo Tyne Theatre,203,Tyne Theatre and Opera House
+2081,Piano's,204,Pianos (club)
+2088,Bayou Music Center,205,Revention Music Center
+2091,Yerevan Opera Theater,206,Yerevan Opera Theatre
+2091,Yerevan Opera Theater,207,Armenian Opera Theater
+2094,Tower Theatre (Salt Lake City),208,"Tower Theatre (Salt Lake City, Utah)"
+2099,Majestic Theatre (San Antonio),209,"Majestic Theatre (San Antonio, Texas)"
+2147,Olympia Theatre (New York),210,Olympia Theatre (New York City)
+2185,"California Theatre (San Bernardino, California)",211,California Theatre (San Bernardino)
+2193,Ogden Theater,212,Ogden Theatre
+2194,The Bull's Head,213,"The Bull's Head, Barnes"
+2200,Kanko Stadium,214,City Light Stadium
+2208,Maxwell C. King Center for the Performing Arts,215,King Center for the Performing Arts
+2225,FC Kremin Stadium,216,Kremin Stadium
+2231,Orpheum Theatre (Los Angeles),217,"Orpheum Theatre (Los Angeles, California)"
+2245,Sibamac Arena,218,Aegon Arena
+2249,Murphy Theater,219,Murphy Theatre
+2278,Liberty Theatre (New York City),220,Liberty Theatre
+2279,Maaspoort Sports end Events,221,Maaspoort Sports and Events
+2305,Schweppes Centre,222,Bendigo Stadium
+2312,Fyli Municipal Stadium,223,Fyli Stadium
+2318,Civic Theatre of Allentown,224,Nineteenth Street Theater
+2319,Suncorp Piazza,225,Courier Mail Piazza
+2338,New Theatre (Nottingham),226,Nottingham New Theatre
+2356,Courage Stadium,227,Hayes Lane
+2378,Orange Peel (venue),228,The Orange Peel
+2384,Bank of America Pavilion,229,Blue Hills Bank Pavilion
+2387,Meadowbrook (amphitheatre),230,Bank of New Hampshire Pavilion
+2387,Meadowbrook (amphitheatre),231,Meadowbrook U.S. Cellular Pavilion
+2387,Meadowbrook (amphitheatre),232,Bank of New Hampshire Pavilion at Meadowbrook
+2425,"City Stadium, Ternopil",233,Ternopilsky Misky Stadion
+2426,The Half Moon (music venue),234,"The Half Moon, Putney"
+2444,UB Center for the Arts,235,"Center for the Arts, University at Buffalo"
+2454,Detelinara Stadium,236,Stadion Detelinara
+2461,Pennysaver Amphitheater,237,Brookhaven Amphitheater
+2474,Ross Field (Athletic),238,Ross Field (athletic)
+2478,"The Troubadour, London",239,The Troubadour (London)
+2486,Dr. Phillips Center for Performing Arts,240,Dr. Phillips Center for the Performing Arts
+2499,Memorial Stadium (Kent),241,Memorial Stadium (Kent State)
+2511,Comcast Arena (Everett),242,Xfinity Arena
+2526,Stadionul Mechel,243,Stadionul Mihai Adam
+2533,Stadionul Motorul,244,Stadionul Motorul (Arad)
+2545,Wilma Theatre,245,"Wilma Theatre (Missoula, Montana)"
+2559,Fredric R. Mann Auditorium,246,Culture Palace (Tel Aviv)
+2564,Triad Theater,247,Stage 72
+2595,The Old Recreation Ground,248,Old Recreation Ground
+2627,Gaiety Theatre (New York),249,Gaiety Theatre (New York City)
+2637,Parc St. Victor,250,Parc Saint-Victor
+2658,Spartak Stadium (Mogilev),251,Spartak Stadium (Mahilyow)
+2659,Torpedo Stadium (Mahilyow),252,Torpedo Stadium (Mogilev)
+2661,Forum 28,253,The Forum Barrow
+2667,The Universal Music Plaza Stage,254,Universal Music Plaza Stage
+2676,Orpheum Theatre (Boston),255,"Orpheum Theatre (Boston, Massachusetts)"
+2704,Kajot Arena,256,DRFG Arena
+2717,Manatee Civic Center,257,Bradenton Area Convention Center
+2719,Shenley Training Centre,258,Arsenal Training Centre
+2735,Vizelj park,259,Vizelj Park
+2739,"Lyric Theatre, Sydney",260,Sydney Lyric
+2740,Wells Fargo Center for the Arts,261,Luther Burbank Center for the Arts
+2743,"Sleep Train Amphitheatre (Wheatland, California)",262,Toyota Amphitheatre
+2743,"Sleep Train Amphitheatre (Wheatland, California)",263,Sleep Train Amphitheatre
+2773,"Paradise Theater (Bronx, New York)",264,Paradise Theater (Bronx)
+2778,Isleta Amphitheater,265,The Pavilion (amphitheatre)
+2789,E.J. Thomas Hall,266,E. J. Thomas Hall
+2792,The Water Rats,267,Monto Water Rats
+2810,Arena Larvik,268,Boligmappa Arena Larvik
+2837,"The Shelter (Detroit, Michigan)",269,The Shelter (Detroit)
+2844,Chapman Field,270,Chapman Field (baseball)
+2846,Pratt Field,271,Pratt Field (Texas)
+2851,Tournament Capital Center,272,Tournament Capital Centre
+2853,Sleep Country Amphitheater,273,Sunlight Supply Amphitheater
+2853,Sleep Country Amphitheater,274,Amphitheater Northwest
+2856,Kyperounda Stadium,275,Kyperounda Municipal Stadium
+2864,Riverside Fox Theater,276,Fox Performing Arts Center
+2903,"Verizon Wireless Amphitheater (Selma, Texas)",277,Verizon Wireless Amphitheater (Selma)
+2907,TACT (The Actors Company Theatre),278,The Actors Company Theatre
+2923,Idrottens Hus,279,Idrottens Hus (Helsingborg)
+2927,"Regal Theater, South Side (Chicago)",280,"Regal Theater, Chicago"
+2964,City Performance Hall,281,Dallas City Performance Hall
+2993,Woerner Field,282,Time Warner Cable Stadium
+3007,"Electric Cinema, Notting Hill",283,Electric Cinema (Notting Hill)
+3041,Russian Youth Theatre,284,Russian-Canadian Musical Drama Theatre
+3043,Hippodroom Waregem,285,Hippodrome Waregem
+3055,Stade Henri Desgrange,286,Stade Henri Desgranges
+3073,Stadion am Alsenweg,287,Seppl-Herberger-Stadion
+3074,Paronyan Musical Comedy Theatre of Yerevan,288,Paronyan Musical Comedy Theatre
+3074,Paronyan Musical Comedy Theatre of Yerevan,289,Yerevan State Musical Comedy Theatre
+3080,Old Citadel (Edmonton),290,The Starlite Room
+3085,Oriental Theatre (Portland),291,"Oriental Theatre (Portland, Oregon)"
+3111,National Theater of Albania,292,National Theatre of Albania
+3132,Heraklion Arena,293,Heraklion Indoor Sports Arena
+3136,Rustaveli cinema,294,Rustaveli Cinema
+3171,Dignity Health Event Center,295,Jam Events Center
+3183,Terek Stadium,296,Akhmat-Arena
+3190,Hwaseong Stadium,297,Hwaseong Sports Complex
+3194,Theatre of NOTE,298,Theatre of N.O.T.E.
+3198,Lincoln Hall Chicago,299,Lincoln Hall (Chicago)
+3200,Deodoro Arena,300,Youth Arena
+3215,Showbox at the Market,301,The Showbox
+3223,Sarachchandra open air theatre,302,Sarachchandra Open-Air Theatre
+3223,Sarachchandra open air theatre,303,Sarachchandra open-air theatre
+3227,New Rubin Kazan Stadium,304,Kazan Arena
+3238,Amherst Ice Center,305,Northtown Center
+3247,Kehrweg Stadion,306,Kehrwegstadion
+3248,Red Hat Amphitheater,307,Raleigh Amphitheater and Festival Site
+3253,Fortis Circustheater,308,Circustheater
+3255,Tapestry New Opera Works,309,Tapestry Opera
+3258,Shahid Rajaei Stadium,310,Shahid Rajai Stadium
+3262,Saga Stadium,311,Saga Athletic Stadium
+3270,Mission Theatre & Pub,312,Mission Theater and Pub
+3290,Jesse M. Robredo Coliseum,313,Naga City Coliseum
+3293,Ciudad Deportiva de Abegondo,314,Cidade Deportiva de Abegondo
+3310,Muziekcentrum Vredenburg,315,TivoliVredenburg
+3313,Garrick Theatre (New York),316,Garrick Theatre (New York City)
+3335,Lewis Field (Fort Hays State University),317,Lewis Field Stadium
+3345,State Theatre (Minneapolis),318,"State Theatre (Minneapolis, Minnesota)"
+3354,Muteesa II Stadium,319,Mutesa II Stadium
+3374,Osborne Field,320,University Field (Princeton)
+3399,Al-Basil Stadium Al-Hasakah,321,Bassel al-Assad Stadium (al-Hasakah)
+3409,Gothic Theater,322,Gothic Theatre
+3421,Music Box Theater (Los Angeles),323,The Fonda Theatre
+3427,Nelum Pokuna Performing Arts Theatre,324,Nelum Pokuna Mahinda Rajapaksa Theatre
+3432,Terminal Bar (bar),325,"Terminal Bar, New York"
+3435,The Dell (Kingussie),326,"The Dell, Kingussie"
+3443,Granada Theater (Dallas),327,"Granada Theater (Dallas, Texas)"
+3454,"Capitol Theatre (Port Chester, New York)",328,"Capitol Theater (Port Chester, New York)"
+3461,Sankeys (nightclub),329,Sankeys
+3464,Sheikh Chadae Stadium,330,Awwal September Stadium
+3476,Baylor Stadium,331,McLane Stadium
+3479,Odeon Events Centre,332,O'Brians Event Centre
+3527,Dalian Sports Center,333,Dalian Sports Center Stadium
+3568,Ali Al-Salem Al-Sabah Stadium,334,Ali Sabah Al-Salem Stadium
+3569,Al Shabab Mubarak Alaiar Stadium,335,Mubarak Al-Aiar Stadium
+3581,The Palladium at the Center for Performing Arts,336,The Palladium at the Center for the Performing Arts
+3592,"People's Stadium, Seychelles",337,People's Stadium (Seychelles)
+3638,Estadio Tlaquepaque,338,Tlaquepaque Stadium
+3652,The Mill Theatre Dundrum,339,Mill Theatre Dundrum
+3655,L. B. Day Comcast Amphitheatre,340,L. B. Day Amphitheatre
+3664,The Paris Theater (New York),341,The Paris Theater (Manhattan)
+3673,Flamingo Club (London),342,The Flamingo Club
+3675,Teatro Garrett,343,Garrett Theatre
+3714,Capital One Bank Ice Vault Arena,344,Ice Vault Arena
+3721,The Old Bar (Fitzroy),345,The Old Bar
+3746,Stadiumi Butrinti,346,Butrinti Stadium
+3770,Garden Theatre (New York),347,Garden Theatre
+3778,Teatro Lido,348,Lido Theater (MedellÃ­n)
+3790,Lope de Vega Theatre (Seville),349,"Lope de Vega Theater, Seville"
+3791,Lope de Vega Theatre (Madrid),350,"Lope de Vega Theater, Madrid"
+3792,The Sandra Feinstein-Gamm Theatre,351,Sandra Feinstein-Gamm Theatre
+3794,Youth Theatre on the Fontanka,352,Na Fontanke Youth Theatre
+3800,Gwangju Baseball Stadium,353,Gwangju-Kia Champions Field
+3800,Gwangju Baseball Stadium,354,Gwangju Kia Champions Field
+3808,Lithuanian Hall,355,"Lithuanian Hall (Baltimore, Maryland)"
+3816,Shahid Pour Sharifi Arena,356,Shahid Poursharifi Arena
+3822,Subway Soccer Centre,357,Calgary Soccer Centre
+3830,Bill Theunissen Stadium,358,Theunissen Stadium
+3831,Stanley G. McKie Field at Joseph P. Hayden Jr. Park,359,Hayden Park
+3832,Ora arena,360,Ora Arena
+3833,Mesquite Arena,361,Resistol Arena
+3851,Emam Reza Stadium,362,Emam Reza Stadium (Tehran)
+3857,"Place Bell (Laval, Quebec)",363,Place Bell (Laval)
+3860,Thrasher's Opera House,364,Thrasher Opera House
+3863,CineStar,365,CineStar IMAX Lahore
+3875,Chuvash state youth theater of Michael Sespel,366,Chuvash State Youth Theater
+3884,Mersin Olympic Stadium,367,Mersin Arena
+3884,Mersin Olympic Stadium,368,New Mersin Stadium
+3907,Maison de la Culture de Grenoble,369,Maison de la culture de Grenoble
+3912,Camden Head,370,Camden head
+3919,The Plaza 'Live' Theatre (Orlando),371,The Plaza Live
+3926,Proctor's RKO Theater,372,"RKO Proctor's Theater, New Rochelle"
+3928,Globe Theatre (Stockton-on-Tees),373,"Globe Theatre, Stockton-on-Tees"
+3933,Hibernians Stadium,374,Hibernians Ground
+3959,Stadio di Corsi Sebastopoli,375,Stadio di Corso Sebastopoli
+3994,Centennial Park BMX Park,376,Centennial Park Pan Am BMX Centre
+3999,7 Waves Radio 92.1,377,Wirral Radio
+4010,Estadio Mundialista de Hockey,378,Estadio Mundialista Luciana Aymar
+4012,"Strand Theatre (Marietta, GA)",379,"Strand Theatre (Marietta, Georgia)"
+4014,Bonifika Hall,380,Arena Bonifika
+4056,"Boulevard Drive-In Theater (Allentown, Pennsylvania)",381,Boulevard Drive-In Theater
+4063,Lekhwiya Sports Stadium,382,Abdullah bin Khalifa Stadium
+4068,"New Palace Theatre, Plymouth",383,"Palace Theatre, Plymouth"

@@ -1,0 +1,419 @@
+id,title
+0,Devon
+1,Rugby World Cup
+2,Six Nations Championship
+3,Cumbria
+4,The Rugby Championship
+5,IRB Sevens World Series
+6,Hong Kong Sevens
+7,Bledisloe Cup
+8,National Rugby League
+9,Super Rugby
+10,Currie Cup
+11,Calcutta Cup
+12,Rugby League War of the Roses
+13,World Club Challenge
+14,Australian Rugby League
+15,Anglo-Welsh Cup
+16,Super League (Australia)
+17,Super Cup (rugby union)
+18,The Ashes (rugby league)
+19,ITM Cup
+20,Churchill Cup
+21,Pro 12
+22,Baskerville Shield
+23,Rugby League Tri-Nations
+24,Top 14
+25,National Championship of Excellence
+26,Rugby League European Cup
+27,Australian Rugby Shield
+28,Rugby League Premiership
+29,Regal Trophy
+30,Championship Cup
+31,European Shield
+32,Rugby League Conference
+33,Top League
+34,Microsoft Cup
+35,All-Japan University Rugby Championship
+36,Rugby World Cup Sevens
+37,State of Origin series
+38,French Rugby League Championship
+39,Lord Derby Cup
+40,Pacific Cup
+41,Mandela Challenge Plate
+42,Queensland Cup
+43,Brisbane Rugby League premiership
+44,Queensland Rugby League Central Division
+45,Ulster Schools' Cup
+46,American National Rugby League
+47,Craven Week
+48,Colonial Cup (rugby union)
+49,Medallion Shield
+50,Fiji National Rugby League Competition
+51,Anzac Test
+52,Bartercard Cup
+53,New South Wales Rugby League premiership
+54,Bulimba Cup
+55,Winfield State League
+56,Rugby league in Germany
+57,Rugby Canada Super League
+58,Mediterranean Cup
+59,IRB Pacific Nations Cup
+60,Ron Massey Cup
+61,Border League
+62,New South Wales Cup
+63,Group 6 Rugby League
+64,Scottish Premiership Division One
+65,Rugby League World Sevens
+66,London and South East Merit League
+67,Scottish Premiership Division Two
+68,Scottish Premiership Division Three
+69,Shute Shield
+70,Lion Red Cup
+71,Dave Gallaher Trophy
+72,All-Ireland League (rugby union)
+73,Connacht Schools Rugby Senior Cup
+74,Scottish National League Division One
+75,East Regional League (rugby union)
+76,Wellington Sevens
+77,Rugby Super League (United States)
+78,Women's Rugby World Cup
+79,Pacific Rugby Cup
+80,Puma Trophy
+81,Hopetoun Cup
+82,Cook Cup
+83,Lansdowne Cup
+84,City vs Country Origin
+85,Tom Richards Trophy
+86,North America 4
+87,Australian Rugby Championship
+88,IRB Nations Cup
+89,Safari Sevens
+90,Vodacom Cup
+91,Nacional de Clubes
+92,ACTRU Premier Division
+93,Rugby Pro D2
+94,South Pacific Championship
+95,National Provincial Championship
+96,Heartland Championship
+97,London Sevens
+98,Paris Sevens
+99,South Africa Sevens
+100,USA Sevens
+101,Africa Cup
+102,Group 7 Rugby League
+103,Women's Rugby League World Cup
+104,Federation Shield
+105,Queensland Premier Rugby
+106,RugbyWA
+107,Professional Rugby League
+108,Newcastle Rugby League
+109,Central Coast Division Rugby League
+110,Illawarra Rugby League
+111,Group 1 Rugby League
+112,Canberra Rugby League
+113,Group 10 Rugby League
+114,Group 3 Rugby League
+115,Rugby League Charity Shield (Great Britain)
+116,PARA Pan American Championship
+117,Group 16 Rugby League
+118,Tasmanian Rugby League
+119,Rugby League Charity Shield (Australia)
+120,Women's Six Nations Championship
+121,Castlereagh Cup
+122,Group 18 Rugby League
+123,Belgian Elite League
+124,Papua New Guinea National Rugby League
+125,SuperLiga (rugby)
+126,Australian Sevens
+127,National Youth Competition (rugby league)
+128,Scotland Sevens
+129,Giuseppe Garibaldi Trophy
+130,Pennine League
+131,Northern Pride RLFC
+132,FOGS Colts Challenge
+133,S. G. Ball Cup
+134,Harold Matthews Cup
+135,Cronulla-Sutherland District Rugby Football League
+136,Kenya Cup
+137,CMS Yorkshire league
+138,Hull & District Youth League
+139,Caledonia Regional League (rugby union)
+140,West Regional League (rugby union)
+141,Champion Schools
+142,James Bevan Trophy
+143,Tongan National Rugby League
+144,Canada Cup (rugby union)
+145,Caribbean Women's Rugby Championship
+146,Women's Pacific Tri-Nations
+147,FIRA Women's European Championship
+148,South Australia Rugby Union
+149,Rugby League World Cup
+150,ARFU Women's Rugby Championship
+151,Tasmanian Rugby Union
+152,Rugby World Cup Final
+153,Scottish Premiership
+154,Scottish National League (rugby union)
+155,Scottish Regional League (rugby union)
+156,Grampian Alliance League
+157,Highland Alliance League
+158,Scottish National League Division Two
+159,Scottish National League Division Three
+160,University rugby union leagues in Scotland
+161,Scottish Reserve League
+162,Elgon Cup
+163,Asian Five Nations
+164,North 1 East
+165,Centenary Quaich
+166,CAR Development Trophy
+167,National League 3 London & SE
+168,Woodbridge Cup
+169,Serie A (rugby union)
+170,Tertiary Student Rugby League World Cup
+171,Prince William Cup
+172,Rugby-Bundesliga
+173,Outback Rugby League
+174,Gold Coast Rugby League
+175,Serbian Rugby League Championship
+176,Jamaica National League
+177,Rugby League European Shield
+178,Foundation Cup
+179,NSW Tertiary Student Rugby League
+180,National League 3 South West
+181,IRB Junior World Championship
+182,Group 19 Rugby League
+183,IRB Junior World Rugby Trophy
+184,North East 3
+185,Campeonato Argentino
+186,Torneo del Litoral
+187,South American Rugby Championship
+188,Singer Sri Lankan Airlines Rugby 7's
+189,Kinsale Sevens
+190,Club ANZAC Game
+191,Women's Premiership
+192,Bartercard Premiership
+193,Nations Cup (women's rugby union)
+194,Midlands 5 East (North)
+195,Midlands 4 West (North)
+196,Midlands 5 West (North)
+197,Midlands 5 East (South)
+198,Midlands 1 East
+199,Berks/Bucks & Oxon Premier
+200,Midlands 3 West (South)
+201,Midlands 3 West (North)
+202,Midlands 4 East (North)
+203,Rugby League European Bowl
+204,Midlands 3 East (North)
+205,Midlands 4 East (South)
+206,FORU Oceania Cup
+207,Midlands 3 East (South)
+208,Midlands 4 West (South)
+209,Midlands 5 West (South)
+210,Midlands Merit League
+211,Tribute Somerset Premier
+212,ARL Schoolboy Cup
+213,South Premier (rugby league)
+214,Fairplay Index
+215,Peter Leitch QSM Challenge Trophy
+216,RLEF Euro Med Challenge
+217,Hillary Shield
+218,Finnish Championship League
+219,County Championship (rugby union)
+220,Affiliated States Championship
+221,Central Highlands Rugby League
+222,Goulburn Murray Rugby League
+223,Melbourne Rugby League
+224,German rugby union championship
+225,German rugby union cup
+226,National Division 1
+227,Coupe Falcou
+228,National Division 2
+229,Tribute Western Counties West
+230,Paul Dejean Cup
+231,New Zealand National Rugby Sevens Tournament
+232,National League 3 North
+233,National Women's Championship
+234,Canadian Direct Insurance Premier League
+235,2nd Rugby-Bundesliga
+236,Rugby-Regionalliga
+237,Gillette National Youth League
+238,Varsity Rugby
+239,Yellow Sea Cup
+240,British and Irish Cup
+241,Rugby Canada National Junior Championship
+242,Campeonato Uruguayo de Rugby
+243,KB Extraliga
+244,Catalan Rugby League Championship
+245,National League 2 North
+246,Allsvenskan (rugby)
+247,Americas Rugby Championship
+248,Tribute South West 1 West
+249,Southern Counties South
+250,Southern Counties North
+251,Tribute Western Counties North
+252,National League 1
+253,National League 2 South
+254,National League 3 Midlands
+255,Midlands 2 West (South)
+256,Midlands 1 West
+257,Rugby League Atlantic Cup
+258,Surrey 4
+259,Surrey 3
+260,Punta Del Este Sevens
+261,Herts/Middlesex 3
+262,Herts/Middlesex 4
+263,Women's Rugby League Conference
+264,Midlands Junior League
+265,South West 1 East
+266,Chilterns Junior Rugby League
+267,All Stars Match
+268,London Junior League
+269,Sussex Spitfire 1
+270,London 3 South East
+271,Sussex Rugby Football Union
+272,London 2 South West
+273,London 2 South East
+274,Sussex Canterbury Jack Intermediate
+275,Dorset & Wilts 3 North
+276,Dorset & Wilts 2 North
+277,Dorset & Wilts 1 North
+278,Hungarian National Championship I (rugby union)
+279,Regional Rugby Championship
+280,Norway Rugby Championship
+281,Ukraine Rugby Superliga
+282,Durham/Northumberland 1
+283,London 1 North
+284,London 3 North West
+285,Hungarian National Championship II (rugby union)
+286,East German rugby union championship
+287,Queensland Country Championships
+288,Bamburi Rugby Super Series
+289,Yorkshire & Humber Merit League
+290,North West Merit League
+291,European Under-18 Rugby Union Championship
+292,Eric Shirley Shield
+293,Enterprise Cup
+294,London 1 South
+295,COBRA Rugby Tens
+296,National Competition
+297,Torneo del Interior
+298,Torneo del Noroeste
+299,Torneo de la URBA
+300,Mexican major rugby league
+301,Victoria Cup (rugby union)
+302,Shepherd Neame Kent 2
+303,Shepherd Neame Kent 1
+304,Torneo del Oeste
+305,NACRA Women's Rugby Championship
+306,Welsh League
+307,Midlands 2 West (North)
+308,Asian Women's Sevens
+309,African Women's Sevens
+310,European Women's Sevens Championship
+311,Caribbean Women's Sevens Championship
+312,Pacific Women's Sevens Championship
+313,South American Women's Sevens Championship
+314,Colonial Cup (rugby league)
+315,Rugby Ekstraliga
+316,North East Junior League
+317,Italia Rugby Football League
+318,Welsh Conference Junior League
+319,Saint Patrick's Day Test
+320,Hungarian Extraliga
+321,World Wheelchair Rugby Championships
+322,IWRF Americas Championship
+323,IWRF European Championship
+324,IWRF Asia-Oceania Championship
+325,London 2 North East
+326,USA Rugby League
+327,North East Rugby League
+328,Australian Provincial Championship
+329,London & South East Men's League
+330,Hull & District League
+331,Manila 10s
+332,International Origin
+333,Bristol Junior Rugby League
+334,Midlands 2 East (North)
+335,Siam Cup
+336,College Premier Division
+337,East Coast Rugby Conference
+338,Blackrock Rugby Festival
+339,Midlands 2 East (South)
+340,Cornwall League 1
+341,County Championship Shield
+342,Cornwall League 2
+343,Asian Sevens Series
+344,Premiership Rugby Sevens Series
+345,Northern Rivers Regional Rugby League
+346,Canadian Rugby Championship
+347,Herts/Middlesex 2
+348,Rugby Championship of Serbia
+349,Herts/Middlesex 1
+350,North West Men's League
+351,Milan Kosanovic Cup
+352,Kenya National Sevens Circuit
+353,All India & South Asia Rugby Tournament
+354,Collegiate Rugby Championship
+355,Atlantic Coast Rugby League
+356,Hampshire 1
+357,Cumbria League
+358,Ron Coote Cup
+359,IRB Women's Sevens Challenge Cup
+360,North 1 West
+361,Southeastern Collegiate Rugby Conference
+362,Ivy Rugby Conference
+363,7s Premier League
+364,USA Rugby Sevens Collegiate National Championships
+365,Harry Jepson Trophy
+366,Sevens Grand Prix Series
+367,Yorkshire 1
+368,Yorkshire 2
+369,Yorkshire 3
+370,Yorkshire 4
+371,Yorkshire 5
+372,Super League World Nines
+373,Jack Gibson Cup
+374,Heart of America (college rugby)
+375,Durham/Northumberland 2
+376,Durham/Northumberland 3
+377,South Lancs/Cheshire 1
+378,South Lancs/Cheshire 2
+379,South Lancs/Cheshire 3
+380,Yorkshire 6
+381,Campeonato Nacional de Rugby Feminino
+382,Scottish Championship Leagues
+383,Cyril Connell Cup
+384,Mal Meninga Cup
+385,North Lancashire 1
+386,North Lancashire 2
+387,London 2 North West
+388,London 3 North East
+389,London 3 South West
+390,Hampshire 2
+391,Surrey 2
+392,Surrey 1
+393,Eastern Counties 1
+394,Eastern Counties 2
+395,Essex Canterbury Jack 1
+396,Essex Spitfire 2
+397,Gloucester Premier
+398,Gloucester 1
+399,Gloucester 2
+400,Gloucester 3
+401,Devon League 1
+402,Devon League 2
+403,Dorset & Wilts 1 South
+404,Dorset & Wilts 2 South
+405,Dorset & Wilts 3 South
+406,Berks/Bucks & Oxon Championship
+407,Berks/Bucks & Oxon 1
+408,Berks/Bucks & Oxon 2
+409,Berks/Bucks & Oxon 4
+410,Dorset & Wilts 4
+411,SARU Community Cup
+412,Big Ten Universities
+413,IRB Women's Sevens World Series
+414,RFL Community Shield
+415,Sweden Super League
+416,British Columbia Rugby League Competition
+417,Rugby League Asian Cup

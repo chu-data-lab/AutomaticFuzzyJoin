@@ -1,0 +1,572 @@
+id_l,title_l,id_r,title_r
+24,Defence Signals Directorate,0,Australian Signals Directorate
+28,Executive Office of the President of the United States,1,Executive Office of the President
+129,Communications Security Establishment Canada,2,Communications Security Establishment
+140,Department of Foreign Affairs and International Trade,3,Global Affairs Canada
+140,Department of Foreign Affairs and International Trade,4,"Department of Foreign Affairs, Trade and Development"
+144,Organization for Vigilance and Repression of Anti-Fascism,5,OVRA
+145,Ministry of Public Security of the People's Republic of China,6,Ministry of Public Security (China)
+146,Environment Canada,7,Environment and Climate Change Canada
+154,United States Government Printing Office,8,United States Government Publishing Office
+155,Generalitat of Catalonia,9,Generalitat de Catalunya
+177,Dryden Flight Research Center,10,Armstrong Flight Research Center
+177,Dryden Flight Research Center,11,Neil A. Armstrong Flight Research Center
+186,Court of Auditors,12,European Court of Auditors
+194,Election Authority of Sweden,13,Election Authority (Sweden)
+205,Kela (Finnish),14,Kela (Finnish institution)
+205,Kela (Finnish),15,Kela
+260,"Federal Department of Economic Affairs, Education and Research",16,Federal Department of Economic Affairs
+263,Ministry of Intelligence and National Security (Iran),17,Ministry of Intelligence
+277,Treasury Solicitor's Department,18,Government Legal Department
+281,Department of Citizenship and Immigration Canada,19,"Department of Immigration, Refugees and Citizenship"
+285,SS-Reichssicherheitshauptamt,20,Reich Main Security Office
+289,Health Board,21,Health Board (Ireland)
+321,Texas Transportation Institute,22,Texas A&M Transportation Institute
+325,Yuzhnoye Design Bureau,23,Yuzhnoye Design Office
+354,Ministry of Finance (Pakistan),24,"Ministry of Finance, Revenue, Economic Affairs, Statistics and Privatization (Pakistan)"
+354,Ministry of Finance (Pakistan),25,Pakistan Ministry of Finance
+356,Government Procurement Service,26,Crown Commercial Service
+369,National Security Council of Pakistan,27,National Security Council (Pakistan)
+369,National Security Council of Pakistan,28,Pakistan National Security Council
+393,Bundesnachrichtendienst,29,Federal Intelligence Service (Germany)
+395,Competition Commission (United Kingdom),30,Competition Commission
+424,Weather Prediction Center,31,Hydrometeorological Prediction Center
+427,Rail Corporation New South Wales,32,RailCorp
+432,Puerto Rico Education Council,33,Council on Higher Education of Puerto Rico
+433,Government Flying Service (Hong Kong),34,Government Flying Service
+436,"Department of Agriculture, Fisheries and Forestry (Australia)",35,Department of Agriculture and Water Resources
+436,"Department of Agriculture, Fisheries and Forestry (Australia)",36,Department of Agriculture (Australia)
+449,Puerto Rico State Commission on Elections,37,State Elections Commission of Puerto Rico
+467,Defence Science and Technology Organisation,38,Defence Science and Technology Group
+470,Department of Immigration and Citizenship,39,Department of Immigration and Border Protection
+479,Human Resources and Skills Development Canada,40,Employment and Social Development Canada
+480,Aboriginal Affairs and Northern Development Canada,41,Indigenous and Northern Affairs Canada
+481,Industry Canada,42,"Innovation, Science and Economic Development Canada"
+482,Public Works and Government Services Canada,43,Public Services and Procurement Canada
+484,Ministry of State Security of the People's Republic of China,44,Ministry of State Security (China)
+492,Department of Social Security,45,Department of Social Security (United Kingdom)
+504,New Zealand Education Review Office,46,Education Review Office (New Zealand)
+513,Scottish Court Service,47,Scottish Courts and Tribunals Service
+517,"Ministry of Health, Labour and Welfare (Japan)",48,"Ministry of Health, Labour, and Welfare"
+519,"Ministry of Land, Infrastructure, Transport and Tourism",49,"Ministry of Land, Infrastructure, Transport and Tourism (Japan)"
+533,Central Election Commission of Ukraine,50,Central Election Commission (Ukraine)
+534,Ministry of Water and Energy (Afghanistan),51,Ministry of Energy and Water (Afghanistan)
+546,Roads and Traffic Authority,52,Roads & Traffic Authority
+553,Tilla Satellite Launch Center,53,Tilla Satellite Launch Centre
+555,Texas AgriLife Extension Service,54,Texas A&M AgriLife Extension Service
+556,Texas A&M Engineering Extension Service,55,Texas Engineering Extension Service
+557,Texas Forest Service,56,Texas A&M Forest Service
+581,Ministry of Finance (Republic of China),57,Ministry of Finance (Taiwan)
+584,Ministry of Emergency Situations,58,Ministry of Emergency Situations (Russia)
+585,National Defence Radio Establishment (Sweden),59,National Defence Radio Establishment
+589,Ministry of Citizenship and Immigration (Ontario),60,"Ministry of Citizenship, Immigration and International Trade"
+589,Ministry of Citizenship and Immigration (Ontario),61,Ministry of Citizenship and Immigration
+597,Office of Rail Regulation,62,Office of Rail and Road
+629,"Bureau of Ocean Energy Management, Regulation and Enforcement",63,Minerals Management Service
+639,State Rail Authority of New South Wales,64,State Rail Authority
+644,Federal Law Enforcement Training Center,65,Federal Law Enforcement Training Centers
+649,Defence Construction Service (Denmark),66,Danish Defence Estates and Infrastructure Organisation
+652,Ministry of Natural Resources (Ontario),67,Ministry of Natural Resources and Forestry
+657,Ministry of the Environment (Ontario),68,Ministry of the Environment and Climate Change
+680,Estonian Security Police,69,Estonian Internal Security Service
+692,610 Office,70,6-10 Office
+693,Supreme Chamber of Control of the Republic of Poland,71,Supreme Audit Office (Poland)
+700,New York City Health and Hospitals Corporation,72,NYC Health + Hospitals
+734,Ministry of Justice (New Zealand),73,New Zealand Ministry of Justice
+766,National Security Bureau,74,National Security Bureau (Republic of China)
+769,HM Land Registry,75,Land Registry (United Kingdom)
+787,Federal Ministry for the Interior (Austria),76,Federal Ministry of the Interior (Austria)
+801,"Federal Ministry of Food, Agriculture and Consumer Protection (Germany)",77,Federal Ministry of Food and Agriculture (Germany)
+801,"Federal Ministry of Food, Agriculture and Consumer Protection (Germany)",78,"Federal Ministry of Food, Agriculture and Consumer Protection"
+801,"Federal Ministry of Food, Agriculture and Consumer Protection (Germany)",79,Federal Ministry of Food and Agriculture
+806,State Transit Authority of New South Wales,80,State Transit Authority
+821,"Department of Environment, Water and Natural Resources (South Australia)",81,Department of Environment and Natural Resources (South Australia)
+822,Disclosure and Barring Service,82,Criminal Records Bureau
+823,New York Division of Military and Naval Affairs,83,New York State Division of Military and Naval Affairs
+825,Thunder Bay Telephone,84,Tbaytel
+826,Fire and Emergency Services Authority of Western Australia,85,Department of Fire and Emergency Services
+828,Federal Ministry of Justice (Germany),86,Federal Ministry of Justice and Consumer Protection
+837,VHDA,87,Virginia Housing Development Authority
+846,Secretariat of Tourism (Mexico),88,Secretary of Tourism (Mexico)
+855,People's Association,89,People's Association (Singapore)
+856,Department of Conservation and Recreation,90,Department of Conservation and Recreation (Massachusetts)
+864,Defence Imagery and Geospatial Organisation,91,Australian Geospatial-Intelligence Organisation
+865,Hong Kong Broadcasting Authority,92,Communications Authority
+870,Military Information Services,93,Military Information Services (Poland)
+871,Audit Commission,94,Audit Commission (United Kingdom)
+875,Ministry of Culture (Republic of China),95,Ministry of Culture (Taiwan)
+895,National Statistics Office (Philippines),96,Philippine Statistics Authority
+913,European Network and Information Security Agency,97,European Union Agency for Network and Information Security
+920,National Commission for Culture and the Arts (Philippines),98,National Commission for Culture and the Arts
+925,"Department of Environment, Climate Change and Water (New South Wales)",99,Office of Environment and Heritage (New South Wales)
+926,Department of Education and Communities (New South Wales),100,Department of Education (New South Wales)
+927,Danish Ministry of Taxation,101,Tax Ministry of Denmark
+934,Ministry for Police and Emergency Services (New South Wales),102,New South Wales Ministry for Police and Emergency Services
+941,Department of Attorney General and Justice (New South Wales),103,Department of Justice (New South Wales)
+956,Secretariat of National Defense (Mexico),104,Secretariat of National Defense
+958,"Philippine Atmospheric, Geophysical and Astronomical Services Administration",105,PAGASA
+959,Egyptian General Intelligence Service,106,General Intelligence Directorate (Egypt)
+959,Egyptian General Intelligence Service,107,Egyptian General Intelligence Directorate
+963,"Cultural Heritage, Handcrafts and Tourism Organization",108,Cultural Heritage Organization of Iran
+964,Secretariat of the Interior (Mexico),109,Secretary of the Interior (Mexico)
+1003,Los Angeles County Coroner's Office,110,Los Angeles County Department of Medical Examiner-Coroner
+1010,NAPOLCOM,111,National Police Commission (Philippines)
+1015,Meteorological Service of New Zealand Limited,112,MetService
+1023,New York City Board of Education,113,New York City Panel for Educational Policy
+1028,Ministry of Railways (Pakistan),114,Pakistan Ministry of Railways
+1031,Ministry of Petroleum and Mineral Resources (Egypt),115,Ministry of Petroleum (Egypt)
+1032,Central Statistical Agency (Ethiopia),116,Central Statistical Agency
+1037,Puerto Rico State Agency for Emergency and Disaster Management,117,Civil Defense State Agency of Puerto Rico
+1047,Civil Aviation Authority of Pakistan,118,Pakistan Civil Aviation Authority
+1051,Ministry of National Defense (Republic of China),119,Ministry of National Defense (Taiwan)
+1064,Ministry of Knowledge Economy,120,"Ministry of Trade, Industry and Energy (South Korea)"
+1064,Ministry of Knowledge Economy,121,"Ministry of Trade, Industry and Energy"
+1066,Identity and Passport Service,122,HM Passport Office
+1070,Department of Arts and Culture,123,Department of Arts and Culture (South Africa)
+1074,Ambulance Service of New South Wales,124,New South Wales Ambulance
+1078,Department of Communications (South Africa),125,Department of Telecommunications and Postal Services
+1084,Department of Atomic Energy (India),126,Department of Atomic Energy
+1084,Department of Atomic Energy (India),127,"Department of Atomic Energy, Government of India"
+1085,Department of Space,128,"Department of Space, Government of India"
+1091,Pakistan Bureau of Statistics,129,Federal Bureau of Statistics
+1098,Washington State Liquor Control Board,130,Washington State Liquor and Cannabis Board
+1104,New South Wales Public Transport Commission,131,Public Transport Commission
+1105,Urban Transit Authority of New South Wales,132,Urban Transit Authority
+1108,National Audit Office of the People's Republic of China,133,National Audit Office (China)
+1129,NZ On Air,134,NZ on Air
+1132,Department of Planning and Infrastructure (New South Wales),135,Department of Planning and Environment (New South Wales)
+1171,Department of Finance and Deregulation,136,Department of Finance (Australia)
+1173,Department of Health and Ageing,137,Department of Health (Australia)
+1174,"Department of Industry, Innovation, Science, Research and Tertiary Education",138,"Department of Industry, Innovation, Climate Change, Science, Research and Tertiary Education"
+1176,Department of Infrastructure and Transport,139,Department of Infrastructure and Regional Development
+1196,Secretariat of Public Education (Mexico),140,Secretariat of Public Education
+1215,Federal Security Force,141,Federal Security Force (Pakistan)
+1227,Ministry of National Defense (Republic of Korea),142,Ministry of National Defense (South Korea)
+1244,Provincial Emergency Program (British Columbia),143,Emergency Management BC
+1246,Department of Agrarian Reform,144,Department of Agrarian Reform (Philippines)
+1272,G2 (Republic of Ireland),145,Directorate of Military Intelligence (Ireland)
+1272,G2 (Republic of Ireland),146,Directorate of Intelligence (Ireland)
+1276,Singapore Sports Council,147,Sport Singapore
+1291,Royal Institute of Thailand,148,Royal Society of Thailand
+1299,"Department of Premier and Cabinet, Queensland",149,Department of the Premier and Cabinet (Queensland)
+1308,"Department of Culture, Arts and Leisure",150,"Department of Culture, Arts and Leisure (Northern Ireland)"
+1316,Information and Privacy Commissioner (Ontario),151,Information and Privacy Commissioner of Ontario
+1316,Information and Privacy Commissioner (Ontario),152,Information and Privacy Commissioner
+1322,California Department of Boating and Waterways,153,California Division of Boating and Waterways
+1329,Bureau of Justice Statistics,154,United States Bureau of Justice Statistics
+1349,National Human Rights Council (Morocco),155,Conseil Consultatif des Droits de l'Homme
+1361,National Science Council,156,Ministry of Science and Technology (Taiwan)
+1361,National Science Council,157,Ministry of Science and Technology (Republic of China)
+1364,Coast Guard (Sweden),158,Swedish Coast Guard
+1367,Ministry of Public Administration and Security,159,Ministry of Security and Public Administration
+1368,Transport Department (Hong Kong),160,Transport Department
+1378,New South Wales Division of Local Government,161,Office of Local Government (New South Wales)
+1384,Overseas Chinese Affairs Council,162,Overseas Community Affairs Council
+1384,Overseas Chinese Affairs Council,163,Overseas Compatriot Affairs Commission
+1391,Keskusrikospoliisi,164,National Bureau of Investigation (Finland)
+1397,California Department of Fish and Wildlife,165,California Department of Fish and Game
+1401,Secretariat of Finance and Public Credit (Mexico),166,Secretariat of Finance and Public Credit
+1420,Minister of Economy of Argentina,167,Ministry of Economy and Public Finances (Argentina)
+1423,Ministry of Education (Burma),168,Ministry of Education (Myanmar)
+1439,Water Corporation,169,Water Corporation (Western Australia)
+1448,Bureau of Fisheries and Aquatic Resources (Philippines),170,Bureau of Fisheries and Aquatic Resources
+1452,Fertilizer and Pesticide Authority (Philippines),171,Fertilizer and Pesticide Authority
+1456,Technical Education and Skills Development Authority (Philippines),172,Technical Education and Skills Development Authority
+1458,Bureau of Lands Management (Philippines),173,Land Management Bureau (Philippines)
+1460,National Mapping and Resource Information Authority (Philippines),174,National Mapping and Resource Information Authority
+1461,Government Arsenal,175,Government Arsenal (Philippines)
+1467,Maritime Industry Authority (Philippines),176,Maritime Industry Authority
+1472,Ministry of Communications (Afghanistan),177,Ministry of Communications and Information Technology (Afghanistan)
+1486,Crime and Misconduct Commission,178,Crime and Corruption Commission
+1492,"Ministry for Food, Agriculture, Forestry and Fisheries (South Korea)",179,"Ministry for Food, Agriculture, Forestry and Fisheries"
+1494,Federal Financial Markets Service (Russia),180,Federal Financial Markets Service
+1506,SSNIT,181,Social Security and National Insurance Trust
+1507,Federal Ministry of Labour and Social Affairs (Germany),182,Federal Ministry of Labour and Social Affairs
+1512,Ministry of the Federal Territories (Malaysia),183,Ministry of Federal Territories (Malaysia)
+1517,Hakka Affairs Council,184,Council for Hakka Affairs
+1536,Ministry of Agriculture (India),185,Ministry of Agriculture & Farmers Welfare
+1553,Ministry of Transport and Communication (Turkey),186,"Ministry of Transport, Maritime and Communication (Turkey)"
+1561,Ministry of Defence (Sri Lanka),187,Ministry of Defence and Urban Development
+1563,Ministry of the Environment (Sweden),188,Ministry of the Environment and Energy (Sweden)
+1565,"Ministry of Enterprise, Energy and Communications (Sweden)",189,Ministry of Enterprise and Innovation (Sweden)
+1581,Ministry of Environment and City Planning (Turkey),190,Ministry of Environment and Urban Planning (Turkey)
+1581,Ministry of Environment and City Planning (Turkey),191,Ministry of Environment and Urbanism (Turkey)
+1589,Ministry of Petroleum and Natural Gas (India),192,Ministry of Petroleum and Natural Gas
+1593,Ministry of Corporate Affairs (India),193,Ministry of Corporate Affairs
+1597,Ministry of Development of North Eastern Region,194,Ministry for Development of North Eastern Region
+1598,Ministry of Food Processing Industries,195,Ministry of Food Processing Industries (India)
+1599,Ministry of Health and Family Welfare (India),196,Ministry of Health and Family Welfare
+1600,Ministry of Housing and Urban Poverty Alleviation (India),197,Ministry of Housing and Urban Poverty Alleviation
+1603,Ministry of Human Resource Development (India),198,Ministry of Human Resource Development
+1608,"Ministry of Personnel, Public Grievances and Pensions (India)",199,"Ministry of Personnel, Public Grievances and Pensions"
+1609,Ministry of Steel (India),200,Ministry of Steel
+1614,Ministry of Tribal Affairs (India),201,Ministry of Tribal Affairs
+1617,Ministry of Communications and Information,202,"Ministry of Information, Communications and the Arts"
+1624,Ministry of Interior and Administration (Poland),203,Ministry of the Interior and Administration (Poland)
+1629,Department of Primary Industries and Water,204,"Department of Primary Industries, Water and Environment (Tasmania)"
+1629,Department of Primary Industries and Water,205,Department of Primary Industries and Water (Tasmania)
+1630,Ministry of Foreign Affairs (Georgia),206,Ministry of Foreign Affairs of Georgia
+1632,Ministry of Foreign Affairs (Republic of China),207,Ministry of Foreign Affairs (Taiwan)
+1639,Ministry of New and Renewable Energy (India),208,Ministry of New and Renewable Energy
+1653,New South Wales Department of Aboriginal Affairs,209,Aboriginal Affairs NSW
+1660,Ministry of Supervision of the People's Republic of China,210,Ministry of Supervision
+1677,Government Service Insurance System,211,Government Service Insurance System (Philippines)
+1681,Colorado Parks and Wildlife,212,Colorado State Parks
+1687,National Administrative Department of Statistics,213,National Administrative Department of Statistics (Colombia)
+1690,Ministry of Public Enlightenment and Propaganda,214,Reich Ministry of Public Enlightenment and Propaganda
+1690,Ministry of Public Enlightenment and Propaganda,215,Reichs Ministry of Public Enlightenment and Propaganda
+1692,Ministry of Foreign Affairs and Trade (South Korea),216,Ministry of Foreign Affairs (South Korea)
+1693,DHS Science and Technology Directorate,217,DHS Directorate for Science and Technology
+1694,DHS Border and Maritime Security Division,218,DHS Science and Technology Border and Maritime Security Division
+1708,Ministry of Foreign Affairs (Montenegro),219,Ministry of Foreign Affairs and European Integration of Montenegro
+1710,Ministry of Education (Republic of China),220,Ministry of Education (Taiwan)
+1711,Ministry of Justice (Republic of China),221,Ministry of Justice (Taiwan)
+1714,Ministry of Interior of Republika Srpska,222,Ministry of Interior (Republika Srpska)
+1721,Texas Commission on Law Enforcement Officers Standards and Education,223,Texas Commission on Law Enforcement
+1722,Virginia State Lottery,224,Virginia Lottery
+1726,Norwegian Post and Telecommunications Authority,225,Norwegian Communications Authority
+1727,"Ministry of Government Administration, Reform and Church Affairs",226,"Ministry of Government Administration, Reform and Church Affairs (Norway)"
+1742,Junta of Andalusia,227,Regional Government of Andalusia
+1742,Junta of Andalusia,228,Andalusian Autonomous Government
+1745,State Treasurer of Michigan,229,Michigan State Treasurer
+1761,Valtiollinen poliisi,230,State Police (Finland)
+1762,"Federal Ministry of Transport, Building and Urban Development",231,Federal Ministry of Transport and Digital Infrastructure
+1763,"Federal Ministry for the Environment, Nature Conservation and Nuclear Safety",232,"Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety"
+1764,Federal Ministry for Economic Cooperation and Development,233,Federal Ministry of Economic Cooperation and Development
+1778,Bundesstiftung zur Aufarbeitung der SED-Diktatur,234,Federal Foundation for the Reappraisal of the SED Dictatorship
+1788,Ministry of Industry and Information Technology of the People's Republic of China,235,Ministry of Industry and Information Technology
+1793,Ministry of Education and Science (Georgia),236,Ministry of Education and Science of Georgia
+1799,Public Ministry (Portugal),237,Public Ministry
+1801,National Statistics Office (Georgia),238,National Statistics Office of Georgia
+1803,"Department of Mines and Energy, Queensland",239,Department of Energy and Water Supply (Queensland)
+1809,DHS Management Directorate,240,DHS Directorate for Management
+1817,Commission of Integrity (Iraq),241,Commission on Integrity
+1835,Statsbygg,242,Norwegian Directorate of Public Construction and Property
+1846,National Bureau of Statistics of the People's Republic of China,243,National Bureau of Statistics of China
+1847,Ministry of Commerce (Burma),244,Ministry of Commerce (Myanmar)
+1851,Ministry of Housing and Urban-Rural Development of the People's Republic of China,245,Ministry of Housing and Urban-Rural Development
+1854,Subordinate Courts of Singapore,246,State Courts of Singapore
+1854,Subordinate Courts of Singapore,247,Subordinate courts of Singapore
+1857,Secretariat for Human Rights,248,Special Secretariat for Human Rights
+1858,Council of Labor Affairs,249,Ministry of Labor (Taiwan)
+1858,Council of Labor Affairs,250,Ministry of Labor (Republic of China)
+1864,Puerto Rico Commission on Civil Rights,251,Civil Rights Commission (Puerto Rico)
+1864,Puerto Rico Commission on Civil Rights,252,Puerto Rico Civil Rights Commission
+1868,Ministry of Sport and Tourism (Poland),253,Ministry of Sport and Tourism of the Republic of Poland
+1870,DHS Explosives Division,254,DHS Science and Technology Explosives Division
+1871,DHS Chemical and Biological Defense Division,255,DHS Science and Technology Chemical and Biological Division
+1872,DHS Infrastructure Protection and Disaster Management Division,256,DHS Science and Technology Infrastructure/Geophysical Division
+1873,DHS Human Factors and Behavioral Sciences Division,257,DHS Science and Technology Human Factors Division
+1886,Tekes,258,Tekes (agency)
+1889,National Office of Statistics,259,Office of National Statistics (Algeria)
+1892,Federal Commissioner for the Stasi Archives,260,Stasi Records Agency
+1892,Federal Commissioner for the Stasi Archives,261,Federal Commissioner for the Stasi Records
+1898,Ministry of Science and Technology (Sri Lanka),262,Ministry of Technology and Research
+1898,Ministry of Science and Technology (Sri Lanka),263,"Ministry of Technology, Research, and Atomic Energy"
+1907,"Institute of Hydrology, Meteorology and Environmental Studies",264,"Institute of Hydrology, Meteorology and Environmental Studies (Colombia)"
+1908,Asaish,265,Asayish (Kurdistan Regional Government)
+1911,Technical and Vocational Training Corporation,266,TVTC
+1924,Office of the Oklahoma State Fire Marshal,267,Oklahoma State Fire Marshal
+1944,Oklahoma Office of the Chief Medical Examiner,268,Oklahoma Chief Medical Examiner
+1949,Communications and Media Commission (Iraq),269,National Communications and Media Commission of Iraq
+1957,Federal Ministry for European and International Affairs,270,"Federal Ministry for Europe, Integration and Foreign Affairs"
+1967,Supreme Audit Office of the Czech Republic,271,Supreme Audit Office (Czech Republic)
+1967,Supreme Audit Office of the Czech Republic,272,Supreme Control Office of the Czech Republic
+1974,Ministry of Government Administration and Home Affairs,273,Ministry of the Interior (South Korea)
+1990,Ministry of Human Resources and Social Security of the People's Republic of China,274,Ministry of Human Resources and Social Security
+2001,Sports Administration,275,Sports Affairs Council
+2002,Department for Planning and Infrastructure,276,Department of Transport (Western Australia)
+2010,Ministry of Foreign Affairs (Sri Lanka),277,Ministry of External Affairs (Sri Lanka)
+2018,"Ministry of Children, Equality and Social Inclusion",278,"Ministry of Children, Equality and Social Inclusion (Norway)"
+2027,State Organization for Marketing of Oil,279,SOMO
+2031,Ministry of Industry and Minerals (Iraq),280,Ministry of Industry (Iraq)
+2032,Ministry of Defence (Pakistan),281,Pakistan Ministry of Defence
+2033,Ministry of Defence Production,282,Ministry of Defence Production (Pakistan)
+2033,Ministry of Defence Production,283,Pakistan Ministry of Defence Production
+2036,Ministry of Communications of Pakistan,284,Ministry of Communications (Pakistan)
+2037,Ministry of States and Frontier Regions,285,Ministry of States and Frontier Regions (Pakistan)
+2045,The Research Council of Norway,286,Research Council of Norway
+2050,SS-Rasse- und Siedlungshauptamt,287,RuSHA
+2061,Ministry of Social Justice and Empowerment (India),288,Ministry of Social Justice and Empowerment
+2062,Ministry of Statistics and Programme Implementation (India),289,Ministry of Statistics and Programme Implementation
+2064,Ministry of Urban Development (India),290,Ministry of Urban Development
+2065,Ministry of Youth Affairs and Sports (India),291,Ministry of Youth Affairs and Sports
+2072,Ministry of Transportation and Communications (Republic of China),292,Ministry of Transportation and Communications (Taiwan)
+2083,Secretariat of the Navy (Mexico),293,Secretary of the Navy (Mexico)
+2087,Ministry of Cultural Heritage and Activities (Italy),294,Ministry of Cultural Heritage and Activities and Tourism (Italy)
+2129,Ministry of Defense and Armed Forces Logistics (Iran),295,Ministry of Defence and Armed Forces Logistics (Iran)
+2145,Michigan Department of Agriculture & Rural Development,296,Michigan Department of Agriculture and Rural Development
+2152,Ministry of Civil Affairs of the People's Republic of China,297,Ministry of Civil Affairs
+2156,Dubai Civil Aviation Authority,298,Department of Civil Aviation (Dubai)
+2158,Ministry of Economic Affairs (Taiwan),299,Ministry of Economic Affairs (Republic of China)
+2160,New Zealand Transport Agency,300,NZ Transport Agency
+2161,Ministry of Women's Affairs (New Zealand),301,Ministry for Women
+2164,Ministry of Culture and Tourism (Indonesia),302,Ministry of Tourism (Indonesia)
+2202,Memorial Museum of Astronautics,303,Memorial Museum of Cosmonautics
+2207,Federal Ministry of Interior (Federation of Bosnia and Herzegovina),304,Federal Ministry of Interior
+2209,Ministry of Land and Resources of the People's Republic of China,305,Ministry of Land and Resources
+2210,Destination NSW,306,Events NSW
+2227,"Gauteng Department of Agriculture, Conservation, Environment and Land Affairs",307,Gauteng Department of Agriculture and Rural Development
+2233,National Forest Corporation (Chile),308,CorporaciÃ³n Nacional Forestal
+2251,Institute for Nature Conservation and Biodiversity,309,Institute for Nature Conservation and Forests
+2252,Ministry for Environment and Spatial Planning,310,Ministry of Environment (Portugal)
+2253,Ministry of the Internal Administration (Portugal),311,Ministry of Internal Administration (Portugal)
+2254,"Ministry of Agriculture, Rural Development and Fisheries",312,"Ministry of Agriculture, Forestry and Rural Development"
+2254,"Ministry of Agriculture, Rural Development and Fisheries",313,"Ministry of Agriculture, Sea, Environment and Spatial Planning"
+2254,"Ministry of Agriculture, Rural Development and Fisheries",314,"Ministry of Agriculture, Sea, Environment and Spatial Planning (Portugal)"
+2256,Ministry of National Defence (Portugal),315,Ministry of National Defense (Portugal)
+2256,Ministry of National Defence (Portugal),316,National Defense Ministry (Portugal)
+2257,"Ministry of Economy, Innovation and Development",317,Ministry of Economy (Portugal)
+2257,"Ministry of Economy, Innovation and Development",318,"Ministry of Economy, Innovation and Development (Portugal)"
+2266,Washington Department of Natural Resources,319,Washington State Department of Natural Resources
+2293,Electricity Commission (NZ),320,Electricity Commission (New Zealand)
+2295,Administrative Department of Public Service,321,Administrative Department of Public Service (Colombia)
+2296,National Administrative Department of Solidary Economy,322,National Administrative Department of Solidarity Economy (Colombia)
+2303,Oklahoma Office of Management and Enterprise Services,323,Oklahoma Office of State Finance
+2305,Consumer Focus,324,Consumer Futures
+2306,Ministry of Labour and Social Solidarity,325,"Ministry of Labour, Solidarity and Social Security"
+2307,"Ministry of Public Works, Transport and Communications",326,Ministry of Planning and Infrastructure
+2310,Iceland Geosurvey,327,Iceland GeoSurvey
+2312,Rocky Mountain Laboratory,328,Rocky Mountain Laboratories
+2313,Ministry of Science and Technology (Brazil),329,"Ministry of Science, Technology and Innovation (Brazil)"
+2318,Electricity Regulatory Authority (Uganda),330,Electricity Regulatory Authority
+2321,Civil Engineering and Development Department,331,Civil Engineering and Development Department (Hong Kong)
+2351,"Ministry of Industry, Trade and Marketing, of Tanzania",332,Ministry of Industry and Trade (Tanzania)
+2352,Ministry of Foreign Affairs and International Cooperation (Tanzania),333,Ministry of Foreign Affairs and International Co-operation (Tanzania)
+2353,"Ministry of Information, Culture and Sports, of Tanzania",334,"Ministry of Information, Youth, Culture and Sports"
+2354,Ministry of Health and Social Welfare (Tanzania),335,Ministry of Health and Social Welfare
+2357,Bangladesh Election Commission,336,Election Commission Bangladesh
+2360,Ministry of Education and Vocational Training (Tanzania),337,Ministry of Education and Vocational Training
+2361,"Ministry of Higher Education, Science and Technology, of Tanzania",338,"Ministry of Communication, Science and Technology"
+2362,"Ministry of Agriculture, Food and Cooperatives",339,"Ministry of Agriculture, Food Security and Cooperatives"
+2362,"Ministry of Agriculture, Food and Cooperatives",340,"Ministry of Agriculture, Food and Cooperatives (Tanzania)"
+2363,"Ministry of Water and Irrigation, Tanzania",341,Ministry of Water and Irrigation
+2369,Ministry of Internal Security (Malaysia),342,Ministry of Internal Security
+2373,Estonian Meteorological and Hydrological Institute,343,Estonian Weather Service
+2381,Ministry of Economy and Finance (Cambodia),344,Ministry of Finance and Economy (Cambodia)
+2383,Ministry of the Interior (Republic of China),345,Ministry of the Interior (Taiwan)
+2388,Ministry of National Defence (Cambodia),346,Ministry of National Defense (Cambodia)
+2392,Central Election Commission of the Republic of China,347,Central Election Commission (Taiwan)
+2393,Department of Health (Republic of China),348,Ministry of Health and Welfare (Taiwan)
+2393,Department of Health (Republic of China),349,Ministry of Health and Welfare (Republic of China)
+2394,Consumer Protection Commission (Republic of China),350,Consumer Protection Committee
+2397,Ministry of Industry and Trade (Vietnam),351,Ministry of Industry (Vietnam)
+2398,Ministry of Natural Resources and Tourism (Tanzania),352,Ministry of Natural Resources and Tourism
+2399,Ministry of East African Cooperation (Tanzania),353,Ministry of East African Cooperation
+2400,"Ministry of Livestock Development and Fisheries, Tanzania",354,Ministry of Livestock and Fisheries Development
+2421,Tourism bureau,355,Tourism Bureau
+2425,DHS National Protection and Programs Directorate,356,National Protection and Programs Directorate
+2437,KERIS (Korea Education and Research Information Service),357,KERIS
+2449,History of Goddard Space Flight Center,358,History of the Goddard Space Flight Center
+2455,California Technology Agency,359,California Department of Technology
+2518,Ministry of Justice and Law Reforms (Sri Lanka),360,Ministry of Justice (Sri Lanka)
+2520,Independent Electoral Commission of South Africa,361,Electoral Commission of South Africa
+2521,Ministry of Road Transport and Highways (India),362,Ministry of Road Transport and Highways
+2530,Ministry of Economy and Finance (Spain),363,Ministry of Economy and Competitiveness (Spain)
+2539,Michigan Department of Human Services,364,Michigan Department of Health and Human Services
+2550,Warning Decision Training Branch,365,Warning Decision Training Division
+2554,Mauritanian Post Company,366,La SociÃ©tÃ© Mauritanienne des Postes
+2574,Ministry of Industry (Pakistan),367,Ministry of Industries and Production (Pakistan)
+2596,Ministry of Land and Land Development (Sri Lanka),368,Ministry of Lands (Sri Lanka)
+2596,Ministry of Land and Land Development (Sri Lanka),369,Ministry of Land and Land Development
+2596,Ministry of Land and Land Development (Sri Lanka),370,Ministry of Land (Sri Lanka)
+2603,Secretariat of Public Security (Mexico),371,Secretariat of Public Security
+2616,Rajdhani Unnayan Kartripakkha,372,Rajdhani Unnayan Kartripakkha (RAJUK)
+2618,Michigan Department of Licensing and Regulatory Affairs,373,"Michigan Department of Energy, Labor & Economic Growth"
+2626,"Michigan Department of Technology, Management, and Budget",374,"Michigan Department of Technology, Management and Budget"
+2638,Kansas Department of Wildlife and Parks,375,"Kansas Department of Wildlife, Parks and Tourism"
+2643,Ministry of Finance and Planning (Sri Lanka),376,Ministry of Finance (Sri Lanka)
+2643,Ministry of Finance and Planning (Sri Lanka),377,Ministry of Finance and Planning
+2644,Defence Science and Technology Organization,378,Defence Science and Technology Organization (Pakistan)
+2655,Communications Commission of Kenya,379,Communications Authority of Kenya
+2656,Charities Commission (New Zealand),380,Charities Services
+2660,Youth Development Administration,381,National Youth Commission
+2661,"Research, Development and Evaluation Commission",382,"Research, Development, and Evaluation Commission"
+2662,Veterans Affairs Commission,383,Veterans Affairs Council
+2663,Pharmaceutical Management Agency,384,Pharmac
+2667,Pennsylvania Department of Public Welfare,385,Pennsylvania Department of Human Services
+2669,Puerto Rico Department of Natural and Environmental Resources,386,Department of Natural and Environmental Resources (Puerto Rico)
+2685,Pennsylvania Department of Insurance,387,Pennsylvania Insurance Department
+2693,Ministry of Interior Affairs (Montenegro),388,Ministry of Interior Affairs and Public Administration (Montenegro)
+2706,National Elections Commission of Liberia,389,National Elections Commission (Liberia)
+2723,Ministry of Labor (South Korea),390,Ministry of Employment and Labor
+2739,Puerto Rico Department of Treasury,391,Puerto Rico Treasury Department
+2753,District of Columbia Department of Transportation,392,District Department of Transportation
+2765,Puerto Rico Department of Justice,393,Department of Justice (Puerto Rico)
+2766,Ministry of Rail Transportation (Burma),394,Ministry of Rail Transportation (Myanmar)
+2807,National Learning Service (SENA),395,National Service of Learning (Colombia)
+2811,"Ministry of Presidency, Civil Service and Justice (Galicia)",396,"Ministry of Presidency, Civil Service and Justice"
+2815,New York City Department of Design & Construction,397,New York City Department of Design and Construction
+2820,New York City Department of Youth & Community Development,398,New York City Department of Youth and Community Development
+2857,Ministry of Interior (Pakistan),399,Ministry of Interior and Narcotics Control (Pakistan)
+2857,Ministry of Interior (Pakistan),400,Pakistan Ministry of Interior
+2858,Ministry of Agriculture (Pakistan),401,Ministry of National Food Security & Research (Pakistan)
+2859,Ministry of Telecommunications,402,Ministry of Information Technology and Telecommunication (Pakistan)
+2859,Ministry of Telecommunications,403,Ministry of Information Technology and Telecommunication
+2865,CADIVI,404,National Center for Foreign Commerce
+2872,Agency for Information Society of Republika Srpska,405,Agency for Information Society of Republic of Srpska
+2881,Puerto Rico Office of the Commissioner of Financial Institutions,406,Office of the Commissioner of Financial Institutions of Puerto Rico
+2894,Ministry of Tourism and Culture (Ontario),407,"Ontario Ministry of Tourism, Culture and Sport"
+2894,Ministry of Tourism and Culture (Ontario),408,"Ministry of Tourism, Culture and Sport"
+2896,Military Security Agency (Serbia),409,Military Security Agency
+2912,Illinois Department of Veterans Affairs,410,Illinois Department of Veterans' Affairs
+2914,"Ministry of Maritime Affairs, Transport and Infrastructure",411,"Ministry of Maritime Affairs, Transport and Infrastructure (Croatia)"
+2935,Office of the Prime Minister (Israel),412,Prime Minister's Office (Israel)
+2979,Ministry of Information and Communications Technology (Iran),413,Ministry of Information and Communications Technology of Iran
+2979,Ministry of Information and Communications Technology (Iran),414,Ministry of Communications and Information Technology (Iran)
+2982,Ministry of Housing and Urban Development (Iran),415,Ministry of Roads & Urban Development
+2983,Ministry of Jihad-e-Agriculture (Iran),416,Ministry of Agriculture Jihad
+2985,Prince William County Department of Parks & Recreation,417,Prince William County Park Authority
+2991,Haryana Power Generation Corporation,418,Haryana Power Generation Corporation Limited
+2992,The Office of Azerbaijan President,419,Presidential Administration of Azerbaijan
+2996,Noshiro Testing Center,420,Noshiro Rocket Testing Center
+3006,"Ministry of Transport, National Infrastructure and Road Safety",421,Ministry of Transport and Road Safety
+3012,Ministry of Health (Burma),422,Ministry of Health (Myanmar)
+3026,Department of Justice and Constitutional Development,423,Department of Justice and Correctional Services
+3040,People's Commissariat for Posts and Telegraphs,424,People's Commissariat for Posts and Telegraphs of the RSFSR
+3041,Ministry of Railways (Soviet Union),425,Ministry of the Means of Communication (Soviet Union)
+3050,Proexport,426,ProColombia
+3053,Council of Ministers of the People's Republic of Hungary,427,Council of Ministers of the Hungarian People's Republic
+3058,Ministry of Information and Communication Technologies (Tunisia),428,Ministry of Communication Technologies (Tunisia)
+3061,Ministry of Industry and Foreign Trade (Egypt),429,"Ministry of Industry, Trade and Small Industries"
+3061,Ministry of Industry and Foreign Trade (Egypt),430,Ministry of Trade and Industry (Egypt)
+3061,Ministry of Industry and Foreign Trade (Egypt),431,"Ministry of Industry, Trade and Investment (Egypt)"
+3064,Ministry of Infrastructure and the Environment,432,Ministry of Infrastructure and the Environment (Netherlands)
+3069,National Bureau of Statistics of Tanzania,433,National Bureau of Statistics (Tanzania)
+3075,State Emergency Service of Ukraine,434,Ministry of Emergencies (Ukraine)
+3080,Ministry of Communications and Information Technologies (Azerbaijan),435,Ministry of Communications and High Technologies (Azerbaijan)
+3080,Ministry of Communications and Information Technologies (Azerbaijan),436,Ministry of Communication and Information Technology (Azerbaijan)
+3095,Superintendency of Residential Public Services,437,Superintendency of Residential Public Services (Colombia)
+3096,Ministry of Industry and Energy (Azerbaijan),438,Ministry of Energy (Azerbaijan)
+3121,Ministry of Fuel and Energy (Ukraine),439,Ministry of Energy and Coal Mining (Ukraine)
+3122,Supreme Council of Justice (Ukraine),440,High Council of Justice (Ukraine)
+3165,Ministry for Macedonia and Thrace,441,Ministry of Macedonia and Thrace
+3165,Ministry for Macedonia and Thrace,442,General Secretariat for Macedonia and Thrace
+3173,The National Centre for Educational Materials,443,National Centre for Educational Materials
+3176,Social Security Organization,444,Social Security Organization (Iran)
+3181,Central Election Commission of Albania,445,Central Election Commission (Albania)
+3182,National Archive Department (Azerbaijan),446,National Archive Department of Azerbaijan
+3188,Ministry of Home and Cultural Affairs,447,Ministry of Home and Cultural Affairs (Bhutan)
+3202,Federal Geological Office,448,Geological Survey of Austria
+3211,Ministry of Education and Sciences (Albania),449,Ministry of Education and Sport (Albania)
+3216,Paul-Ehrlich-Institut (Germany),450,Paul Ehrlich Institute
+3223,Office of Foreign Relations and Information,451,Office for Foreign Relations and Information
+3228,Ministry of Internal Affairs (Georgia),452,Ministry of Internal Affairs of Georgia
+3229,Ministry of Environment Protection and Natural Resources (Georgia),453,Ministry of Environment and Natural Resources Protection of Georgia
+3235,Consumer Financial Protection Bureau,454,United States Consumer Financial Protection Bureau
+3238,Office of the Inspector General of the Government of Puerto Rico,455,Inspector General of Puerto Rico
+3239,Puerto Rico Office of Management and Budget,456,Office of Management and Budget of Puerto Rico
+3245,State Ministry for Euro-Atlantic Integration (Georgia),457,State Ministry for Euro-Atlantic Integration of Georgia
+3247,State Ministry for Reintegration (Georgia),458,State Ministry for Reconciliation and Civic Equality of Georgia
+3249,Ministry of Finance (Georgia),459,Ministry of Finance of Georgia
+3250,State Ministry on Diaspora Issues (Georgia),460,State Ministry on Diaspora Issues of Georgia
+3258,National Election Commission of South Korea,461,National Election Commission (South Korea)
+3259,Saudi Wildlife Authority,462,Saudi Wildlife Commission
+3261,Ministry of Regional Development and Infrastructure,463,Ministry of Regional Development and Infrastructure of Georgia
+3261,Ministry of Regional Development and Infrastructure,464,Ministry of Regional Development and Infrastructure (Georgia)
+3265,Ministry of the Interior and Decentralization (Mauritania),465,Ministry of the Interior (Mauritania)
+3267,Ministry of Health and Population (Egypt),466,Ministry of Health (Egypt)
+3269,Ministry of Manpower and Emigration (Egypt),467,Ministry of Manpower and Immigration (Egypt)
+3270,"Ministry of Labor, Social Affairs and Equal Opportunities (Albania)",468,"Ministry of Labor, Social Affairs, and Equal Opportunities (Albania)"
+3274,Ministry of Sport and Youth Affairs (Georgia),469,Ministry of Sport and Youth Affairs of Georgia
+3277,"Ministry of Environment, Forests and Water Administration (Albania)",470,Ministry of Environment (Albania)
+3278,"Ministry of Health, Labour and Social Affairs (Georgia)",471,"Ministry of Health, Labour and Social Affairs of Georgia"
+3279,Radiation and Nuclear Safety Authority,472,SÃ¤teilyturvakeskus
+3280,Ministry of Agriculture (Georgia),473,Ministry of Agriculture of Georgia
+3281,National Health Insurance Scheme (Ghana).,474,National Health Insurance Scheme (Ghana)
+3287,Ministry of Energy and Natural Resources (Georgia),475,Ministry of Energy of Georgia
+3287,Ministry of Energy and Natural Resources (Georgia),476,Ministry of Energy (Georgia)
+3287,Ministry of Energy and Natural Resources (Georgia),477,Ministry of Energy and Natural Resources of Georgia
+3290,Electricity Authority (NZ),478,Electricity Authority (New Zealand)
+3291,Ministry of Culture and Monument Protection (Georgia),479,Ministry of Culture and Monument Protection of Georgia
+3293,Ministry of Justice (Georgia),480,Ministry of Justice of Georgia
+3302,Ministry of Defense (Georgia),481,Ministry of Defense of Georgia
+3305,"Ministry of Internally Displaced Persons from the Occupied Territories, Accommodation and Refugees (Georgia)",482,"Ministry of Internally Displaced Persons from the Occupied Territories, Accommodation and Refugees of Georgia"
+3309,Women National Committee (Yemen),483,Yemeni Women's National Committee
+3312,"Ministry of Education, Science and Technology",484,Ministry of Education (South Korea)
+3313,"Ministry of Land, Transport and Maritime Affairs",485,"Ministry of Land, Infrastructure and Transport (South Korea)"
+3313,"Ministry of Land, Transport and Maritime Affairs",486,"Ministry of Land, Infrastructure and Transport (Korea)"
+3319,Special State Protection Service (Georgia),487,Special State Protection Service of Georgia
+3320,"Ministry of Education, Culture and Higher Education (Somalia)",488,Ministry of Education and Culture (Somalia)
+3342,Ministry of Cultures,489,Ministry of Cultures (Bolivia)
+3353,Ministry of Natural Resources and Environment,490,Ministry of Natural Resources and Environment (Russia)
+3353,Ministry of Natural Resources and Environment,491,Ministry of Natural Resources and the Environment
+3355,Driver and Vehicle Licensing Authority (Ghana),492,Driver and Vehicle Licensing Authority
+3358,General Company for Ports of Iraq,493,State Company of Iraq Ports
+3361,Avokatin e Popullit,494,Avokati i Popullit
+3363,Regional Environmental Protection Agency,495,Agenzie Regionali per la Protezione Ambientale
+3371,Ministry of Energy (Ghana),496,Ministry of Energy and Petroleum
+3377,Naval Intelligence of Pakistan,497,Naval Intelligence (Pakistan)
+3379,Motor Transport and Traffic Unit,498,Motor Transport and Traffic Directorate
+3380,Ministry of Transportation and Communications (Peru),499,Ministry of Transport and Communications (Peru)
+3393,Ghana Standards Board,500,Ghana Standards Authority
+3396,Myanmar Post and Telecommunication,501,Myanma Posts and Telecommunications
+3419,"Ministry of Cooperatives, Labour and Social Welfare (Iran)",502,"Ministry of Cooperatives, Labour, and Social Welfare"
+3443,National Development Council,503,National Development Council (India)
+3446,Ministry of Information and Broadcasting (Pakistan),504,"Ministry of Information, Broadcasting and National Heritage (Pakistan)"
+3463,National Commission for Enterprises in the Unorganized Sector,505,National Commission for Enterprises in the Unorganised Sector
+3463,National Commission for Enterprises in the Unorganized Sector,506,NCEUS
+3466,Ministry of Social Policy (Ukraine),507,Ministry of Social Policy of Ukraine
+3466,Ministry of Social Policy (Ukraine),508,Ministry of Social Policy
+3484,Egyptian Homeland Security,509,Homeland Security (Egypt)
+3484,Egyptian Homeland Security,510,Egyptian Homeland security
+3496,Roads and Maritime Services,511,Roads & Maritime Services
+3506,"Department of Trade and Investment, Regional Infrastructure and Services (New South Wales)",512,"Department of Industry, Skills and Regional Development (New South Wales)"
+3508,Orang Asli Affairs Department,513,Department of Orang Asli Development
+3521,California Department of Real Estate,514,California Bureau of Real Estate
+3540,"New Mexico Department of Energy, Minerals, and Natural Resources",515,"New Mexico Energy, Minerals and Natural Resources Department"
+3553,"Department of Environment, Iran",516,Department of Environment (Iran)
+3554,Capital Region Airport Authority (Michigan),517,Capital Region Airport Authority
+3558,Estonian Civil Aviation Authority,518,Estonian Civil Aviation Administration
+3564,Ministry of Drinking Water and Sanitation (India),519,Ministry of Drinking Water and Sanitation
+3576,"The Academic Center for Education, Culture and Research",520,"Academic Center for Education, Culture and Research"
+3581,"Department of Agriculture, Fisheries and Forestry (Queensland)",521,Primary Industries and Fisheries
+3589,Department of Communities,522,"Department of Communities, Child Safety and Disability Services (Queensland)"
+3595,Ministry of Religious Affairs (Burma),523,Ministry of Religious Affairs (Myanmar)
+3599,Ministry of Information (Burma),524,Ministry of Information (Myanmar)
+3601,Department of Education and Training (Queensland),525,"Department of Education, Training and Employment (Queensland)"
+3603,Department of Environment and Heritage Protection (Queensland),526,Department of Environment and Resource Management
+3612,"Bureau of Arms Control, Verification and Compliance",527,"Bureau of Arms Control, Verification, and Compliance"
+3616,Emirates Institution for Advanced Science and Technology,528,Mohammed bin Rashid Space Centre
+3623,State Council General Office,529,General Office of the State Council
+3628,Liaison Office of the Central People's Government in the Macao Special Administrative Region,530,Liaison Office in Macau
+3658,Ministry of Wildlife Conservation and Tourism (South Sudan),531,Ministry of Wildlife Conservation and Tourism
+3662,Ministry of Domestic Trade and Consumer Affairs (Malaysia),532,"Ministry of Domestic Trade, Co-operatives and Consumerism (Malaysia)"
+3666,"Ministry of Information, Communication and Culture (Malaysia)",533,Ministry of Communications and Multimedia (Malaysia)
+3670,Ministry of Housing and Local Government (Malaysia),534,"Ministry of Urban Wellbeing, Housing and Local Government (Malaysia)"
+3671,Ministry of Tourism (Malaysia),535,Ministry of Tourism and Culture (Malaysia)
+3677,Ministry of Agriculture and Irrigation,536,Ministry of Agriculture and Irrigation (Myanmar)
+3678,Ministry of Construction (Burma),537,Ministry of Construction (Myanmar)
+3679,Ministry of Transport (Burma),538,Ministry of Transport (Myanmar)
+3680,Ministry of Livestock and Fisheries,539,"Ministry of Livestock, Fisheries and Rural Development"
+3681,Ministry of Labour (Burma),540,"Ministry of Labour, Employment and Social Security (Myanmar)"
+3682,Ministry of Hotels and Tourism (Burma),541,Ministry of Hotels and Tourism (Myanmar)
+3683,Ministry of Environmental Conservation and Forestry (Burma),542,Ministry of Environmental Conservation and Forestry (Myanmar)
+3683,Ministry of Environmental Conservation and Forestry (Burma),543,Ministry of Environmental Conservation and Forestry
+3684,Ministry of Energy (Burma),544,Ministry of Energy (Myanmar)
+3686,Department of Immigration (Malaysia),545,Immigration Department of Malaysia
+3689,NOAA Central library,546,NOAA Central Library
+3692,Ministry of People's Armed Forces (North Korea),547,Ministry of People's Armed Forces
+3700,Ministry of Foreign Affairs (Malta),548,Ministry for Foreign Affairs (Malta)
+3706,Ministry of Industry and Trade (Russia),549,Ministry of Industry and Trade
+3720,Finnish Population Registry Center,550,Population Register Centre (Finland)
+3729,Ministry of Communications and Mass Media (Russia),551,Ministry of Telecom and Mass Communications of the Russian Federation
+3729,Ministry of Communications and Mass Media (Russia),552,Ministry of Telecom and Mass Communications of the Russian Federation (Russia)
+3732,Ministry of Ecology (Ukraine),553,Ministry of Ecology and Natural Resources (Ukraine)
+3766,Polish Central Archives of Historical Records,554,Central Archives of Historical Records
+3776,Minister of Health (Indonesia),555,Ministry of Health (Indonesia)
+3778,"Apitong, Boac, Marinduque",556,"Apitong, Marinduque"
+3794,Ministry of Heritage and Culture (Oman),557,Ministry of Heritage and Culture
+3825,Department of Environment and Forests (Tamil Nadu),558,Environment and Forests Department (Tamil Nadu)
+3834,Tamil Nadu Government Organizations,559,List of Tamil Nadu governmental organisations
+3856,Junta of Communities,560,Regional Government of Castile-La Mancha
+3859,Thrissur Urban Development Authority,561,Thrissur Development Authority
+3902,North Carolina Department of Cultural Resources,562,North Carolina Department of Natural and Cultural Resources
+3923,Department of Civil Aviation (Burma),563,Department of Civil Aviation (Myanmar)
+3930,California Health Benefit Exchange,564,Covered California
+3932,California Office of Real Estate Appraisers,565,California Bureau of Real Estate Appraisers
+3938,Food and Drug Administration (FDA Philippines),566,Food and Drug Administration (Philippines)
+3948,Financial Services Commission of Mauritius,567,Financial Services Commission (Mauritius)
+3953,National Disaster Management Authority,568,National Disaster Management Authority (Pakistan)
+3959,Competition and State Procurement Agency (Georgia),569,State Procurement Agency (Georgia)
+3971,Ministry of Justice (Republic of Korea),570,Ministry of Justice (South Korea)

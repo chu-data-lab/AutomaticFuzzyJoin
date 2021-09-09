@@ -1,0 +1,496 @@
+id_l,title_l,id_r,title_r
+6,Christian Social Union in Bavaria,0,Christian Social Union of Bavaria
+47,Libertarian Movement (Costa Rica),1,Movimiento Libertario
+49,Labor United,2,Labour United
+49,Labor United,3,Labour Union (Poland)
+52,Whigs (British political party),4,Whig (British political party)
+62,Christian Democratic Union (Germany),5,Christian Democratic Union of Germany
+65,New Party (Republic of China),6,New Party (Taiwan)
+66,ChristianUnion,7,Christian Union (Netherlands)
+82,One Nation (Australia),8,Pauline Hanson's One Nation
+86,Anti Revolutionary Party,9,Anti-Revolutionary Party
+94,Green Party Taiwan,10,Green Party (Taiwan)
+101,GreenLeft,11,GroenLinks
+107,New Komeito,12,Komeito
+107,New Komeito,13,New Komeito Party
+125,Girondist,14,Girondins
+140,Liberal People's Party (Sweden),15,Liberals (Sweden)
+166,Democratic Labor Party,16,Democratic Labour Party (Australia)
+173,Comintern,17,Communist International
+173,Comintern,18,Third (Communist) International
+176,Scottish Republican Socialist Party,19,Scottish Republican Socialist Movement
+184,True Finns,20,Finns Party
+209,Rexism,21,Rexist Party
+213,Copperhead (politics),22,Copperheads (politics)
+246,National Front (United Kingdom),23,National Front (UK)
+270,Revolutionary Committee of the Kuomintang,24,Revolutionary Committee of the Chinese Kuomintang
+272,Radical Republican,25,Radical Republicans
+276,Coalition of Left Movements and Ecology,26,Synaspismos
+276,Coalition of Left Movements and Ecology,27,SynaspismÃ³s
+276,Coalition of Left Movements and Ecology,28,"Coalition of Left, of Movements and Ecology"
+309,Socialist Left (Australia),29,Labor Left
+326,GABRIELA,30,GABRIELA Women's Party
+340,LDPR,31,Liberal Democratic Party of Russia
+340,LDPR,32,LDPR (political party)
+359,National Front (Albania),33,Albanian National Front Party
+371,PASOK,34,Panhellenic Socialist Movement
+374,"Democratic Party (South Korea, 2005)",35,"Democratic Party (South Korea, 2000)"
+416,Party for Democracy,36,Party for Democracy (Chile)
+417,Funcinpec Party,37,FUNCINPEC
+422,Cameroon National Union,38,Cameroonian National Union
+427,Yuen Long Tin Shui Wai Democratic Alliance,39,Democratic Alliance (Hong Kong)
+472,Workers' Party of Singapore,40,The Workers' Party (Singapore)
+477,Democratic Action Party,41,Democratic Action Party (Malaysia)
+480,Serbian Democratic Party (Bosnia and Herzegovina),42,Serb Democratic Party (Bosnia and Herzegovina)
+502,United National Movement,43,United National Movement (Georgia)
+527,Law and Order Offensive Party,44,Party for a Rule of Law Offensive
+529,For United Ukraine,45,For United Ukraine!
+532,English Democrats,46,English Democrats (political party)
+534,South Schleswig Voter Federation,47,South Schleswig Voters' Association
+545,Party of the Hungarian Coalition,48,Party of the Hungarian Community
+549,Rainbow (political party),49,Rainbow (Greece)
+551,Fatherland Union (Liechtenstein),50,Patriotic Union (Liechtenstein)
+553,National and Democratic Union,51,Rally & Issues
+554,United Liberation Front of Assam,52,United Liberation Front of Asom
+559,United Communist Party of Georgia,53,Unified Communist Party of Georgia
+569,Siumut,54,Forward (Greenland)
+571,Tories (British political party),55,Tory (British political party)
+612,Independent Kidderminster Hospital and Health Concern,56,Independent Community and Health Concern
+616,Socialist Action (United States),57,Socialist Action (U.S.)
+632,Free Word Party,58,Idea (political party)
+632,Free Word Party,59,CITIZENS (Slovak political party)
+632,Free Word Party,60,Citizens (Slovak political party)
+635,Iranian reform movement,61,Iranian Reformists
+654,Spanish Confederation of the Autonomous Right,62,Spanish Confederation of Autonomous Right-wing Groups
+680,Gibraltar Liberal Party,63,Liberal Party of Gibraltar
+684,National Federation Party (Fiji),64,National Federation Party
+704,Union of Right Forces,65,Union of Rightist Forces
+714,Democratic Republican Movement,66,Republican Democratic Movement
+727,Flemish National Union,67,Vlaams Nationaal Verbond
+731,Red-Green Alliance (Denmark),68,RedâGreen Alliance (Denmark)
+735,Moderates for Piedmont,69,Moderates (Italy)
+742,Jamaat-e-Islami,70,Jamaat-e-Islami Pakistan
+751,For Human Rights in United Latvia,71,Latvian Russian Union
+757,Guatemalan Republican Front,72,Institutional Republican Party
+759,Zealotry,73,Zealots (Judea)
+768,The Olive Tree (political coalition),74,The Olive Tree (Italy)
+782,Unidad Popular,75,Popular Unity (Chile)
+783,Greens 2004,76,The Greens (Poland)
+793,Homeland Union,77,Homeland Union â Lithuanian Christian Democrats
+800,Union of Christian and Centre Democrats,78,Union of the Centre (2002)
+817,Democratic Coalition,79,Democratic Coalition (Hungary)
+861,United Civic Party of Belarus,80,United Civil Party of Belarus
+875,Self-Government Party (Faroe Islands),81,New Self-Government
+875,Self-Government Party (Faroe Islands),82,Self-Government Party
+894,Federation of Italian Liberals,83,Federation of Liberals
+902,Popular Movement,84,Popular Movement (Morocco)
+906,Party Alliance Our Moldova,85,Our Moldova Alliance
+1009,Spanish Communist Workers' Party,86,Spanish Communist Workers' Party (1973)
+1025,National Liberal Party of Cuba,87,Cuban Liberal Movement
+1039,Socialism and Freedom Party,88,Socialism and Liberty Party
+1048,Green Ecologist Party (Chile),89,Ecologist Party (Chile)
+1057,Bahujan Samaj Party (Nepal),90,Bahujan Samaj Party of Nepal
+1063,People's Party of Arunachal,91,Peoples Party of Arunachal
+1113,Democratic Action,92,Democratic Action (Venezuela)
+1121,Telugu Yuvatha,93,Telugu Yuvata
+1233,Hungarian Communist Workers' Party,94,Hungarian Workers' Party
+1273,Christian Left (Chile),95,Citizen Left
+1284,First party,96,First Party
+1288,Alliance for Chile,97,Alianza (Chile)
+1288,Alliance for Chile,98,Alianza por Chile
+1306,"Justice Party, Singapore",99,Singapore Justice Party
+1308,New LM,100,New Liberal Movement
+1320,Mojahedin of the Islamic Revolution Organization,101,Mojahedin of the Islamic Revolution of Iran Organization
+1391,National Democratic Movement,102,National Democratic Movement (Jamaica)
+1413,National Radical Camp,103,National Radical Camp (1934)
+1427,Democratic Party of British Gibraltar,104,Democratic Party for a British Gibraltar
+1433,Popular Socialist Party (Brazil),105,Socialist People's Party (Brazil)
+1447,The Iraqis,106,The Iraqis (party)
+1448,Islamic Movement of Kurdistan,107,Kurdistan Islamic Movement
+1467,Christian-Democratic National Peasants' Party (Romania),108,Christian Democratic National Peasants' Party
+1505,Jatiya Party,109,Jatiya Party (Ershad)
+1509,Pakistan Awami Tehreek,110,Pakistan Awami Tehrik
+1520,Watan Party of Afghanistan,111,Democratic Watan Party of Afghanistan
+1560,Azerbaijan Communist Party,112,Communist Party of Azerbaijan
+1563,Social Democratic Party (Azerbaijan),113,Social Democratic Party of Azerbaijan
+1568,MELS Movement Botswana,114,MELS Movement of Botswana
+1568,MELS Movement Botswana,115,"Marx, Engels, Lenin, Stalin Movement"
+1581,Republican Movement of Aotearoa New Zealand,116,New Zealand Republic
+1596,Republican Party of Guam,117,Republican Party (Guam)
+1597,Democratic Party of Guam,118,Democratic Party (Guam)
+1609,Communist Party of the Basque Country,119,Communist Party of Euskadi
+1614,Communist Party of the People of Spain,120,Communist Party of the Peoples of Spain
+1618,Democratic Unity Coalition,121,Unitary Democratic Coalition
+1618,Democratic Unity Coalition,122,Democratic Unitarian Coalition
+1646,Maurin Kiribati Pati,123,Maurin Kiribati Party
+1647,Pillars of Truth,124,The Pillars of Truth
+1655,Al Wefaq National Islamic Society,125,Al Wefaq
+1665,Civic Solidarity Union,126,Solidarity Civic Unity
+1677,Militant Socialist Movement,127,Mouvement Socialiste Militant
+1680,Democratic Turnhalle Alliance,128,DTA of Namibia
+1718,Zambia Republic Party,129,Zambia Republican Party
+1728,The Union (political coalition),130,The Union (Italy)
+1755,Citizens' Union,131,Citizens' Union for South Tyrol
+1756,Valdotanian Union,132,Valdostan Union
+1781,Puducherry Munnetra Congress,133,Pondicherry Munnetra Congress
+1807,Golden Dawn (Greece),134,Golden Dawn (political party)
+1812,Communist Party of Finland (1997),135,Communist Party of Finland (1994)
+1824,Promotion of the Monegasque Family,136,Rally for the Monegasque Family
+1832,Solidarity (Switzerland),137,SolidaritÃ©s
+1841,Great Union Party,138,Great Unity Party
+1844,Russian Pensioners' Party,139,Russian Party of Pensioners for Justice
+1855,Serbian Radical Party of the Republika Srpska,140,Serbian Radical Party of Republika Srpska
+1864,Batkivshchyna,141,All-Ukrainian Union \
+1866,Solidarity (Ukraine),142,Petro Poroshenko Bloc \
+1866,Solidarity (Ukraine),143,Petro Poroshenko Bloc
+1868,People's Self-Defense,144,Third Ukrainian Republic (party)
+1868,People's Self-Defense,145,People's Self-Defense Political Party
+1879,Association of Candidates (Greenland),146,Association of Candidates
+1880,New Rights,147,New Rights (Georgia)
+1923,National Coalition (El Salvador),148,National Coalition Party (El Salvador)
+1923,National Coalition (El Salvador),149,National Coalition
+1925,Party Workers' Liberation Front 30th of May,150,Party Workers' Liberation Front 30 May
+1939,Democratic Party (Poland),151,Alliance of Democrats (Poland)
+1946,Rally of Democratic Forces,152,Assembly of Democratic Forces
+1947,Mauritanian Popular Front,153,People's Front (Mauritania)
+1973,Attack (political party),154,National Union Attack
+1985,National Social Front,155,"National Front (Italy, 1997)"
+1987,National Front (Italy),156,"National Front (Italy, 1967)"
+1990,Macedonian Party,157,Macedonian Alliance for European Integration
+2006,Nationalist Party (Ivory Coast),158,Nationalist Party (CÃ´te d'Ivoire)
+2021,Muslim Brotherhood of Syria,159,Muslim Brotherhood in Syria
+2031,Independent Movement of Absolute Renovation,160,Independent Absolute Renovation Movement
+2043,Party of Hope (El Salvador),161,Christian Democratic Party (El Salvador)
+2046,Berber Arouch Citizen's Movement,162,Berber Arouch Citizens' Movement
+2050,Republican Party of India (Athvale),163,Republican Party of India (A)
+2057,Qaumi Watan Party,164,Pakistan Peoples Party (Sherpao)
+2069,Democratic Bloc,165,Democratic Bloc (Ukraine)
+2081,Rwandese Socialist Party,166,Rwandan Socialist Party
+2096,New Macau Association,167,New Democratic Macau Association
+2101,National Unity Party (Burma),168,National Unity Party (Myanmar)
+2110,Barisan Nasional Pembebasan Patani,169,Islamic Liberation Front of Patani
+2117,People's Democracy,170,People's Democracy (Ireland)
+2133,South African Party,171,South African Party (Union of South Africa)
+2136,List of leaders of the Liberal Party of Australia (New South Wales Division),172,Liberal Party of Australia (New South Wales Division)
+2143,Patriotic Society Party,173,January 21 Patriotic Society Party
+2173,We Are Peru,174,Democratic Party We Are Peru
+2227,Nasserist Unionist People's Organisation,175,Nasserite Unionist People's Organisation
+2278,Alliance for Democracy and Development,176,Alliance for Democracy and Development (Cameroon)
+2283,Rally of the Guinean People,177,Guinean People's Assembly
+2296,Christian Democratic Party (Rwanda),178,Centrist Democratic Party (Rwanda)
+2301,Islamic Democratic Party (Rwanda),179,Ideal Democratic Party
+2303,Union for Rebirth / Sankarist Movement,180,Union for Rebirth / Sankarist Party
+2336,Alliance for Democracy and Progress,181,Alliance for Democracy and Progress (Central African Republic)
+2349,Chama cha Haki na Usitawi,182,Chama cha Haki na Ustawi
+2376,Islamic Group in Kurdistan,183,Kurdistan Islamic Group
+2379,Taisei Yokusankai,184,Imperial Rule Assistance Association
+2403,Democratic Republican Party,185,Democratic Republican Party (Portugal)
+2408,Northern Rhodesian African National Congress,186,Zambian African National Congress
+2429,Real Democracy Party (Aruba),187,Real Democracy
+2430,The Greens (Mauritius),188,Les Verts Fraternels
+2432,New Union for Macau's Development,189,Alliance for the Development of Macau
+2465,Liberal Democratic Party (Serbia 2005),190,Liberal Democratic Party (Serbia)
+2536,PSUC viu,191,Living Unified Socialist Party of Catalonia
+2542,Rodina,192,Rodina (political party)
+2553,Labour Coalition,193,Labour coalition
+2564,Wendish People's Party,194,Lusatian Alliance
+2567,Da'am Workers Party,195,Organization for Democratic Action
+2572,Progressive Union of the Centrist Center,196,Union of the Centrist Center
+2578,Coalition of the Radical Left,197,Syriza
+2591,Christian Democracy for Autonomies,198,Christian Democracy for the Autonomies
+2607,People's Empowerment Party,199,People's Empowerment Party (Barbados)
+2628,Movement for Autonomies,200,Movement for the Autonomies
+2639,Labour Party (South Africa),201,South African Labour Party
+2659,Union Nationale Rwandaise,202,Rwandese National Union
+2668,BAKSAL,203,Bangladesh Krishak Sramik Awami League
+2672,Dor (political party),204,Gil (political party)
+2692,Pakhtun-khwa Milli Awami Party,205,Pakhtunkhwa Milli Awami Party
+2716,Patriotic Pan-African Convergence,206,Pan-African Patriotic Convergence
+2722,Unitarian party,207,Unitarian Party
+2724,Unity (Sweden),208,Enhet (political party)
+2729,Fusion of Haitian Social Democrats,209,Union of Haitian Social Democrats
+2738,People's Progressive Alliance,210,People's Progressive Alliance (Sint Maarten)
+2740,Third Way (Palestinian Authority),211,Third Way (Palestine)
+2740,Third Way (Palestinian Authority),212,Third Way (political party)
+2745,National Restoration,213,National Restoration (Peru)
+2745,National Restoration,214,National Restoration Party (Peru)
+2748,Popular Alliance (UK),215,Populist Party (UK)
+2752,National Front (Spain),216,"National Front (Spain, 1986)"
+2754,People's Socialist Revolutionary Party,217,Herri Alderdi Sozialista Iraultzailea
+2763,Pasban e Pakistan,218,Pasban Pakistan
+2781,Bersatu (separatist organization),219,Bersatu
+2784,Pirate Party (Sweden),220,Pirate Party of Sweden
+2799,Chaldean Democratic Party,221,Chaldean Democratic Union Party
+2800,Parti Ecologiste du Mali,222,Ecologist Party of Mali
+2803,Social and Democratic Power,223,Social Democratic Power
+2820,Pro Patria and Res Publica Union,224,Union of Pro Patria and Res Publica
+2842,Popular Socialist Party (Spain),225,People's Socialist Party (Spain)
+2843,League for a Workers Republic,226,League for a Workers' Republic
+2851,National Co-ordination of Independents,227,All for Peru
+2852,"Movement for Independence, Unity and Change",228,Broad Front (Dominican Republic)
+2865,National Democratic Party (Fiji),229,"National Democratic Party (Fiji, 1960s)"
+2866,Personalist Labor Revolutionary Party,230,Can Lao Party
+2871,Patriotic Alliance,231,Patriotic Alliance (Greece)
+2890,"National Party (Ireland, 1995)",232,Catholic Democrats (The National Party)
+2897,Radical Democracy Party (Chile),233,Radical Democracy (Chile)
+2907,Homeland Party,234,Homeland Party (Turkey)
+2909,Fatherland Party (Germany),235,German Fatherland Party
+2914,Georgia's Way,236,The Way of Georgia
+2919,United Liberal Party,237,United Liberal Party (Zambia)
+2959,Russian Party (Greece),238,Russian Party
+2962,Leader of the New South Wales National Party,239,National Party of Australia - NSW
+2967,Lebanese National Bloc,240,National Bloc (Lebanon)
+2975,Serb List,241,Serb List (2006)
+2987,People's Party For Work And Betterment,242,People's Party for Work and Betterment
+2988,Middle-of-the-Road Italy,243,Middle Italy (political party)
+2990,Socialist Alternative (United States),244,Socialist Alternative (US)
+2994,Mahaz-e Milli,245,National Islamic Front of Afghanistan
+2994,Mahaz-e Milli,246,Mahazamili
+3002,Common Man's Front,247,Front of the Ordinary Man
+3006,Italian Reform Socialist Party,248,Italian Reformist Socialist Party
+3021,National-Socialist Patriotic Organisation,249,Hellenic Socialist Patriotic Organisation
+3023,Union of the Centre (1994),250,Union of the Centre (1993)
+3054,English Party (Greece),251,English Party
+3068,Liberal Party (Chile),252,"Liberal Party (Chile, 1849)"
+3068,Liberal Party (Chile),253,"Liberal Party (Chile, 1849â1966)"
+3088,Citizens for European Development of Bulgaria,254,GERB
+3090,Popular Unity Candidates,255,Popular Unity Candidacy
+3095,Action Congress of Nigeria (ACN),256,Action Congress of Nigeria
+3105,"Libertair, Direct, Democratisch",257,"Libertarian, Direct, Democratic"
+3128,Party of the Republic,258,Republic Party
+3139,Union of Socialists-Revolutionaries Maximalists,259,Union of Socialists Revolutionaries Maximalists
+3154,Democratic Popular Party (Spain),260,People's Democratic Party (Spain)
+3156,Alignment (political party),261,Alignment (Israel)
+3172,Edelweiss Aosta Valley,262,Edelweiss (Aosta Valley)
+3175,Valdotanian Renewal,263,Valdostan Renewal
+3177,Autonomy Progress Federalism Aosta Valley,264,Aosta Valley (political coalition)
+3177,Autonomy Progress Federalism Aosta Valley,265,Aosta Valley (coalition)
+3178,The Freedomites,266,Die Freiheitlichen
+3178,The Freedomites,267,The Libertarians
+3184,National Democratic Party (Czechoslovakia),268,National Democracy (Czechoslovakia)
+3192,Greens of Serbia,269,New Democratic PartyâGreens
+3196,Party of Mexican Communists,270,Communist Party of Mexico (2011)
+3208,Italian Liberal Party (2004),271,Italian Liberal Party (1997)
+3210,Reform Socialist Party,272,Reformist Socialist Party
+3212,Patto Segni,273,Segni Pact
+3228,French Party (Greece),274,French Party
+3236,Workers Party of South Korea,275,Workers' Party of South Korea
+3240,"Christian Democracy (Italy, 1997)",276,"Christian Democracy (Italy, 2002)"
+3244,Party of Christian Democracy,277,"Christian Democracy (Italy, 2004)"
+3255,Popular National Union,278,National Populist Union
+3257,Right Wing of the Republic,279,Right of the Republic
+3272,All For Latvia!,280,All for Latvia!
+3280,Fatherland's Front,281,Fatherland Front (Austria)
+3285,The Greens (Denmark),282,De GrÃ¸nne
+3322,Liberal Democratic Party (Chile),283,"Liberal Democratic Party (Chile, 1893)"
+3325,Alsace d'abord,284,Alsace First
+3342,Party for European Future,285,Party for a European Future
+3357,Ratniks,286,Ratnik
+3358,Atid (political party),287,Atid (former political party)
+3361,The Right,288,The Right (Italy)
+3366,Liberal Left Party,289,Free-minded Liberal Party
+3368,Democratic Choice (Israel),290,Democratic Choice
+3397,Freethinkers' Party (Greece),291,Freethinkers' Party
+3399,Northern Ireland Conservatives,292,Conservatives in Northern Ireland
+3401,Ukrainian Socialist-Revolutionary Party,293,Ukrainian Socialist Revolutionary Party
+3410,True People's Party (historical),294,True People's Party
+3426,Republican Party of Agricultural and Smallholder People,295,Republican Party of Farmers and Peasants
+3439,Chart Pattana Puea Pandin Party,296,Chart Pattana Party (2007)
+3451,Neutral Free Austria,297,Neutral Free Austria Federation
+3470,Nationalist-Religious movement,298,Council of Nationalist-Religious Activists of Iran
+3473,Social-Democratic Unionist Party,299,Socialist Democratic Unionist Party
+3478,Judged By Your Work Party,300,Judged by Your Work Party
+3493,Proud of the Netherlands,301,Trots op Nederland
+3520,Croatian Labour Party,302,Croatian Workers Party
+3524,Union Party (Ukraine),303,Soyuz (political party)
+3529,Democratic Pan-African Party,304,Pan-African Democratic Party
+3555,Liberal Party (Moldova),305,Liberal Party of Moldova
+3562,United Nasserist Party,306,Nasserist Party
+3565,Partito dell'Amore,307,Love Party (Italy)
+3572,City Vision (Auckland political ticket),308,City Vision (political ticket)
+3579,Communist Party of the Soviet Union (Shenin),309,Communist Party of the Soviet Union (2001)
+3595,Fuerza 2011,310,Popular Force
+3604,United Sabah National Organization,311,United Sabah National Organisation
+3605,National Will Organization,312,Nationalist Front of Mexico
+3605,National Will Organization,313,Mexican Nationalist Front
+3623,Professional Commons,314,The Professional Commons
+3627,National Peoples Party,315,National Peoples Party (Pakistan)
+3653,Carlist Party,316,Carlist Party (1970)
+3661,Ring of Independents,317,Alliance of Independents
+3669,New Socialist Party (Japan),318,New Socialist Party of Japan
+3713,Liberal Union (Australia),319,Liberal Union (South Australia)
+3716,Advancement Unification Party,320,Liberty Forward Party
+3717,Popular Liberation Front,321,Popular Liberation Front (Spain)
+3720,Ukrainian Democratic Alliance for Reform,322,UDAR of Vitaliy Klychko
+3737,"Democratic Party (South Korea, 2008)",323,Democratic Party (South Korea)
+3751,Pirate Party of Austria,324,Pirate Party Austria
+3763,Left Revolutionary Front (Portugal),325,Socialist Alternative Movement
+3764,List for Fiume,326,Lista za Rijeku - Lista per Fiume
+3775,Republican Party (Maldives),327,Jumhooree Party
+3777,Society for Other Politics,328,Society for Political Change
+3783,New Democratic Party (Canada),329,New Democratic Party
+3834,"People's Party (Serbia, 2008)",330,National Party (Serbia)
+3836,Malaysian People's Welfare Party,331,Homeland Human's Wellbeing Party
+3851,Workers and Unemployed Action Group,332,Workers and Unemployed Action
+3859,The Green Movement (Israel),333,Green Movement (Israel)
+3878,United Democratic Front (Sudan),334,United Democratic Front (South Sudan)
+3891,National Awakening (Iceland),335,Awakening of the Nation
+3898,Liberal-Conservative Party (Spain),336,Conservative Party (Spain)
+3899,Chilean Agrarian Party,337,Agrarian Party (Chile)
+3900,Liberal Republican Right,338,Progressive Republican Right
+3914,The Right Alliance,339,Right Alliance (Belarus)
+3915,New People's Party (Korea),340,New People's Party of Korea
+3916,Pirate Party (United States),341,United States Pirate Party
+3957,"Party Against Bullfighting, Cruelty and Mistreatment of Animals",342,Animalist Party Against Mistreatment of Animals
+3957,"Party Against Bullfighting, Cruelty and Mistreatment of Animals",343,Animalist Party Against Mistreatment to Animals
+3963,Tamilnadu Toilers' Party,344,Tamil Nadu Toilers' Party
+3968,I the South,345,I South
+3980,"Frente Nacional (Spain, 2006)",346,"National Front (Spain, 2006)"
+3984,Samurdha Odisha,347,Samruddha Odisha
+4002,Front of the Greek Anticapitalist Left,348,Antarsya
+4018,The Friesen,349,Die Friesen
+4024,Pirate Party (Finland),350,Pirate Party of Finland
+4042,Pannella-Bonino List,351,Bonino-Pannella List
+4092,Statt Party,352,Statt party (Germany)
+4095,Swedish Resistance Movement,353,Nordic Resistance Movement
+4110,Pirate Party Ireland,354,Pirate Party (Ireland)
+4114,Slovak Pirate Party,355,Pirate Party of the Slovak Republic
+4128,Drasi,356,Drassi
+4128,Drasi,357,Action (Greece)
+4142,Aktiv Demokrati,358,Direktdemokraterna
+4152,Pirate Party Australia,359,Pirate Party of Australia
+4157,Pirate Party (Denmark),360,Pirate Party of Denmark
+4162,Romanian Pirate Party,361,Pirate Party of Romania
+4169,All India Mahila Congress,362,Mahila Congress
+4183,SODEP,363,Social Democracy Party (Turkey)
+4184,People's Salvation Army,364,Peoples' Salvation Army
+4191,Pirate Party (France),365,Pirate Party of France
+4203,Shia Ulema Council,366,Shia ulema council
+4205,South Kerry Independent Alliance,367,Kerry Independent Alliance
+4225,Leader of the Australian Labor Party in New South Wales,368,Australian Labor Party (New South Wales Branch)
+4225,Leader of the Australian Labor Party in New South Wales,369,Australian Labor Party (NSW Branch)
+4226,Lebanese Option Gathering,370,Lebanese Option Party
+4231,Pirate Party Luxembourg,371,Pirate Party of Luxembourg
+4232,KDP-I,372,Kurdistan Democratic Party (Iran)
+4239,Shan National League for Democracy,373,Shan Nationalities League for Democracy
+4258,Autonomy South,374,We the South
+4262,"Freedom Party, Bessarabia",375,Freedom Party (Bessarabia)
+4303,Trust (political party),376,Trust (British political party)
+4306,Sunrise Party,377,Sunrise Party of Japan
+4324,Japan Innovation Party,378,Spirit of Japan Party
+4332,Alliance of the Future,379,Alliance de L'Avenir
+4348,National Union of Students LGBT Campaign,380,National Union of Students LGBT+ Campaign
+4349,Pirate Party (Bulgaria),381,Pirate Party of Bulgaria
+4357,Pirate Party Belgium,382,Pirate Party (Belgium)
+4361,Italian Pirate Party,383,Pirate Party (Italy)
+4362,Portuguese Pirate Party,384,Pirate Party of Portugal
+4364,Party of Social Democracy (Chile),385,Chilean Social Democracy Party
+4365,Estonian Pirate Party,386,Pirate Party (Estonia)
+4371,German Freedom Party,387,Freedom (German political party)
+4374,Liberal Democrats in England,388,English Liberal Democrats
+4415,UDEUR Populars for the South,389,Union of Democrats for Europe
+4415,UDEUR Populars for the South,390,UDEUR Populars
+4419,Farmer-Labour Party (Japan),391,Farmer-Labour Party
+4434,Democratic Party (Burma),392,Democratic Party (Myanmar)
+4446,Revolutionary Ba'ath Party,393,Arab Socialist Revolutionary Ba'ath Party
+4447,Socialist Janata (Democratic),394,Socialist Janata (Democratic) Party
+4449,Democratic Unity Roundtable,395,Coalition for Democratic Unity
+4463,Classical Liberal Party (Sweden),396,Liberala partiet
+4465,Liberal Democratic Party (Sudan),397,"Liberal Democratic Party, Sudan"
+4470,Brazil can do more,398,Change Brazil
+4482,Croatian Demochristian Party,399,Croatian Christian Democratic Party
+4485,Freedom and Lawfulness,400,Liberty and Lawfulness
+4486,Slovenian Pirate Party,401,Pirate Party (Slovenia)
+4498,Pirates of Catalonia,402,Pirate Party of Catalonia
+4503,Australian Stable Population Party,403,Sustainable Australia
+4503,Australian Stable Population Party,404,Stable Population Party of Australia
+4503,Australian Stable Population Party,405,Sustainable Population Party
+4516,Socialist Front (Singapore),406,"Socialist Front (Singapore, 2010)"
+4524,Internet Party,407,Internet Party (Spain)
+4536,Majd Movement,408,Harakat Majd
+4538,Al-Islah,409,Al-Islah (Yemen)
+4556,National Renewal Alliance Party,410,National Renewal Alliance
+4575,Popular Democratic Party (Puerto Rico),411,Popular Democratic Party of Puerto Rico
+4576,Sudan People's Liberation Movement-North,412,Sudan People's Liberation Movement (northern sector)
+4585,Freedom Party (Finland),413,Blue and White Front
+4610,Centre Right Alliance,414,Centre Right Alliance (Romania)
+4612,Am Shalem,415,Whole Nation
+4628,Mana Party (New Zealand),416,Mana Movement
+4628,Mana Party (New Zealand),417,Mana Party
+4633,Australian First Nations Political Party,418,Australia's First Nations Political Party
+4633,Australian First Nations Political Party,419,The First Nations Political Party
+4641,Online Party of Canada,420,"Party for Accountability, Competency and Transparency"
+4669,Libyan Arab Socialist Union,421,Arab Socialist Union (Libya)
+4683,All-Russia People's Front,422,People's Front for Russia
+4691,Pa-O National Organization,423,Pa-O National Organisation
+4692,Great South (party),424,Great South (Italy)
+4692,Great South (party),425,Great South (political party)
+4719,Anti-PowerPoint Party,426,Anti PowerPoint Party
+4738,National Front for Salvation of Bulgaria,427,National Front for the Salvation of Bulgaria
+4739,Revolutionary Confederation of Anarcho-Syndicalists by the name of N. I. Makhno,428,Revolutionary Confederation of Anarcho-Syndicalists \
+4746,Ba'ath Party (Iraqi-dominated faction),429,Ba'ath Party (Iraqi-led faction)
+4748,Ba'ath Party (Syrian-dominated faction),430,Ba'ath Party (Syrian-led faction)
+4750,Big Bang (faction),431,Renziani
+4750,Big Bang (faction),432,Now! (Italy)
+4775,South Sudan Communist Party,433,Communist Party of South Sudan
+4785,Democratic United Party,434,"Democratic Party (South Korea, 2011)"
+4786,Algemene Waterschapspartij,435,General Water Board Party
+4788,Reform and Development Misruna Party,436,Reform and Development Party (Egypt)
+4796,Triumph Heritage Empowerment Rural Party,437,Triumph Heritage Empowerment Party
+4801,Homeland Party (Libya),438,"National Gathering for Freedom, Justice and Development"
+4814,United Front of Conservatives,439,United Front of Principlists
+4815,Monotheism and Justice Party,440,Monotheism and Justice Front
+4817,Progressive People's Party (Ghana).,441,Progressive People's Party (Ghana)
+4820,Chhatisgarh Pradesh Congress Committee,442,Chhattisgarh Pradesh Congress Committee
+4828,Orissa Pradesh Congress Committee,443,Odisha Pradesh Congress Committee
+4829,Puducherry Pradesh Congress Committee,444,Pondicherry Pradesh Congress Committee
+4835,Labour Coalition (Iran),445,Worker House
+4837,Justice and Construction Party,446,Justice and Development Party (Libya)
+4841,Nizam-e-Islam,447,Nizam-e-Islam Party
+4844,Unitary Movement,448,Unitary Front
+4849,Social Agreement,449,Social Agreement (Greece)
+4868,Liberal Democratic Federation of Hong Kong,450,Liberal Democratic Foundation of Hong Kong
+4872,Mongolian People's Revolutionary Party (2010),451,Mongolian People's Revolutionary Party (2010-)
+4875,Pirates of Galicia,452,Pirate Party of Galicia
+4880,Independent Citizens' Party,453,Onafhankelijke Burger Partij
+4889,Pirate Party (Hungary),454,Pirate Party of Hungary
+4898,Georgian Dream,455,Georgian DreamâDemocratic Georgia
+4906,Red and Black Alliance,456,Black and Red Alliance
+4910,United Poland,457,Solidary Poland
+4912,Pirate Party Croatia,458,Pirate Party of Croatia
+4923,Democratic Progressive Party (Paraguay),459,Progressive Democratic Party (Paraguay)
+4929,Euskal Herria Bildu,460,EH Bildu
+4943,Bosnian Movement of National Pride (Bosnia and Herzegovina),461,Bosnian Movement of National Pride
+4948,For native language!,462,For the Native Language!
+4949,Liberal Regenerator Party (Portugal),463,Liberal Regenerator Party
+4950,Cambodian National Rescue Party,464,Cambodia National Rescue Party
+4955,United Democratic Forum (Kenya),465,United Democratic Forum Party
+4973,We Demand a Referendum,466,We Demand a Referendum Now
+4980,Egypt's Future Party,467,Egypt Party
+4988,Stop the Decline,468,Act to Stop the Decline
+4998,Call for Tunisia,469,Nidaa Tounes
+5000,Progressive Justice Party,470,Justice Party (South Korea)
+5010,Together 2014,471,Together (Hungary)
+5020,Safety and Development Party,472,Islamic Party (Egypt)
+5034,Italy Common Good,473,Italy. Common Good
+5037,Pirate Party (Republika Srpska),474,Pirate Party of the Republika Srpska
+5045,Active Citizenship (political coalition),475,Active Citizenship
+5056,Otzma LeYisrael,476,Otzma Yehudit
+5059,Radical Party (Ukraine),477,Radical Party of Oleh Lyashko
+5064,Al Islah,478,Al Islah (United Arab Emirates)
+5067,Movement for the Labour Party,479,Labour Party (Italy)
+5099,Karshaka Thozilali Party,480,Karshaka Thozhilali Party
+5130,Pirate Party (Norway),481,Pirate Party of Norway
+5131,"New Party (Greece, 1950)",482,"New Party (Greece, 1947)"
+5151,Homeland Party (Egypt),483,Al-Watan Party (Egypt)
+5160,Chama cha Mapinduzi,484,Chama Cha Mapinduzi
+5162,"National Bloc (Italy, 1921)",485,National Blocs
+5164,Hartlepool First,486,Putting Hartlepool First
+5176,The Frontier (2010-),487,"The Frontier (Hong Kong, 2010)"
+5177,The Independents (political party),488,The Independents (Liechtenstein)
+5194,Centre-right Coalition,489,Centre-right coalition
+5196,Progressive Valdotanian Union (2013),490,Progressive Valdostan Union (2013)
+5204,Egyptian Street Party,491,We Are the People Party
+5207,Islamist coalition,492,Islamist Coalition
+5235,"Federal Socialist Party, Nepal",493,Federal Socialist Party
+5247,WikiLeaks Party,494,The Wikileaks Party

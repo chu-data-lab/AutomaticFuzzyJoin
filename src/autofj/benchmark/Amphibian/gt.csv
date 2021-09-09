@@ -1,0 +1,1162 @@
+id_l,title_l,id_r,title_r
+4,Palmate newt,0,Palmate Newt
+5,Smooth newt,1,Smooth Newt
+10,Tiger salamander,2,Tiger Salamander
+11,Barton Springs salamander,3,Barton Springs Salamander
+14,Ornate Chorus Frog,4,Ornate chorus frog
+15,American bullfrog,5,Bullfrog
+17,Spotted salamander,6,Spotted Salamander
+19,Red back salamander,7,Red-backed salamander
+19,Red back salamander,8,Red Back Salamander
+21,Edible Frog,9,Edible frog
+23,Mudpuppy,10,Proteidae
+25,Spring peeper,11,Spring Peeper
+26,Fire salamander,12,Fire Salamander
+27,Natterjack Toad,13,Natterjack toad
+35,Northern leopard frog,14,Northern Leopard Frog
+36,Greater siren,15,Greater Siren
+37,Grass frog,16,Rana temporaria temporaria
+39,California tiger salamander,17,California Tiger Salamander
+47,Common frog,18,Common Frog
+48,Northern crested newt,19,Great Crested Newt
+50,Alpine salamander,20,Alpine Salamander
+54,Dendrobates azureus,21,Blue poison dart frog
+55,Sword-tail newt,22,Sword-tail Newt
+56,African foam-nest tree frog,23,African Foam-nest Tree Frog
+60,Two-toed amphiuma,24,Two-toed Amphiuma
+63,Marsh frog,25,Marsh Frog
+64,Chinese fire belly newt,26,Chinese Fire Belly Newt
+65,Jefferson salamander,27,Jefferson Salamander
+66,Clawed salamander,28,Clawed Salamander
+67,Common mudpuppy,29,Common Mudpuppy
+72,Blue-spotted salamander,30,Blue-spotted Salamander
+73,Brook salamander,31,Eurycea
+75,Darwin's frog,32,Darwin's Frog
+86,European Fire-bellied Toad,33,European fire-bellied toad
+87,Scanty frog,34,Scanty Frog
+88,Giant burrowing frog,35,Giant Burrowing Frog
+94,Pool Frog,36,Pool frog
+95,Spotted paddle-tail newt,37,Spotted Paddle-Tail Newt
+96,Tukeit Hill frog,38,Tukeit Hill Frog
+97,Mexican burrowing toad,39,Mexican Burrowing Toad
+98,American spadefoot toad,40,American spadefoot toads
+103,Green and golden bell frog,41,Green and Golden Bell Frog
+104,Fire belly newts,42,Firebelly Newt
+105,Baw Baw frog,43,Baw Baw Frog
+106,Japanese fire belly newt,44,Japanese Fire Belly Newt
+108,Mexican Treefrogs,45,Mexican burrowing tree frog
+108,Mexican Treefrogs,46,Mexican burrowing tree frogs
+112,Paddletail newt,47,Paddletail Newt
+116,Spikethumb frogs,48,Spikethumb frog
+116,Spikethumb frogs,49,Spikethumb Frogs
+117,Heart-tongued Frogs,50,Phyllodytes
+118,Slender-legged tree frogs,51,Slender-legged Treefrogs
+119,Canebrake tree frogs,52,Canebrake Treefrogs
+125,Eastern dwarf tree frog,53,Eastern Dwarf Tree Frog
+126,Hyla meridionalis,54,Mediterranean tree frog
+127,Japanese tree frog,55,Japanese Tree Frog
+128,Pouched frog,56,Pouched Frog
+129,Australian green tree frog,57,Australian Green Tree Frog
+131,Ringed salamander,58,Ringed Salamander
+132,Streamside salamander,59,Streamside Salamander
+133,Frosted flatwoods salamander,60,Frosted Flatwoods Salamander
+134,Northwestern salamander,61,Northwestern Salamander
+135,Mabee's salamander,62,Mabee's Salamander
+136,Long-toed salamander,63,Long-toed Salamander
+138,Ethiopian banana frog,64,Ethiopian Banana Frog
+139,Paghman stream salamander,65,Pagham stream salamander
+141,California newt,66,California Newt
+148,Peron's tree frog,67,Peron's Tree Frog
+156,California red-legged frog,68,California Red-legged Frog
+160,White-lipped tree frog,69,White-lipped Tree Frog
+161,Magnificent tree frog,70,Magnificent Tree Frog
+163,Tyler's tree frog,71,Tyler's Tree Frog
+164,Bleating tree frog,72,Bleating Tree Frog
+167,Great barred frog,73,Great Barred Frog
+169,Broad-palmed frog,74,Broad Palmed Frog
+170,Common eastern froglet,75,Common Eastern Froglet
+182,Taylor's salamander,76,Taylor's Salamander
+183,Anderson's salamander,77,Anderson's Salamander
+184,Lake Patzcuaro salamander,78,Lake Patzcuaro Salamander
+191,Spotted grass frog,79,Spotted Grass Frog
+192,Striped marsh frog,80,Striped Marsh Frog
+193,Santa Cruz long-toed salamander,81,Santa Cruz Long-toed Salamander
+213,Huia (genus),82,Huia (frog)
+215,Banded bull frog,83,Banded bullfrog
+227,Lake Lerma salamander,84,Lake Lerma Salamander
+228,Delicate-skinned salamander,85,Delicate-skinned Salamander
+230,Dendrobates tinctorius,86,Dyeing dart frog
+235,Agile Frog,87,Agile frog
+238,Growling grass frog,88,Growling Grass Frog
+239,Florida bog frog,89,Florida Bog Frog
+240,Levant Water Frog,90,Levant water frog
+242,Romer's tree frog,91,Romer's Tree Frog
+243,Blue-sided leaf frog,92,Blue-sided Leaf Frog
+245,Hong Kong warty newt,93,Hong Kong Newt
+246,Concave-eared torrent frog,94,Concave-eared Torrent Frog
+247,Green and black poison dart frog,95,Green and Black Poison Dart Frog
+249,Freycinet's frog,96,Freycinet's Frog
+250,Jervis Bay tree frog,97,Jervis Bay Tree Frog
+251,Moor Frog,98,Moor frog
+252,Southern toad,99,Southern Toad
+254,Marbled salamander,100,Marbled Salamander
+256,Yellow-peppered salamander,101,Yellow-Peppered Salamander
+257,Giant barred frog,102,Giant Barred Frog
+258,Kihansi Spray Toad,103,Kihansi spray toad
+260,Fletcher's frog,104,Fletcher's Frog
+261,Chaunus chavin,105,Rhinella chavin
+262,Tasmanian froglet,106,Tasmanian Froglet
+263,Amazon Milk Frog,107,Mission golden-eyed tree frog
+264,Red-crowned toadlet,108,Red-crowned Toadlet
+265,Red-backed toadlet,109,Red-backed Toadlet
+268,Blue Mountains tree frog,110,Blue Mountains Tree Frog
+269,Wallum froglet,111,Wallum Froglet
+270,Southern leaf green tree frog,112,Southern Leaf Green Tree Frog
+272,Leaf green tree frog,113,Leaf Green Tree Frog
+277,Western Nimba toad,114,Western Nimba Toad
+278,Tasmanian tree frog,115,Tasmanian Tree Frog
+279,Smooth toadlet,116,Smooth Toadlet
+281,Tyler's toadlet,117,Tyler's Toadlet
+282,Lesueur's frog,118,Lesueur's Frog
+283,Revealed frog,119,Revealed Frog
+284,Brown tree frog,120,Southern brown tree frog
+284,Brown tree frog,121,Brown Tree Frog
+284,Brown tree frog,122,Southern Brown tree frog
+287,Tusked frog,123,Tusked Frog
+289,Malabar gliding frog,124,Rhacophorus malabaricus
+291,Northern cricket frog,125,Acris crepitans
+292,Cliff chirping frog,126,Eleutherodactylus marnockii
+295,Woodhouse's toad,127,Woodhouse's Toad
+296,Oriental fire-bellied toad,128,Oriental Fire-bellied Toad
+297,Boreal toad,129,Boreal Toad
+298,Mink frog,130,Mink Frog
+300,Cope's gray tree frog,131,Hyla chrysoscelis
+301,Mountain stream tree frog,132,Mountain Stream Tree Frog
+302,Pearson's green tree frog,133,Pearson's Green Tree Frog
+303,Italian agile frog,134,Italian Agile Frog
+304,Boreal chorus frog,135,Boreal Chorus Frog
+305,Pine Barrens tree frog,136,Pine Barrens Tree Frog
+306,Dainty green tree frog,137,Dainty Green Tree Frog
+307,Striped rocket frog,138,Striped Rocket Frog
+308,Peppered tree frog,139,Peppered Tree Frog
+309,Armoured frog,140,Armoured Frog
+310,Fleay's barred frog,141,Fleay's Barred Frog
+311,Stuttering frog,142,Stuttering Frog
+316,Squirrel tree frog,143,Squirrel Treefrog
+317,Spotted chorus frog,144,Spotted Chorus Frog
+318,Western chorus frog,145,Western Chorus Frog
+319,Strecker's chorus frog,146,Strecker's Chorus Frog
+320,Smilisca baudinii,147,Common Mexican tree frog
+321,Hochstetter's frog,148,Hochstetter's Frog
+322,Archey's frog,149,Archey's Frog
+323,Hamilton's frog,150,Hamilton's Frog
+324,Maud Island frog,151,Maud Island Frog
+326,Black-spotted newt,152,Notophthalmus meridionalis
+327,Gulf Coast waterdog,153,Necturus beyeri
+330,Ornate burrowing frog,154,Ornate Burrowing Frog
+331,Southern leopard frog,155,Southern Leopard Frog
+332,Upland Chorus Frog,156,Upland chorus frog
+333,Long-nosed horned frog,157,Long-nosed Horned Frog
+334,Little grass frog,158,Little Grass Frog
+335,Golden mantella,159,Golden Mantella
+337,Pig frog,160,Pig Frog
+338,Sandhill frog,161,Sandhill Frog
+340,Littlejohn's tree frog,162,Littlejohn's Tree Frog
+341,Black-legged dart frog,163,Phyllobates bicolor
+350,Striped burrowing frog,164,Striped Burrowing Frog
+351,Australian lace-lid,165,Australian Lace-lid
+353,Lesser siren,166,Lesser Siren
+355,Plains spadefoot toad,167,Plains Spadefoot Toad
+356,New Mexico spadefoot toad,168,New Mexico Spadefoot Toad
+357,Plains leopard frog,169,Plains Leopard Frog
+358,Rio Grande leopard frog,170,Rio Grande Leopard Frog
+359,Cascade Caverns salamander,171,Eurycea latitans
+360,Valdina Farms salamander,172,Eurycea troglodytes
+361,Booroolong frog,173,Booroolong Frog
+362,Marbled toadlet,174,Marbled Toadlet
+366,Northern slimy salamander,175,Plethodon glutinosus
+377,Eurycea nana,176,San Marcos salamander
+378,Comal blind salamander,177,Eurycea tridentifera
+379,Blanco blind salamander,178,Eurycea robusta
+380,Dwarf salamander,179,Eurycea quadridigitata
+381,Texas salamander,180,Eurycea neotenes
+382,Western slimy salamander,181,Plethodon albagula
+383,Southern red-backed salamander,182,Plethodon serratus
+384,Small-mouth salamander,183,Ambystoma texanum
+386,Barred tiger salamander,184,Ambystoma mavortium
+392,Crucifix toad,185,Crucifix Toad
+399,Northern dwarf tree frog,186,Northern Dwarf Tree Frog
+400,Green-thighed frog,187,Green Thighed Frog
+401,Desert tree frog,188,Desert Tree Frog
+402,Slender tree frog,189,Slender Tree Frog
+403,Moaning frog,190,Moaning Frog
+404,Rocky Mountain toad,191,Rocky Mountain Toad
+407,Painted burrowing frog,192,Painted Burrowing Frog
+408,Sudell's frog,193,Sudell's Frog
+409,Northern barred frog,194,Northern Barred Frog
+410,New Holland frog,195,New Holland Frog
+411,Salmon-striped frog,196,Salmon-striped Frog
+412,Northern banjo frog,197,Northern Banjo Frog
+413,Red-bellied newt,198,Red-bellied Newt
+414,Large toadlet,199,Large Toadlet
+415,Kokoe poison dart frog,200,Phyllobates aurotaenia
+417,Wrinkled toadlet,201,Wrinkled Toadlet
+418,Short-footed frog,202,Short-footed Frog
+419,Eastern sign-bearing froglet,203,Eastern Sign-bearing Froglet
+420,Black-spotted sticky frog,204,Black-spotted Sticky Frog
+421,Rough frog,205,Rough Frog
+422,Long-thumbed frog,206,Long-thumbed Frog
+430,Malabar tree toad,207,Pedostibes tuberculosus
+431,Hyla annectans,208,Jerdon's tree frog
+435,Xenophrys wuliangshanensis,209,Wuliangshan horned toad
+443,Tylototriton verrucosus,210,Himalayan newt
+444,Bombay caecilian,211,Ichthyophis bombayensis
+445,Garo Hills caecilian,212,Ichthyophis garoensis
+446,Yellow-striped caecilian,213,Ichthyophis beddomei
+447,Humphrey's caecilian,214,Ichthyophis humphreyi
+448,Husain's caecilian,215,Ichthyophis husaini
+449,Long-headed caecilian,216,Ichthyophis longicephalus
+450,Malabar caecilian,217,Ichthyophis malabarensis
+452,Sikkimese caecilian,218,Ichthyophis sikkimensis
+454,Three-colored caecilian,219,Ichthyophis tricolor
+455,Kerala caecilian,220,Uraeotyphlus interruptus
+456,Malabar tailed caecilian,221,Uraeotyphlus malabaricus
+457,Narayan's caecilian,222,Uraeotyphlus narayani
+458,Menon's caecilian,223,Uraeotyphlus menoni
+459,Red caecilian,224,Uraeotyphlus oxyurus
+462,Amboli caecilian,225,Gegeneophis danieli
+464,Fuller's caecilian,226,Gegeneophis fulleri
+466,Forest caecilian,227,Gegeneophis ramaswamii
+478,Northern red-legged frog,228,Northern Red-legged Frog
+481,Dwarf siren,229,Dwarf Siren
+482,Trilling frog,230,Trilling Frog
+483,Streambank froglet,231,Streambank Froglet
+484,Marbled frog,232,Marbled Frog
+485,Common mist frog,233,Common Mist Frog
+488,Vegas Valley leopard frog,234,Vegas Valley Leopard Frog
+491,Southern dwarf siren,235,Southern Dwarf Siren
+492,Dwarf waterdog,236,Dwarf Waterdog
+493,Waterfall frog,237,Waterfall Frog
+494,Southern crested newt,238,Southern Crested Newt
+495,Marbled newt,239,Marbled Newt
+496,Spencer's burrowing frog,240,Spencer's Burrowing Frog
+497,Northern dwarf siren,241,Northern Dwarf Siren
+498,Centralian tree frog,242,Centralian Tree Frog
+500,Van Dyke's salamander,243,Plethodon vandykei
+501,Tellico salamander,244,Tellico Salamander
+502,Alabama waterdog,245,Necturus alabamensis
+505,Neuse River waterdog,246,Necturus lewisi
+506,Wallum sedge frog,247,Wallum Sedge Frog
+508,Northern green frog,248,Northern Green Frog
+509,Sierra newt,249,Sierra Newt
+515,Hairy frog,250,Hairy Frog
+517,Litoria platycephala,251,Cyclorana platycephala
+520,Elegant frog,252,Elegant Frog
+521,Striped newt,253,Notophthalmus perstriatus
+522,Hose's frog,254,Hose's Frog
+527,Hypogeophis brevis,255,Grandisonia brevis
+528,Makumuno Assumbo caecilian,256,Idiocranium
+529,Praslin's caecilian,257,Praslinia
+534,Suwon tree frog,258,Suweon tree frog
+536,Fischer's clawed salamander,259,Onychodactylus fischeri
+541,Siberian tree frog,260,Rana amurensis
+541,Siberian tree frog,261,Siberian Tree Frog
+547,Wallace's flying frog,262,Rhacophorus nigropalmatus
+548,Gold-striped salamander,263,Gold-Striped Salamander
+549,Chuxiong fire-bellied newt,264,Chuxiong Fire-Bellied Newt
+550,Dayang newt,265,Dayang Newt
+552,Chinhai spiny newt,266,Chinhai Spiny Newt
+554,Anatolia Lycian salamander,267,Lyciasalamandra antalyana
+555,Atif's Lycian salamander,268,Lyciasalamandra atifi
+556,Bay Lycian salamander,269,Lyciasalamandra billae
+557,Fazil Lycian salamander,270,Lyciasalamandra fazilae
+558,Marmaris Lycian salamander,271,Lyciasalamandra flavimembris
+559,Karpathos Lycian salamander,272,Lyciasalamandra helverseni
+560,Luschan's salamander,273,Luschan's Salamander
+561,Caucasian salamander,274,Caucasian Salamander
+562,Yellow-spotted newt,275,Neurergus crocatus
+564,Kaiser's spotted newt,276,Neurergus kaiseri
+565,Kurdistan spotted newt,277,Neurergus microspilotus
+566,Strauch's spotted newt,278,Neurergus strauchii
+567,Spot-tailed warty newt,279,Spot-Tailed Warty Newt
+569,Chinese warty newt,280,Chinese Warty Newt
+570,Wanggao warty newt,281,Wanggao Warty Newt
+571,Tam Dao salamander,282,Tam Dao Salamander
+572,Laos warty newt,283,Paramesotriton laoensis
+573,North African fire salamander,284,North African Fire Salamander
+574,Corsican fire salamander,285,Corsican Fire Salamander
+576,Spectacled salamander,286,Spectacled Salamander
+577,Near Eastern fire salamander,287,Arouss Al Ayn
+578,Lanza's alpine salamander,288,Lanza's Alpine Salamander
+579,Bosca's newt,289,Bosca's Newt
+580,Danube crested newt,290,Danube Crested Newt
+581,Italian newt,291,Italian Newt
+582,Italian crested newt,292,Italian Crested Newt
+583,Southern marbled newt,293,Southern Marbled Newt
+584,Southern banded newt,294,Banded Newt
+585,Carpathian newt,295,Carpathian Newt
+586,Black knobby newt,296,Black Knobby Newt
+587,Hainan knobby newt,297,Hainan Knobby Newt
+588,Taliang knobby newt,298,Taliang Knobby Newt
+589,Red-tailed knobby newt,299,Red-Tailed Knobby Newt
+590,Leora's stream salamander,300,Leora's Stream Salamander
+591,Granular salamander,301,Granular Salamander
+593,Tarahumara salamander,302,Tarahumara Salamander
+594,Arthroleptis adolfifriederici,303,Rugege Forest squeaker
+604,Arthroleptis mossoensis,304,Mosso screeching frog
+605,Arthroleptis nikeae,305,Nike's squeaker
+606,Arthroleptis nimbaensis,306,Mount Nimba screeching frog
+607,Arthroleptis phrynoides,307,Lomami screeching frog
+612,Arthroleptis spinalis,308,Tanganyika screeching frog
+614,Arthroleptis sylvatica,309,Arthroleptis sylvaticus
+619,Arthroleptis vercammeni,310,Mwana screeching frog
+621,Arthroleptis zimmeri,311,Zimmer's screeching frog
+636,Large-spined Bell Toad,312,Large-spined bell toad
+637,Lichuan Bell Toad,313,Lichuan bell toad
+638,Apennine yellow-bellied toad,314,Apennine Yellow-bellied Toad
+654,Rio Carauta stubfoot toad,315,Rio Carauta Stubfoot Toad
+655,Venezuelan yellow frog,316,Venezuelan Yellow Frog
+657,Rancho Grande Harlequin Frog,317,Veragua stubfoot toad
+662,Puca Sapo,318,Guanujo stubfoot toad
+668,Atelopus monohernandezi,319,Atelopus monohernandezii
+680,Green and red venter harlequin toad,320,Green and Red Venter Harlequin Toad
+687,Scarlet harlequin toad,321,Scarlet Harlequin Toad
+690,Three-coloured harlequin toad,322,Three-coloured Harlequin Toad
+692,Chaunus abei,323,Rhinella abei
+693,Bufo acutirostris,324,Rhinella acutirostris
+694,Ailao toad,325,Ailao Toad
+695,Chaunus amabilis,326,Rhinella amabilis
+697,Arabian toad,327,Arabian Toad
+698,Chaunus arborescandens,328,Rhinella arborescandens
+699,Chaunus arenarum,329,Rhinella arenarum
+700,Chaunus arunco,330,Rhinella arunco
+702,Chaunus atacamensis,331,Rhinella atacamensis
+704,Chaunus bergi,332,Rhinella bergi
+705,Crested toad,333,Crested Toad
+706,Blanford's toad,334,Blanford's Toad
+708,Brongersma's toad,335,Brongersma's Toad
+710,Sapo Cornudo,336,Rhinella ceratophrys
+712,Cranopsis coniferus,337,Incilius coniferus
+714,Chaunus crucifer,338,Rhinella crucifer
+717,Dhofar toad,339,Dhofar Toad
+718,Chaunus diptychus,340,Rhinella diptycha
+720,Chaunus fernandezae,341,Rhinella fernandezae
+721,Carabaya toad,342,Carabaya Toad
+724,Bony-headed toad,343,Bony-headed Toad
+725,Chaunus gallardoi,344,Rhinella gallardoi
+728,Chaunus gnustae,345,Rhinella gnustae
+729,Chaunus henseli,346,Rhinella henseli
+730,Chaunus inca,347,Rhinella inca
+731,Rio Perene toad,348,Rio Perene Toad
+732,Chaunus justinianoi,349,Rhinella justinianoi
+735,Nile Delta toad,350,Nile Delta Toad
+738,Bufo kotagamai,351,Duttaphrynus kotagamai
+743,Chaunus limensis,352,Rhinella limensis
+750,Chaunus nesiotes,353,Rhinella nesiotes
+754,Chaunus ornatus,354,Rhinella ornata
+756,Eastern leopard toad,355,Eastern Leopard Toad
+758,Bufo pewzowi,356,Pseudepidalea pewzowi
+759,Philippine toad,357,Philippine Toad
+760,Chaunus pombali,358,Rhinella pombali
+761,Bufo proboscideus,359,Rhinella proboscidea
+763,Bufo pseudoraddei,360,Bufotes pseudoraddei
+764,Chaunus pygmaeus,361,Rhinella pygmaea
+765,Chaunus quechua,362,Rhinella quechua
+766,Ranger's toad,363,Ranger's Toad
+768,Chaunus rubropunctatus,364,Rhinella rubropunctata
+769,Chaunus rubescens,365,Rhinella rubescens
+770,Chaunus rumbolli,366,Rhinella rumbolli
+777,Tibetan toad,367,Tibetan Toad
+783,Chaunus veraguensis,368,Rhinella veraguensis
+788,Cape mountain toad,369,Cape Mountain Toad
+789,Subdesert toad,370,Subdesert Toad
+790,Tradouw's mountain toad,371,Tradouw's Mountain Toad
+796,Laurentophryne parkeri,372,Parker's tree toad
+797,Cross toad,373,Cross Toad
+804,Maldonada redbelly toad,374,Maldonada Redbelly Toad
+824,Guacamayo plump toad,375,Guacamayo Plump Toad
+826,Cannatella's plump toad,376,Cannatella's Plump Toad
+842,Rhamphophryne proboscidea,377,Dendrophryniscus proboscideus
+845,Altiphrynoides osgoodi,378,Osgood's Ethiopian toad
+901,Dermophis costaricensis,379,Dermophis costaricense
+903,Mexican burrowing caecilian,380,Dermophis mexicanus
+910,Gaboon caecilian,381,Geotrypetes seraphini
+918,Frigate Island caecilian,382,Hypogeophis
+951,Aleku caecilian,383,Sylvacaecilia
+993,Nymphargus luminosa,384,Nymphargus luminosus
+1030,Colostethus machalilla,385,Epipedobates machalilla
+1034,Cryptophyllobates chlorocraspedus,386,Hyloxalus chlorocraspedus
+1036,Andinobates claudiae,387,Ranitomeya claudiae
+1041,Epipedobates anthonyi,388,Anthony's poison arrow frog
+1044,Epipedobates bolivianus,389,Ameerega boliviana
+1055,Ameerega trivittata,390,Ameerega trivittatus
+1056,Lovely Poison Frog,391,Lovely poison frog
+1057,Golfodulcean Poison Frog,392,Golfodulcean poison frog
+1058,Pink-sided tree frog,393,Pink-sided Treefrog
+1059,Morelet's tree frog,394,Morelet's Tree Frog
+1060,Gliding tree frog,395,Gliding Treefrog
+1061,Spiny-headed tree frog,396,Anotheca spinosa
+1062,Bokermann's casque-headed frog,397,Bokermann's Casque-headed Frog
+1063,Bruno's casque-headed frog,398,Bruno's Casque-headed Frog
+1067,Bocaina tree frog,399,Aplastodiscus callipygius
+1104,Charadrahyla altipotens,400,Yellowbelly voiceless tree frog
+1105,Charadrahyla chaneque,401,Fairy tree frog
+1107,Charadrahyla taeniopus,402,Porthole tree frog
+1108,Charadrahyla trux,403,Spine-fingered tree frog
+1109,Hidden-ear frog,404,Hidden-ear Frog
+1110,Knife-footed frog,405,Knife-footed Frog
+1111,Long-footed frog,406,Long-footed Frog
+1112,Daly Waters frog,407,Daly Waters Frog
+1113,Main's frog,408,Main's Frog
+1114,Small frog,409,Small Frog
+1185,Duellmanohyla chamulae,410,Chamula mountain brook frog
+1187,Duellmanohyla ignicolor,411,Sierra Juarez brook frog
+1188,Duellmanohyla lythrodes,412,Savage's brook frog
+1189,Duellmanohyla salvavida,413,Honduran brook frog
+1190,Duellmanohyla soralia,414,Copan brook frog
+1191,Duellmanohyla uranochroa,415,Costa Rica brook frog
+1193,Ecnomiohyla miliaria,416,Cope's brown treefrog
+1208,Hyla alboguttata,417,Whitebelly tree frog
+1210,Bird-voiced tree frog,418,Bird-voiced Treefrog
+1212,Hyla euphorbiacea,419,Southern highland tree frog
+1213,Hyla hallowellii,420,Hallowell's tree frog
+1214,Hyla helenae,421,Helena's tree frog
+1215,Hyla imitator,422,Mimic tree frog
+1216,Hyla immaculata,423,Spotless tree toad
+1217,Hyla inframaculata,424,Santarem tree frog
+1218,Italian tree frog,425,Italian Tree Frog
+1220,Hyla plicata,426,Ridged tree frog
+1221,Sardinian tree frog,427,Sardinian Tree Frog
+1222,Hyla savignyi,428,Middle East tree frog
+1223,Hyla tsinlingensis,429,Shensi tree frog
+1225,Hyla walkeri,430,Walker's tree frog
+1226,Hyla warreni,431,Warren's tree frog
+1227,Hyla wrightorum,432,Wright's mountain tree frog
+1227,Hyla wrightorum,433,Wrightâs mountain tree frog
+1241,Hyloscirtus caucanus,434,Cauca tree frog
+1242,Hyloscirtus callipeza,435,Sardinata tree frog
+1243,Hyloscirtus charazani,436,Charazani tree frog
+1244,Hyloscirtus denticulentus,437,Charta tree frog
+1246,Hyloscirtus jahni,438,Jahn's tree frog
+1247,Hyloscirtus larinopygion,439,Cordillera central tree frog
+1248,Hyloscirtus lindae,440,Linda's tree frog
+1249,Hyloscirtus lascinius,441,Tabor tree frog
+1250,Hyloscirtus lynchi,442,Lynch's Colombian tree frog
+1251,Hyloscirtus pantostictus,443,Rio Chingual Valley tree frog
+1252,Hyloscirtus palmeri,444,Palmer's tree frog
+1253,Hyloscirtus pacha,445,Morona-Santiago tree frog
+1254,Hyloscirtus phyllognathus,446,Roque tree frog
+1255,Hyloscirtus piceigularis,447,Rio Luisito tree frog
+1256,Hyloscirtus platydactylus,448,Merida Andes tree frog
+1257,Hyloscirtus psarolaimus,449,Papallacta tree frog
+1258,Hyloscirtus ptychodactylus,450,Pilalo tree frog
+1259,Hyloscirtus sarampiona,451,Western Andes tree frog
+1260,Hyloscirtus simmonsi,452,Simmons' tree frog
+1261,Hyloscirtus staufferorum,453,Jondachi tree frog
+1263,Hyloscirtus torrenticola,454,El Pepino tree frog
+1264,Hypsiboas albomarginatus,455,White-edged tree frog
+1265,Hypsiboas alboniger,456,White-black tree frog
+1266,Hypsiboas albopunctatus,457,White-spotted tree frog
+1267,Hypsiboas alemani,458,Cagua tree frog
+1269,Hypsiboas balzani,459,Yungas tree frog
+1271,Hypsiboas benitezi,460,Benitez's tree frog
+1272,Hypsiboas bischoffi,461,Bischoff's tree frog
+1274,Hypsiboas boans,462,Rusty tree frog
+1275,Hypsiboas caingua,463,Striped tree frog
+1276,Hypsiboas calcaratus,464,Troschel's tree frog
+1277,Hypsiboas callipleura,465,Charuplaya tree frog
+1278,Hypsiboas cinerascens,466,Demerara Falls tree frog
+1281,Hypsiboas crepitans,467,Emerald-eyed tree frog
+1282,Hypsiboas cymbalum,468,Campo Grande tree frog
+1285,Hypsiboas faber,469,Blacksmith tree frog
+1286,Hypsiboas fasciatus,470,Gunther's banded tree frog
+1287,Hypsiboas fuentei,471,Fuente's Powakka tree frog
+1289,Hypsiboas geographicus,472,Map tree frog
+1292,Hypsiboas hobbsi,473,Hobbs' tree frog
+1294,Hypsiboas hutchinsi,474,Hutchins' tree frog
+1296,Hypsiboas lanciformis,475,Basin tree frog
+1298,Hypsiboas lemai,476,Lema tree frog
+1299,Hypsiboas leptolineatus,477,Fine-lined tree frog
+1301,Hypsiboas lundii,478,Usina tree frog
+1302,Hypsiboas marginatus,479,Mundo Novo tree frog
+1303,Hypsiboas marianitae,480,Salta tree frog
+1304,Hypsiboas melanopleura,481,Lower Andes tree frog
+1305,Hypsiboas microderma,482,Smallskin tree frog
+1306,Hypsiboas multifasciatus,483,Many-banded tree frog
+1308,Hypsiboas ornatissimus,484,Ornate tree frog
+1309,Hypsiboas pardalis,485,Leopard tree frog
+1310,Hypsiboas pellucens,486,Palmar tree frog
+1312,Hypsiboas polytaenius,487,Cope's eastern Paraguay tree frog
+1314,Hypsiboas prasinus,488,Burmeister's tree frog
+1315,Hypsiboas punctatus,489,Polka-dot tree frog
+1316,Hypsiboas raniceps,490,Chaco tree frog
+1318,Hypsiboas roraima,491,Hoogmoed's tree frog
+1319,Hypsiboas rubracylus,492,Valle tree frog
+1320,Hypsiboas secedens,493,Barro Branco tree frog
+1321,Hypsiboas sibleszi,494,La Escalera tree frog
+1322,Hypsiboas semiguttatus,495,Speckled tree frog
+1325,Hypsiboas varelae,496,Carrizo's tree frog
+1326,Hypsiboas wavrini,497,Upper Orinoco tree frog
+1328,Isthmohyla debilis,498,Isla Bonita tree frog
+1329,Isthmohyla graceae,499,Continental Divide tree frog
+1339,Wandolleck's white-lipped tree frog,500,Litoria albolabris
+1340,Horst's tree frog,501,Litoria amboinensis
+1341,Cape Melville tree frog,502,Cape Melville Tree Frog
+1342,Arfakiana tree frog,503,Litoria arfakiana
+1343,Angiana tree frog,504,Litoria angiana
+1344,Aru tree frog,505,Litoria aruensis
+1346,Brongersma's tree frog,506,Litoria brongersmai
+1347,Bulmer's tree frog,507,Litoria bulmeri
+1348,Samlakki tree frog,508,Litoria capitula
+1349,Cave-dwelling frog,509,Cave-dwelling Frog
+1351,Arfak Mountain tree frog,510,Litoria chloronota
+1352,Yule Island tree frog,511,Litoria congenita
+1353,Barabuna tree frog,512,Litoria contrastens
+1354,Cooloola sedge frog,513,Cooloola Sedge Frog
+1355,Copland's rock frog,514,Copland's Rock Frog
+1356,Spotted-thighed tree frog,515,Litoria cyclorhyncha
+1357,Dahl's aquatic frog,516,Dahl's Aquatic Frog
+1358,Dwarf rocket frog,517,Litoria dorsalis
+1359,Darlington's Madang tree frog,518,Litoria darlingtoni
+1360,Davies' tree frog,519,Litoria daviesae
+1361,Eastern mountains tree frog,520,Litoria dorsivena
+1362,Buzzing tree frog,521,Buzzing Tree Frog
+1364,Fringed tree frog,522,Fringed Tree Frog
+1365,Everett's tree frog,523,Everett's Treefrog
+1367,Green-eyed tree frog,524,Green-eyed Treefrog
+1368,Northern New Guinea tree frog,525,Litoria graminea
+1370,Southern New Guinea tree frog,526,Litoria impura
+1371,Bumpy rocket frog,527,Bumpy Rocket Frog
+1372,Javan mossy tree frog,528,Litoria javana
+1373,Garman New Guinea tree frog,529,Litoria jeudii
+1376,West Sepik tree frog,530,Litoria leucova
+1377,Wendessi tree frog,531,Litoria longicrus
+1378,Long-snouted frog,532,Long-snouted Frog
+1379,Rossell Island tree frog,533,Litoria louisiadensis
+1382,Rockhole frog,534,Rockhole Frog
+1383,Javelin frog,535,Javelin Frog
+1384,Nodugl tree frog,536,Litoria micromembrana
+1385,Oruge tree frog,537,Litoria modica
+1387,Multi-coloured tree frog,538,Multi-coloured Treefrog
+1388,Kassam tree frog,539,Litoria multiplica
+1389,Moaif tree frog,540,Litoria mystax
+1390,Snow Mountains tree frog,541,Litoria napaea
+1391,Bridled frog,542,Bridle Frog
+1392,Mountain mist frog,543,Mountain Mistfrog
+1393,Jobi tree frog,544,Litoria obtusirostris
+1394,Trauna River tree frog,545,Litoria oenicolen
+1396,Pale frog,546,Pale Frog
+1397,Plains brown tree frog,547,Plains Brown Tree Frog
+1398,Masked frog,548,Masked Frog
+1399,Efogi tree frog,549,Litoria prora
+1401,Geelvink pygmy tree frog,550,Litoria pygmaea
+1402,Lined tree frog,551,Litoria quadrilineata
+1404,Sabang tree frog,552,Litoria sanguinolenta
+1405,Spencer's River tree frog,553,Spencer's river tree frog
+1405,Spencer's River tree frog,554,Spencer's River Tree Frog
+1407,New England tree frog,555,New England Tree Frog
+1408,Treasury Island tree frog,556,Litoria thesaurensis
+1409,Menemsorae tree frog,557,Litoria timida
+1410,Tornier's frog,558,Tornier's Frog
+1411,Baliem River Valley tree frog,559,Litoria umbonata
+1412,Wahai tree frog,560,Litoria vagabunda
+1413,Umar treefrog,561,Umar Treefrog
+1414,Vera's treefrog,562,Vera's Treefrog
+1415,Brown River tree frog,563,Litoria vocivincens
+1416,Watjulum frog,564,Litoria watjulumensis
+1418,Wissel Lakes tree frog,565,Litoria wisselensis
+1419,Highland tree frog,566,Litoria wollastoni
+1420,Megastomatohyla mixe,567,Mixe tree frog
+1421,Megastomatohyla mixomaculata,568,Variegated tree frog
+1422,Megastomatohyla pellita,569,Oaxacan yellow tree frog
+1423,Megastomatohyla nubicola,570,Cloud forest tree frog
+1425,Myersiohyla kanaima,571,Kanaima tree frog
+1426,Myersiohyla loveridgei,572,Loveridge's tree frog
+1427,Loud big-eyed tree frog,573,Nyctimystes avocalis
+1428,Madang big-eyed tree frog,574,Nyctimystes disruptus
+1429,Dayman big-eyed tree frog,575,Nyctimystes daymani
+1430,Indonesian big-eyed tree frog,576,Nyctimystes fluviatilis
+1431,Mondo big-eyed tree frog,577,Nyctimystes gularis
+1432,Kaironk big-eyed tree frog,578,Nyctimystes foricula
+1433,Green big-eyed tree frog,579,Nyctimystes humeralis
+1434,Mountain big-eyed tree frog,580,Nyctimystes montanus
+1435,Sandy big-eyed tree frog,581,Nyctimystes kubori
+1436,Common big-eyed tree frog,582,Nyctimystes narinosus
+1437,Simbang big-eyed tree frog,583,Nyctimystes obsoletus
+1438,Papua big-eyed tree frog,584,Nyctimystes papua
+1439,Archipelago big-eyed tree frog,585,Nyctimystes perimetri
+1440,Spurred big-eyed tree frog,586,Nyctimystes pulcher
+1441,Kokoda big-eyed tree frog,587,Nyctimystes semipalmatus
+1442,Osteocephalus buckleyi,588,Buckley's slender-legged tree frog
+1445,Osteocephalus elkejungingerae,589,Henle's slender-legged tree frog
+1449,Cayenne slender-legged tree frog,590,OstÃ©ocÃ©phale De Leprieur
+1451,Osteocephalus pearsoni,591,Pearson's slender-legged tree frog
+1453,Osteocephalus subtilis,592,Brazilian slender-legged tree frog
+1454,Osteocephalus taurinus,593,Manaus slender-legged tree frog
+1455,Osteocephalus verruciger,594,Ecuador slender-legged tree frog
+1457,Jamaican Laughing Frog,595,Jamaican laughing frog
+1458,Mexican leaf frog,596,Pachymedusa dacnicolor
+1465,Spiny-knee leaf frog,597,Phrynomedusa fimbriata
+1467,Phyllodytes acuminatus,598,Alagoas heart-tongued frog
+1468,Phyllodytes brevirostris,599,Alhandra heart-tongued frog
+1471,Phyllodytes kautskyi,600,Brazilian heart-tongued frog
+1472,Phyllodytes luteolus,601,Yellow heart-tongued frog
+1473,Phyllodytes melanomystax,602,Bahia heart-tongued frog
+1474,Phyllodytes tuberculosus,603,Maracas heart-tongued frog
+1498,White-lined leaf frog,604,PhyllomÃ©duse De Vaillant
+1537,Mountain chorus frog,605,Mountain Chorus Frog
+1538,Southern chorus frog,606,Southern Chorus Frog
+1539,Brimley's chorus frog,607,Brimley's Chorus Frog
+1545,Ptychohyla euthysanota,608,Cloud forest stream frog
+1546,Ptychohyla erythromma,609,Guerreran stream frog
+1547,Ptychohyla hypomykter,610,Copan stream frog
+1548,Ptychohyla legleri,611,Legler's stream frog
+1549,Ptychohyla macrotympanum,612,Pine forest stream frog
+1550,Ptychohyla panchoi,613,Guatemala stream frog
+1552,Ptychohyla spinipollex,614,Ceiba stream frog
+1553,Ptychohyla sanctaecrucis,615,Chinamococh stream frog
+1633,Smilisca fodiens,616,Lowland burrowing tree frog
+1634,Smilisca phaeota,617,New Granada cross-banded tree frog
+1635,Smilisca puma,618,Nicaragua cross-banded tree frog
+1636,Smilisca sordida,619,Veragua cross-banded tree frog
+1637,Sphaenorhynchus bromelicola,620,Bahia lime tree frog
+1638,Sphaenorhynchus carneus,621,Napo lime tree frog
+1639,Sphaenorhynchus dorisae,622,Doris' lime tree frog
+1640,Sphaenorhynchus lacteus,623,Orinoco lime tree frog
+1641,Sphaenorhynchus orophilus,624,Lutz's lime tree frog
+1642,Sphaenorhynchus palustris,625,Linhares lime tree frog
+1643,Sphaenorhynchus planicola,626,Rio lime tree frog
+1644,Sphaenorhynchus pauloalvini,627,Paulo's lime tree frog
+1645,Sphaenorhynchus platycephalus,628,South American lime tree frog
+1646,Sphaenorhynchus prasinus,629,Bokermann's lime tree frog
+1647,Sphaenorhynchus surdus,630,Cochran's lime tree frog
+1648,Tepuihyla edelcae,631,Ayarzaguena's tree frog
+1649,Tepuihyla rimarum,632,Gorzula's Amazon tree frog
+1651,Tlalocohyla godmani,633,Godman's tree frog
+1652,Tlalocohyla picta,634,Painted tree frog
+1653,Tlalocohyla loquax,635,Mahogany tree frog
+1654,Tlalocohyla smithii,636,Dwarf Mexican tree frog
+1655,Bokermann's Casque-headed Treefrog,637,Bokermann's casque-headed tree frog
+1656,Trachycephalus coriaceus,638,Surinam golden-eyed tree frog
+1657,Trachycephalus hadroceps,639,New River tree frog
+1658,Trachycephalus imitatrix,640,Rio golden-eyed tree frog
+1659,Trachycephalus jordani,641,Jordan's casque-headed tree frog
+1661,Trachycephalus mesophaeus,642,Porto Alegre golden-eyed tree frog
+1662,Black-spotted Casque-headed Treefrog,643,Black-spotted casque-headed tree frog
+1663,Rana Lechera Comun,644,Veined tree frog
+1668,Gorgan salamander,645,Gorgan Salamander
+1669,Longdong stream salamander,646,Longdong Stream Salamander
+1670,Persian brook salamander,647,Persian Brook Salamander
+1671,Taibai stream salamander,648,Batrachuperus taibaiensis
+1672,Alpine stream salamander,649,Alpine Stream Salamander
+1673,Yenyuan stream salamander,650,Yenyuan Stream Salamander
+1675,Abe's salamander,651,Abe's Salamander
+1676,Amji's salamander,652,Hynobius amjiensis
+1677,Alishan salamander,653,Hynobius arisanensis
+1678,Odaigahara salamander,654,Odaigahara Salamander
+1679,Taiwan salamander,655,Hynobius formosanus
+1680,Chinese salamander,656,Hynobius chinensis
+1681,Oita salamander,657,Oita Salamander
+1682,Guabang Shan salamander,658,Hynobius guabangshanensis
+1683,Hakuba salamander,659,Hakuba Salamander
+1684,Kato's salamander,660,Hynobius katoi
+1685,Hida salamander,661,Hida Salamander
+1686,Tohoku salamander,662,Tohoku Salamander
+1688,Japanese clouded salamander,663,Hynobius nebulosus
+1689,Japanese black salamander,664,Japanese Black Salamander
+1690,Ezo salamander,665,Ezo Salamander
+1691,Oki salamander,666,Oki Salamander
+1692,Sonan's salamander,667,Hynobius sonani
+1693,Hokuriku salamander,668,Hokuriku Salamander
+1694,Tokyo salamander,669,Tokyo Salamander
+1695,Tsushima salamander,670,Tsushima Salamander
+1696,Turkestanian salamander,671,Turkestanian Salamander
+1697,Yiwu salamander,672,Hynobius yiwuensis
+1698,Japanese clawed salamander,673,Japanese Clawed Salamander
+1700,Puxiong salamander,674,Protohynobius puxiongensis
+1701,Yellow-spotted salamander,675,Yellow-spotted Salamander
+1703,Wushan salamander,676,Wushan Salamander
+1704,Central Asian salamander,677,Central Asian Salamander
+1705,Tsinpa salamander,678,Tsinpa Salamander
+1706,Golden Banana Frog,679,Golden banana frog
+1709,Brown Banana Frog,680,Brown banana frog
+1710,Banded Banana Frog,681,Banded banana frog
+1711,Knysna banana frog,682,Knysna Banana Frog
+1724,Natal banana frog,683,Natal Banana Frog
+1784,Arum frog,684,Hyperolius horstockii
+1808,Marbled reed frog,685,Marbled Reed Frog
+1822,Pickersgill's reed frog,686,Pickersgill's Reed Frog
+1858,Common Reed Frog,687,Common reed frog
+1884,Seychelle Islands Tree Frog,688,Seychelles treefrog
+1885,Broad-striped caecilian,689,Caudacaecilia asplenia
+1886,Larut Hills caecilian,690,Caudacaecilia larutensis
+1887,Kuala Lumpur caecilian,691,Caudacaecilia nigroflava
+1888,Kapahiang caecilian,692,Caudacaecilia paucidentula
+1889,Malatgan River caecilian,693,Caudacaecilia weberi
+1890,Pointed-headed caecilian,694,Ichthyophis acuminatus
+1891,Banna caecilian,695,Ichthyophis bannanicus
+1892,Indonesian caecilian,696,Ichthyophis bernisi
+1893,Basilan Island caecilian,697,Ichthyophis glandulosus
+1895,Bantam caecilian,698,Ichthyophis hypocyaneus
+1896,Javan caecilian,699,Ichthyophis javanicus
+1897,Upper Laos caecilian,700,Ichthyophis laosensis
+1898,Koa Tao Island caecilian,701,Ichthyophis kohtaoensis
+1899,Mindanao Island caecilian,702,Ichthyophis mindanaoensis
+1900,Siantar caecilian,703,Ichthyophis paucisulcus
+1901,Singapore caecilian,704,Ichthyophis singaporensis
+1902,Sumatran caecilian,705,Ichthyophis sumatranus
+1903,Supachai's caecilian,706,Ichthyophis supachaii
+1904,Doi Suthep caecilian,707,Ichthyophis youngorum
+1911,Adenomera marmorata,708,Leptodactylus marmoratus
+1964,Eleutherodactylus planirostris,709,Greenhouse frog
+1968,Rana-chirriadora Anteojuda,710,Eleutherodactylus interorbitalis
+1969,Coqui Antillano,711,Antilles coqui
+1970,Yellow mottled coqui,712,Yellow Mottled Coqui
+1973,Locust coqui,713,Locust Coqui
+1975,Rana-chirriadora Dedos Chatos,714,Eleutherodactylus modestus
+1977,Rana-chirriadora Del Nevado De Colima,715,Eleutherodactylus nivicolimae
+1986,Rana-fisgona Roja,716,Eleutherodactylus rufescens
+1988,Virgin Islands coqui,717,Virgin Islands Coqui
+1989,Piping peeping frog,718,Piping Peeping Frog
+1990,Rana-ladrona Silbadora,719,Eleutherodactylus teretistes
+1991,Rana-chirrionera Orejona,720,Eleutherodactylus verrucipes
+1992,Rana-chirrionera Menor,721,Eleutherodactylus verruculatus
+2005,Rana Marsupial Del Tama,722,Helena's marsupial frog
+2008,Gastrotheca longipes,723,Rana Marsupial
+2012,Rana Marsupial De Niceforo,724,Niceforo's marsupial frog
+2014,Rana Marsupial Comun,725,Gastrotheca ovifera
+2016,Peru marsupial frog,726,Peru Marsupial Frog
+2025,Rana Marsupial Cornuda,727,Walker's marsupial frog
+2026,Rana Marsupial De Williams,728,Williamson's marsupial frog
+2057,Smoky Jungle Frog,729,Smoky jungle frog
+2097,Physalaemus guayaco,730,Engystomops guayaco
+2110,Physalaemus spinigerus,731,Physalaemus spiniger
+2114,Sapito De Cuatro Ojos,732,Pleurodema thaul
+2133,Ranita Enana,733,Pseudopaludicola pusilla
+2137,Brewer's Carrying Frog,734,Brewer's carrying frog
+2139,Rana Stefania Del Sarisarinama,735,Stefania riae
+2140,Rana Stefania De Rivero,736,Stefania riveroi
+2141,Rana Stefania Del Aprada-tepuy,737,Stefania satelles
+2142,Rana Stefania De La Escalera,738,Stefania scalae
+2143,Rana Stefania Del Auyan-tepui,739,Stefania schuberti
+2144,Rana Stefania De Tapirapeco,740,Stefania tamacuarina
+2150,Western spotted frog,741,Western Spotted Frog
+2151,Western marsh frog,742,Western Marsh Frog
+2152,Plain Frog,743,Heleioporus inornatus
+2153,Sand frog,744,Sand Frog
+2157,Flat-headed frog,745,Flat-headed Frog
+2158,Giant banjo frog,746,Giant Banjo Frog
+2159,Woodworker frog,747,Woodworker Frog
+2161,White-footed frog,748,White-footed Frog
+2162,Northern burrowing frog,749,Northern Burrowing Frog
+2163,Tawny frog,750,Tawny Frog
+2164,Kunapalari frog,751,Kunapalari Frog
+2165,Humming frog,752,Humming Frog
+2166,Shoemaker frog,753,Shoemaker Frog
+2167,Goldfield's bull frog,754,Goldfield's Bull Frog
+2168,Northern spadefoot toad,755,Northern Spadefoot Toad
+2169,Desert spadefoot toad,756,Desert Spadefoot Toad
+2170,Weigel's toad,757,Weigel's Toad
+2171,Mountain frog,758,Mountain Frog
+2172,Loveridge's frog,759,Loveridge's Frog
+2175,Sphagnum frog,760,Sphagnum Frog
+2188,Kobayashi's Horned Frog,761,Kobayashi's horned frog
+2189,Mindanao horned frog,762,Mindanao Horned Frog
+2204,Nankiang Horned Toad,763,Nankiang horned toad
+2205,Shaping Horned Toad,764,Shaping horned toad
+2206,Zhang's Horned Toad,765,Zhang's horned toad
+2209,White-lipped bright-eyed frog,766,Boophis albilabris
+2260,Green bright-eyed frog,767,Boophis viridis
+2262,Mantella baroni,768,Baron's Mantella
+2263,Bernhard's mantella,769,Bernhard's Mantella
+2265,Brown mantella,770,Brown Mantella
+2266,Yellow mantella,771,Yellow Mantella
+2267,Blue-legged mantella,772,Blue-legged Mantella
+2268,Cowan's mantella,773,Cowan's Mantella
+2269,Haraldmeier's mantella,774,Haraldmeier's Mantella
+2270,Climbing mantella,775,Climbing Mantella
+2271,Marojejy mantella,776,Marojejy Mantella
+2272,Black-eared mantella,777,Black-eared Mantella
+2273,Madagascan mantella,778,Madagascan Mantella
+2274,Beautiful mantella,779,Beautiful Mantella
+2275,Green mantella,780,Green Mantella
+2308,Guibemantis pulcher,781,Mantidactylus pulcher
+2317,Sapito Escondido,782,Adelastes hylonomos
+2325,Albericus rheaurum,783,Albericus rhenaurum
+2341,Northern Territory frog,784,Northern Territory Frog
+2347,Fry's frog,785,Fry's Frog
+2348,Slender frog,786,Slender Frog
+2358,Robust frog,787,Robust Frog
+2371,Krefft's warty frog,788,Callulina kreffti
+2376,Callulops eurydactylus,789,Pseudocallulops eurydactylus
+2384,Callulops slateri,790,Metamagnusia slateri
+2404,Tapping nursery frog,791,Tapping Nursery Frog
+2406,Buzzing frog,792,Buzzing Frog
+2408,Rattling frog,793,Rattling Frog
+2410,Hosmer's frog,794,Hosmer's Frog
+2411,Inelegant frog,795,Inelegant Frog
+2413,Mcdonald's frog,796,Mcdonald's Frog
+2414,Mountain-top nursery frog,797,Mountain-top Nursery Frog
+2415,Neglected frog,798,Neglected Frog
+2417,Cape York frog,799,Cape York Frog
+2422,Black Mountain boulder frog,800,Black Mountain Boulder Frog
+2439,Sapito Apuntado De Geay,801,Ctenophryne geayi
+2445,Sapito Apuntado De Surinam,802,Elachistocleis surinamensis
+2450,Uluguru Blue-bellied Frog,803,Uluguru blue-bellied frog
+2468,Philippine narrowmouth toad,804,Philippine Narrowmouth Toad
+2469,Kalinga Narrowmouth Toad,805,Kalinga narrowmouth toad
+2470,Bicol narrowmouth toad,806,Bicol Narrowmouth Toad
+2471,Painted narrowmouth toad,807,Painted Narrowmouth Toad
+2472,Luzon narrow-mouthed frog,808,Luzon Narrow-mouthed Frog
+2488,Mixtured Pygmy Frog,809,Mixtured pygmy frog
+2492,Palmated Chorus Frog,810,Palmated chorus frog
+2524,Camiguin narrow-mouthed frog,811,Camiguin Narrow-mouthed Frog
+2543,Spotted Rubber Frog,812,Spotted rubber frog
+2545,Marbled Rubber Frog,813,Marbled rubber frog
+2546,Banded Rubber Frog,814,Banded rubber frog
+2596,Synapturan De Miranda-ribeiro,815,Synapturanus mirandaribeiroi
+2608,Bilingual frog,816,Bilingual Frog
+2609,Quacking frog,817,Quacking Frog
+2610,Desert froglet,818,Desert Froglet
+2611,Glauert's froglet,819,Glauert's Froglet
+2612,Sign-bearing froglet,820,Sign-bearing Froglet
+2613,Moss froglet,821,Moss Froglet
+2614,False western froglet,822,False Western Froglet
+2615,Remote froglet,823,Remote Froglet
+2616,Small western froglet,824,Small Western Froglet
+2617,Sloane's froglet,825,Sloane's Froglet
+2622,Eastern smooth frog,826,Eastern Smooth Frog
+2623,Magnificent brood frog,827,Magnificent Brood Frog
+2625,Douglas' toad,828,Douglas' Toad
+2626,Orange-crowned toadlet,829,Orange-crowned Toadlet
+2627,Copper-backed brood frog,830,Copper-backed Brood Frog
+2628,Sharp snouted day frog,831,Sharp Snouted Day Frog
+2629,Mount Glorious day frog,832,Mount Glorious Day Frog
+2630,Eungella tinker frog,833,Eungella Tinker Frog
+2631,Kroombit tinker frog,834,Kroombit Tinker Frog
+2632,Northern tinker frog,835,Northern Tinker Frog
+2633,Montane toadlet,836,Montane Toadlet
+2634,Jabiru toadlet,837,Jabiru Toadlet
+2636,Northern toadlet,838,Northern Toadlet
+2637,Small-headed toadlet,839,Small-headed Toadlet
+2638,Glandular toadlet,840,Glandular Toadlet
+2639,Fat toadlet,841,Fat Toadlet
+2640,Flood plain toadlet,842,Flood Plain Toadlet
+2641,Stonemason's toadlet,843,Stonemason's Toadlet
+2642,Martin's toadlet,844,Martin's Toadlet
+2643,Littlejohn's toadlet,845,Littlejohn's Toadlet
+2644,Tanami toadlet,846,Tanami Toadlet
+2645,Mimic toadlet,847,Mimic Toadlet
+2646,Small toadlet,848,Small Toadlet
+2647,Mjoberg's toadlet,849,Mjoberg's Toadlet
+2648,Russell's toadlet,850,Russell's Toadlet
+2650,Mole toadlet,851,Mole Toadlet
+2677,Cape clawed toad,852,Cape platanna
+2677,Cape clawed toad,853,Cape Clawed Toad
+2680,Peters' Platanna,854,Peters' platanna
+2686,Black salamander,855,Black Salamander
+2687,Sacramento Mountain salamander,856,Sacramento Mountain Salamander
+2688,Wandering salamander,857,Wandering Salamander
+2694,Sequoia slender salamander,858,Sequoia Slender Salamander
+2699,Kings River slender salamander,859,Kings River Slender Salamander
+2700,Relictual slender salamander,860,Relictual Slender Salamander
+2701,Kern Plateau salamander,861,Kern Plateau Salamander
+2702,Peter's climbing salamander,862,Bolitoglossa adspersa
+2704,Coal-black salamander,863,Bolitoglossa anthracina
+2705,Salamandra Costera,864,Bolitoglossa borburata
+2706,Orphan salamander,865,Bolitoglossa capitana
+2707,Cloud forest salamander,866,Bolitoglossa carri
+2708,Celaque climbing salamander,867,Bolitoglossa celaque
+2709,Hotel Zaracay salamander,868,Bolitoglossa chica
+2710,Millville climbing salamander,869,Bolitoglossa cerroensis
+2711,Cerro Pando salamander,870,Bolitoglossa compacta
+2712,Conant's salamander,871,Bolitoglossa conanti
+2713,Oak forest salamander,872,Bolitoglossa cuchumatana
+2714,Camp Sasardi salamander,873,Bolitoglossa cuna
+2715,Monte Escondido salamander,874,Bolitoglossa decora
+2716,El Cusuco salamander,875,Bolitoglossa diaphora
+2717,Rio Santa Rosa salamander,876,Bolitoglossa digitigrada
+2718,Quebrada Valverde salamander,877,Bolitoglossa diminuta
+2719,Doflein's salamander,878,Bolitoglossa dofleini
+2720,Dunn's climbing salamander,879,Bolitoglossa dunni
+2721,Engelhardt's climbing salamander,880,Bolitoglossa engelhardti
+2722,Tapanti climbing salamander,881,Bolitoglossa epimela
+2723,Ecuadorian climbing salamander,882,Bolitoglossa equatoriana
+2725,Salamandra De Panza Amarilla,883,Bolitoglossa flaviventris
+2726,Franklin's climbing salamander,884,Bolitoglossa franklini
+2727,Rio Quiri salamander,885,Bolitoglossa gracilis
+2728,Guaramacal salamander,886,Bolitoglossa guaramacalensis
+2729,Hartweg's climbing salamander,887,Bolitoglossa hartwegi
+2730,Holy-mountain salamander,888,Holy-mountain Salamander
+2731,Coban climbing salamander,889,Bolitoglossa helmrichi
+2732,Guerreran climbing salamander,890,Bolitoglossa hermosa
+2733,Winter climbing salamander,891,Bolitoglossa hiemalis
+2734,Paramo Frontino salamander,892,Bolitoglossa hypacra
+2735,Jackson's climbing salamander,893,Bolitoglossa jacksoni
+2736,Camron climbing salamander,894,Bolitoglossa lignicolor
+2737,Lincoln's climbing salamander,895,Bolitoglossa lincolni
+2738,Longest climbing salamander,896,Bolitoglossa longissima
+2739,Oaxacan climbing salamander,897,Bolitoglossa macrinii
+2740,Lozano's salamander,898,Bolitoglossa lozanoi
+2741,Magnificent web-footed salamander,899,Magnificent Web-footed Salamander
+2742,Crater salamander,900,Bolitoglossa marmorea
+2743,Meliana climbing salamander,901,Bolitoglossa meliana
+2744,Finca Chibigui salamander,902,Bolitoglossa medemi
+2745,Mexican climbing salamander,903,Bolitoglossa mexicana
+2746,Dwarf climbing salamander,904,Bolitoglossa minutula
+2747,Salamandra De Mombacho,905,Bolitoglossa mombachoensis
+2748,Cope's climbing salamander,906,Bolitoglossa morio
+2749,Cordillera Central salamander,907,Bolitoglossa nigrescens
+2750,Atoyac web-footed salamander,908,Bolitoglossa oaxacensis
+2751,Southern banana salamander,909,Bolitoglossa occidentalis
+2753,Zarciadero web-footed salamander,910,Bolitoglossa oresbia
+2757,Medellin climbing salamander,911,Bolitoglossa phalarosoma
+2758,Achoque De Tierra,912,Bolitoglossa platydactyla
+2759,Pijol salamander,913,Bolitoglossa porrasorum
+2760,Salamandra Manchada,914,Bolitoglossa ramosi
+2761,Robust climbing salamander,915,Bolitoglossa robusta
+2762,Salamandra Narigona,916,Bolitoglossa rostrata
+2763,Northern banana salamander,917,Bolitoglossa rufescens
+2764,Salvin's salamander,918,Bolitoglossa salvinii
+2765,Savage's salamander,919,Bolitoglossa savagei
+2766,Northwestern climbing salamander,920,Bolitoglossa sima
+2767,Silverstone's salamander,921,Bolitoglossa silverstonei
+2768,Shadowy web-footed salamander,922,Shadowy Web-footed Salamander
+2769,Cordillera Talamanca salamander,923,Bolitoglossa sooyorum
+2770,Cukra climbing salamander,924,Bolitoglossa striatula
+2771,Stuart's salamander,925,Bolitoglossa stuarti
+2772,La Palma salamander,926,Bolitoglossa subpalmata
+2773,Cerro Pital salamander,927,Bolitoglossa synoria
+2774,Taylor's climbing salamander,928,Bolitoglossa taylori
+2775,Yarumal climbing salamander,929,Bolitoglossa vallecula
+2776,Walker's salamander,930,Bolitoglossa walkeri
+2777,Zapotec salamander,931,Bolitoglossa zapoteca
+2779,Gristle-headed splayfoot salamander,932,Chiropterotriton chondrostega
+2780,Cave splayfoot salamander,933,Chiropterotriton mosaueri
+2782,Monzon's hidden salamander,934,Cryptotriton monzoni
+2783,Wake's hidden salamander,935,Cryptotriton wakei
+2787,Cumberland dusky salamander,936,Cumberland Dusky Salamander
+2788,Apalachicola dusky salamander,937,Apalachicola Dusky Salamander
+2789,Carolina mountain dusky salamander,938,Carolina Mountain Dusky Salamander
+2790,Ouachita dusky salamander,939,Ouachita Dusky Salamander
+2791,Dwarf black-bellied salamander,940,Dwarf Black-bellied Salamander
+2793,Seal salamander,941,Seal Salamander
+2794,Ocoee salamander,942,Ocoee Salamander
+2795,Blue Ridge dusky salamander,943,Blue Ridge Dusky Salamander
+2796,Black mountain salamander,944,Black Mountain Salamander
+2797,Santeetlah dusky salamander,945,Santeetlah Dusky Salamander
+2798,Chamberlain's dwarf salamander,946,Chamberlain's Dwarf Salamander
+2799,Salado Springs salamander,947,Salado Springs Salamander
+2800,Southern two-lined salamander,948,Southern Two-lined Salamander
+2801,Three-lined salamander,949,Three-lined Salamander
+2803,Many-ribbed salamander,950,Many-ribbed Salamander
+2804,Blanco River springs salamander,951,Blanco River Springs Salamander
+2805,Oklahoma salamander,952,Oklahoma Salamander
+2806,Jollyville Plateau salamander,953,Jollyville Plateau Salamander
+2807,Blue Ridge two-lined salamander,954,Blue Ridge Two-lined Salamander
+2808,Berry Cave salamander,955,Berry Cave Salamander
+2809,Spring salamander,956,Spring Salamander
+2810,Georgia blind salamander,957,Georgia Blind Salamander
+2811,Limestone salamander,958,Limestone Salamander
+2812,Mount Lyell salamander,959,Mount Lyell Salamander
+2813,Shasta salamander,960,Shasta Salamander
+2825,Santa Barbara moss salamander,961,Santa Barbara Moss Salamander
+2849,Blue Ridge gray-cheeked salamander,962,Blue Ridge Gray-cheeked Salamander
+2850,Ozark zigzag salamander,963,Ozark Zigzag Salamander
+2851,Scott Bar salamander,964,Plethodon asupak
+2852,Caddo Mountain salamander,965,Caddo Mountain Salamander
+2853,Cheoah bald salamander,966,Cheoah Bald Salamander
+2854,White-spotted slimy salamander,967,White-spotted Slimy Salamander
+2855,Northern zigzag salamander,968,Northern Zigzag Salamander
+2856,Northern ravine salamander,969,Northern Ravine Salamander
+2857,Fourche Mountain salamander,970,Fourche Mountain Salamander
+2858,Valley and ridge salamander,971,Valley And Ridge Salamander
+2859,Peaks of Otter salamander,972,Peaks Of Otter Salamander
+2860,Red-cheeked salamander,973,Red-cheeked Salamander
+2861,Cumberland Plateau salamander,974,Cumberland Plateau Salamander
+2862,Louisiana slimy salamander,975,Louisiana Slimy Salamander
+2863,Larch Mountain salamander,976,Larch Mountain Salamander
+2864,South Mountain gray-cheeked salamander,977,South Mountain Gray-cheeked Salamander
+2865,Southern gray-cheeked salamander,978,Southern Gray-cheeked Salamander
+2866,Northern gray-cheeked salamander,979,Northern Gray-cheeked Salamander
+2867,Jemez Mountains salamander,980,Jemez Mountains Salamander
+2868,Rich Mountain salamander,981,Rich Mountain Salamander
+2869,Pigeon Mountain salamander,982,Pigeon Mountain Salamander
+2870,White-spotted salamander,983,White-spotted Salamander
+2871,Ravine salamander,984,Ravine Salamander
+2872,Sequoyah slimy salamander,985,Sequoyah Slimy Salamander
+2873,Shenandoah salamander,986,Shenandoah Salamander
+2874,Big Levels salamander,987,Big Levels Salamander
+2875,Red-legged salamander,988,Red-legged Salamander
+2876,Western redback salamander,989,Western Redback Salamander
+2877,Southern Appalachian salamander,990,Southern Appalachian Salamander
+2878,Southern zigzag salamander,991,Southern Zigzag Salamander
+2879,Shenandoah Mountain salamander,992,Shenandoah Mountain Salamander
+2880,Webster's salamander,993,Webster's Salamander
+2881,Weller's salamander,994,Weller's Salamander
+2882,Yonahlossee Salamander,995,Yonahlossee salamander
+2899,Southern giant salamander,996,Southern Giant Salamander
+2905,Muscular salamander,997,Muscular Salamander
+2916,Ambrosi's cave salamander,998,Ambrosi's Cave Salamander
+2917,Monte Albo cave salamander,999,Monte Albo Cave Salamander
+2918,Brown cave salamander,1000,Brown Cave Salamander
+2919,Imperial cave salamander,1001,Imperial Cave Salamander
+2920,Italian cave salamander,1002,Italian Cave Salamander
+2921,Supramonte cave salamander,1003,Supramonte Cave Salamander
+2922,Many-lined salamander,1004,Many-lined Salamander
+2924,Grotto salamander,1005,Grotto Salamander
+2930,Angola river frog,1006,Angola River Frog
+2931,Drakensberg Frog,1007,Amietia dracomontana
+2932,Cape river frog,1008,Cape River Frog
+2941,Batrachylodes elegans,1009,Cornufer elegans
+2943,Fejervarya frithi,1010,Fejervarya frithii
+2944,Hole-in-the-head frog,1011,Hole-in-the-head Frog
+2946,Long-snout Torrent Frog,1012,Long-snout torrent frog
+2948,Sumatran torrent frog,1013,Sumatran Torrent Frog
+2955,Cabalian frog,1014,Cabalian Frog
+2956,Doi Inthanon rock frog,1015,Amolops archotaphus
+2956,Doi Inthanon rock frog,1016,Rana archotaphus
+2957,Central Asiatic frog,1017,Central Asiatic Frog
+2960,Gopher frog,1018,Gopher Frog
+2961,Cascades frog,1019,Cascades Frog
+2962,Chaochiao frog,1020,Rana chaochiaoensis
+2963,Karpathos Frog,1021,Karpathos frog
+2965,Rana charlesdarwini,1022,Ingerana charlesdarwini
+2966,Chevron-spotted brown frog,1023,Rana chevronta
+2968,Chiricahua leopard frog,1024,Chiricahua Leopard Frog
+2973,Epirus Water Frog,1025,Epirus water frog
+2976,Greek stream frog,1026,Greek Stream Frog
+2982,Rana humeralis,1027,Humerana humeralis
+2983,Iberian frog,1028,Iberian Frog
+2985,Italian stream frog,1029,Italian Stream Frog
+2986,Japanese brown frog,1030,Japanese Brown Frog
+2987,Rana johni,1031,Moore's frog
+2989,Maya Mountains frog,1032,Rana juliani
+2994,Long-legged wood frog,1033,Long-legged Wood Frog
+2995,Rana maculata,1034,Highland frog
+2997,Ryukyu tip-nosed frog,1035,Ryukyu Tip-nosed Frog
+2998,Humerana oatesii,1036,Rana oatesii
+2999,Ryukyu brown frog,1037,Ryukyu Brown Frog
+3001,Montane brown frog,1038,Montane Brown Frog
+3003,Daruma pond frog,1039,Daruma Pond Frog
+3004,Kampira Falls Frog,1040,Kampira Falls frog
+3006,Rana psilonota,1041,Smooth-backed frog
+3007,Pyrenean Frog,1042,Pyrenean frog
+3008,Stream brown frog,1043,Stream Brown Frog
+3011,Rana shuchinae,1044,Sichuan frog
+3013,Rana spectabilis,1045,Showy leopard frog
+3014,Ramsey Canyon leopard frog,1046,Ramsey Canyon Leopard Frog
+3015,Otton frog,1047,Otton Frog
+3020,Rana tientaiensis,1048,Glandirana tientaiensis
+3023,Tsushima brown frog,1049,Tsushima Brown Frog
+3026,Rana vaillanti,1050,Vaillant's frog
+3030,Lowland leopard frog,1051,Lowland Leopard Frog
+3032,Rana zhenhaiensis,1052,Zhenhai brown frog
+3036,Chirixalus punctatus,1053,Chiromantis punctatus
+3038,Grey foam-nest tree frog,1054,Grey Foam-nest Treefrog
+3048,Philautus adspersus,1055,Pseudophilautus adspersus
+3050,Philautus bobingeri,1056,Raorchestes bobingeri
+3054,Philautus dimbullae,1057,Pseudophilautus dimbullae
+3057,Philautus eximius,1058,Pseudophilautus eximius
+3059,Philautus extirpo,1059,Pseudophilautus extirpo
+3061,Philautus halyi,1060,Pseudophilautus halyi
+3066,Leyte tree frog,1061,Leyte Tree Frog
+3067,Philautus leucorhinus,1062,Pseudophilautus leucorhinus
+3070,Philautus malcolmsmithi,1063,Pseudophilautus malcolmsmithi
+3073,Philautus nanus,1064,Pseudophilautus nanus
+3074,Philautus nasutus,1065,Pseudophilautus nasutus
+3075,Philautus oxyrhynchus,1066,Pseudophilautus oxyrhynchus
+3079,Mottled tree frog,1067,Mottled Tree Frog
+3081,Philautus rugatus,1068,Pseudophilautus rugatus
+3083,Mindoro tree frog,1069,Mindoro Tree Frog
+3085,Pseudophilautus stellatus,1070,Philautus stellatus
+3088,Philautus temporalis,1071,Pseudophilautus temporalis
+3089,Philautus variabilis,1072,Pseudophilautus variabilis
+3092,Philautus wynaadensis,1073,Pseudophilautus wynaadensis
+3093,Philautus zal,1074,Pseudophilautus zal
+3099,Common tree frog,1075,Common Tree Frog
+3112,Blue-spotted tree frog,1076,Rhacophorus cyanopunctatus
+3114,Chinese flying frog,1077,Rhacophorus dennysi
+3116,Jade tree frog,1078,Rhacophorus dulitensis
+3129,Harlequin tree frog,1079,Rhacophorus pardalis
+3131,Malayan flying frog,1080,Malayan Flying Frog
+3136,Taipei tree frog,1081,Rhacophorus taipeianus
+3146,Pumpkin toadlet,1082,Pumpkin Toadlet
+3148,Serra Cantareira saddleback toad,1083,Brachycephalus nodoterga
+3151,Mongu shovelnose frog,1084,Hemisus barotseensis
+3160,Thomasset's Seychelles frog,1085,Thomasset's Seychelles Frog
+3162,Chile Darwin's frog,1086,Chile Darwin's Frog
+3164,Mont Oku caecilian,1087,Crotaphatrema lamottei
+3165,Two-coloured caecilian,1088,Epicrionops bicolor
+3167,Eastern Peru caecilian,1089,Epicrionops lativittatus
+3168,Marbled caecilian,1090,Epicrionops marmoratus
+3169,Black caecilian,1091,Epicrionops niger
+3170,Parker's caecilian,1092,Epicrionops parkeri
+3171,Marcapata Valley caecilian,1093,Epicrionops peruvianus
+3172,Peters' caecilian,1094,Epicrionops petersi
+3173,Nyingwa caecilian,1095,Scolecomorphus uluguruensis
+3174,Banded caecilian,1096,Scolecomorphus vittatus
+3175,Idaho giant salamander,1097,Idaho Giant Salamander
+3176,Cope's giant salamander,1098,Cope's Giant Salamander
+3177,California giant salamander,1099,California Giant Salamander
+3178,Cascade torrent salamander,1100,Cascade Torrent Salamander
+3179,Columbia torrent salamander,1101,Columbia Torrent Salamander
+3180,Olympic torrent salamander,1102,Olympic Torrent Salamander
+3181,Southern torrent salamander,1103,Southern Torrent Salamander
+3182,Silvery salamander,1104,Silvery Salamander
+3183,Tremblay's salamander,1105,Tremblay's Salamander
+3184,Archeria (animal genus),1106,Archeria (animal)
+3189,Bonnacord caecilian,1107,Uraeotyphlus oommeni
+3205,Faro Island tree frog,1108,Litoria lutea
+3206,Spotted-tail salamander,1109,Spotted-tail Salamander
+3220,Eleutherodactylus juanariveroi,1110,Plains coqui
+3235,Uraeotyphlus gansi,1111,Gansi caecilian
+3243,Crater Lake newt,1112,Crater Lake Newt
+3246,Rana sierrae,1113,Sierra Nevada yellow-legged frog
+3247,Samkos bush frog,1114,Chiromantis samkosensis
+3377,Rhadinosteus parvus,1115,Rhadinosteus
+3455,Helmeted water toad,1116,Calyptocephalella gayi
+3465,Reticulated flatwoods salamander,1117,Reticulated Flatwoods Salamander
+3470,Liaoning salamander,1118,Liaoning Salamander
+3471,Taiwan lesser salamander,1119,Taiwan Lesser Salamander
+3472,Thoraciliacus rostriceps,1120,Thoraciliacus
+3476,Mountain stream salamander,1121,Mountain Stream Salamander
+3480,Kuankuoshui salamander,1122,Kuankuoshui Salamander
+3481,Shuicheng salamander,1123,Shuicheng Salamander
+3483,Red River mudpuppy,1124,Red River Mudpuppy
+3484,Jinfo Mountain salamander,1125,Jinfo Mountain Salamander
+3485,Sicilian green toad,1126,Sicilian Green Toad
+3488,Schrenck Siberian salamander,1127,Schrenck Siberian Salamander
+3489,Primorye newt,1128,Primorye Newt
+3495,Brownback salamander,1129,Eurycea aquatica
+3501,Zhijin warty newt,1130,Paramesotriton zhijinensis
+3502,Durango salamander,1131,Durango Salamander
+3510,Litoria rostandi,1132,Litoria hilli
+3541,Callulops pullifer,1133,Pseudocallulops pullifer
+3551,Western tree frog,1134,Polypedates occidentalis
+3557,Kimberley froglet,1135,Kimberley Froglet
+3563,Northern spectacled salamander,1136,Salamandrina perspicillata
+3569,Brazilian Gold Frog,1137,Brazilian gold frog
+3573,Illinois chorus frog,1138,Illinois Chorus Frog
+3574,Brame's climbing salamander,1139,Bolitoglossa bramei
+3577,Surinam toad,1140,Common Suriname toad
+3578,Northern banded newt,1141,Ommatotriton ophryticus
+3580,Pilbara toadlet,1142,Pilbara Toadlet
+3584,Chorla giant striped caecilian,1143,Ichthyophis davidi
+3602,Fuding fire belly newt,1144,Fuding Fire Belly Newt
+3603,Gephyromantis granulatus,1145,Mantidactylus granulatus
+3605,Hyloscirtus princecharlesi,1146,Prince Charles stream tree frog
+3611,Gephyromantis decaryi,1147,Mantidactylus decaryi
+3612,Gephyromantis corvus,1148,Mantidactylus corvus
+3613,Gephyromantis leucomaculatus,1149,Mantidactylus leucomaculatus
+3614,Gephyromantis horridus,1150,Mantidactylus horridus
+3615,Gephyromantis klemmeri,1151,Mantidactylus klemmeri
+3616,Gephyromantis leucocephalus,1152,Mantidactylus leucocephalus
+3617,Gephyromantis boulengeri,1153,Mantidactylus boulengeri
+3618,Gephyromantis blanci,1154,Mantidactylus blanci
+3619,Gephyromantis enki,1155,Mantidactylus enki
+3622,Gephyromantis eiselti,1156,Mantidactylus eiselti
+3624,Gephyromantis rivicola,1157,Mantidactylus rivicola
+3625,Gephyromantis silvanus,1158,Mantidactylus silvanus
+3626,Gephyromantis thelenae,1159,Mantidactylus thelenae
+3627,Gephyromantis webbi,1160,Mantidactylus webbi

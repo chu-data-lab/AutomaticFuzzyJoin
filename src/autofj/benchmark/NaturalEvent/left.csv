@@ -1,0 +1,971 @@
+id,title
+0,1931 Hawke's Bay earthquake
+1,Great Hanshin earthquake
+2,1964 Alaska earthquake
+3,1989 Loma Prieta earthquake
+4,1994 Northridge earthquake
+5,1872 Lone Pine earthquake
+6,1755 Lisbon earthquake
+7,1960 Valdivia earthquake
+8,2001 Nisqually earthquake
+9,1971 San Fernando earthquake
+10,1700 Cascadia earthquake
+11,2001 Gujarat earthquake
+12,1978 Tabas earthquake
+13,1857 Fort Tejon earthquake
+14,2004 Indian Ocean earthquake and tsunami
+15,1977 Vrancea earthquake
+16,2002 Dudley earthquake
+17,1976 Tangshan earthquake
+18,1556 Shaanxi earthquake
+19,1989 Newcastle earthquake
+20,1929 Grand Banks earthquake
+21,1988 Spitak earthquake
+22,Effect of the 2004 Indian Ocean earthquake on Indonesia
+23,Effect of the 2004 Indian Ocean earthquake on Sri Lanka
+24,1946 Aleutian Islands earthquake
+25,2005 Zarand earthquake
+26,1987 Edgecumbe earthquake
+27,2005 Fukuoka earthquake
+28,1933 Long Beach earthquake
+29,1886 Charleston earthquake
+30,1985 Mexico City earthquake
+31,2005 Miyagi earthquake
+32,1987 Whittier Narrows earthquake
+33,2005 northern Peru earthquake
+34,1970 Ancash earthquake
+35,1993 Latur earthquake
+36,2001 southern Peru earthquake
+37,2005 Qeshm earthquake
+38,2005 Ruichang earthquake
+39,2005 Lake Tanganyika earthquake
+40,2005 Hindu Kush earthquake
+41,2006 Greece earthquake
+42,1999 Hector Mine earthquake
+43,1945 Balochistan earthquake
+44,1935 Balochistan earthquake
+45,1974 Hunza earthquake
+46,1994 Paez river earthquake
+47,1939 Erzincan earthquake
+48,1957 Andreanof Islands earthquake
+49,2000 Baku earthquake
+50,1897 Assam earthquake
+51,2006 Kamchatka earthquakes
+52,2006 Tonga earthquake
+53,2003 San Simeon earthquake
+54,May 2006 Java earthquake
+55,1884 Colchester earthquake
+56,1931 Dogger Bank earthquake
+57,1580 Dover Straits earthquake
+58,2006 Borujerd earthquake
+59,July 2006 Java earthquake
+60,2006 Yanjin earthquake
+61,1138 Aleppo earthquake
+62,1990 Luzon earthquake
+63,1861 Mendoza earthquake
+64,1977 San Juan earthquake
+65,1948 Salta earthquake
+66,1894 San Juan earthquake
+67,1949 Tierra del Fuego earthquake
+68,1863 Jujuy earthquake
+69,1952 San Juan earthquake
+70,1968 Casiguran earthquake
+71,2006 Tajikistan earthquake
+72,2006 Gulf of Mexico earthquake
+73,2006 Hawaii earthquake
+74,2006 Banda Sea earthquake
+75,2006 Kuril Islands earthquake
+76,2005 Kashmir earthquake
+77,1967 Caracas earthquake
+78,1356 Basel earthquake
+79,2006 Hengchun earthquake
+80,1938 Banda Sea earthquake
+81,2007 Kuril Islands earthquake
+82,1268 Cilicia earthquake
+83,1992 Landers earthquake
+84,1913 Asmara earthquake
+85,1915 Asmara earthquake
+86,1855 Bursa earthquake
+87,1993 Scotts Mills earthquake
+88,2007 Iberian Peninsula earthquake
+89,1960 Agadir earthquake
+90,March 2007 Sumatra earthquakes
+91,2001 El Salvador earthquakes
+92,2002 Hindu Kush earthquakes
+93,2002 Molise earthquake
+94,2007 Noto earthquake
+95,2007 Solomon Islands earthquake
+96,1998 Papua New Guinea earthquake
+97,1976 Guatemala earthquake
+98,1902 Guatemala earthquake
+99,1908 Messina earthquake
+100,2007 Kent earthquake
+101,1991 Racha earthquake
+102,1920 Gori earthquake
+103,1509 Istanbul earthquake
+104,1986 San Salvador earthquake
+105,1980 Irpinia earthquake
+106,2007 Guatemala earthquake
+107,1966 Varto earthquake
+108,1959 Yellowstone earthquake
+109,2007 Peru earthquake
+110,2003 Colima earthquake
+111,1963 Skopje earthquake
+112,1952 Kern County earthquake
+113,September 2007 Sumatra earthquakes
+114,"1999 Armenia, Colombia earthquake"
+115,1999 Athens earthquake
+116,1985 Algarrobo earthquake
+117,2007 Tocopilla earthquake
+118,1996 Lijiang earthquake
+119,1703 Genroku earthquake
+120,2007 Gisborne earthquake
+121,1693 Sicily earthquake
+122,1892 Recreo earthquake
+123,1935 Timiskaming earthquake
+124,1949 Olympia earthquake
+125,2008 Lake Kivu earthquake
+126,1990 Bishop's Castle earthquake
+127,1717 Guatemala earthquake
+128,365 Crete earthquake
+129,426 BC Malian Gulf tsunami
+130,1927 Crimean earthquakes
+131,2008 Lincolnshire earthquake
+132,1858 Hietsu earthquake
+133,2008 Illinois earthquake
+134,"February 4, 1998 Afghanistan earthquake"
+135,"May 30, 1998 Afghanistan earthquake"
+136,1857 Basilicata earthquake
+137,1999 Chamoli earthquake
+138,1575 Valdivia earthquake
+139,1920 Haiyuan earthquake
+140,2003 Bachu earthquake
+141,2003 Bam earthquake
+142,2004 Morocco earthquake
+143,1948 Ashgabat earthquake
+144,1997 Jabalpur earthquake
+145,1992 Big Bear earthquake
+146,1994 Bolivia earthquake
+147,1975 Haicheng earthquake
+148,2008 El Calvario earthquake
+149,1933 Diexi earthquake
+150,2008 Iceland earthquake
+151,1931 Nicaragua earthquake
+152,1972 Nicaragua earthquake
+153,1968 Dasht-e Bayaz and Ferdows earthquake
+154,1949 Queen Charlotte Islands earthquake
+155,1992 Nicaragua earthquake
+156,2008 Peloponnese earthquake
+157,1946 Dominican Republic earthquake
+158,1992 Flores earthquake
+159,1964 Baihe earthquake
+160,1946 Vancouver Island earthquake
+161,2008 Sichuan earthquake
+162,1983 Coalinga earthquake
+163,1922 Vallenar earthquake
+164,2002 Bou'in-Zahra earthquake
+165,1989 Malawi earthquake
+166,1428 Catalonia earthquake
+167,2001 Kunlun earthquake
+168,1976 Moro Gulf earthquake
+169,2008 Dodecanese earthquake
+170,1933 Sanriku earthquake
+171,2002 Denali earthquake
+172,"Solar eclipse of April 19, 2004"
+173,2000 Sumatra earthquake
+174,2008 Chino Hills earthquake
+175,1952 Severo-Kurilsk tsunami
+176,1948 Fukui earthquake
+177,1979 Montenegro earthquake
+178,2008 Panzhihua earthquake
+179,2008 Yingjiang earthquakes
+180,2008 Kyrgyzstan earthquake
+181,2008 Damxung earthquake
+182,2000 Kipawa earthquake
+183,1933 Baffin Bay earthquake
+184,1732 Montreal earthquake
+185,2007 Alum Rock earthquake
+186,1663 Charlevoix earthquake
+187,1985 Nahanni earthquakes
+188,2008 Chechnya earthquake
+189,1988 Saguenay earthquake
+190,1868 Hayward earthquake
+191,1997 Cap-Rouge earthquake
+192,1997 Qayen earthquake
+193,1997 Ardabil earthquake
+194,1980 Central Mexico earthquake
+195,1888 North Canterbury earthquake
+196,2008 Pakistan earthquake
+197,1894 Meiji Tokyo earthquake
+198,1943 Tottori earthquake
+199,1855 Wairarapa earthquake
+200,2000 Yunnan earthquake
+201,1970 Tonghai earthquake
+202,1906 San Francisco earthquake
+203,1909 Wabash River earthquake
+204,1783 New Jersey earthquake
+205,2008 Sulawesi earthquake
+206,1117 Verona earthquake
+207,1953 Ionian Earthquake
+208,1915 Pleasant Valley earthquake
+209,1983 Borah Peak earthquake
+210,1976 Friuli earthquake
+211,1918 Shantou earthquake
+212,1975 Morris earthquake
+213,1945 Mikawa earthquake
+214,1966 Xingtai earthquake
+215,2009 Papua earthquake
+216,1967 Koynanagar earthquake
+217,1918 Vancouver Island earthquake
+218,2009 Costa Rica earthquake
+219,1929 Koppeh Dagh earthquake
+220,"Solar eclipse of July 11, 1991"
+221,2009 Xinjiang earthquake
+222,1848 Marlborough earthquake
+223,1958 Lituya Bay megatsunami
+224,1970 Gediz earthquake
+225,1962 Buin Zahra earthquake
+226,1843 Wanganui earthquake
+227,1909 Borujerd earthquake
+228,1929 Arthur's Pass earthquake
+229,1930 Salmas earthquake
+230,2009 Tonga earthquake
+231,"Solar eclipse of April 29, 2014"
+232,1976 Papua earthquake
+233,1931 Valentine earthquake
+234,2009 L'Aquila earthquake
+235,"Solar eclipse of March 9, 2016"
+236,1202 Syria earthquake
+237,April 2009 Afghanistan earthquake
+238,1915 Avezzano earthquake
+239,526 Antioch earthquake
+240,2008 Bandar Abbas earthquake
+241,2009 Guerrero earthquake
+242,1947 Wisconsin earthquake
+243,1590 Neulengbach earthquake
+244,2009 Honduras earthquake
+245,1984 Morgan Hill earthquake
+246,1905 Kangra earthquake
+247,1988 Nepal earthquake
+248,1991 Uttarkashi earthquake
+249,Galilee earthquake of 1837
+250,Near East earthquakes of 1759
+251,Galilee earthquake of 363
+252,2000 Turkmenistan earthquake
+253,1995 Antofagasta earthquake
+254,1348 Friuli earthquake
+255,2009 Crete earthquake
+256,1755 Cape Ann Earthquake
+257,1995 Neftegorsk earthquake
+258,2009 Yunnan earthquake
+259,2000 New Ireland earthquakes
+260,856 Damghan earthquake
+261,1980 El Asnam earthquake
+262,2009 Fiordland earthquake
+263,"Solar eclipse of June 13, 2132"
+264,893 Ardabil earthquake
+265,2009 Gulf of California earthquake
+266,1904 Douliu earthquake
+267,1906 Meishan earthquake
+268,1941 Chungpu earthquake
+269,1951 East Rift Valley earthquakes
+270,1959 Hengchun earthquake
+271,2009 Andaman Islands earthquake
+272,2009 Shizuoka earthquake
+273,1946 Hsinhua earthquake
+274,August 2009 Sumatra earthquake
+275,1986 Vrancea earthquake
+276,1980 Azores Islands earthquake
+277,1997 Umbria and Marche earthquake
+278,2009 West Java earthquake
+279,1905 Calabria earthquake
+280,1991 Kalabahi earthquakes
+281,2009 Bhutan earthquake
+282,The Seventh Earthquake
+283,1703 Apennine earthquakes
+284,2009 Samoa earthquake
+285,2009 Sumatra earthquakes
+286,1987 Santiago de Chuco earthquake
+287,1679 Armenia earthquake
+288,1783 Calabrian earthquakes
+289,2007 Martinique earthquake
+290,"Solar eclipse of July 2, 2019"
+291,1859 Shamakhi earthquake
+292,1667 Dubrovnik earthquake
+293,464 BC Sparta earthquake
+294,1896 Meiji-Sanriku earthquake
+295,1987 Ecuador earthquakes
+296,1975 Kinnaur earthquake
+297,226 BC Rhodes earthquake
+298,October 2009 Afghanistan earthquake
+299,1833 Sumatra earthquake
+300,1797 Sumatra earthquake
+301,1861 Sumatra earthquake
+302,1968 Illinois earthquake
+303,1868 Hawaii earthquake
+304,"Solar eclipse of July 1, 2011"
+305,"Solar eclipse of February 16, 1999"
+306,"Solar eclipse of February 5, 2000"
+307,"Solar eclipse of July 1, 2000"
+308,"Solar eclipse of November 3, 2013"
+309,"Solar eclipse of October 23, 2014"
+310,"Solar eclipse of September 13, 2015"
+311,"Solar eclipse of September 1, 2016"
+312,"Solar eclipse of February 26, 2017"
+313,"Solar eclipse of February 15, 2018"
+314,"Solar eclipse of January 6, 2019"
+315,"Solar eclipse of December 26, 2019"
+316,"Solar eclipse of July 13, 2018"
+317,"Solar eclipse of August 11, 2018"
+318,"Solar eclipse of March 30, 2052"
+319,"Solar eclipse of March 20, 2034"
+320,"Solar eclipse of December 4, 1983"
+321,"Solar eclipse of November 23, 1965"
+322,"Solar eclipse of January 5, 2038"
+323,"Solar eclipse of March 30, 2033"
+324,"Solar eclipse of April 11, 2051"
+325,"Solar eclipse of August 12, 2026"
+326,"Solar eclipse of August 23, 2044"
+327,"Solar eclipse of August 2, 2027"
+328,"Solar eclipse of September 14, 2099"
+329,"Solar eclipse of August 24, 2063"
+330,"Solar eclipse of September 3, 2081"
+331,"Solar eclipse of April 30, 2060"
+332,"Solar eclipse of April 20, 2042"
+333,"Solar eclipse of May 11, 2078"
+334,"Solar eclipse of May 22, 2096"
+335,"Solar eclipse of February 14, 1934"
+336,"Solar eclipse of June 11, 2048"
+337,"Solar eclipse of June 1, 2030"
+338,"Solar eclipse of September 2, 1997"
+339,"Solar eclipse of October 12, 1996"
+340,"Solar eclipse of April 17, 1996"
+341,"Solar eclipse of May 21, 1993"
+342,"Solar eclipse of November 13, 1993"
+343,"Solar eclipse of June 21, 2020"
+344,"Solar eclipse of December 14, 2020"
+345,"Solar eclipse of June 10, 2021"
+346,"Solar eclipse of December 4, 2021"
+347,"Solar eclipse of May 30, 1984"
+348,"Solar eclipse of November 12, 1985"
+349,"Solar eclipse of November 22, 1984"
+350,"Solar eclipse of November 25, 2030"
+351,"Solar eclipse of December 5, 2048"
+352,"Solar eclipse of December 17, 2066"
+353,"Solar eclipse of December 27, 2084"
+354,"Solar eclipse of October 23, 1976"
+355,"Solar eclipse of October 12, 1958"
+356,"Solar eclipse of October 1, 1940"
+357,"Solar eclipse of September 9, 1904"
+358,"Solar eclipse of October 3, 1986"
+359,"Solar eclipse of March 29, 1987"
+360,"Solar eclipse of June 30, 1992"
+361,"Solar eclipse of April 20, 2023"
+362,"Solar eclipse of July 22, 2028"
+363,"Solar eclipse of October 25, 2022"
+364,"Solar eclipse of September 23, 2090"
+365,"Solar eclipse of July 31, 1962"
+366,"Solar eclipse of August 21, 1933"
+367,"Solar eclipse of May 31, 2049"
+368,1854 Ansei-Nankai earthquake
+369,"Solar eclipse of January 26, 1990"
+370,"Solar eclipse of December 24, 1992"
+371,"Solar eclipse of April 30, 2022"
+372,"Solar eclipse of October 14, 2023"
+373,"Solar eclipse of October 2, 2024"
+374,"Solar eclipse of February 17, 2026"
+375,"Solar eclipse of February 6, 2027"
+376,"Solar eclipse of January 26, 2028"
+377,"Solar eclipse of March 29, 2025"
+378,"Solar eclipse of September 21, 2025"
+379,"Solar eclipse of January 14, 2029"
+380,"Solar eclipse of July 11, 2029"
+381,"Solar eclipse of December 5, 2029"
+382,"Solar eclipse of June 12, 2029"
+383,"Solar eclipse of November 14, 2031"
+384,"Solar eclipse of May 21, 2031"
+385,"Solar eclipse of May 9, 2032"
+386,"Solar eclipse of November 3, 2032"
+387,"Solar eclipse of March 9, 2035"
+388,"Solar eclipse of September 2, 2035"
+389,"Solar eclipse of September 12, 2034"
+390,"Solar eclipse of September 23, 2033"
+391,"Solar eclipse of February 27, 2036"
+392,"Solar eclipse of August 21, 2036"
+393,"Solar eclipse of September 3, 2062"
+394,"Solar eclipse of September 13, 2080"
+395,"Solar eclipse of September 25, 2098"
+396,"Solar eclipse of December 24, 1973"
+397,"Solar eclipse of December 14, 1955"
+398,"Solar eclipse of February 5, 2046"
+399,"Solar eclipse of July 2, 2038"
+400,"Solar eclipse of March 7, 1989"
+401,"Solar eclipse of May 19, 1985"
+402,"Solar eclipse of October 12, 1977"
+403,"Solar eclipse of May 20, 1966"
+404,"Solar eclipse of July 23, 2036"
+405,"Solar eclipse of January 16, 2037"
+406,"Solar eclipse of July 13, 2037"
+407,"Solar eclipse of December 26, 2038"
+408,"Solar eclipse of June 21, 2039"
+409,"Solar eclipse of December 15, 2039"
+410,"Solar eclipse of August 31, 1989"
+411,"Solar eclipse of September 11, 1988"
+412,"Solar eclipse of September 23, 1987"
+413,"Solar eclipse of April 9, 1986"
+414,"Solar eclipse of June 21, 1982"
+415,"Solar eclipse of December 15, 1982"
+416,"Solar eclipse of January 25, 1982"
+417,"Solar eclipse of July 20, 1982"
+418,"Solar eclipse of February 4, 1981"
+419,"Solar eclipse of August 10, 1980"
+420,"Solar eclipse of August 22, 1979"
+421,"Solar eclipse of October 2, 1978"
+422,"Solar eclipse of April 7, 1978"
+423,"Solar eclipse of April 18, 1977"
+424,"Solar eclipse of November 3, 1975"
+425,"Solar eclipse of May 11, 1975"
+426,"Solar eclipse of December 13, 1974"
+427,"Solar eclipse of June 20, 1974"
+428,"Solar eclipse of January 4, 1973"
+429,"Solar eclipse of January 16, 1972"
+430,"Solar eclipse of July 22, 1971"
+431,"Solar eclipse of February 25, 1971"
+432,"Solar eclipse of August 20, 1971"
+433,"Solar eclipse of August 31, 1970"
+434,"Solar eclipse of September 11, 1969"
+435,"Solar eclipse of March 18, 1969"
+436,"Solar eclipse of March 28, 1968"
+437,"Solar eclipse of November 2, 1967"
+438,"Solar eclipse of May 9, 1967"
+439,"Solar eclipse of December 4, 1964"
+440,"Solar eclipse of June 10, 1964"
+441,"Solar eclipse of January 14, 1964"
+442,"Solar eclipse of July 9, 1964"
+443,"Solar eclipse of January 25, 1963"
+444,"Solar eclipse of August 11, 1961"
+445,"Solar eclipse of March 27, 1960"
+446,"Solar eclipse of September 20, 1960"
+447,"Solar eclipse of April 8, 1959"
+448,"Solar eclipse of April 30, 1957"
+449,"Solar eclipse of October 23, 1957"
+450,"Solar eclipse of December 2, 1956"
+451,"Solar eclipse of June 8, 1956"
+452,"Solar eclipse of December 25, 1954"
+453,"Solar eclipse of January 5, 1954"
+454,"Solar eclipse of July 11, 1953"
+455,"Solar eclipse of February 14, 1953"
+456,"Solar eclipse of August 9, 1953"
+457,"Solar eclipse of August 20, 1952"
+458,"Solar eclipse of March 7, 1951"
+459,"Solar eclipse of September 1, 1951"
+460,"Solar eclipse of September 12, 1950"
+461,"Solar eclipse of March 18, 1950"
+462,"Solar eclipse of April 30, 2041"
+463,"Solar eclipse of April 9, 2043"
+464,"Solar eclipse of May 11, 2040"
+465,"Solar eclipse of November 4, 2040"
+466,"Solar eclipse of October 25, 2041"
+467,"Solar eclipse of October 14, 2042"
+468,"Solar eclipse of October 3, 2043"
+469,"Solar eclipse of February 28, 2044"
+470,"Solar eclipse of February 16, 2045"
+471,"Solar eclipse of August 2, 2046"
+472,"Solar eclipse of January 26, 2047"
+473,"Solar eclipse of July 22, 2047"
+474,"Solar eclipse of December 16, 2047"
+475,"Solar eclipse of June 23, 2047"
+476,"Solar eclipse of May 20, 2050"
+477,"Solar eclipse of November 14, 2050"
+478,"Solar eclipse of November 25, 2049"
+479,"Solar eclipse of May 18, 1901"
+480,"Solar eclipse of July 24, 2055"
+481,"Solar eclipse of August 3, 2073"
+482,"Solar eclipse of August 15, 2091"
+483,"Solar eclipse of January 16, 2075"
+484,"Solar eclipse of January 5, 2057"
+485,"Solar eclipse of January 27, 2093"
+486,"Solar eclipse of October 21, 1930"
+487,"Solar eclipse of November 1, 1948"
+488,"Solar eclipse of October 10, 1912"
+489,"Solar eclipse of November 5, 2059"
+490,"Solar eclipse of November 15, 2077"
+491,"Solar eclipse of November 27, 2095"
+492,"Solar eclipse of August 10, 1915"
+493,"Solar eclipse of February 4, 1943"
+494,"Solar eclipse of April 21, 2069"
+495,"Solar eclipse of May 2, 2087"
+496,"Solar eclipse of September 4, 2100"
+497,"Solar eclipse of October 4, 2070"
+498,"Solar eclipse of October 4, 2051"
+499,"Solar eclipse of September 22, 2052"
+500,"Solar eclipse of September 12, 2053"
+501,"Solar eclipse of September 2, 2054"
+502,"Solar eclipse of March 20, 2053"
+503,"Solar eclipse of March 9, 2054"
+504,"Solar eclipse of July 12, 2056"
+505,"Solar eclipse of July 1, 2057"
+506,"Solar eclipse of June 21, 2058"
+507,"Solar eclipse of August 3, 2054"
+508,"Solar eclipse of January 27, 2055"
+509,"Solar eclipse of January 16, 2056"
+510,"Solar eclipse of December 26, 2057"
+511,"Solar eclipse of November 16, 2058"
+512,"Solar eclipse of May 22, 2058"
+513,"Solar eclipse of May 11, 2059"
+514,"Solar eclipse of October 24, 2060"
+515,"Solar eclipse of April 20, 2061"
+516,"Solar eclipse of October 13, 2061"
+517,"Solar eclipse of August 12, 2064"
+518,"Solar eclipse of March 11, 2062"
+519,"Solar eclipse of August 2, 2065"
+520,"Solar eclipse of February 28, 2063"
+521,"Solar eclipse of February 17, 2064"
+522,"Solar eclipse of February 5, 2065"
+523,"Solar eclipse of December 27, 2065"
+524,"Solar eclipse of December 6, 2067"
+525,"Solar eclipse of November 24, 2068"
+526,"Solar eclipse of May 20, 2069"
+527,"Solar eclipse of May 31, 2068"
+528,"Solar eclipse of June 11, 2067"
+529,"Solar eclipse of June 22, 2066"
+530,"Solar eclipse of July 3, 2065"
+531,2009 Hualien earthquake
+532,"Solar eclipse of October 15, 2069"
+533,"Solar eclipse of April 11, 2070"
+534,"Solar eclipse of March 31, 2071"
+535,"Solar eclipse of March 19, 2072"
+536,"Solar eclipse of September 23, 2071"
+537,"Solar eclipse of September 12, 2072"
+538,"Solar eclipse of December 16, 2085"
+539,1940 New Hampshire earthquake
+540,"Solar eclipse of February 7, 2073"
+541,"Solar eclipse of July 24, 2074"
+542,"Solar eclipse of July 13, 2075"
+543,"Solar eclipse of July 1, 2076"
+544,"Solar eclipse of January 27, 2074"
+545,"Solar eclipse of January 6, 2076"
+546,"Solar eclipse of June 1, 2076"
+547,"Solar eclipse of May 22, 2077"
+548,"Solar eclipse of November 26, 2076"
+549,"Solar eclipse of May 1, 2079"
+550,"Solar eclipse of November 4, 2078"
+551,"Solar eclipse of October 24, 2079"
+552,"Solar eclipse of August 24, 2082"
+553,"Solar eclipse of August 13, 2083"
+554,"Solar eclipse of February 16, 2083"
+555,"Solar eclipse of February 27, 2082"
+556,"Solar eclipse of March 10, 2081"
+557,"Solar eclipse of March 21, 2080"
+558,"Solar eclipse of March 21, 2099"
+559,"Solar eclipse of March 10, 2100"
+560,"Solar eclipse of November 15, 2096"
+561,"Solar eclipse of November 4, 2097"
+562,"Solar eclipse of May 11, 2097"
+563,"Solar eclipse of June 2, 2095"
+564,"Solar eclipse of January 16, 2094"
+565,"Solar eclipse of February 7, 2092"
+566,"Solar eclipse of February 18, 2091"
+567,"Solar eclipse of August 3, 2092"
+568,"Solar eclipse of July 23, 2093"
+569,"Solar eclipse of October 4, 2089"
+570,"Solar eclipse of October 14, 2088"
+571,"Solar eclipse of April 10, 2089"
+572,"Solar eclipse of April 21, 2088"
+573,"Solar eclipse of July 3, 2084"
+574,"Solar eclipse of June 22, 2085"
+575,"Solar eclipse of June 11, 2086"
+576,1692 Jamaica earthquake
+577,"Solar eclipse of December 6, 2086"
+578,"Solar eclipse of April 1, 2098"
+579,"Solar eclipse of December 7, 2094"
+580,"Solar eclipse of July 12, 2094"
+581,"Solar eclipse of August 10, 1934"
+582,"Solar eclipse of February 3, 1935"
+583,"Solar eclipse of July 30, 1935"
+584,"Solar eclipse of January 5, 1935"
+585,"Solar eclipse of June 30, 1935"
+586,"Solar eclipse of December 25, 1935"
+587,"Solar eclipse of June 25, 2150"
+588,"Solar eclipse of July 5, 2168"
+589,"Solar eclipse of October 26, 2087"
+590,"Solar eclipse of March 31, 2090"
+591,"Solar eclipse of July 15, 2083"
+592,"Solar eclipse of January 7, 2084"
+593,"Solar eclipse of June 1, 2087"
+594,"Solar eclipse of June 13, 2094"
+595,"Solar eclipse of October 24, 2098"
+596,"Solar eclipse of June 3, 2114"
+597,"Solar eclipse of June 28, 1889"
+598,"Solar eclipse of November 11, 1901"
+599,"Solar eclipse of May 7, 1902"
+600,"Solar eclipse of October 31, 1902"
+601,"Solar eclipse of September 21, 1903"
+602,"Solar eclipse of March 17, 1904"
+603,"Solar eclipse of March 6, 1905"
+604,"Solar eclipse of March 29, 1903"
+605,"Solar eclipse of April 8, 1902"
+606,"Solar eclipse of February 23, 1906"
+607,"Solar eclipse of August 20, 1906"
+608,"Solar eclipse of July 21, 1906"
+609,"Solar eclipse of July 10, 1907"
+610,"Solar eclipse of December 23, 1908"
+611,"Solar eclipse of December 12, 1909"
+612,"Solar eclipse of June 28, 1908"
+613,"Solar eclipse of June 17, 1909"
+614,"Solar eclipse of November 22, 1919"
+615,"Solar eclipse of December 2, 1937"
+616,"Solar eclipse of November 12, 1947"
+617,"Solar eclipse of November 1, 1929"
+618,"Solar eclipse of October 22, 1911"
+619,"Solar eclipse of December 13, 1936"
+620,"Solar eclipse of December 3, 1918"
+621,"Solar eclipse of January 25, 1944"
+622,"Solar eclipse of August 1, 1943"
+623,"Solar eclipse of January 14, 1945"
+624,"Solar eclipse of July 20, 1944"
+625,"Solar eclipse of February 24, 1933"
+626,"Solar eclipse of February 14, 1915"
+627,"Solar eclipse of May 19, 1928"
+628,"Solar eclipse of November 12, 1928"
+629,"Solar eclipse of November 23, 1946"
+630,"Solar eclipse of May 30, 1946"
+631,"Solar eclipse of May 9, 1948"
+632,"Solar eclipse of April 28, 1949"
+633,"Solar eclipse of October 21, 1949"
+634,"Solar eclipse of August 12, 1942"
+635,"Solar eclipse of January 3, 1946"
+636,"Solar eclipse of June 29, 1946"
+637,"Solar eclipse of April 18, 1931"
+638,"Solar eclipse of October 11, 1931"
+639,"Solar eclipse of October 12, 1939"
+640,"Solar eclipse of April 19, 1939"
+641,"Solar eclipse of April 7, 1940"
+642,"Solar eclipse of March 27, 1941"
+643,"Solar eclipse of March 16, 1942"
+644,"Solar eclipse of September 10, 1942"
+645,"Solar eclipse of August 31, 1932"
+646,"Solar eclipse of September 12, 1931"
+647,"Solar eclipse of March 7, 1932"
+648,"Solar eclipse of November 21, 1938"
+649,"Solar eclipse of May 29, 1938"
+650,"Solar eclipse of March 28, 1922"
+651,"Solar eclipse of March 17, 1923"
+652,"Solar eclipse of March 5, 1924"
+653,"Solar eclipse of August 30, 1924"
+654,"Solar eclipse of October 1, 1921"
+655,"Solar eclipse of April 8, 1921"
+656,"Solar eclipse of January 3, 1927"
+657,"Solar eclipse of July 20, 1925"
+658,"Solar eclipse of July 9, 1926"
+659,"Solar eclipse of June 17, 1928"
+660,"Solar eclipse of December 24, 1927"
+661,"Solar eclipse of July 31, 1924"
+662,"Solar eclipse of February 25, 1914"
+663,"Solar eclipse of August 31, 1913"
+664,"Solar eclipse of July 19, 1917"
+665,"Solar eclipse of July 30, 1916"
+666,"Solar eclipse of January 23, 1917"
+667,"Solar eclipse of November 10, 1920"
+668,"Solar eclipse of May 18, 1920"
+669,"Solar eclipse of June 19, 1917"
+670,"Solar eclipse of December 14, 1917"
+671,"Solar eclipse of December 24, 1916"
+672,"Solar eclipse of April 6, 1913"
+673,"Solar eclipse of September 30, 1913"
+674,"Solar eclipse of November 2, 1910"
+675,"Solar eclipse of May 9, 1910"
+676,1911 Kebin earthquake
+677,January 2010 Solomon Islands earthquake
+678,"Solar eclipse of September 23, 1699"
+679,"Solar eclipse of August 12, 1654"
+680,"Solar eclipse of August 21, 1560"
+681,2010 Eureka earthquake
+682,"Solar eclipse of June 26, 1824"
+683,"Solar eclipse of March 7, 1598"
+684,1984 Dominican Republic earthquake
+685,1770 Port-au-Prince earthquake
+686,2010 Haiti earthquake
+687,1907 Kingston earthquake
+688,1981 Irian Jaya earthquake
+689,1981 Dawu earthquake
+690,1998 Mionica earthquake
+691,1983 Kopaonik earthquake
+692,1751 Port-au-Prince earthquake
+693,2010 Illinois earthquake
+694,"1867 Manhattan, Kansas earthquake"
+695,2003 Dominican Republic earthquake
+696,1982 North Yemen earthquake
+697,1880 Zagreb earthquake
+698,2010 Chile earthquake
+699,Duvall earthquake
+700,1868 Arica earthquake
+701,1969 Portugal earthquake
+702,1647 Santiago earthquake
+703,2010 Salta earthquake
+704,1687 Peru earthquake
+705,2010 Kaohsiung earthquakes
+706,1773 Guatemala earthquake
+707,1986 Chalfant Valley earthquake
+708,1965 Rat Islands earthquake
+709,1975 Lice earthquake
+710,1963 Kuril Islands earthquake
+711,1992 Erzincan earthquake
+712,1992 Cape Mendocino earthquakes
+713,1968 Belice earthquake
+714,2010 Baja California earthquake
+715,April 2010 Sumatra earthquake
+716,2010 Yushu earthquake
+717,2010 Kalgoorlie-Boulder earthquake
+718,2010 Afghanistan earthquake
+719,1903 Malazgirt earthquake
+720,1997 Punitaqui earthquake
+721,1970 New Guinea earthquake
+722,1787 Boricua earthquake
+723,May 2010 Northern Sumatra earthquake
+724,1969 Yangjiang earthquake
+725,1969 Santa Rosa earthquakes
+726,1916 Irondale earthquake
+727,2002 Mindanao earthquake
+728,1940 El Centro earthquake
+729,1865 Memphis earthquake
+730,1992 Cairo earthquake
+731,1964 Niigata earthquake
+732,2010 Papua earthquake
+733,1927 Gulang earthquake
+734,1998 Ryukyu Islands earthquake
+735,1995 Gulf of Aqaba earthquake
+736,2010 Central Canada earthquake
+737,2003 Altai earthquake
+738,1929 Murchison earthquake
+739,2010 Oaxaca earthquake
+740,1978 Miyagi earthquake
+741,1983 Biga earthquake
+742,1924 Pasinler earthquake
+743,1926 Kars earthquake
+744,1952 Hasankale earthquake
+745,1957 Abant earthquake
+746,1967 Mudurnu earthquake
+747,1983 Erzurum earthquake
+748,1914 Burdur earthquake
+749,1859 Erzurum earthquake
+750,1653 East Symirna earthquake
+751,1688 Izmir earthquake
+752,1930 Irpinia earthquake
+753,1949 Khait earthquake
+754,2007 Mariana Islands earthquake
+755,1997 Manyi earthquake
+756,2010 New Britain earthquakes
+757,2010 Mindanao earthquakes
+758,1931 Fuyun earthquake
+759,1855 Ansei Edo earthquake
+760,1481 Rhodes earthquake
+761,1303 Crete earthquake
+762,July 2010 Iran earthquake
+763,1222 Cyprus earthquake
+764,2009 Karonga earthquakes
+765,2009 Talaud Islands earthquake
+766,1881 Chios earthquake
+767,1932 Ierissos earthquake
+768,1810 Crete earthquake
+769,1949 Ambato earthquake
+770,2009 Izu Islands earthquake
+771,1997 Kamchatka earthquake
+772,1997 Harnai earthquake
+773,1887 Sonora earthquake
+774,1997 Jiashi earthquakes
+775,1985 Luquan earthquake
+776,1985 Wuqia earthquake
+777,1997 Chittagong earthquake
+778,1927 earthquake in Palestine
+779,1996 Chimbote earthquake
+780,1797 Riobamba earthquake
+781,1994 Taiwan Strait earthquake
+782,1994 Java earthquake
+783,1868 Ecuador earthquakes
+784,1999 Oaxaca earthquake
+785,1996 Biak earthquake
+786,1984 Otaki earthquake
+787,2010 Canterbury earthquake
+788,1997 Fiji-Tonga earthquake
+789,1901 Cheviot earthquake
+790,1965 Oaxaca earthquake
+791,2002 Burica earthquake
+792,1973 Veracruz earthquake
+793,1982 El Salvador earthquake
+794,1969 Bohai earthquake
+795,1645 Luzon earthquake
+796,1983 Chagos Archipelago earthquake
+797,October 2010 Sumatra earthquake and tsunami
+798,1290 Chihli earthquake
+799,1667 Shamakhi earthquake
+800,1727 Tabriz earthquake
+801,1293 Kamakura earthquake
+802,1907 Qaratog earthquake
+803,2010 Serbia earthquake
+804,1935 Digor earthquake
+805,1881 Nicobar Islands earthquake
+806,1932 Changma earthquake
+807,1984 Northern Sumatra earthquake
+808,1935 Sumatra earthquake
+809,2002 Sumatra earthquake
+810,1909 Lambesc earthquake
+811,1771 Great Yaeyama Tsunami
+812,2010 Hosseinabad earthquake
+813,2010 Bonin Islands earthquake
+814,1972 Ruisui earthquake
+815,1965 Ceram Sea earthquake
+816,1877 Iquique earthquake
+817,1956 Nicaragua earthquake
+818,1872 North Cascades earthquake
+819,2011 Pakistan earthquake
+820,"Solar eclipse of September 26, 2117"
+821,557 Constantinople earthquake
+822,1940 Vrancea earthquake
+823,2011 Christchurch earthquake
+824,1948 Desert Hot Springs earthquake
+825,Guy-Greenbrier earthquake swarm
+826,551 Beirut earthquake
+827,2011 Yunnan earthquake
+828,1978 Thessaloniki earthquake
+829,869 Jogan Sanriku earthquake
+830,1802 Vrancea earthquake
+831,1953 Suva earthquake
+832,2011 Burma earthquake
+833,1997 Cariaco earthquake
+834,2002 Kalehe earthquake
+835,April 2011 Miyagi earthquake
+836,April 2011 Fukushima earthquake
+837,62 Pompeii earthquake
+838,2011 Guerrero earthquake
+839,2011 Lorca earthquake
+840,2010 Indiana earthquake
+841,1911 Sarez earthquake
+842,June 2011 Christchurch earthquake
+843,2010 Pichilemu earthquake
+844,1954 Adelaide earthquake
+845,1982 Flores earthquake
+846,1994 Kuril Islands earthquake
+847,1994 offshore Sanriku earthquake
+848,1936 Miyagi earthquake
+849,2011 Fergana Valley earthquake
+850,1966 Hualien earthquake
+851,1974 Izu Peninsula earthquake
+852,1570 Ferrara earthquake
+853,1792 Unzen earthquake and tsunami
+854,1920 Garfagnana earthquake
+855,1930 Senigallia earthquake
+856,1928 Talca earthquake
+857,1941 Colima earthquake
+858,1936 Cansiglio earthquake
+859,1873 Alpago earthquake
+860,2003 Zhaosu earthquake
+861,1995 Guerrero earthquake
+862,1995 Wuding earthquake
+863,1995 Chiapas earthquake
+864,1937 Orizaba earthquake
+865,2003 Puerto Armuelles earthquake
+866,1889 Kumamoto earthquake
+867,December 1911 Guerrero earthquake
+868,2011 Virginia earthquake
+869,2011 Colorado earthquake
+870,1966 Peru earthquake
+871,2011 Aceh Singkil Regency earthquakes
+872,2011 Sikkim earthquake
+873,1959 Kamchatka earthquake
+874,1928 Chachapoyas earthquake
+875,893 Dvin earthquake
+876,1906 Swansea earthquake
+877,2000 Iceland earthquakes
+878,115 Antioch earthquake
+879,1869 Christchurch earthquake
+880,2011 Van earthquake
+881,1930 Dhubri earthquake
+882,2011 Oklahoma earthquake
+883,1992 Roermond earthquake
+884,November 2011 Myanmar earthquake
+885,1963 Su-ao earthquake
+886,1971 Solomon Islands earthquakes
+887,1611 Keicho Sanriku earthquake
+888,1952 Hokkaido earthquake
+889,1880 Luzon earthquakes
+890,1989 Ungava earthquake
+891,1994 Mindoro earthquake
+892,2011 Zumpango earthquake
+893,1953 Torud earthquake
+894,1932 Jalisco earthquake
+895,1931 Oaxaca earthquake
+896,1892 Laguna Salada earthquake
+897,2001 Geiyo earthquake
+898,1979 Imperial Valley earthquake
+899,847 Damascus earthquake
+900,1996 Nazca earthquake
+901,2012 Visayas earthquake
+902,1943 Alahan Panjang earthquakes
+903,1991 Limon earthquake
+904,1762 Arakan earthquake
+905,1943 Central Java earthquake
+906,1964 Guerrero earthquake
+907,2012 Chiba earthquake
+908,1906 Aleutian Islands earthquake
+909,1947 Assam earthquake
+910,1812 Wrightwood earthquake
+911,1968 Tokachi earthquake
+912,1953 Tumbes earthquake
+913,1819 Rann of Kutch earthquake
+914,1931 Myitkyina earthquake
+915,2012 Indian Ocean earthquakes
+916,1925 Santa Barbara earthquake
+917,1996 Baotou earthquake
+918,1961 New South Wales earthquake
+919,1966 Toro earthquake
+920,1917 Samoa earthquake
+921,2012 Northern Italy earthquakes
+922,2012 Pernik earthquake
+923,1930 North Izu earthquake
+924,June 2012 Afghanistan earthquakes
+925,1942 Guatemala earthquake
+926,2012 Gippsland earthquake
+927,1983 Sea of Japan earthquake
+928,1169 Sicily earthquake
+929,2012 Opunake earthquake
+930,1935 Helena earthquake
+931,1974 Zhaotong earthquake
+932,2012 Yangzhou Earthquake
+933,1972 Qir earthquake
+934,1956 Chim earthquake
+935,1981 Playa Azul earthquake
+936,1088 Tmogvi earthquake
+937,2012 East Azerbaijan earthquakes
+938,1925 Dali earthquake
+939,1893 Quchan earthquake
+940,1895 Quchan earthquake
+941,1979 Tumaco earthquake
+942,2012 Samar earthquake
+943,2012 Costa Rica earthquake
+944,2012 Yunnan earthquakes
+945,1641 Caracas earthquake
+946,1948 Litang earthquake
+947,November 1960 Peru earthquake
+948,1994 Liwa earthquake
+949,1942 Peru earthquake
+950,1721 Tabriz earthquake
+951,1998 Ninglang earthquake
+952,2012 Haida Gwaii earthquake
+953,2012 Guatemala earthquake
+954,1941 Andaman Islands earthquake
+955,2012 Shwebo earthquake
+956,1917 Bali earthquake
+957,1879 Gansu earthquake
+958,1786 Kangding-Luding earthquake
+959,2012 Zohan earthquake
+960,2012 Kamaishi earthquake
+961,1974 Lima earthquake
+962,2008 Qeshm earthquake
+963,2013 Solomon Islands earthquake
+964,1975 North Atlantic earthquake
+965,1911 Kikai Island earthquake
+966,1931 Southwest Sumatra earthquake
+967,1930 Pyu earthquake
+968,1931 Zangezur earthquake
+969,2013 Nantou earthquake

@@ -1,0 +1,2425 @@
+id,title
+0,John Sealy Hospital
+1,McLean Hospital
+2,Queens
+3,Sahlgrenska University Hospital
+4,Marquette General Hospital
+5,Barts Health NHS Trust
+6,Philippine General Hospital
+7,Johns Hopkins Hospital
+8,Klinikum Aachen
+9,Karolinska University Hospital
+10,Prince of Wales Hospital
+11,Health Sciences North
+12,Bethlem Royal Hospital
+13,St Thomas' Hospital
+14,Stoke Mandeville Hospital
+15,Royal Buckinghamshire Hospital
+16,Moorfields Eye Hospital NHS Foundation Trust
+17,Gaebler Children's Center
+18,Bombay Hospital
+19,King's College Hospital
+20,Cedars-Sinai Medical Center
+21,Guy's Hospital
+22,Betty Ford Center
+23,Queen's Medical Centre
+24,Addenbrooke's Hospital
+25,Beth Israel Deaconess Medical Center
+26,Metropolitan State Hospital (California)
+27,Royal London Hospital
+28,University College Hospital
+29,Stanford University Medical Center
+30,Sutter Delta Medical Center
+31,Hospital for Sick Children
+32,McGill University Health Centre
+33,Broadmoor Hospital
+34,Sydney Hospital
+35,Royal Prince Alfred Hospital
+36,Royal Hospital Chelsea
+37,List of Seventh-day Adventist hospitals
+38,Whittington Hospital
+39,University of Washington Medical Center
+40,"Hospital of St John the Baptist, High Wycombe"
+41,Grand River Hospital
+42,Groote Schuur Hospital
+43,Great Ormond Street Hospital
+44,Pennsylvania Hospital
+45,Parkland Memorial Hospital
+46,"Mount Sinai Hospital, Toronto"
+47,Princess Margaret Cancer Centre
+48,Stony Brook University Hospital
+49,St James's University Hospital
+50,Children's Hospital of Philadelphia
+51,The Ottawa Hospital
+52,Children's Hospital of Eastern Ontario
+53,Great Hospital
+54,Monash Medical Centre
+55,University of Texas MD Anderson Cancer Center
+56,University of Ottawa Heart Institute
+57,"Queen Mary Hospital, Hong Kong"
+58,Buntingford almshouses
+59,St Ita's Hospital
+60,St. Jude Children's Research Hospital
+61,"St Mary's Hospital, London"
+62,Massachusetts General Hospital
+63,National Hospital for Neurology and Neurosurgery
+64,Seattle Children's
+65,Markham Stouffville Hospital
+66,St. Peter's Hospital (Hamilton)
+67,Rampton Secure Hospital
+68,Sheba Medical Center
+69,"Mount Sinai Hospital, New York"
+70,Centre for Addiction and Mental Health
+71,Centre for Addiction and Mental Health (College Street site)
+72,Royal Free Hospital
+73,Evelina Children's Hospital
+74,Royal Alexandra Hospital for Children
+75,Westmead Hospital
+76,Concord Repatriation General Hospital
+77,Princess Alexandra Hospital
+78,Akershus University Hospital
+79,James Paget Hospital
+80,Cleveland Clinic
+81,University Hospitals of Cleveland
+82,Roswell Park Cancer Institute
+83,Northwick Park Hospital
+84,Los Angeles County+USC Medical Center
+85,University Health Network
+86,Nova Scotia Hospital
+87,Toronto General Hospital
+88,Royal Adelaide Hospital
+89,Women's and Children's Hospital
+90,Royal Liverpool University Hospital
+91,"Royal Victoria Hospital, Montreal"
+92,Tuen Mun Hospital
+93,Cardinal Glennon Children's Hospital
+94,Saint Louis University Hospital
+95,Boston Children's Hospital
+96,Royal Ottawa Mental Health Centre
+97,"Eastbridge Hospital of St Thomas the Martyr, Canterbury"
+98,Mont Park Asylum
+99,Royal Oldham Hospital
+100,"Curie Institute, Warsaw"
+101,George Washington University Hospital
+102,Valley Regional Hospital
+103,Brigham and Women's Hospital
+104,Summerlin Hospital
+105,Belchertown State School
+106,St George's Hospital
+107,"St Vincent's Hospital, Melbourne"
+108,Sydney Adventist Hospital
+109,Hornsby Ku-ring-gai Hospital
+110,Tan Tock Seng Hospital
+111,Singapore General Hospital
+112,Changi General Hospital
+113,KK Women's and Children's Hospital
+114,Institute of Mental Health (Singapore)
+115,National Skin Centre
+116,Howard County General Hospital
+117,Montfort Hospital
+118,St. Helena Hospital
+119,University of Connecticut Health Center
+120,Mater Misericordiae University Hospital
+121,El Camino Hospital
+122,Mount Druitt Hospital
+123,Turku University Hospital
+124,Royal Manchester Children's Hospital
+125,Saudi Aramco Medical Services Organization
+126,Children's Hospital Los Angeles
+127,Toronto Western Hospital
+128,Queensway-Carleton Hospital
+129,National Defence Medical Centre
+130,National University Hospital
+131,Bellevue Hospital Center
+132,Caithness General Hospital
+133,Texas Children's Hospital
+134,Royal Berkshire Hospital
+135,Vanderbilt University Medical Center
+136,William Harvey Hospital
+137,"Royal Alexandra Hospital, Brighton"
+138,Manhattan Psychiatric Center
+139,St Bartholomew's Hospital
+140,"Aga Khan University Hospital, Karachi"
+141,Gleneagles Hospital and Medical Centre
+142,Credit Valley Hospital
+143,King Edward Memorial Hospital for Women
+144,Strong Memorial Hospital
+145,University Hospital of North Staffordshire
+146,Rikshospitalet
+147,WellStar Kennestone Hospital
+148,Grady Memorial Hospital
+149,Allan Memorial Institute
+150,Rigshospitalet
+151,Children's Medical Center (Dallas)
+152,North York General Hospital
+153,Swedish Medical Center
+154,St John of God Geelong Hospital
+155,University Medical Center of Southern Nevada
+156,Valley Hospital Medical Center
+157,Auburn Hospital
+158,Blacktown Hospital
+159,Desert Springs Hospital
+160,Spring Valley Hospital
+161,Sunrise Hospital & Medical Center
+162,Penn Presbyterian Medical Center
+163,View Road Hospital
+164,Royal Melbourne Hospital
+165,Royal Children's Hospital
+166,Royal Women's Hospital
+167,Shriners Hospital-Canada
+168,Boulder City Hospital
+169,Royal Perth Hospital
+170,Fremantle Hospital
+171,Royal Hallamshire Hospital
+172,Rush University Medical Center
+173,"St Mary's Hospital, Manchester"
+174,Harborview Medical Center
+175,"Prince of Wales Hospital, Sydney"
+176,The Scarborough Hospital
+177,St Vincents & Mercy Private Hospital
+178,Arkansas Children's Hospital
+179,Glenfield Hospital
+180,Lakeside Mental Hospital
+181,Aradale Mental Hospital
+182,Royal Sussex County Hospital
+183,Singleton Hospital
+184,Walton Centre
+185,Maudsley Hospital
+186,Aalborg Hospital
+187,Crossroads Centre
+188,Columbia University Medical Center
+189,Maine Medical Center
+190,King's Mill Hospital
+191,Hospital for Special Surgery
+192,Cooper Hospital
+193,Broadgreen Hospital
+194,Trillium Health Centre
+195,Raigmore Hospital
+196,Geisinger Medical Center
+197,Wagga Wagga Base Hospital
+198,Amiri Hospital
+199,Holy Name Medical Center
+200,Foothills Medical Centre
+201,Saifee Hospital
+202,Florida Hospital Orlando
+203,Royal Hospital for Neuro-disability
+204,Henry Ford Hospital
+205,Royal Hobart Hospital
+206,Adyar Cancer Institute
+207,Bryce Hospital
+208,UC Irvine Medical Center
+209,Skejby Sygehus
+210,London Lock Hospital
+211,Bankstown Lidcombe Hospital
+212,Allegiance Health
+213,Munson Medical Center
+214,Women & Children's Hospital of Buffalo
+215,Children's Hospital of Western Ontario
+216,Dammasch State Hospital
+217,Indira Gandhi Memorial Hospital
+218,Royal North Shore Hospital
+219,UCSF Medical Center
+220,Freeman Hospital
+221,Finley Hospital
+222,Xavier Hospital
+223,University of Iowa Hospitals and Clinics
+224,UC Davis Medical Center
+225,Komfo Anokye Teaching Hospital
+226,Trinity Medical Center
+227,"Mercy Medical Center (Cedar Rapids, Iowa)"
+228,Rex Hospital
+229,Morton Hospital and Medical Center
+230,UC San Diego Health System
+231,Baylor University Medical Center at Dallas
+232,Montefiore Medical Center
+233,Sanjeevan Hospital
+234,Shawnee Mission Medical Center
+235,Spring Grove Hospital Center
+236,Norfolk and Norwich University Hospital
+237,Mount Elizabeth Hospital
+238,Mulago Hospital
+239,Lankenau Medical Center
+240,Dar Al Fouad
+241,David Grant USAF Medical Center
+242,"Queen Elizabeth Hospital, Hong Kong"
+243,Countess of Chester Hospital NHS Foundation Trust
+244,Whipps Cross University Hospital
+245,Royal National Orthopaedic Hospital
+246,Penang Adventist Hospital
+247,Queen Elizabeth Hospital Birmingham
+248,Kwong Wah Hospital
+249,Whitby Psychiatric Hospital
+250,Barnes-Jewish Hospital
+251,Hillingdon Hospital
+252,The Alfred Hospital
+253,Providence Alaska Medical Center
+254,Charleston Area Medical Center
+255,Royal Brompton Hospital
+256,The Royal Marsden NHS Foundation Trust
+257,"Princess Margaret Hospital, Hong Kong"
+258,Caritas Medical Centre
+259,Gosford Hospital
+260,Kingston Hospital
+261,St. Michael's Hospital (Toronto)
+262,Sassoon Hospital
+263,"Queen Elizabeth Hospital, King's Lynn"
+264,Manchester Royal Infirmary
+265,Shriners Hospital for Children (Portland)
+266,Tata Memorial Centre
+267,Philippine Heart Center
+268,Newham University Hospital
+269,Georgetown Public Hospital
+270,"Princess Margaret Hospital, Christchurch"
+271,California Pacific Medical Center
+272,Baycrest
+273,Holland Bloorview Kids Rehabilitation Hospital
+274,Toronto Rehabilitation Institute
+275,Sunnybrook Health Sciences Centre
+276,Western General Hospital
+277,Medical City Dallas Hospital
+278,Hadassah Medical Center
+279,National Jewish Health
+280,Milford Regional Medical Center
+281,Swedish Medical Center (Colorado)
+282,Kiwoko Hospital
+283,"Royal Victoria Hospital, Belfast"
+284,Penn State Milton S. Hershey Medical Center
+285,Liverpool Women's Hospital
+286,St George Hospital (Sydney)
+287,University Hospital of Wales
+288,Steve Biko Hospital
+289,Humber River Regional Hospital
+290,Mackenzie Richmond Hill Hospital
+291,Monklands Hospital
+292,Queen Elizabeth II Jubilee Hospital
+293,Inova Fairfax Hospital
+294,AtlantiCare Regional Medical Center City Division
+295,AtlantiCare Regional Medical Center Mainland Division
+296,Barnert Hospital
+297,Bayonne Medical Center
+298,Bayshore Community Hospital
+299,Cape Regional Medical Center
+300,CentraState Medical Center
+301,Chilton Memorial Hospital
+302,Community Medical Center
+303,Virginia Mason Medical Center
+304,Gold Coast Hospital
+305,King Fahd University Hospital
+306,Froedtert Hospital
+307,Providence Portland Medical Center
+308,Nawaloka Hospital
+309,Poudre Valley Hospital
+310,Alexandra Hospital
+311,Queen Victoria Hospital
+312,Shouldice Hernia Centre
+313,Lenox Hill Hospital
+314,Eisenhower Medical Center
+315,Glasgow Royal Infirmary
+316,Flinders Medical Centre
+317,Krishna Rajendra Hospital
+318,Frenchay Hospital
+319,Southmead Hospital
+320,Bristol Royal Infirmary
+321,Salford Royal
+322,Fulbourn Hospital
+323,Greystone Park Psychiatric Hospital
+324,Sandwell General Hospital
+325,Kwai Chung Hospital
+326,Norton Healthcare
+327,Morton Plant Hospital
+328,Thomson Medical Centre
+329,Launceston General Hospital
+330,Boston Medical Center
+331,IWK Health Centre
+332,Bayfront Medical Center
+333,Shaukat Khanum Memorial Cancer Hospital & Research Centre
+334,Cooper University Hospital
+335,Yuma Regional Medical Center
+336,Wesley Long Community Hospital
+337,Western Infirmary
+338,Coalinga State Hospital
+339,Jewish General Hospital
+340,Wright Medical Center
+341,Parkway East Hospital
+342,Hartford Hospital
+343,King Faisal Specialist Hospital and Research Centre
+344,UAB Hospital
+345,Rusk Institute of Rehabilitation Medicine
+346,James Cook University Hospital
+347,King Fahd Medical City
+348,Southlake Regional Health Centre
+349,St. Joseph's Health Centre
+350,Chris Hani Baragwanath Hospital
+351,Toronto Grace Health Centre
+352,Hospital for Tropical Diseases
+353,San Raffaele Hospital
+354,Albert Dock Seamen's Hospital
+355,Ruby Hall Clinic
+356,Abbasi Shaheed Hospital
+357,Ball Memorial Hospital
+358,Children's National Medical Center
+359,Englewood Hospital and Medical Center
+360,The Queen's Medical Center
+361,Niagara Falls Memorial Medical Center
+362,"University of Maryland St. Joseph Medical Center (Towson, Maryland)"
+363,National Cancer Centre Singapore
+364,North Manchester General Hospital
+365,Maimonides Medical Center
+366,Vancouver General Hospital
+367,St Peter's Hospital (Chertsey)
+368,Weston General Hospital
+369,Fletcher Allen Health Care
+370,UBC Hospital
+371,Glendale Adventist Medical Center
+372,Central Vermont Medical Center
+373,Vancouver Hospital and Health Sciences Centre
+374,Rutland Regional Medical Center
+375,Castle Peak Hospital
+376,Panti Rapih Hospital
+377,Jacobi Medical Center
+378,Jersey Community Hospital
+379,National Heart Centre
+380,Chinook Regional Hospital
+381,Lancashire Teaching Hospitals NHS Foundation Trust
+382,Chorley and South Ribble District General Hospital
+383,Gorgas Hospital
+384,Niagara Health System
+385,New York Downtown Hospital
+386,Rancho Los Amigos National Rehabilitation Center
+387,James Cancer Hospital
+388,State Hospital
+389,King Abdullah University Hospital
+390,CityPlex Towers
+391,Bellwood General Hospital
+392,Community Hospital of Long Beach
+393,Charing Cross Hospital
+394,Hammersmith Hospital
+395,Oakville-Trafalgar Memorial Hospital
+396,Milton District Hospital
+397,Georgetown Hospital
+398,Peel Memorial Hospital
+399,Etobicoke General Hospital
+400,Birmingham Children's Hospital
+401,Royal Infirmary of Edinburgh
+402,North Devon District Hospital
+403,"Queen Elizabeth Hospital, Woolwich"
+404,Women's College Hospital
+405,"Government General Hospital, Chennai"
+406,Leeds General Infirmary
+407,Bond's Hospital
+408,North Tyneside General Hospital
+409,"City Hospital, Birmingham"
+410,Siriraj Hospital
+411,Aberdeen Royal Infirmary
+412,Blackpool Victoria Hospital
+413,Royal Aberdeen Children's Hospital
+414,Aberdeen Maternity Hospital
+415,Royal Cornhill Hospital
+416,Woodend Hospital
+417,Woolmanhill Hospital
+418,Lozenetz Hospital
+419,St. Christopher's Hospital for Children
+420,Frederiksberg Hospital
+421,Northern Maine Medical Center
+422,Chase Farm Hospital
+423,Huddersfield Royal Infirmary
+424,Kirkwood Hospice
+425,Albyn Hospital
+426,Morriston Hospital
+427,Hospital Nacional
+428,Southampton General Hospital
+429,Hospital Santo Tomas
+430,The Methodist Hospital
+431,"King George Hospital, London"
+432,Instituto Oncologico Nacional
+433,Bedford Hospital
+434,Moorgreen Hospital
+435,University of Chicago Medical Center
+436,Crown Street Women's Hospital
+437,"St. Margaret's Hospital (Sydney, Australia)"
+438,Liverpool Hospital
+439,Meyer Children's Hospital
+440,Queen Alexandra Hospital
+441,Royal United Hospital
+442,Altnagelvin Area Hospital
+443,Centre hospitalier universitaire Sainte-Justine
+444,Scott & White Memorial Hospital
+445,Montreal Heart Institute
+446,Alder Hey Children's Hospital
+447,St. Vincent's Medical Center Riverside
+448,Royal Hampshire County Hospital
+449,Royal South Hants Hospital
+450,Hospital Italiano de Buenos Aires
+451,Laniado Hospital
+452,Children's Hospital Colorado
+453,Hairmyres Hospital
+454,Mat-Su Regional Medical Center
+455,Lehigh Valley Hospital
+456,Royal Gwent Hospital
+457,County Hospital
+458,Nevill Hall Hospital
+459,Ben Taub General Hospital
+460,Vanivilas Women and Children Hospital
+461,Health Sciences Centre (Winnipeg)
+462,Royal National Hospital for Rheumatic Diseases
+463,Carolinas Medical Center-Main
+464,Nuffield Orthopaedic Centre
+465,Paulton Memorial Hospital
+466,Wake Forest Baptist Medical Center
+467,UNC Health Care
+468,Mission Health System
+469,Vidant Medical Center
+470,Dr Gray's Hospital
+471,Providence St. Vincent Medical Center
+472,Selly Oak Hospital
+473,Norfolk General Hospital
+474,Victoria Hospital (Bangalore Medical College)
+475,Carolinas Medical Center-University
+476,Radcliffe Infirmary
+477,Hong Kong Sanatorium and Hospital
+478,Ugie Hospital
+479,Maud Hospital
+480,Peterhead Community Hospital
+481,Kincardine Community Hospital
+482,Turriff Cottage Hospital
+483,Inverurie Hospital
+484,"Jubilee Hospital, Huntly"
+485,Insch War Memorial Hospital
+486,North Middlesex Hospital
+487,Cincinnati Children's Hospital Medical Center
+488,Spynie Hospital
+489,Turner Memorial Hospital
+490,Stephen Cottage Hospital
+491,Seafield Hospital
+492,Leanchoil Hospital
+493,Fleming Cottage Hospital
+494,"Campbell Hospital, Portsoy"
+495,Huntington Hospital
+496,Levine Children's Hospital
+497,Carolinas Medical Center-Union
+498,Methodist Hospital of Indianapolis
+499,Horton General Hospital
+500,Ochsner Medical Center
+501,Harlem Hospital Center
+502,Massachusetts Eye and Ear Infirmary
+503,St. James's Hospital
+504,"Beaumont Hospital, Dublin"
+505,"Royal Hospital for Sick Children, Glasgow"
+506,Sutherland Hospital
+507,Croydon University Hospital
+508,Le Bonheur Children's Hospital
+509,Kettering Medical Center
+510,Kimball Medical Center
+511,IU Health North Medical Center
+512,Ruttonjee Hospital
+513,Mayo General Hospital
+514,Bahrain Royal Medical Services
+515,Boca Raton Regional Hospital
+516,Aravind Eye Hospital
+517,Central DuPage Hospital
+518,Oregon State Hospital
+519,John Radcliffe Hospital
+520,St Richard's Hospital
+521,Powick Hospital
+522,Denver Health Medical Center
+523,Minto Eye Hospital
+524,SDS Tuberculosis Sanatorium
+525,Mackay Memorial Hospital
+526,Park Prewett Hospital
+527,Manly Hospital
+528,Louis A. Weiss Memorial Hospital
+529,Northwestern Memorial Hospital
+530,St. Louis Children's Hospital
+531,Withington Community Hospital
+532,American Hospital of Paris
+533,Mona Vale Hospital
+534,Yangon General Hospital
+535,Montgomery Regional Hospital
+536,Indiana University Hospital
+537,Rawson-Neal Hospital
+538,Stamford Hospital
+539,Western Eye Hospital
+540,Pine Rest Christian Mental Health Services
+541,Harold Wood Hospital
+542,Bryn Mawr Hospital
+543,Robert Wood Johnson University Hospital
+544,Royal University Hospital
+545,Khyber Teaching Hospital
+546,Donnington Hospital
+547,Richmond Medical Center
+548,Union General Hospital
+549,Ospital ng Maynila Medical Center
+550,Ealing Hospital NHS Trust
+551,Exempla Lutheran Medical Center
+552,Mount Nittany Medical Center
+553,Tameside General Hospital
+554,Huntsville Hospital System
+555,Greenwich Hospital (Connecticut)
+556,Norwalk Hospital
+557,Bridgeport Hospital
+558,Assunta Hospital
+559,Nanavati hospital
+560,San Francisco City Clinic
+561,Neath Port Talbot Hospital
+562,John Hunter Hospital
+563,Hackensack University Medical Center
+564,"St. John's Hospital (Springfield, Illinois)"
+565,John Muir Health
+566,Wellesley Hospital
+567,St. Vincent's Medical Center (Bridgeport)
+568,West Middlesex University Hospital
+569,St Catherine's Hospital
+570,Danbury Hospital
+571,Montreal General Hospital
+572,Doncaster Royal Infirmary
+573,Montreal Neurological Institute
+574,Montreal Chest Institute
+575,Montreal Children's Hospital
+576,Tsan Yuk Hospital
+577,Tung Wah Eastern Hospital
+578,Tung Wah Group of Hospitals Fung Yiu King Hospital
+579,The Duchess of Kent Children's Hospital at Sandy Bay
+580,Tung Wah Hospital
+581,MacLehose Medical Rehabilitation Centre
+582,Grantham Hospital
+583,Tang Shiu Kin Hospital
+584,Pamela Youde Nethersole Eastern Hospital
+585,Alice Ho Miu Ling Nethersole Hospital
+586,Kowloon Hospital
+587,Our Lady of Maryknoll Hospital
+588,Tung Wah Group of Hospitals Wong Tai Sin Hospital
+589,United Christian Hospital
+590,Hospital Kiang Wu
+591,Stobhill Hospital
+592,Mater Infirmorum Hospital
+593,Liaquat National Hospital
+594,Kings County Hospital Center
+595,Bumrungrad International Hospital
+596,Coney Island Hospital
+597,Daisy Hill Hospital
+598,Belfast City Hospital
+599,Allegheny General Hospital
+600,Callan Park Hospital for the Insane
+601,Gold Coast University Hospital
+602,Dartmouth General Hospital
+603,Serdang Hospital
+604,Ninewells Hospital
+605,Simi Valley Hospital
+606,Carney Hospital
+607,Mount Vernon Hospital
+608,Chino Valley Medical Center
+609,Bronson Methodist Hospital
+610,Gartnavel Royal Hospital
+611,"St George Hospital, Mumbai"
+612,Lady Ridgeway Hospital for Children
+613,HOSMAT
+614,Upper River Valley Hospital
+615,Chelsea and Westminster Hospital
+616,Wycombe General Hospital
+617,Nicosia Old General Hospital
+618,Tengku Ampuan Rahimah Hospital
+619,New Amsterdam Public Hospital
+620,Hahnemann University Hospital
+621,Wakari Hospital
+622,Dunedin Public Hospital
+623,Good Samaritan Hospital (Cincinnati)
+624,Furness General Hospital
+625,Milton Keynes General Hospital
+626,The Bristol-Myers Squibb Children's Hospital
+627,Barnet General Hospital
+628,Darlington Memorial Hospital
+629,Wansbeck General Hospital
+630,B.C. Women's Hospital & Health Centre
+631,Central Middlesex Hospital
+632,Jersey City Medical Center
+633,Beckomberga Hospital
+634,"University Hospital, New Orleans"
+635,Charity Hospital (New Orleans)
+636,"St Vincent's Hospital, Sydney"
+637,Alberta Children's Hospital
+638,Shady Grove Adventist Hospital
+639,Saint John Regional Hospital
+640,Sligo General Hospital
+641,Oklahoma State University Medical Center
+642,Cefn Coed Hospital
+643,Princess of Wales Hospital
+644,Whitchurch Hospital
+645,Wrexham Maelor Hospital
+646,Sir Ivan Stedeford Hospital
+647,University College Hospital Galway
+648,Papworth Hospital
+649,Letterkenny General Hospital
+650,Cancer Treatment Centers of America
+651,"Aga Khan Hospital, Dar es Salaam"
+652,Aga Khan Maternal and Child Care Centre
+653,Aga Khan Hospital for Women
+654,"Aga Khan Hospital, Kisumu"
+655,Prince Aly Khan Hospital
+656,"Aga Khan University Hospital, Nairobi"
+657,Uppsala University Hospital
+658,"Wellington Hospital, New Zealand"
+659,R Adams Cowley Shock Trauma Center
+660,Queen's Hospital
+661,Chung-Ho Memorial Hospital
+662,Albert B. Chandler Hospital
+663,Loyola University Medical Center
+664,George Eliot Hospital
+665,Sheffield Children's Hospital
+666,Sobell House Hospice
+667,McMaster Children's Hospital
+668,Malacca General Hospital
+669,University Hospital Coventry
+670,"Royal Victoria Hospital, Barrie"
+671,Auckland City Hospital
+672,North Shore University Hospital
+673,Faulkner Hospital
+674,Hospital Pantai Mutiara
+675,Walter Reed National Military Medical Center
+676,Gartnavel General Hospital
+677,Freedmen's Hospital
+678,Arnold Palmer Hospital for Children
+679,Winnie Palmer Hospital for Women & Babies
+680,Orlando Health
+681,Floating Hospital for Children
+682,Singapore National Eye Centre
+683,Lismore Base Hospital
+684,Royal Cornwall Hospital
+685,Carrier Clinic
+686,St. Mary's Hospital Lacor
+687,UPMC St. Margaret
+688,St. Elizabeth's Medical Center (Boston)
+689,Providence Sacred Heart Medical Center and Children's Hospital
+690,Derriford Hospital
+691,Glen O'Dee Hospital
+692,Billinge Hospital
+693,Bodmin Hospital
+694,Royal Devon and Exeter Hospital
+695,MedStar Union Memorial Hospital
+696,Rose Medical Center
+697,Sibley Memorial Hospital
+698,Surrey Memorial Hospital
+699,Hull Royal Infirmary
+700,Blanchard Valley Health System
+701,St. Rita's Medical Center
+702,Cape Cod Hospital
+703,British Columbia's Children's Hospital
+704,King's Daughters Medical Center
+705,Ontario Shores Centre for Mental Health Sciences
+706,"Queen Alexandra Hospital, Hobart"
+707,Hobart Private Hospital
+708,"Calvary Hospital, Hobart"
+709,St Lukes Private Hospital
+710,North West Regional Hospital
+711,Queen Charlotte's and Chelsea Hospital
+712,Ipswich Hospital
+713,Russells Hall Hospital
+714,Rhode Island Hospital
+715,Hamilton General Hospital
+716,Riverside Methodist Hospital
+717,Lahey Clinic
+718,Caldwell Memorial Hospital
+719,Greenslopes Private Hospital
+720,Somerset Medical Center
+721,University Medical Center of Princeton at Plainsboro
+722,Erinville Hospital
+723,Southampton Hospital
+724,Advocate Lutheran General Hospital
+725,Albany Medical Center
+726,McGaw Medical Center
+727,Spaulding Rehabilitation Hospital
+728,Academic Medical Center
+729,VU University Medical Center
+730,Lyell McEwin Hospital
+731,Lake Alice Hospital
+732,Hospital of St Cross
+733,Royal Surrey County Hospital
+734,Dumfries and Galloway Royal Infirmary
+735,Denton Regional Medical Center
+736,Alberta Hospital Edmonton
+737,The Prince Charles Hospital
+738,Musgrave Park Hospital
+739,Castle Hill Hospital
+740,Darent Valley Hospital
+741,Dubai Hospital
+742,Orlando Regional Medical Center
+743,Weston Park Hospital
+744,Sherman Hospital
+745,"University Medical Center (El Paso, Texas)"
+746,Lowell General Hospital
+747,Dorset County Hospital
+748,Dorchester Hospital
+749,Maharaja Yeshwantrao Hospital
+750,Lymington New Forest Hospital
+751,Michael E. DeBakey Veterans Affairs Medical Center in Houston
+752,Nottingham City Hospital
+753,Nottingham University Hospitals NHS Trust
+754,University of Colorado Hospital
+755,Craig Hospital
+756,Middlesex Hospital
+757,University Medical Center Freiburg
+758,Pok Oi Hospital
+759,Fairfield Hospital (Sydney)
+760,Blythedale Children's Hospital
+761,Kapiolani Medical Center at Pali Momi
+762,Nepean Hospital
+763,"Memorial Medical Center (Springfield, Illinois)"
+764,Jessop Hospital
+765,"Hotel Dieu Hospital (Kingston, Ontario)"
+766,Borders General Hospital
+767,Kelsey-Seybold Clinic
+768,Services Hospital
+769,Huntsman Cancer Institute
+770,St. Mary's Medical Center (Huntington)
+771,Peter Lougheed Centre
+772,Rockyview General Hospital
+773,Sultan Abdul Halim Hospital
+774,Jaslok Hospital
+775,"Victoria Hospital (London, Ontario)"
+776,London Health Sciences Centre
+777,"University Hospital (London, Ontario)"
+778,Doernbecher Children's Hospital
+779,Korle Bu Teaching Hospital
+780,Bir Hospital
+781,B & B Hospital
+782,Dhulikhel Hospital
+783,Patan Hospital
+784,"UCLA Medical Center, Santa Monica"
+785,Ventura County Medical Center
+786,Los Robles Hospital & Medical Center
+787,Saint John's Health Center
+788,London Bridge Hospital
+789,White Memorial Medical Center
+790,Santa Barbara Cottage Hospital
+791,Santa Ynez Valley Cottage Hospital
+792,Community Memorial Hospital
+793,Clark Fork Valley Hospital
+794,Southern New Hampshire Medical Center
+795,Cheyenne Regional Medical Center
+796,Royal Victoria Infirmary
+797,Sabbatsbergs sjukhus
+798,Northern General Hospital
+799,Children's Memorial Hospital
+800,Saint Vincent's Catholic Medical Center
+801,Highlands Hospital
+802,Tuality Forest Grove Hospital
+803,Tuality Community Hospital
+804,Palmetto Health Richland
+805,Greenville Memorial Hospital
+806,Albert Schweitzer Hospital
+807,Methodist Hospital of Sacramento
+808,Mercy General Hospital
+809,Woodland Park Hospital
+810,Eastmoreland Hospital
+811,Antelope Valley Hospital
+812,Lancaster Community Hospital
+813,Palmdale Regional Medical Center
+814,Arrowhead Regional Medical Center
+815,Mercy San Juan Medical Center
+816,Manteno State Hospital
+817,UPMC Hamot
+818,Musgrove Park Hospital
+819,Gloucestershire Royal Hospital
+820,Mayo Hospital
+821,Wishard Memorial Hospital
+822,Little Company of Mary Hospital (Torrance)
+823,Little Company of Mary Hospital (San Pedro)
+824,Little Company of Mary Hospital (Evergreen Park)
+825,Cossham Memorial Hospital
+826,California Hospital Medical Center
+827,"Centinela Freeman Regional Medical Center, Centinela Campus"
+828,"Centinela Freeman Regional Medical Center, Marina Campus"
+829,"Centinela Freeman Regional Medical Center, Memorial Campus"
+830,Sydney Children's Hospital
+831,Northridge Hospital Medical Center
+832,St. John's Regional Medical Center (California)
+833,St. John's Pleasant Valley Hospital
+834,St. Mary Medical Center (Long Beach)
+835,St. Mary's Medical Center (San Francisco)
+836,"Saint Mary's Regional Medical Center (Reno, Nevada)"
+837,Communicable Disease Centre
+838,Legacy Emanuel Medical Center
+839,Radboud University Nijmegen Medical Centre
+840,Pennhurst State School and Hospital
+841,St. John's Regional Medical Center (Missouri)
+842,Santa Paula Hospital
+843,Thunder Bay Regional Health Sciences Centre
+844,Providence Saint Joseph Medical Center
+845,Providence Holy Cross Medical Center
+846,Lewis-Gale Medical Center
+847,Greater Baltimore Medical Center
+848,Brotman Medical Center
+849,Riverview Medical Center
+850,Carilion New River Valley Medical Center
+851,Canberra Hospital
+852,Miller Children's Hospital
+853,MedStar Franklin Square Medical Center
+854,Carilion Roanoke Memorial Hospital
+855,Sparrow Hospital
+856,University of Missouri Hospital
+857,Ram Manohar Lohia Hospital
+858,University of Missouri Children's Hospital
+859,University of Missouri Women's and Children's Hospital
+860,Ellis Fischel Cancer Center
+861,Edith Cavell Hospital
+862,Amager Hospital
+863,Bispebjerg Hospital
+864,Brenner Children's Hospital
+865,Austen Riggs Center
+866,Northwestern Lake Forest Hospital
+867,Highlands Regional Medical Center
+868,Bhaktapur Cancer Hospital
+869,B.P. Koirala Memorial Cancer Hospital
+870,Desert Valley Hospital
+871,Milford Hospital (Connecticut)
+872,Jose B. Lingad Memorial Regional Hospital
+873,Hollywood Presbyterian Medical Center
+874,Good Samaritan Hospital (Los Angeles)
+875,MUSC Medical Center
+876,Olympia Medical Center
+877,St. Vincent Medical Center (Los Angeles)
+878,St. Francis Medical Center (Lynwood)
+879,St. Francis Health Center
+880,Primary Children's Medical Center
+881,Naresuan University Hospital
+882,Central Clinical Hospital
+883,Valkenberg Hospital
+884,"St. Luke's Hospital (New Bedford, Massachusetts)"
+885,Rosewood Center
+886,Mendota Mental Health Institute
+887,Glenrose Rehabilitation Hospital
+888,Ulster Hospital
+889,Farleigh Hospice
+890,Soroka Medical Center
+891,Connolly Hospital
+892,Bangkok Adventist Hospital
+893,Montclair Hospital Medical Center
+894,La Palma Intercommunity Hospital
+895,Paradise Valley Hospital
+896,Sherman Oaks Hospital
+897,Johns Hopkins Bayview Medical Center
+898,Bangkok Christian Hospital
+899,Nassau University Medical Center
+900,Salisbury District Hospital
+901,"Mission Hospital (Mission Viejo, California)"
+902,Pioneer Valley Hospital
+903,University of Alberta Hospital
+904,Rainbow Babies & Children's Hospital
+905,Cliniques Universitaires Saint-Luc
+906,Galway Clinic
+907,Providence St. Peter Hospital
+908,Mid-Columbia Medical Center
+909,St Woolos Hospital
+910,Aberbargoed Hospital
+911,Blaenavon Hospital
+912,St Cadoc's Hospital
+913,Redwood Memorial Hospital
+914,Middlemore Hospital
+915,Monmouth Hospital
+916,Abertillery and District Hospital
+917,Tredegar General Hospital
+918,Ysbyty Aneurin Bevan
+919,Royal Brisbane and Women's Hospital
+920,Saint George Hospital University Medical Center
+921,Arnold Lodge
+922,New York Eye and Ear Infirmary
+923,Royal Shrewsbury Hospital
+924,Hospital Universitario San Ignacio
+925,Little Flower Hospital
+926,Bay Park Community Hospital
+927,The Toledo Hospital
+928,Flower Hospital
+929,Royal Derby Hospital
+930,Saint Francis Memorial Hospital
+931,Jackson Memorial Hospital
+932,Khoo Teck Puat Hospital
+933,Broomfield Hospital
+934,Cloud County Health Center
+935,"British Military Hospital, Hong Kong"
+936,Spartanburg Regional
+937,St. Conal's Psychiatric Hospital
+938,St. Mark's Hospital
+939,Saint Peter's University Hospital
+940,Dr. Jose Fabella Memorial Hospital
+941,North Shore Hospital
+942,Warwick Hospital
+943,Peterborough Regional Health Centre
+944,Cho Ray Hospital
+945,University of New Mexico Hospital
+946,Royal Hospital Haslar
+947,Princess Royal Hospital (Telford)
+948,Western State Hospital (Washington State)
+949,Butterworth Hospital (Michigan)
+950,"Royal National Throat, Nose and Ear Hospital"
+951,Royal Alexandra Hospital (Paisley)
+952,Beijing Tongren Hospital
+953,Union Hospital (Hong Kong)
+954,Virika Hospital
+955,Mater Dei Hospital
+956,Catholic Medical Center
+957,"University Hospital (Newark, New Jersey)"
+958,Children's Hospital of Orange County
+959,Georgetown University Hospital
+960,108 Hospital
+961,Trinity Regional Medical Center
+962,University Behavioral HealthCare
+963,Children's Hospital of Pittsburgh of UPMC
+964,Robinson Memorial Hospital
+965,Hospital of the University of Pennsylvania
+966,"St. Joseph Medical Center (Kansas City, Missouri)"
+967,Swedish American Hospital
+968,Washington Hospital Center
+969,San Luis Valley Regional Medical Center
+970,Baltimore Washington Medical Center
+971,Shands Jacksonville Medical Center
+972,Asian Hospital and Medical Center
+973,Dr. Jose N. Rodriguez Memorial Hospital
+974,Research Institute for Tropical Medicine
+975,St Helier Hospital
+976,Carolinas Medical Center-NorthEast
+977,Knowle Hospital
+978,Starship Children's Health
+979,Seaman's Hospital
+980,Karen Hospital
+981,Mariakani Cottage Hospital
+982,Ayr Hospital
+983,University Hospital Crosshouse
+984,Victoria General Hospital
+985,St. Cloud Hospital
+986,Atascadero State Hospital
+987,"Royal Alexandra Hospital, Edmonton"
+988,Haukeland University Hospital
+989,EMH Regional Medical Center
+990,Nalanda Medical College
+991,Sha Tin Hospital
+992,St. Agnes Hospital (Baltimore)
+993,Sierra View District Hospital
+994,Centegra Northern Illinois Medical Center
+995,Canterbury Hospital
+996,Centegra Memorial Medical Center
+997,Parkland Medical Center
+998,Gaston Memorial Hospital
+999,Lakeridge Health Whitby
+1000,Lakeridge Health Oshawa
+1001,Lakeridge Health Port Perry
+1002,Lakeridge Health Bowmanville
+1003,Uxbridge Cottage Hospital
+1004,Punjab Institute of Cardiology
+1005,Zamboanga del Norte Medical Center
+1006,West Cornwall Hospital
+1007,Camborne Redruth Community Hospital
+1008,MidMichigan Medical Center-Midland
+1009,Sunnyside Hospital
+1010,Cambridge Health Alliance
+1011,Cambridge Hospital
+1012,Somerville Hospital
+1013,Whidden Memorial Hospital
+1014,Memorial Health Group
+1015,Sisters of Charity Hospital (Zagreb)
+1016,Lister Hospital (Stevenage)
+1017,Queen Elizabeth II Hospital
+1018,Seacroft Hospital
+1019,Airedale General Hospital
+1020,Chapel Allerton Hospital
+1021,Mater Hospital Pimlico
+1022,Bristol Royal Hospital for Children
+1023,Toledo Children's Hospital
+1024,St Olav's University Hospital
+1025,Children's Hospital Oakland
+1026,Queen Elizabeth II Health Sciences Centre
+1027,Royal Jubilee Hospital
+1028,Douglas Mental Health University Institute
+1029,RNH Bighi
+1030,Edward Hospital
+1031,Palomar Medical Center
+1032,Tsuen Wan Adventist Hospital
+1033,Hong Kong Adventist Hospital
+1034,Macau University of Science and Technology Hospital
+1035,G. F. Strong Centre
+1036,Sir Ganga Ram Hospital (Pakistan)
+1037,Sarojini Devi Eye Hospital
+1038,Calvert Memorial Hospital
+1039,Harry S. Truman Memorial Veterans' Hospital
+1040,Hong Kong Baptist Hospital
+1041,William Beaumont Health System
+1042,Genesis Health System
+1043,Bixby Medical Center
+1044,Defiance Regional Medical Center
+1045,Fostoria Community Hospital
+1046,Herrick Medical Center
+1047,Lima Memorial Health System
+1048,"St. Luke's Hospital, Malta"
+1049,"St Ann's Hospital, Dorset"
+1050,Toronto East General Hospital
+1051,Matilda International Hospital
+1052,St. Vincent Mercy Medical Center
+1053,St. Charles Mercy Hospital
+1054,St. Vincent Mercy Children's Hospital
+1055,St. Anne Mercy Hospital
+1056,Mercy Hospital of Tiffin
+1057,Mercy Hospital of Willard
+1058,Mercy Hospital of Defiance
+1059,Janeway Children's Health and Rehabilitation Centre
+1060,Medical Center of the Rockies
+1061,Shaikh Khalifa Medical City
+1062,"University Hospital (Augusta, Georgia)"
+1063,Medical Center of Central Georgia
+1064,Waikato Hospital
+1065,Lucile Packard Children's Hospital
+1066,Imperial College Healthcare
+1067,Palisades Medical Center
+1068,Tondo Medical Center
+1069,Baptist Memorial Hospital-Memphis
+1070,Ayrshire Central Hospital
+1071,St. Luke's Episcopal Hospital
+1072,West Park Hospital
+1073,Evangel Hospital Hong Kong
+1074,Hong Kong Central Hospital
+1075,Precious Blood Hospital (Caritas)
+1076,"St Teresa's Hospital, Hong Kong"
+1077,"Canossa Hospital, Hong Kong"
+1078,"St Luke's Hospital, Middlesbrough"
+1079,Sentara Norfolk General Hospital
+1080,Modbury Hospital
+1081,Bishop Auckland Hospital
+1082,Earls House Hospital
+1083,Redmond Regional Medical Center
+1084,Pascack Valley Hospital
+1085,Centracare (hospital)
+1086,Grafton State Hospital
+1087,301 Military Hospital
+1088,Wesley Medical Center
+1089,"Lincoln Hospital (Bronx, New York)"
+1090,Green Memorial Hospital
+1091,University Hospital of South Manchester
+1092,Emanuel Medical Center
+1093,Sanpete Valley Hospital
+1094,Dixie Regional Medical Center
+1095,McKay-Dee Hospital Center
+1096,The Orthopedic Specialty Hospital
+1097,Gunnison Valley Hospital
+1098,Alta View Hospital
+1099,American Fork Hospital
+1100,Orem Community Hospital
+1101,Uintah Basin Medical Center
+1102,"Wellington Hospital, London"
+1103,Lakeshore General Hospital
+1104,Saskatoon City Hospital
+1105,Whittingham Hospital
+1106,Nishtar Hospital
+1107,Asan Medical Center
+1108,Royal Glamorgan Hospital
+1109,Caritas Hospital
+1110,"St. Luke's Hospital (Cedar Rapids, Iowa)"
+1111,"Jinnah Hospital, Lahore"
+1112,Broward Health
+1113,"Queen Elizabeth Hospital, Prince Edward Island"
+1114,Charlottetown Hospital
+1115,Hillsborough Hospital
+1116,Prince Edward Island Hospital
+1117,St. Francis Hospital (Milwaukee)
+1118,St. Jude Medical Center
+1119,Harefield Hospital
+1120,Torrance Memorial Medical Center
+1121,Uist and Barra Hospital
+1122,Western Isles Hospital
+1123,Gilbert Bain Hospital
+1124,Creighton University Medical Center
+1125,Belford Hospital
+1126,Mackinnon Memorial Hospital
+1127,National Guard Health Affairs
+1128,Abbot's Hospital
+1129,King George V Memorial Hospital
+1130,Grantham and Kesteven Hospital
+1131,Bayley Seton Hospital
+1132,Children's Mercy Hospital
+1133,"St. Luke's Hospital, Bradford"
+1134,Royal Darwin Hospital
+1135,St Pancras Hospital
+1136,Herlev Hospital
+1137,Donald K. Johnson Eye Centre
+1138,Vejthani Hospital
+1139,Brooklyn Hospital Center
+1140,Necker-Enfants Malades Hospital
+1141,Paphos General Hospital
+1142,Rouge Valley Centenary
+1143,Guru Teg Bahadur Hospital
+1144,Bombo Hospital
+1145,Faafu Atoll Hospital
+1146,Osmania General Hospital
+1147,UPMC Mercy
+1148,Boone Hospital Center
+1149,Presbyterian Hospital of Dallas
+1150,Joseph Brant Memorial Hospital
+1151,Centennial Hills Hospital
+1152,St Philip's Hospital
+1153,Brampton Civic Hospital
+1154,Royal Naval Hospital (Hong Kong)
+1155,Legacy Meridian Park Medical Center
+1156,Misericordia Health Centre
+1157,Lanka Hospitals
+1158,The Children's Hospital of Winnipeg
+1159,Cabell Huntington Hospital
+1160,Victoria General Hospital (Winnipeg)
+1161,Concordia Hospital
+1162,Nationwide Children's Hospital (Columbus)
+1163,Deer Lodge Centre
+1164,Vibhavadi Hospital
+1165,Shepherd Center
+1166,Athens Regional Medical Center
+1167,"Diocesan House, St Albans"
+1168,General Lying-In Hospital
+1169,Anne Arundel Medical Center
+1170,Atlantic General Hospital
+1171,Maryland General Hospital
+1172,Shalamar Hospital
+1173,Parkview Hospital
+1174,Demelza Hospice Care for Children
+1175,Kwekwe General Hospital
+1176,OSF Saint Anthony Medical Center
+1177,Advocate Good Samaritan Hospital
+1178,The Mount (hospital)
+1179,Ludlow Hospital
+1180,Torbay Hospital
+1181,East Bardera Mothers and Children's Hospital
+1182,Victoria Hospital (Kirkcaldy)
+1183,Hargeisa Canadian Medical Center
+1184,O'Connor Hospital
+1185,"Teaching Hospital, Kandy"
+1186,"St. Mary's Hospital (Passaic, New Jersey)"
+1187,St. Finbarr's Hospital
+1188,Tufts Medical Center
+1189,Sheldon M. Chumir Centre
+1190,Bornholms Hospital
+1191,Battle Hospital
+1192,Floyd Medical Center
+1193,Piedmont Newnan Hospital
+1194,Red Cross War Memorial Children's Hospital
+1195,Encino-Tarzana Regional Medical Center
+1196,Valley Presbyterian Hospital
+1197,Gentofte Hospital
+1198,Mayview State Hospital
+1199,CVPH Medical Center
+1200,Aberdeen Regional Hospital
+1201,"Queen Margaret Hospital, Dunfermline"
+1202,"Fairfield Hospital, Bedfordshire"
+1203,University Hospital Heidelberg
+1204,Underwood-Memorial Hospital
+1205,Franco-Vietnamese Hospital
+1206,Ramathibodi Hospital
+1207,Inverclyde Royal Hospital
+1208,Mbuma Mission Hospital
+1209,Perth Royal Infirmary
+1210,Nam Long Hospital
+1211,Ayub Teaching Hospital
+1212,St. Luke's International Hospital
+1213,Tallaght Hospital
+1214,Port of Spain General Hospital
+1215,"Trinity Hospital (Augusta, Georgia)"
+1216,"Doctors Hospital (Augusta, Georgia)"
+1217,"St John's Hospital, Livingston"
+1218,Stollery Children's Hospital
+1219,Falmouth Hospital
+1220,Lexington Veterans Affairs Medical Center
+1221,Coombe Women & Infants University Hospital
+1222,"St Luke's Hospital, Singapore"
+1223,St.Theresa's Hospital
+1224,Kagando Hospital
+1225,Cromer Hospital
+1226,"Memorial Medical Center (Modesto, California)"
+1227,"St Michael's Hospital, Warwick"
+1228,Cabrini Medical Center
+1229,Baptist Health
+1230,Central Park Hospital
+1231,"St. Francis Hospital (Flower Hill, New York)"
+1232,St. Francis Hospital of The Sisters Of The Poor Of St. Francis
+1233,MetroHealth
+1234,Public Health Service Hospital
+1235,Shellharbour Hospital
+1236,"Calvary Hospital, Wagga Wagga"
+1237,Broughton Hospital
+1238,South London and Maudsley NHS Foundation Trust
+1239,Lira Hospital
+1240,Olympic Medical Center
+1241,Carolinas Medical Center-Mercy
+1242,Carolinas Medical Center-Pineville
+1243,Luton and Dunstable University Hospital
+1244,Norristown State Hospital
+1245,Palmetto Health Baptist Columbia
+1246,Galloway Community Hospital
+1247,Kingston General Hospital
+1248,Saint Mary's Regional Medical Center (Maine)
+1249,Kilmarnock Infirmary
+1250,Kirklandside Hospital
+1251,University Medical Center Hamburg-Eppendorf
+1252,Hanford Community Medical Center
+1253,Hospital of Lithuanian University of Health Sciences Kaunas Clinics
+1254,MedStar Harbor Hospital
+1255,Rauceby Hospital
+1256,Salem Hospital (Oregon)
+1257,The University of Illinois Eye and Ear Infirmary
+1258,Bristol General Hospital
+1259,University of Kansas Hospital
+1260,Royal Free London NHS Foundation Trust
+1261,Eastman Dental Hospital
+1262,Sir Run Run Shaw Hospital
+1263,Women & Infants Hospital of Rhode Island
+1264,Kent Hospital
+1265,Southwestern Vermont Medical Center
+1266,Warwickshire Nuffield Hospital
+1267,Sequoia Hospital
+1268,Southern Ohio Medical Center
+1269,National Rehabilitation Hospital
+1270,Onderstepoort Veterinary Academic Hospital
+1271,Frankston Hospital
+1272,Severalls Hospital
+1273,New York Methodist Hospital
+1274,St. Paul's Hospital (Saskatoon)
+1275,Provident Hospital (Chicago)
+1276,Long Beach Memorial Medical Center
+1277,Saint Francis Hospital & Medical Center
+1278,"Hospital of St John the Baptist, Winchester"
+1279,St. John's Rehab Hospital
+1280,Roger Williams Medical Center
+1281,The Christ Hospital
+1282,Eastern Shore Memorial Hospital
+1283,Shanghai Children's Hospital
+1284,Shanghai Chest Hospital
+1285,Peking Union Medical College Hospital
+1286,Ruijin Hospital
+1287,Melrose-Wakefield Hospital
+1288,University of Iowa Children's Hospital
+1289,The Medical Center of Aurora
+1290,Matteawan State Hospital for the Criminally Insane
+1291,Yale Cancer Center
+1292,Phoebe Putney Memorial Hospital
+1293,St. Catharines General Hospital
+1294,Craigavon Area Hospital
+1295,Balfour Hospital
+1296,Frederick Memorial Hospital
+1297,Lagan Valley Hospital
+1298,Belvoir Park Hospital
+1299,West Berkshire Community Hospital
+1300,Medical Center of Southeastern Oklahoma
+1301,Kapiolani Medical Center for Women and Children
+1302,Mayo Hospital (Thailand)
+1303,Duke University Hospital
+1304,UCL Partners
+1305,Gritman Medical Center
+1306,OSF Saint Francis Medical Center
+1307,Kinshasa General Hospital
+1308,MultiCare Tacoma General Hospital
+1309,MultiCare Health System
+1310,Seoul National University Hospital
+1311,MultiCare Mary Bridge Children's Hospital & Health Center
+1312,Sacred Heart Medical Center University District
+1313,Sacred Heart Medical Center at RiverBend
+1314,McKenzie-Willamette Medical Center
+1315,Cottage Grove Community Hospital
+1316,Peace Harbor Hospital
+1317,NYU Langone Medical Center
+1318,Legacy Good Samaritan Medical Center
+1319,Ashland Community Hospital (Oregon)
+1320,BC Children's Hospital Foundation
+1321,Kew Asylum
+1322,Lake District Hospital
+1323,Oregon Health & Science University Hospital
+1324,Grande Ronde Hospital
+1325,Willamette Valley Medical Center
+1326,Blue Mountain Hospital
+1327,University of Utah Hospital
+1328,Combined Military Hospital
+1329,Gerald Champion Regional Medical Center
+1330,Fairfield Infectious Diseases Hospital
+1331,Wishaw General Hospital
+1332,Beechworth Asylum
+1333,Good Samaritan Regional Medical Center (Oregon)
+1334,Samaritan North Lincoln Hospital
+1335,Samaritan Lebanon Community Hospital
+1336,University College London Hospitals NHS Foundation Trust
+1337,Cirque Lodge
+1338,Emory University Hospital
+1339,Westchester Medical Center
+1340,Samaritan Albany General Hospital
+1341,Samaritan Pacific Communities Hospital
+1342,Blackrock Clinic
+1343,Inselspital
+1344,East Tennessee Children's Hospital
+1345,Indira Gandhi Institute of Medical Sciences
+1346,Beijing Jishuitan Hospital
+1347,First Affiliated Hospital of Xinjiang Medical University
+1348,Second Affiliated Hospital of Xinjiang Medical University
+1349,Third Affiliated Hospital of XMU
+1350,Fourth Affiliated Hospital of XMU
+1351,Fifth Affiliated Hospital of XMU
+1352,Ephraim McDowell Regional Medical Center
+1353,University of Maryland Medical Center
+1354,Patna Medical College and Hospital
+1355,Totalmed
+1356,Yarra Bend Asylum
+1357,Clinical Center of Vojvodina
+1358,WellStar Douglas Hospital
+1359,Good Hope Hospital
+1360,John F. Cotton Corporate Wellness Center
+1361,Keck Hospital of USC
+1362,Limbe Provincial Hospital
+1363,Little Company of Mary Hospital (Pretoria)
+1364,CBM Bethel Hospital
+1365,Hackensack University Medical Center at Pascack Valley
+1366,Royal Park Hospital
+1367,Sunbury Asylum
+1368,Ashtabula County Medical Center
+1369,St. Elizabeth Health Services
+1370,Erlanger Health System
+1371,Riverside Osteopathic Hospital
+1372,Nahariya Hospital for the Western Galilee
+1373,Manchester Academic Health Science Centre
+1374,Saint Thomas Hospital
+1375,Middle Tennessee Medical Center
+1376,Albert Einstein Medical Center
+1377,Children's Castle
+1378,Greaves Hall
+1379,Misericordia Community Hospital
+1380,Hospital Universitario de Canarias
+1381,Baptist Hospital (Nashville)
+1382,Rideout Memorial Hospital
+1383,Fawcett Memorial Hospital
+1384,St. Joseph's Regional Medical Center
+1385,Breach Candy Hospital
+1386,Botsford Hospital
+1387,Milad Hospital
+1388,Grey Nuns Community Hospital
+1389,Detroit Receiving Hospital
+1390,Bangkok Hospital
+1391,The Valley Hospital
+1392,Guelph General Hospital
+1393,Wills Eye Institute
+1394,Children's Hospital of Michigan
+1395,Harper University Hospital
+1396,Hutzel Women's Hospital
+1397,Worthing Hospital
+1398,East Kent Hospitals University NHS Foundation Trust
+1399,DMC Surgery Hospital
+1400,Rehabilitation Institute of Michigan
+1401,AnMed Health Women's & Children's Hospital
+1402,Sinai-Grace Hospital
+1403,AnMed Health Medical Center
+1404,New Cross Hospital
+1405,Anadolu Medical Center
+1406,University Hospital Lewisham
+1407,Churchill Hospital
+1408,"Queen Mary's Hospital, Sidcup"
+1409,Princess Royal University Hospital
+1410,Greenwich District Hospital
+1411,General University Hospital of Patras
+1412,Aditya Jyot Eye Hospital
+1413,Danderyds sjukhus
+1414,Richmond Hospital
+1415,Heatherwood Hospital
+1416,Newark Beth Israel Medical Center
+1417,Mahak Hospital and Rehabilitation Complex
+1418,Renji Hospital
+1419,Combined Military Hospital Rawalpindi
+1420,Peninsula Hospital Center
+1421,Xinhua Hospital
+1422,University of Florida Cancer Hospital
+1423,Grace Hospital (Winnipeg)
+1424,Warneford Hospital
+1425,Dar Al Shifaa Hospital
+1426,Calvary Wakefield Hospital
+1427,Sinai Hospital
+1428,Gerber Memorial Health Services
+1429,Mount Sinai Medical Center (Chicago)
+1430,Loma Linda University Medical Center
+1431,"St Nicholas Hospital, Newcastle upon Tyne"
+1432,Arlington Memorial Hospital
+1433,Jaffna Teaching Hospital
+1434,Westmorland General Hospital
+1435,Royal Newcastle Hospital
+1436,South Bristol Community Hospital
+1437,Newton-Wellesley Hospital
+1438,"St Mary's Hospital, Isle of Wight"
+1439,Eagle Ridge Hospital
+1440,Miami Valley Hospital
+1441,NorthShore University HealthSystem
+1442,Sharp Memorial Hospital
+1443,Otis Air Force Base Hospital
+1444,Skagit Valley Hospital
+1445,Elliot Hospital
+1446,James Lawrence Kernan Hospital
+1447,Brattleboro Memorial Hospital
+1448,Mt. Ascutney Hospital and Health Center
+1449,North Country Hospital
+1450,Northeastern Vermont Regional Hospital
+1451,Northwestern Medical Center
+1452,Western Pennsylvania Hospital
+1453,Dayton Children's Medical Center
+1454,"Juan S. Alano Memorial Hospital, Inc."
+1455,Providence Newberg Medical Center
+1456,Al-Shifa Hospital
+1457,Brookdale University Hospital and Medical Center
+1458,King Hussein Cancer Center
+1459,Beckenham Beacon
+1460,Fairview Training Center
+1461,Sound Shore Medical Center
+1462,Devon General Hospital
+1463,Leduc Community Hospital
+1464,Atlanta Medical Center
+1465,Riverview Health Centre
+1466,Strathcona Community Hospital
+1467,Taiping Hospital
+1468,Sturgeon Community Hospital
+1469,Health First Strathcona
+1470,Greifswald University Hospital
+1471,St Christopher's Hospice
+1472,Redwater Health Centre
+1473,National Referral Hospital (Thimphu)
+1474,Castle Craig Hospital
+1475,Hurley Medical Center
+1476,Willingway Hospital
+1477,Glostrup Hospital
+1478,"Mercy Medical Center (Baltimore, Maryland)"
+1479,St. Anthony's Medical Center
+1480,St. Boniface General Hospital (Winnipeg)
+1481,Runwell Hospital
+1482,Metropolitan Hospital Center
+1483,Santa Clara Valley Medical Center
+1484,Sisters of Charity Hospital (Buffalo)
+1485,Royal Derwent Hospital
+1486,King Chulalongkorn Memorial Hospital
+1487,Crawley Hospital
+1488,Fort Saskatchewan Health Centre
+1489,Riverview Hospital (Coquitlam)
+1490,Grace Cottage Hospital
+1491,Princess Royal Hospital (Haywards Heath)
+1492,Northeast Community Health Centre
+1493,Civista Medical Center
+1494,Chalmers Hospital
+1495,Hollywood Private Hospital
+1496,Auckland Adventist Hospital
+1497,Warburton Hospital
+1498,Makati Medical Center
+1499,Rambam Health Care Campus
+1500,Hughes Spalding Children's Hospital
+1501,Henrietta Egleston Hospital for Children
+1502,McLaren Regional Medical Center
+1503,Medway Maritime Hospital
+1504,St Bernard's Hospital
+1505,Grandview Medical Center
+1506,"Mid-Western Regional Hospital, Nenagh"
+1507,Ridgecrest Regional Hospital
+1508,San Fernando General Hospital
+1509,St. Helena Hospital Clearlake
+1510,Meilahti Hospital
+1511,Arrow Lakes Hospital
+1512,Jorvi Hospital
+1513,Texas Children's Cancer Center
+1514,University of Tennessee Medical Center
+1515,Presbyterian/St. Luke's Medical Center
+1516,Royal Victoria Eye and Ear Hospital
+1517,Yale Parenting Center and Child Conduct Clinic
+1518,University Hospital of North Tees
+1519,University Hospital of Hartlepool
+1520,Northwest Community Hospital
+1521,Cross Cancer Institute
+1522,Tom Baker Cancer Centre
+1523,Yangon Children's Hospital
+1524,Yangon Central Women's Hospital
+1525,"St. Michael's Hospital, Bristol"
+1526,Woodilee Hospital
+1527,Moran Eye Center
+1528,Providence Continuing Care Centre
+1529,Post Graduate Institute of Medical Education and Research (New Delhi)
+1530,Hunterdon Medical Center
+1531,Royal Northern Hospital
+1532,Kelowna General Hospital
+1533,Hampton University Proton Therapy Institute
+1534,The First Hospital of Jiaxing
+1535,Shanghai Sixth People's Hospital
+1536,Madras Medical Mission
+1537,Redland Hospital
+1538,Hospital Carlos Van Buren
+1539,Chelsea Naval Hospital
+1540,Pukeora Sanatorium
+1541,Nsambya Hospital
+1542,Baptist Hospital of Miami
+1543,Larkin Community Hospital
+1544,Mbarara Hospital
+1545,Mbale Hospital
+1546,Jinja Hospital
+1547,Maidstone Hospital
+1548,Providence Willamette Falls Medical Center
+1549,Sixth Affiliated Hospital of XMU
+1550,Naval Hospital of Puerto Williams
+1551,Medtral
+1552,Regions Hospital
+1553,Anaheim Regional Medical Center
+1554,Mary Free Bed Rehabilitation Hospital
+1555,Hunt Regional Medical Center
+1556,Parrish Medical Center
+1557,Enumclaw Regional Hospital
+1558,St. Clare Hospital
+1559,"St. Joseph Medical Center (Tacoma, Washington)"
+1560,St. Anthony Hospital (Colorado)
+1561,Edna Adan Maternity Hospital
+1562,San Joaquin Community Hospital
+1563,Adventist Medical Center
+1564,Castle Medical Center
+1565,Sheng Jing Hospital
+1566,Sonora Regional Medical Center
+1567,Selma Community Hospital
+1568,Central Valley General Hospital
+1569,Feather River Hospital
+1570,Frank R. Howard Memorial Hospital
+1571,Ukiah Valley Medical Center
+1572,Walla Walla General Hospital
+1573,Tillamook County General Hospital
+1574,Gospel Hospital
+1575,International Hospital of Bahrain
+1576,Muhlenberg Regional Medical Center
+1577,Glens Falls Hospital
+1578,Indiana Orthopaedic Hospital
+1579,The Causeway Retreat
+1580,Patna Dental College
+1581,Kfar Shaul Mental Health Center
+1582,La Rabida Children's Hospital
+1583,Kankakee State Hospital
+1584,Sibu Hospital
+1585,Mountainside Hospital
+1586,West Yangon General Hospital
+1587,East Yangon General Hospital
+1588,Sahmyook Medical Center
+1589,Saigon Adventist Hospital
+1590,Belize Medical Associates
+1591,Royal Bolton Hospital NHS Foundation Trust
+1592,Nakornthon Hospital
+1593,New Karolinska Solna University Hospital
+1594,Barbara Ann Karmanos Cancer Institute
+1595,Wesley Hospital (Brisbane)
+1596,Fuda Cancer Hospital-Guangzhou
+1597,International Hospital Kampala
+1598,Barlow Respiratory Hospital
+1599,Manarom Hospital
+1600,Saint Barnabas Medical Center
+1601,Paul B. Hall Regional Medical Center
+1602,Cooper Green Mercy Hospital
+1603,King Saud Medical Complex
+1604,CHRISTUS St. Vincent Regional Medical Center
+1605,Clara Maass Medical Center
+1606,Amersham Hospital
+1607,Massac Memorial Hospital
+1608,Sharp Grossmont Hospital
+1609,Mater Women's and Children's Hospital
+1610,"Calvary Hospital, Bronx"
+1611,Duke Cancer Institute
+1612,Sierra Vista Regional Medical Center
+1613,Wexham Park Hospital
+1614,Nairobi Women's Hospital
+1615,St. Luke's Health Network
+1616,Miami Valley Hospital South
+1617,Good Samaritan Hospital (Dayton)
+1618,Peace Arch Hospital
+1619,Carroll Hospital Center
+1620,Moses H. Cone Memorial Hospital
+1621,St Emlyn's
+1622,Macquarie University Hospital
+1623,Manchester Memorial Hospital
+1624,Seven Oaks General Hospital
+1625,Oroville Hospital
+1626,Sutter Medical Center
+1627,Lytham Hospital
+1628,Lindy Boggs Medical Center
+1629,"Deaconess Hospital (Evansville, Indiana)"
+1630,Captain James A. Lovell Federal Health Care Center
+1631,"County Hospital, Durham"
+1632,Boston Regional Medical Center
+1633,Wexner Medical Center at Ohio State University
+1634,The Meriden Hospital
+1635,St. Mary's Hospital (Montreal)
+1636,Our Lady of the Lake Regional Medical Center
+1637,Kajang Hospital
+1638,Jaseng Hospital of Oriental Medicine
+1639,Mt. Washington Pediatric Hospital
+1640,Church Home and Hospital
+1641,University Hospital Centre Zagreb
+1642,Bangued Christian Hospital
+1643,Sarawak General Hospital
+1644,Pusat Perubatan Universiti Kebangsaan Malaysia
+1645,Stracathro Hospital
+1646,Vietnam-Sweden hospital
+1647,Southview Medical Center
+1648,Southend Hospital
+1649,Clinical Hospital Dubrava
+1650,Indus Hospital
+1651,Children's Medical Center at Legacy
+1652,St. Paul's Hospital (Vancouver)
+1653,Aizawl Adventist Hospital
+1654,Abudwak Maternity and Children's Hospital
+1655,Harris County Psychiatric Center
+1656,Dupont Hospital
+1657,"Aga Khan Hospital, Mombasa"
+1658,Chelsea and Westminster Hospital NHS Foundation Trust
+1659,University Hospital Bonn
+1660,Lutheran Hospital of Indiana
+1661,The Research Institute at Nationwide Children's Hospital
+1662,Eastern State Hospital (Washington)
+1663,Pomerado Hospital
+1664,Labette Health
+1665,Oswego Community Hospital
+1666,"St. Mary's Hospital, Galveston"
+1667,Via Christi Hospital (Pittsburg)
+1668,Firelands Regional Medical Center
+1669,Utah State Hospital
+1670,Yangon ENT Hospital
+1671,Bridges To Recovery
+1672,Tampa General Hospital
+1673,"St. Joseph Hospital (Nashua, New Hampshire)"
+1674,Muthu Hospital
+1675,Southern General Hospital
+1676,Bess Kaiser Hospital
+1677,St. Mary's of Michigan Medical Center
+1678,Overlook Medical Center
+1679,Florida Hospital Celebration Health
+1680,Norwood Hospital
+1681,Our Lady of Bellefonte Hospital
+1682,Kettering General Hospital
+1683,Shima Hospital
+1684,Kasturba Hospital
+1685,"Hospital of St. Cross, Rugby"
+1686,Springfield Hospital
+1687,Royal Orthopaedic Hospital
+1688,Rogue Regional Medical Center
+1689,Chazhikattu Hospital
+1690,Kaiser Westside Medical Center
+1691,"Ipswich Hospital, Queensland"
+1692,Kaiser Sunnyside Medical Center
+1693,Northwest Hospital & Medical Center
+1694,Aintree University Hospitals NHS Foundation Trust
+1695,Eastern Shore Hospital Center
+1696,Military Medical Academy (Bulgaria)
+1697,Mackay Base Hospital
+1698,Scheer Memorial Hospital
+1699,Lilavati Hospital and Research Centre
+1700,Fortis Malar Hospital
+1701,Swedish Covenant Hospital
+1702,P.D. Hinduja National Hospital and Medical Research Centre
+1703,Jubilee Mission Medical College and Research Institute
+1704,Peterborough City Hospital
+1705,Peterborough District Hospital
+1706,Long Beach Medical Center
+1707,ALYN Hospital
+1708,Kikuchi Keifuen Sanatorium
+1709,Miyako Nanseien Sanatorium
+1710,Wyoming Medical Center
+1711,Hoshizuka Keiaien Sanatorium
+1712,Okinawa Airakuen Sanatorium
+1713,Amala Institute of Medical Sciences
+1714,Kuryu Rakusen-en Sanatorium
+1715,Tama Zenshoen Sanatorium
+1716,Matsuoka Hoyoen Sanatorium
+1717,Tohoku Shinseien Sanatorium
+1718,Amami Wakoen Sanatorium
+1719,Paul A. Dever State School
+1720,Suruga Sanatorium
+1721,Oku-Komyo-En Sanatorium
+1722,Southport General Infirmary
+1723,Nagashima Aiseien Sanatorium
+1724,Philippe Pinel Institute
+1725,AZ Groeninge
+1726,Ooshima Seishoen Sanatorium
+1727,Northampton General Hospital
+1728,MedStar Montgomery Medical Center
+1729,Worcester State Hospital
+1730,Arua Regional Referral Hospital
+1731,Masaka Hospital
+1732,Fort Portal Hospital
+1733,Gulu Hospital
+1734,Hoima Hospital
+1735,Kabale Hospital
+1736,Jehangir Hospital
+1737,Soroti Hospital
+1738,Newport Hospital
+1739,Maple Grove Hospital
+1740,North Memorial Medical Center
+1741,Yeovil District Hospital
+1742,Porter Adventist Hospital
+1743,Hospital del Divino Salvador
+1744,St Vincent's Hospital (Brisbane)
+1745,Winnebago Mental Health Institute
+1746,Kennedy Krieger Institute
+1747,Royal Hospital for Women
+1748,Bergen Regional Medical Center
+1749,Fremont Memorial Hospital
+1750,Daud Memorial Hospital
+1751,"King George Hospital, Visakhapatnam"
+1752,Alameda Hospital
+1753,Arroyo Grande Community Hospital
+1754,Bakersfield Heart Hospital
+1755,Banner Lassen Medical Center
+1756,Barstow Community Hospital
+1757,Institute of Liver and Biliary Sciences
+1758,Rafik Hariri University Hospital
+1759,Wilson Medical Center (North Carolina)
+1760,Trichur Heart Hospital
+1761,Mother Hospital
+1762,Duside Hospital
+1763,Kisiizi Hospital
+1764,Westmoreland Lock Hospital
+1765,Queensland Children's Hospital
+1766,Robina Hospital
+1767,Jarvis Hospital
+1768,Kalafong Hospital
+1769,Butabika Hospital
+1770,Henry Mayo Newhall Memorial Hospital
+1771,Ronald O. Perelman Heart Institute
+1772,Rosie Hospital
+1773,Nkozi Hospital
+1774,Glasgow Victoria Infirmary
+1775,Varberg Hospital
+1776,Kamuli Mission Hospital
+1777,"JFK Medical Center (Atlantis, Florida)"
+1778,Nagalama Hospital
+1779,Mengo Hospital
+1780,Kibuli Hospital
+1781,South Seminole Hospital
+1782,Garfield Memorial Hospital
+1783,Beijing United Family Hospital
+1784,Iloilo Mission Hospital
+1785,Norfolk Regional Center
+1786,General Hospital of Mexico
+1787,Centre Hospitalier Universitaire Notre Dame des Secours
+1788,Pikeville Medical Center
+1789,Koyama Fukusei Hospital
+1790,John F. Kennedy Medical Center
+1791,Cork Medical Centre
+1792,District Headquarter Hospital Battagram
+1793,Dickinson County Healthcare System
+1794,Golden Jubilee National Hospital
+1795,"Doctors Hospital (Columbus, Ohio)"
+1796,Tulane Medical Center
+1797,"Saint Joseph Hospital (Lexington, Kentucky)"
+1798,National Psychosis Unit
+1799,Providence Tarzana Medical Center
+1800,Encino Hospital Medical Center
+1801,University Neuropsychiatric Institute
+1802,Weskoppies Psychiatric Hospital
+1803,Kirkland and District Hospital
+1804,University Orthopaedic Center
+1805,Denmar Psychiatric Hospital
+1806,Coler-Goldwater Specialty Hospital
+1807,Zuid-Afrikaans Hospital
+1808,Sultanah Aminah Hospital
+1809,Children's Hospital for Wales
+1810,Good Samaritan Hospital (San Jose)
+1811,ADK Hospital
+1812,Littleton Adventist Hospital
+1813,Riverside County Regional Medical Center
+1814,Community Hospital of San Bernardino
+1815,Odense University Hospital
+1816,Helen DeVos Children's Hospital
+1817,Harrogate District Hospital
+1818,Southwest General Health Center
+1819,John F. Kennedy Medical Center (Liberia)
+1820,Royal Columbian Hospital
+1821,Bon Secours Hospital (Baltimore)
+1822,Withybush General Hospital
+1823,Ronald Reagan UCLA Medical Center
+1824,"Sacred Heart Hospital (Manchester, New Hampshire)"
+1825,Montreal Chinese Hospital
+1826,Albert Einstein Hospital
+1827,Manatee Palms Youth Services
+1828,Institute of Mental Health (Belgrade)
+1829,Sindh Institute of Urology and Transplantation
+1830,Christchurch Hospital
+1831,"Shushrusha Citizens' Co-operative Hospital, Shivaji Park, Mumbai"
+1832,Cassel Hospital
+1833,Ospedale Niguarda Ca' Granda
+1834,Magee Rehabilitation Hospital
+1835,"St. Joseph's Hospital (St. Paul, Minnesota)"
+1836,"Bethesda Hospital, St. Paul"
+1837,CURE Children's Hospital of Uganda
+1838,Holy Innocents Children's Hospital
+1839,Moroto Hospital
+1840,The Outer Banks Hospital
+1841,Duplin General Hospital
+1842,Mubende Hospital
+1843,Burnaby Hospital
+1844,West Cumberland Hospital
+1845,Cumberland Infirmary
+1846,SDU Research Hospital
+1847,Tripoli Central Hospital
+1848,Kaweah Delta Medical Center
+1849,Monroe Carell Jr. Children's Hospital at Vanderbilt
+1850,"Mid-Western Regional Hospital, Limerick"
+1851,Multan Institute of Cardiology
+1852,Silchar Medical College and Hospital
+1853,Brighton Hospital
+1854,St. Luke's General Hospital
+1855,Aut Even Hospital
+1856,Mount Carmel Hospital
+1857,Leopardstown Park Hospital
+1858,North General Hospital
+1859,Community Regional Medical Center
+1860,Memorial Hospital of South Bend
+1861,Buena Vista Regional Medical Center
+1862,Mary Bird Perkins Cancer Center
+1863,Sister Elizabeth Maternity Hospital
+1864,Palms of Pasadena Hospital
+1865,Arbroath Infirmary
+1866,"Midland Regional Hospital, Portlaoise"
+1867,Cork University Hospital
+1868,"Midland Regional Hospital, Tullamore"
+1869,"Midland Regional Hospital, Mullingar"
+1870,St. Columcille's Hospital
+1871,National Kidney and Transplant Institute
+1872,"St. Anthony's Hospital (St. Petersburg, Florida)"
+1873,Queen Ingrid's Hospital
+1874,"St. Joseph Hospital (Fort Wayne, Indiana)"
+1875,Miriam Hospital
+1876,Durgabai Deshmukh Hospital
+1877,Poole Hospital
+1878,Korea University Medical Center
+1879,"Hospital of St Nicholas, Nantwich"
+1880,Hoag (health network)
+1881,"Christchurch Hospital, Dorset"
+1882,Royal Bournemouth Hospital
+1883,Helen & Douglas House Hospice for Children and Young Adults
+1884,Kugler Hospital
+1885,"Hospital of St Lawrence, Acton"
+1886,"West End Hospital, Kumasi"
+1887,Green Lane Hospital
+1888,"Mid-Western Regional Hospital, Ennis"
+1889,South Tipperary General Hospital
+1890,Cavan General Hospital
+1891,Mallow General Hospital
+1892,St. Mary's Orthopaedic Hospital
+1893,Gouverneur Hospital
+1894,Eleanor Slater Hospital
+1895,Landmark Medical Center
+1896,South County Hospital
+1897,"Bon Secours Hospital, Dublin"
+1898,Alfred I. duPont Hospital for Children
+1899,"Bon Secours Hospital, Cork"
+1900,Bantry General Hospital
+1901,Spaulding Rehabilitation Hospital Cape Cod
+1902,"Bon Secours Hospital, Galway"
+1903,"Bon Secours Hospital, Tralee"
+1904,Porter Medical Center
+1905,"St. Luke's Hospital, Rathgar"
+1906,Allentown State Hospital
+1907,Southwest Florida Regional Medical Center
+1908,Lexington Medical Center
+1909,Waterford Regional Hospital
+1910,University Teaching Hospital
+1911,Our Lady of Lourdes Hospital (Drogheda)
+1912,Miami Children's Hospital
+1913,57357 Hospital
+1914,Midwest Proton Radiotherapy Institute
+1915,Lourdes Orthopaedic Hospital
+1916,Portiuncula Hospital
+1917,Danviken Hospital
+1918,Royal London Hospital for Integrated Medicine
+1919,Carle Foundation Hospital
+1920,The Heart Hospital
+1921,The Park Centre for Mental Health
+1922,"St. Luke's Regional Medical Center (Sioux City, Iowa)"
+1923,Pilgrim Hospital
+1924,Beijing New Century International Hospital for Children
+1925,St. Mary's Regional Medical Center (Enid)
+1926,INTEGRIS Bass Baptist Health Center
+1927,Northern Carleton Hospital
+1928,Somerset Hospital (Cape Town)
+1929,San Juan Regional Medical Center
+1930,Midlothian Community Hospital
+1931,UAMS Medical Center
+1932,Saint Joseph's Hospital (Rhode Island)
+1933,CMU China-Japan Friendship Hospital
+1934,L. V. Prasad Eye Institute
+1935,The Medical City
+1936,Prince County Hospital
+1937,Hvidovre Hospital
+1938,Beijing University International Hospital
+1939,"St. Michael's Hospital, Linlithgow"
+1940,Ellen's Glen House
+1941,Central State Hospital (Virginia)
+1942,MedStar Good Samaritan Hospital
+1943,Fernandez Hospital
+1944,Community Medical Center (Montana)
+1945,Spotsylvania Regional Medical Center
+1946,PKU 3rd People's Hospital
+1947,Memorial Hospital of Rhode Island
+1948,St. Patrick Hospital and Health Sciences Center
+1949,University of Illinois Medical Center
+1950,Mignot Memorial Hospital
+1951,King's Health Partners
+1952,USC Norris Comprehensive Cancer Center
+1953,Rocky Mountain Poison and Drug Center
+1954,Stafford Hospital
+1955,Woodwinds Health Campus
+1956,Hospital of St John and St Elizabeth
+1957,"St. John's Hospital (Maplewood, Minnesota)"
+1958,St Audry's Hospital
+1959,Braemar Hospital
+1960,Saad Specialist Hospital
+1961,Rouge Valley Ajax and Pickering
+1962,McMaster University Medical Centre
+1963,Chedoke Hospital
+1964,Juravinski Hospital
+1965,Juravinski Cancer Centre
+1966,Hinchingbrooke Hospital
+1967,Shriners Hospital for Children (Galveston)
+1968,Hospital Punta Pacifica
+1969,Hospital Maciel
+1970,Hospital Pereira Rossell
+1971,British Hospital (Montevideo)
+1972,World Laparoscopy Hospital
+1973,Lutheran Medical Center
+1974,Willow Springs Center
+1975,"Specialty Hospital, Jordan"
+1976,Medina General Hospital
+1977,Souris Valley Mental Health Hospital
+1978,Virginia Mason Hospital
+1979,St. Elizabeth Hospital
+1980,Berkshire Medical Center
+1981,Rebecca Sealy Hospital
+1982,Baptist Memorial Hospital-Golden Triangle
+1983,Shriners Hospital for Children (Houston)
+1984,NEA Baptist Memorial Hospital
+1985,Baptist Hospital (Pensacola)
+1986,Shengavit Medical Center
+1987,Barwon Health
+1988,Almas Hospital
+1989,Hospital Sultan Haji Ahmad Shah
+1990,"St. Luke's Hospital (Maumee, Ohio)"
+1991,Pasqua Hospital
+1992,Parkway Novena Hospital
+1993,St John of God Subiaco Hospital
+1994,Georgia Health Sciences Medical Center
+1995,Providence Regional Medical Center Everett
+1996,Bellevue Medical Center
+1997,Dr. Kariadi Hospital
+1998,Namsos Hospital
+1999,Washington Adventist Hospital
+2000,Caitlin Raymond International Registry
+2001,Calmette Hospital
+2002,UMass Memorial Health Care
+2003,Taipei Medical University Hospital
+2004,Our Lady of Lourdes Medical Center
+2005,St. Mary's Hospital (Waterbury)
+2006,Greentrees Hospital
+2007,Herzliya Medical Center
+2008,University Hospital of Oran
+2009,Asian Heart Institute
+2010,Holy Spirit Hospital (Mumbai)
+2011,Tagaytay Hospital and Medical Center
+2012,Estrella Hospital
+2013,San Jose Hospital & Trauma Center
+2014,Milpark Hospital
+2015,UCH Macmillan Cancer Centre
+2016,Mills Memorial Hospital
+2017,"City hospital No 40, Saint Petersburg, Russia"
+2018,Campbellford Memorial Hospital
+2019,St. Brendan's Hospital (Grangegorman)
+2020,St. Brendan's Hospital (Castlebay)
+2021,Box Hill Hospital
+2022,Jessie McPherson Private Hospital
+2023,MonashHeart
+2024,TIRR Memorial Hermann
+2025,Tone Vale Hospital
+2026,Kent and Sussex Hospital
+2027,Lambeth Hospital
+2028,Saskatoon Sanatorium
+2029,Humboldt District Hospital
+2030,"Queen Elizabeth Hospital, Gateshead"
+2031,Western Maryland Regional Medical Center
+2032,Lincoln County Hospital
+2033,CTO Hospital (Turin)
+2034,Royal Waterloo Hospital for Children and Women
+2035,"Dr. H. Gordon Roberts Hospital, Shillong"
+2036,Al Assad University Hospital
+2037,Ignace Deen Hospital
+2038,Scripps Mercy Hospital
+2039,New Milford Hospital
+2040,Donka Hospital
+2041,Loma Linda University Occupational Medicine Center
+2042,Vermont State Hospital
+2043,Institut Gustave Roussy
+2044,Concord Hospital (New Hampshire)
+2045,Hospital Borda
+2046,Birkenhead General Hospital
+2047,C.S. Mott Children's Hospital
+2048,Lowestoft Hospital
+2049,Berufsgenossenschaftliche Kliniken Bergmannstrost Halle
+2050,"University Medical Center (Lubbock, Texas)"
+2051,OU Medicine
+2052,The American Heart Institute
+2053,Morton Plant North Bay Hospital
+2054,Mease Countryside Hospital
+2055,Mease Dunedin Hospital
+2056,St Petersburg Psychiatric Hospital of Specialized Type with Intense Observation
+2057,Dr George Mukhari Hospital
+2058,"Bethesda Hospital (Steinbach, Manitoba)"
+2059,International Medical Center
+2060,Torrance State Hospital
+2061,Lawrence Frick State Hospital
+2062,Somerset State Hospital
+2063,Niloufer Hospital
+2064,Riyadh Military Hospital
+2065,Dr. Ronald P. Guzman Medical Center
+2066,Devi Ma Kunja
+2067,Beamsley Hospital
+2068,York Hospital
+2069,Abington Memorial Hospital
+2070,OSF St. Joseph Medical Center
+2071,Bascom Palmer Eye Institute
+2072,"Mercy Medical Center (Springfield, Massachusetts)"
+2073,Lourdes Hospital (New York)
+2074,Sky Lakes Medical Center
+2075,Mount Auburn Hospital
+2076,Umrao Hospitals
+2077,Itojo Hospital
+2078,Presbyterian Orthopaedic Hospital
+2079,The 2nd Affiliated Hospital & Yuying Children's Hospital
+2080,Dong-A University Hospital
+2081,Agios Pavlos General Hospital
+2082,Government Nizamia General Hospital
+2083,The 1st Affiliated Hospital
+2084,Chinese General Hospital and Medical Center
+2085,Caton Merchant House
+2086,Kalongo Hospital
+2087,The Affiliated Eye Hospital
+2088,Masanga Hospital
+2089,Scunthorpe General Hospital
+2090,Maryvale Hospital
+2091,Phoenix Baptist Hospital & Medical Center
+2092,St Andrews Community Hospital
+2093,Allied Hospital
+2094,Stepping Hill Hospital
+2095,Dene Barton Community Hospital
+2096,Farooq Hospital
+2097,Forth Valley Royal Hospital
+2098,Yanhee Hospital
+2099,South Tyneside District Hospital
+2100,St. Dympna's Hospital
+2101,Franklin Regional Medical Center
+2102,ISMETT
+2103,Bridgepoint Health
+2104,Carteret General Hospital
+2105,Kitojo Hospital
+2106,Ishaka Adventist Hospital
+2107,Sydney Dental Hospital
+2108,Florida Hospital East
+2109,Nork-Marash Medical Center
+2110,Batticaloa Teaching Hospital
+2111,Trincomalee Hospital
+2112,Vavuniya Hospital
+2113,Mannar Hospital
+2114,Mullaitivu Hospital
+2115,Kilinochchi Hospital
+2116,Point Pedro Hospital
+2117,Tellippalai Hospital
+2118,Chavakachcheri Hospital
+2119,Kayts Hospital
+2120,Piedmont Henry Hospital
+2121,Ampara Hospital
+2122,Ashraff Memorial Hospital
+2123,Cheddikulam Hospital
+2124,Kalmunai North Hospital
+2125,Mallavi Hospital
+2126,Hatyai Hospital
+2127,King Hussein Medical Center
+2128,"St. Joseph's Medical Center (Yonkers, New York)"
+2129,Bethesda Hospital (Ambur)
+2130,Ancora Psychiatric Hospital
+2131,Jester IV Unit
+2132,"Queen of the Valley Medical Center (Napa, California)"
+2133,German Diabetes Center Mergentheim
+2134,Banadir Hospital
+2135,University Hospital of Lausanne
+2136,Seventh Day Adventist Hospital Ottapalam
+2137,Flagler Hospital
+2138,Boulder Community Hospital
+2139,Uganda Cancer Institute
+2140,Capitol University Medical City
+2141,Wyckoff Heights Medical Center
+2142,Vajira Hospital
+2143,Murphy Medical Center
+2144,John F. Kennedy Memorial Hospital
+2145,Matha Ayurveda Eye Hospital
+2146,Bacharach Institute for Rehabilitation
+2147,Driscoll Children's Hospital
+2148,Madras Institute of Orthopaedics and Traumatology
+2149,Bhabha Hospital
+2150,Helen Newberry Joy Hospital
+2151,Assaf HaRofeh Medical Center
+2152,"Christ Hospital (Jersey City, New Jersey)"
+2153,St John of God Hospital Sierra Leone
+2154,Maury Regional Medical Center
+2155,Indiana University Health Proton Therapy Center
+2156,Moncton Hospital
+2157,Dr. Georges-L.-Dumont University Hospital Centre
+2158,Barrow Neurological Institute
+2159,Lovering Colony State Hospital
+2160,Gujarat Cancer Research Institute
+2161,Istituto Giannina Gaslini
+2162,"Civil Hospital, Aizawl"
+2163,Tunbridge Wells Hospital
+2164,Eastern Health Alliance
+2165,AMRI Hospitals
+2166,Durdans Hospital
+2167,Kingseat Hospital
+2168,Hospital de Damas
+2169,Hospital Metropolitano Dr. Pila
+2170,Hospital Episcopal San Lucas
+2171,Indira Gandhi Co-operative Hospital
+2172,Burke Rehabilitation Hospital
+2173,Changi Hospital
+2174,Tuaran Hospital
+2175,Hawkmoor Hospital
+2176,Rehabilitation Trauma Center
+2177,"University College Hospital, Ibadan"
+2178,Miguel de Cervantes Health Care Centre
+2179,"St. Mary's Hospital, Burghill"
+2180,Peninsula Regional Medical Center
+2181,Naguru General Hospital
+2182,Aware Global Hospital
+2183,Florida Hospital Heartland Medical Center
+2184,Cape Breton Regional Hospital
+2185,Dr. Everett Chalmers Regional Hospital
+2186,Mpilo Hospital
+2187,Palo Verde Hospital
+2188,Peach Regional Medical Center
+2189,"General Hospital, Ernakulam"
+2190,Northside Hospital
+2191,St. Vincent's Medical Center Southside
+2192,Pacific Hospital of Long Beach
+2193,Waypoint Centre for Mental Health Care
+2194,N. S. Memorial Institute of Medical Sciences
+2195,Doctors Medical Center San Pablo Campus
+2196,Seton Medical Center
+2197,Sonoma Valley Hospital
+2198,Nanjing General Hospital of Nanjing Military Command
+2199,Karanda Mission Hospital
+2200,North Okkalapa General Hospital
+2201,"Good Samaritan Medical Center (West Palm Beach, Florida)"
+2202,Nebraska Orthopaedic Hospital
+2203,Jordan Hospital (Jordan)
+2204,Highlands Regional Medical Center (Sebring)
+2205,Arab Medical Center
+2206,Floreasca Hospital
+2207,Arad County Clinical Hospital
+2208,UBH Denton
+2209,Indu and Raj Soin Medical Center
+2210,Pakistan Institute of Medical Sciences
+2211,Florida Hospital Lake Placid
+2212,Oakland Medical Center
+2213,University Hospitals of the Ruhr-University of Bochum
+2214,Park City Medical Center
+2215,"Ford's Hospital, Coventry"
+2216,Downey Regional Medical Center
+2217,Lachine Hospital
+2218,Saskatchewan Hospital
+2219,Lloydminster Hospital
+2220,Mischer Neuroscience Institute
+2221,Provena St. Mary's Hospital
+2222,Health Central
+2223,Anandalok Hospital
+2224,Capricorn Coast Hospital
+2225,Hospital Domingo Funes
+2226,Spanish Town Hospital
+2227,Wilkes Regional Medical Center
+2228,Roscommon County Hospital
+2229,Sacred Heart Hospital (Roscommon)
+2230,Abu Dhabi Falcon Hospital
+2231,Modern Cancer Hospital Guangzhou
+2232,Alvin J. Siteman Cancer Center
+2233,Western Missouri Medical Center
+2234,Indian Hospital (Fort Qu'Appelle)
+2235,"Good Samaritan Hospital Medical Center (West Islip, New York)"
+2236,Priory Hospital
+2237,Sir Sunderlal Hospital
+2238,"Holy Family Hospital, Mumbai"
+2239,King Edward VII's Hospital Sister Agnes
+2240,Bronx-Lebanon Hospital Center
+2241,Lurie Children's Hospital
+2242,Baylor Teen Health Clinic
+2243,Winter Haven Hospital
+2244,Davao Doctors Hospital
+2245,Garfield Medical Center
+2246,Napa State Hospital
+2247,Lake Taylor Transitional Care Hospital
+2248,Royal Masonic Hospital
+2249,Haikou City People's Hospital
+2250,St Barnabas Hospital
+2251,Murambinda Mission Hospital
+2252,Martin University Hospital
+2253,"St. Bartholomew's Hospital, Rochester"
+2254,Bon Secours DePaul Medical Center
+2255,COMU Hospital
+2256,German Center for Pediatric and Adolescent Rheumatology
+2257,Al Khalidi Medical Center
+2258,Durtlang Hospital
+2259,Christian Hospital Serkawn
+2260,Parker Adventist Hospital
+2261,Oulu University Hospital
+2262,PeaceHealth Southwest Medical Center
+2263,Vasan Healthcare
+2264,University Teaching Hospital of Yaounde
+2265,Birmingham General Hospital
+2266,Russian Ilizarov Scientific Center for Restorative Traumatology and Orthopaedics
+2267,Government E. N. T. Hospital
+2268,Institute of Mental Health (Erragadda)
+2269,Whakatane Hospital
+2270,Middletown State Homeopathic Hospital
+2271,Overlake Hospital Medical Center
+2272,Ysbyty Ystrad Fawr
+2273,Llanfrechfa Grange Hospital
+2274,Maindiff Court Hospital
+2275,Blaina & District Hospital
+2276,Pen-y-Fal Hospital
+2277,Gessler Clinic
+2278,Royal Naval Hospital Gibraltar
+2279,University Malaya Medical Centre
+2280,International Islamic University Malaysia Kulliyyah of Medicine
+2281,Universiti Sains Malaysia School of Medical Science
+2282,Naomi House Children's Hospice
+2283,Watford General Hospital
+2284,Cambridge University Health Partners
+2285,Bond Clinic
+2286,Deaconess Medical Center
+2287,Logan Hospital
+2288,Conquest Hospital
+2289,Toa Payoh Hospital
+2290,Health Science Scotland
+2291,INTEGRIS Southwest Medical Center
+2292,Stoke Park Hospital
+2293,Samaritan's Touch Care Center
+2294,Al-Salam Hospital
+2295,"Oasis Hospital, Al Ain"
+2296,Riordan Clinic
+2297,Cheltenham General Hospital
+2298,Children's of Alabama
+2299,Biratnagar Eye Hospital
+2300,Mercy Medical Center Merced
+2301,Tamil Nadu legislative assembly-secretariat complex
+2302,Mid Coast Hospital
+2303,Children's Memorial Health Institute
+2304,Cowal Community Hospital
+2305,Erie County Medical Center
+2306,DHQ Hospital Mirpur
+2307,South Okanagan General Hospital
+2308,King Abdulaziz Medical City
+2309,Kerry General Hospital
+2310,Olean General Hospital
+2311,Tamale Teaching Hospital
+2312,The Nazareth Hospital
+2313,Victoria Hospital (Alice)
+2314,Frere Hospital
+2315,Cecilia Makiwane Hospital
+2316,Dora Nginza Hospital
+2317,Livingstone Hospital
+2318,Port Elizabeth Provincial Hospital
+2319,Butterworth Hospital (Eastern Cape)
+2320,Burgersdorp Provincial Hospital
+2321,Steynsburg Provincial Hospital
+2322,Cloete Joubert Hospital
+2323,Aliwal North Hospital
+2324,Cathcart Provincial Hospital
+2325,Empilisweni District Hospital
+2326,Fort Beaufort Hospital
+2327,Tower Psychiatric Hospital
+2328,Andries Vosloo Hospital
+2329,Lady Grey Hospital
+2330,St Francis (TB) Hospital
+2331,Tayler Bequest Hospital (Mount Fletcher)
+2332,Stutterheim Provincial Hospital
+2333,Cradock Provincial Hospital
+2334,Aberdeen Provincial Hospital (Eastern Cape)
+2335,Vernon Jubilee Hospital
+2336,Adelaide Provincial Hospital (Eastern Cape)
+2337,Mthatha General Hospital
+2338,Nelson Mandela Academic Hospital
+2339,Penticton Regional Hospital
+2340,Central Maine Medical Center
+2341,Fort Grey TB Hospital
+2342,Nkqubela Chest Hospital
+2343,Jose Pearson TB Hospital
+2344,Duncan Village Day Hospital
+2345,Elizabeth Donkin Hospital
+2346,Fort England Psychiatric Hospital
+2347,Bedford Provincial Hospital (Eastern Cape)
+2348,B.J. Vorster Hospital
+2349,Bhisho Provincial Hospital
+2350,All Saints Hospital
+2351,Cala Provincial Hospital
+2352,Cofimvaba Hospital
+2353,Desun Hospital & Heart Institute
+2354,Dr Maliso Mphele Hospital
+2355,Bambisana Hospital
+2356,St Lucy's Hospital
+2357,Canzibe Hospital
+2358,St Elizabeth Mission Hospital
+2359,Madwaleni Hospital
+2360,Hewu Hospital
+2361,Sterkstroom Provincial Hospital
+2362,Maclear Hospital
+2363,S.S. Gida Hospital
+2364,Jamestown Hospital
+2365,Frontier Hospital
+2366,Grey Provincial Hospital
+2367,Glen Grey Provincial Hospital
+2368,Elliot Provincial Hospital
+2369,San Joaquin General Hospital
+2370,Thomas Embling Hospital
+2371,Bedford Orthopedic Hospital
+2372,Settlers Hospital
+2373,Tafalofefe Hospital
+2374,Zithulele Hospital
+2375,P.Z. Meyer Hospital
+2376,Wilhelm Stahl Provincial Hospital
+2377,Nompumelelo Hospital
+2378,Midlands Provincial Hospital
+2379,Ajman Specialty General Hospital
+2380,Worcester Recovery Center and Hospital
+2381,Pine Bluff State Hospital
+2382,Gracie Square Hospital
+2383,Eastern Maine Medical Center
+2384,Monash Children's Hospital
+2385,Kantonsspital St. Gallen
+2386,Medicine Hat Regional Hospital
+2387,Swanbourne Hospital
+2388,Yakima Valley Memorial Hospital
+2389,Bassano Health Centre
+2390,Graylands Hospital
+2391,Swan District Hospital
+2392,Logan Regional Hospital
+2393,Silverton Hospital
+2394,Whitecourt Healthcare Centre
+2395,Hinton Healthcare Centre
+2396,Sackville Memorial Hospital
+2397,Athabasca Healthcare Centre
+2398,Surgimed Hospital
+2399,Our Lady of Fatima Hospital
+2400,Westerly Hospital
+2401,Bradley Hospital
+2402,Providence VA Medical Center
+2403,Oakland Grove Health Care Center
+2404,Whitby Falls Hospital
+2405,Rockingham General Hospital
+2406,Brooks Health Centre
+2407,Canmore General Hospital
+2408,Thai Nguyen Central General Hospital
+2409,Red Deer Regional Hospital
+2410,Cleveland Clinic Abu Dhabi
+2411,Clatterbridge Hospital
+2412,Arrowe Park Hospital
+2413,Altoona Regional Hospital
+2414,Bangur Institute of Neurosciences
+2415,Eastern State Hospital (Kentucky)
+2416,Nanakaly Hospital for Hematology & Oncology
+2417,Lake Wales Medical Center
+2418,"Government Hospital of Thoracic Medicine, Chennai"
+2419,Taipei Veterans General Hospital
+2420,Health City Cayman Islands
+2421,Clinica Alemana de Santiago
+2422,NTT Medical Center Tokyo
+2423,Umlamli Hospital

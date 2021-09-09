@@ -1,0 +1,1 @@
+from .autofj import AutoFJ

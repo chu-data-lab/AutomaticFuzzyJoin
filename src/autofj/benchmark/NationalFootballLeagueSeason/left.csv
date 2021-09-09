@@ -1,0 +1,3004 @@
+id,title
+0,Montreal Machine
+1,New York/New Jersey Knights
+2,San Antonio Riders
+3,Sacramento Surge
+4,Steagles
+5,1997 Denver Broncos season
+6,1998 Denver Broncos season
+7,1986 Denver Broncos season
+8,2005 Denver Broncos season
+9,Card-Pitt
+10,2005 Seattle Seahawks season
+11,2006 Miami Dolphins season
+12,2006 Pittsburgh Steelers season
+13,2006 San Diego Chargers season
+14,2006 Oakland Raiders season
+15,2006 Washington Redskins season
+16,2006 Minnesota Vikings season
+17,2006 Philadelphia Eagles season
+18,2006 Houston Texans season
+19,2006 Seattle Seahawks season
+20,2006 Detroit Lions season
+21,2006 New Orleans Saints season
+22,2006 Cleveland Browns season
+23,2006 Atlanta Falcons season
+24,2006 Carolina Panthers season
+25,2006 New York Jets season
+26,2006 Tennessee Titans season
+27,2006 Baltimore Ravens season
+28,2006 Tampa Bay Buccaneers season
+29,2006 Denver Broncos season
+30,2006 St. Louis Rams season
+31,2006 Buffalo Bills season
+32,2006 New England Patriots season
+33,2006 Cincinnati Bengals season
+34,2006 Kansas City Chiefs season
+35,2006 Dallas Cowboys season
+36,2006 Jacksonville Jaguars season
+37,2006 Chicago Bears season
+38,2006 Green Bay Packers season
+39,2006 San Francisco 49ers season
+40,2006 Arizona Cardinals season
+41,2006 Indianapolis Colts season
+42,2006 New York Giants season
+43,2004 New York Jets season
+44,2005 Green Bay Packers season
+45,2004 Green Bay Packers season
+46,2005 Chicago Bears season
+47,1986 Atlanta Falcons season
+48,1996 New York Jets season
+49,2003 Green Bay Packers season
+50,2005 Dallas Cowboys season
+51,2005 Indianapolis Colts season
+52,1996 Green Bay Packers season
+53,2004 Indianapolis Colts season
+54,1989 Green Bay Packers season
+55,1966 Green Bay Packers season
+56,1967 Green Bay Packers season
+57,2003 Indianapolis Colts season
+58,2004 Philadelphia Eagles season
+59,2007 Indianapolis Colts season
+60,1969 Kansas City Chiefs season
+61,1993 Kansas City Chiefs season
+62,2003 Kansas City Chiefs season
+63,1963 Kansas City Chiefs season
+64,1977 Kansas City Chiefs season
+65,1960 Dallas Texans season
+66,2005 Kansas City Chiefs season
+67,2007 Kansas City Chiefs season
+68,2004 Chicago Bears season
+69,1963 Chicago Bears season
+70,1985 Chicago Bears season
+71,1920 Decatur Staleys season
+72,1921 Chicago Staleys season
+73,1922 Chicago Bears season
+74,1923 Chicago Bears season
+75,1924 Chicago Bears season
+76,1925 Chicago Bears season
+77,1926 Chicago Bears season
+78,1928 Chicago Bears season
+79,1927 Chicago Bears season
+80,1929 Chicago Bears season
+81,1931 Chicago Bears season
+82,1930 Chicago Bears season
+83,1932 Chicago Bears season
+84,1994 Chicago Bears season
+85,1993 Chicago Bears season
+86,1995 Chicago Bears season
+87,1996 Chicago Bears season
+88,1997 Chicago Bears season
+89,1998 Chicago Bears season
+90,1999 Chicago Bears season
+91,2000 Chicago Bears season
+92,2001 Chicago Bears season
+93,2003 Chicago Bears season
+94,2002 Chicago Bears season
+95,1940 Chicago Bears season
+96,1941 Chicago Bears season
+97,1942 Chicago Bears season
+98,1943 Chicago Bears season
+99,1944 Chicago Bears season
+100,1945 Chicago Bears season
+101,1946 Chicago Bears season
+102,1948 Chicago Bears season
+103,1947 Chicago Bears season
+104,1949 Chicago Bears season
+105,1950 Chicago Bears season
+106,1951 Chicago Bears season
+107,1952 Chicago Bears season
+108,1954 Chicago Bears season
+109,1953 Chicago Bears season
+110,1955 Chicago Bears season
+111,1961 Chicago Bears season
+112,1956 Chicago Bears season
+113,1957 Chicago Bears season
+114,1958 Chicago Bears season
+115,1960 Chicago Bears season
+116,1959 Chicago Bears season
+117,1933 Chicago Bears season
+118,1934 Chicago Bears season
+119,1935 Chicago Bears season
+120,1936 Chicago Bears season
+121,1937 Chicago Bears season
+122,1938 Chicago Bears season
+123,1939 Chicago Bears season
+124,1962 Chicago Bears season
+125,1965 Chicago Bears season
+126,1964 Chicago Bears season
+127,1966 Chicago Bears season
+128,1967 Chicago Bears season
+129,1968 Chicago Bears season
+130,1969 Chicago Bears season
+131,1970 Chicago Bears season
+132,1972 Chicago Bears season
+133,1971 Chicago Bears season
+134,1973 Chicago Bears season
+135,1975 Chicago Bears season
+136,1976 Chicago Bears season
+137,1974 Chicago Bears season
+138,1983 Chicago Bears season
+139,1978 Chicago Bears season
+140,1979 Chicago Bears season
+141,1977 Chicago Bears season
+142,1981 Chicago Bears season
+143,1982 Chicago Bears season
+144,1980 Chicago Bears season
+145,1987 Chicago Bears season
+146,1984 Chicago Bears season
+147,1988 Chicago Bears season
+148,1986 Chicago Bears season
+149,1990 Chicago Bears season
+150,1989 Chicago Bears season
+151,1991 Chicago Bears season
+152,1992 Chicago Bears season
+153,2007 Seattle Seahawks season
+154,1962 Dallas Texans season
+155,2007 Chicago Bears season
+156,2007 Oakland Raiders season
+157,1960 Oakland Raiders season
+158,1967 Oakland Raiders season
+159,2007 Philadelphia Eagles season
+160,2007 Cleveland Browns season
+161,2007 Green Bay Packers season
+162,1968 New York Jets season
+163,2002 Green Bay Packers season
+164,2001 Green Bay Packers season
+165,2000 Green Bay Packers season
+166,1999 Green Bay Packers season
+167,1998 New York Jets season
+168,1998 Green Bay Packers season
+169,1997 Green Bay Packers season
+170,1995 Green Bay Packers season
+171,1994 Green Bay Packers season
+172,1993 Green Bay Packers season
+173,1998 Minnesota Vikings season
+174,1999 Minnesota Vikings season
+175,2000 Minnesota Vikings season
+176,2001 Minnesota Vikings season
+177,2002 Minnesota Vikings season
+178,2003 Minnesota Vikings season
+179,2004 Minnesota Vikings season
+180,2005 Minnesota Vikings season
+181,2007 Minnesota Vikings season
+182,2007 Miami Dolphins season
+183,2002 Indianapolis Colts season
+184,2007 Houston Texans season
+185,2007 Washington Redskins season
+186,2007 Atlanta Falcons season
+187,2007 Dallas Cowboys season
+188,2007 New York Giants season
+189,2007 New England Patriots season
+190,2007 Arizona Cardinals season
+191,2007 San Diego Chargers season
+192,2007 New York Jets season
+193,2007 Tampa Bay Buccaneers season
+194,2007 Buffalo Bills season
+195,2007 New Orleans Saints season
+196,2007 San Francisco 49ers season
+197,2007 St. Louis Rams season
+198,2007 Denver Broncos season
+199,2007 Detroit Lions season
+200,2007 Pittsburgh Steelers season
+201,2007 Cincinnati Bengals season
+202,2007 Carolina Panthers season
+203,2007 Baltimore Ravens season
+204,2007 Jacksonville Jaguars season
+205,2007 Tennessee Titans season
+206,2005 Philadelphia Eagles season
+207,1961 Minnesota Vikings season
+208,1962 Minnesota Vikings season
+209,1963 Minnesota Vikings season
+210,1965 Minnesota Vikings season
+211,1964 Minnesota Vikings season
+212,1966 Minnesota Vikings season
+213,1967 Minnesota Vikings season
+214,1968 Minnesota Vikings season
+215,1969 Minnesota Vikings season
+216,1970 Minnesota Vikings season
+217,1971 Minnesota Vikings season
+218,1972 Minnesota Vikings season
+219,1973 Minnesota Vikings season
+220,1974 Minnesota Vikings season
+221,1975 Minnesota Vikings season
+222,1976 Minnesota Vikings season
+223,1978 Minnesota Vikings season
+224,1977 Minnesota Vikings season
+225,1979 Minnesota Vikings season
+226,1980 Minnesota Vikings season
+227,1981 Minnesota Vikings season
+228,1982 Minnesota Vikings season
+229,1983 Minnesota Vikings season
+230,1984 Minnesota Vikings season
+231,1985 Minnesota Vikings season
+232,1986 Minnesota Vikings season
+233,1988 Minnesota Vikings season
+234,1989 Minnesota Vikings season
+235,1987 Minnesota Vikings season
+236,1990 Minnesota Vikings season
+237,1991 Minnesota Vikings season
+238,1993 Minnesota Vikings season
+239,1992 Minnesota Vikings season
+240,1994 Minnesota Vikings season
+241,1996 Minnesota Vikings season
+242,1995 Minnesota Vikings season
+243,1997 Minnesota Vikings season
+244,2006 Amsterdam Admirals season
+245,2007 Amsterdam Admirals season
+246,2007 Spokane Shock season
+247,1960 Boston Patriots season
+248,1961 Boston Patriots season
+249,1962 Boston Patriots season
+250,1963 Boston Patriots season
+251,1964 Boston Patriots season
+252,1965 Boston Patriots season
+253,1966 Boston Patriots season
+254,1967 Boston Patriots season
+255,1968 Boston Patriots season
+256,1969 Boston Patriots season
+257,1970 Boston Patriots season
+258,1971 New England Patriots season
+259,1972 New England Patriots season
+260,1973 New England Patriots season
+261,1974 New England Patriots season
+262,1975 New England Patriots season
+263,1976 New England Patriots season
+264,1977 New England Patriots season
+265,1978 New England Patriots season
+266,1979 New England Patriots season
+267,1981 New England Patriots season
+268,1980 New England Patriots season
+269,1982 New England Patriots season
+270,1983 New England Patriots season
+271,1984 New England Patriots season
+272,1985 New England Patriots season
+273,1986 New England Patriots season
+274,1987 New England Patriots season
+275,1999 Cleveland Browns season
+276,1949 Cleveland Browns season
+277,1948 Cleveland Browns season
+278,1946 Cleveland Browns season
+279,1947 Cleveland Browns season
+280,1950 Cleveland Browns season
+281,1951 Cleveland Browns season
+282,1952 Cleveland Browns season
+283,1953 Cleveland Browns season
+284,1954 Cleveland Browns season
+285,1990 Cleveland Browns season
+286,1991 Cleveland Browns season
+287,1992 Cleveland Browns season
+288,1993 Cleveland Browns season
+289,1994 Cleveland Browns season
+290,1995 Cleveland Browns season
+291,1981 Cleveland Browns season
+292,1982 Cleveland Browns season
+293,1983 Cleveland Browns season
+294,1984 Cleveland Browns season
+295,1985 Cleveland Browns season
+296,1986 Cleveland Browns season
+297,1988 Cleveland Browns season
+298,1987 Cleveland Browns season
+299,1989 Cleveland Browns season
+300,1970 Cleveland Browns season
+301,1971 Cleveland Browns season
+302,1972 Cleveland Browns season
+303,1973 Cleveland Browns season
+304,1974 Cleveland Browns season
+305,1975 Cleveland Browns season
+306,1976 Cleveland Browns season
+307,1977 Cleveland Browns season
+308,1978 Cleveland Browns season
+309,1979 Cleveland Browns season
+310,1980 Cleveland Browns season
+311,1955 Cleveland Browns season
+312,1956 Cleveland Browns season
+313,1957 Cleveland Browns season
+314,1958 Cleveland Browns season
+315,1959 Cleveland Browns season
+316,1960 Cleveland Browns season
+317,1961 Cleveland Browns season
+318,1962 Cleveland Browns season
+319,1963 Cleveland Browns season
+320,1964 Cleveland Browns season
+321,1965 Cleveland Browns season
+322,1966 Cleveland Browns season
+323,1967 Cleveland Browns season
+324,1968 Cleveland Browns season
+325,1969 Cleveland Browns season
+326,2000 Cleveland Browns season
+327,2001 Cleveland Browns season
+328,2002 Cleveland Browns season
+329,2003 Cleveland Browns season
+330,2004 Cleveland Browns season
+331,2005 Cleveland Browns season
+332,2005 St. Louis Rams season
+333,2004 St. Louis Rams season
+334,2003 St. Louis Rams season
+335,2002 St. Louis Rams season
+336,2001 St. Louis Rams season
+337,2000 St. Louis Rams season
+338,1999 St. Louis Rams season
+339,1988 New England Patriots season
+340,1989 New England Patriots season
+341,1990 New England Patriots season
+342,1991 New England Patriots season
+343,1992 New England Patriots season
+344,1993 New England Patriots season
+345,1994 New England Patriots season
+346,1995 New England Patriots season
+347,1996 New England Patriots season
+348,1997 New England Patriots season
+349,1998 St. Louis Rams season
+350,1997 St. Louis Rams season
+351,1996 St. Louis Rams season
+352,1995 St. Louis Rams season
+353,1998 New England Patriots season
+354,1999 New England Patriots season
+355,2000 New England Patriots season
+356,2002 New England Patriots season
+357,2001 New England Patriots season
+358,2003 New England Patriots season
+359,2004 New England Patriots season
+360,2005 New England Patriots season
+361,1960 New York Titans season
+362,1961 New York Titans season
+363,1962 New York Titans season
+364,1999 New York Jets season
+365,2000 New York Jets season
+366,2001 New York Jets season
+367,2002 New York Jets season
+368,2003 New York Jets season
+369,2005 New York Jets season
+370,1997 New York Jets season
+371,1995 New York Jets season
+372,1994 New York Jets season
+373,2005 New York Giants season
+374,1993 New York Jets season
+375,2008 Washington Redskins season
+376,2004 Kansas City Chiefs season
+377,2002 Kansas City Chiefs season
+378,2001 Kansas City Chiefs season
+379,2000 Kansas City Chiefs season
+380,1999 Kansas City Chiefs season
+381,1998 Kansas City Chiefs season
+382,1997 Kansas City Chiefs season
+383,1996 Kansas City Chiefs season
+384,1995 Kansas City Chiefs season
+385,1994 Kansas City Chiefs season
+386,1992 Kansas City Chiefs season
+387,1991 Kansas City Chiefs season
+388,1990 Kansas City Chiefs season
+389,1989 Kansas City Chiefs season
+390,1994 Los Angeles Rams season
+391,1993 Los Angeles Rams season
+392,1992 Los Angeles Rams season
+393,1990 Los Angeles Rams season
+394,1991 Los Angeles Rams season
+395,1989 Los Angeles Rams season
+396,1988 Los Angeles Rams season
+397,1987 Los Angeles Rams season
+398,1986 Los Angeles Rams season
+399,1985 Los Angeles Rams season
+400,1984 Los Angeles Rams season
+401,1983 Los Angeles Rams season
+402,1982 Los Angeles Rams season
+403,1981 Los Angeles Rams season
+404,1980 Los Angeles Rams season
+405,1979 Los Angeles Rams season
+406,1978 Los Angeles Rams season
+407,1977 Los Angeles Rams season
+408,1976 Los Angeles Rams season
+409,1975 Los Angeles Rams season
+410,1974 Los Angeles Rams season
+411,1973 Los Angeles Rams season
+412,1972 Los Angeles Rams season
+413,1971 Los Angeles Rams season
+414,1970 Los Angeles Rams season
+415,1969 Los Angeles Rams season
+416,1968 Los Angeles Rams season
+417,1967 Los Angeles Rams season
+418,1966 Los Angeles Rams season
+419,1965 Los Angeles Rams season
+420,1964 Los Angeles Rams season
+421,1963 Los Angeles Rams season
+422,1962 Los Angeles Rams season
+423,1961 Los Angeles Rams season
+424,1960 Los Angeles Rams season
+425,1959 Los Angeles Rams season
+426,1958 Los Angeles Rams season
+427,1957 Los Angeles Rams season
+428,1956 Los Angeles Rams season
+429,1955 Los Angeles Rams season
+430,1954 Los Angeles Rams season
+431,1953 Los Angeles Rams season
+432,1952 Los Angeles Rams season
+433,1950 Los Angeles Rams season
+434,1951 Los Angeles Rams season
+435,1949 Los Angeles Rams season
+436,1948 Los Angeles Rams season
+437,1947 Los Angeles Rams season
+438,1946 Los Angeles Rams season
+439,1945 Cleveland Rams season
+440,1944 Cleveland Rams season
+441,1942 Cleveland Rams season
+442,1941 Cleveland Rams season
+443,1940 Cleveland Rams season
+444,1939 Cleveland Rams season
+445,1938 Cleveland Rams season
+446,1937 Cleveland Rams season
+447,1936 Cleveland Rams season
+448,1992 New York Jets season
+449,1991 New York Jets season
+450,1990 New York Jets season
+451,1989 New York Jets season
+452,1988 New York Jets season
+453,1987 New York Jets season
+454,1986 New York Jets season
+455,1986 New York Giants season
+456,2004 Dallas Cowboys season
+457,2003 Dallas Cowboys season
+458,2002 Dallas Cowboys season
+459,2000 Dallas Cowboys season
+460,1999 Dallas Cowboys season
+461,1998 Dallas Cowboys season
+462,1997 Dallas Cowboys season
+463,1996 Dallas Cowboys season
+464,1995 Dallas Cowboys season
+465,1994 Dallas Cowboys season
+466,1993 Dallas Cowboys season
+467,1991 Dallas Cowboys season
+468,1990 Dallas Cowboys season
+469,1989 Dallas Cowboys season
+470,1992 Dallas Cowboys season
+471,1988 Dallas Cowboys season
+472,1987 Dallas Cowboys season
+473,1986 Dallas Cowboys season
+474,1985 Dallas Cowboys season
+475,1984 Dallas Cowboys season
+476,1983 Dallas Cowboys season
+477,1982 Dallas Cowboys season
+478,2005 Tampa Bay Buccaneers season
+479,2004 Tampa Bay Buccaneers season
+480,2003 Tampa Bay Buccaneers season
+481,2002 Tampa Bay Buccaneers season
+482,2001 Tampa Bay Buccaneers season
+483,2000 Tampa Bay Buccaneers season
+484,1990 New York Giants season
+485,1999 Tampa Bay Buccaneers season
+486,1998 Tampa Bay Buccaneers season
+487,1997 Tampa Bay Buccaneers season
+488,1976 Tampa Bay Buccaneers season
+489,1977 Tampa Bay Buccaneers season
+490,1978 Tampa Bay Buccaneers season
+491,1979 Tampa Bay Buccaneers season
+492,2000 Baltimore Ravens season
+493,1980 Tampa Bay Buccaneers season
+494,1981 Tampa Bay Buccaneers season
+495,1982 Tampa Bay Buccaneers season
+496,1983 Tampa Bay Buccaneers season
+497,1984 Tampa Bay Buccaneers season
+498,1996 Tampa Bay Buccaneers season
+499,1995 Tampa Bay Buccaneers season
+500,1985 Tampa Bay Buccaneers season
+501,1986 Tampa Bay Buccaneers season
+502,1987 Tampa Bay Buccaneers season
+503,1994 Tampa Bay Buccaneers season
+504,1993 Tampa Bay Buccaneers season
+505,1988 Tampa Bay Buccaneers season
+506,1992 Tampa Bay Buccaneers season
+507,1989 Tampa Bay Buccaneers season
+508,1990 Tampa Bay Buccaneers season
+509,1991 Tampa Bay Buccaneers season
+510,2007 Tampa Bay Storm season
+511,2007 Georgia Force season
+512,2006 Georgia Force season
+513,2007 Austin Wranglers season
+514,2006 Austin Wranglers season
+515,2007 New Orleans VooDoo season
+516,2007 Orlando Predators season
+517,2007 Columbus Destroyers season
+518,2007 Dallas Desperados season
+519,2007 Philadelphia Soul season
+520,2007 New York Dragons season
+521,2007 Chicago Rush season
+522,2007 Kansas City Brigade season
+523,2007 Colorado Crush season
+524,2007 Nashville Kats season
+525,2007 Grand Rapids Rampage season
+526,2007 San Jose SaberCats season
+527,2007 Los Angeles Avengers season
+528,2007 Utah Blaze season
+529,2006 Utah Blaze season
+530,2007 Arizona Rattlers season
+531,2007 Las Vegas Gladiators season
+532,1966 Kansas City Chiefs season
+533,1961 Dallas Texans season
+534,2006 Tampa Bay Storm season
+535,2006 Philadelphia Soul season
+536,2005 Philadelphia Soul season
+537,2004 Philadelphia Soul season
+538,2007 Toronto Argonauts season
+539,1987 Pittsburgh Gladiators season
+540,1987 Denver Dynamite season
+541,1987 Washington Commandos season
+542,1987 Chicago Bruisers season
+543,2006 Kansas City Brigade season
+544,2006 Columbus Destroyers season
+545,2006 Chicago Rush season
+546,2006 Orlando Predators season
+547,2007 BC Lions season
+548,2006 Las Vegas Gladiators season
+549,2005 Las Vegas Gladiators season
+550,2004 Las Vegas Gladiators season
+551,2003 Las Vegas Gladiators season
+552,2007 Philadelphia Barrage season
+553,2006 Philadelphia Barrage season
+554,2005 Philadelphia Barrage season
+555,2004 Philadelphia Barrage season
+556,2003 Bridgeport Barrage season
+557,1950 San Francisco 49ers season
+558,1951 San Francisco 49ers season
+559,2006 New York Dragons season
+560,1952 San Francisco 49ers season
+561,2002 Bridgeport Barrage season
+562,2001 Bridgeport Barrage season
+563,1991 New Orleans Night season
+564,1992 New Orleans Night season
+565,1953 San Francisco 49ers season
+566,2005 Washington Redskins season
+567,1976 Oakland Raiders season
+568,2007 Calgary Stampeders season
+569,1971 Kansas City Chiefs season
+570,1980 Oakland Raiders season
+571,1983 Los Angeles Raiders season
+572,1982 Los Angeles Raiders season
+573,1981 Oakland Raiders season
+574,1994 Los Angeles Raiders season
+575,1995 Oakland Raiders season
+576,1964 Kansas City Chiefs season
+577,1965 Kansas City Chiefs season
+578,1967 Kansas City Chiefs season
+579,1968 Kansas City Chiefs season
+580,1970 Kansas City Chiefs season
+581,1972 Kansas City Chiefs season
+582,1973 Kansas City Chiefs season
+583,1974 Kansas City Chiefs season
+584,1975 Kansas City Chiefs season
+585,1976 Kansas City Chiefs season
+586,1978 Kansas City Chiefs season
+587,1979 Kansas City Chiefs season
+588,1981 Kansas City Chiefs season
+589,1980 Kansas City Chiefs season
+590,1982 Kansas City Chiefs season
+591,1983 Kansas City Chiefs season
+592,1984 Kansas City Chiefs season
+593,1985 Kansas City Chiefs season
+594,1986 Kansas City Chiefs season
+595,1987 Kansas City Chiefs season
+596,1988 Kansas City Chiefs season
+597,1961 Oakland Raiders season
+598,1962 Oakland Raiders season
+599,1963 Oakland Raiders season
+600,1964 Oakland Raiders season
+601,1965 Oakland Raiders season
+602,1966 Oakland Raiders season
+603,1968 Oakland Raiders season
+604,1969 Oakland Raiders season
+605,2008 Denver Broncos season
+606,1979 Pittsburgh Steelers season
+607,1982 Washington Redskins season
+608,2004 Seattle Seahawks season
+609,2003 Seattle Seahawks season
+610,2002 Seattle Seahawks season
+611,2001 Seattle Seahawks season
+612,2000 Seattle Seahawks season
+613,1999 Seattle Seahawks season
+614,1998 Seattle Seahawks season
+615,1997 Seattle Seahawks season
+616,1996 Seattle Seahawks season
+617,1995 Seattle Seahawks season
+618,1994 Seattle Seahawks season
+619,1993 Seattle Seahawks season
+620,1992 Seattle Seahawks season
+621,1990 Seattle Seahawks season
+622,1991 Seattle Seahawks season
+623,1989 Seattle Seahawks season
+624,1988 Seattle Seahawks season
+625,1986 Seattle Seahawks season
+626,1985 Seattle Seahawks season
+627,1987 Seattle Seahawks season
+628,1984 Seattle Seahawks season
+629,1983 Seattle Seahawks season
+630,1982 Seattle Seahawks season
+631,1981 Seattle Seahawks season
+632,1980 Seattle Seahawks season
+633,1979 Seattle Seahawks season
+634,1978 Seattle Seahawks season
+635,1977 Seattle Seahawks season
+636,1976 Seattle Seahawks season
+637,1946 Miami Seahawks season
+638,1985 New York Jets season
+639,1984 New York Jets season
+640,1983 New York Jets season
+641,1982 New York Jets season
+642,1981 New York Jets season
+643,1980 New York Jets season
+644,1979 New York Jets season
+645,1991 Washington Redskins season
+646,1978 New York Jets season
+647,1977 New York Jets season
+648,1976 New York Jets season
+649,1975 New York Jets season
+650,1974 New York Jets season
+651,1973 New York Jets season
+652,1972 New York Jets season
+653,1971 New York Jets season
+654,1970 New York Jets season
+655,2008 St. Louis Rams season
+656,1969 New York Jets season
+657,1967 New York Jets season
+658,1966 New York Jets season
+659,1965 New York Jets season
+660,1964 New York Jets season
+661,1963 New York Jets season
+662,2008 Kansas City Brigade season
+663,2003 Carolina Panthers season
+664,2004 Carolina Panthers season
+665,2005 Carolina Panthers season
+666,2002 Carolina Panthers season
+667,2001 Carolina Panthers season
+668,2000 Carolina Panthers season
+669,1999 Carolina Panthers season
+670,1998 Carolina Panthers season
+671,1997 Carolina Panthers season
+672,1995 Carolina Panthers season
+673,1996 Carolina Panthers season
+674,1961 Buffalo Bills season
+675,1972 Miami Dolphins season
+676,1969 Pittsburgh Steelers season
+677,1970 Pittsburgh Steelers season
+678,1971 Pittsburgh Steelers season
+679,1972 Pittsburgh Steelers season
+680,1969 Denver Broncos season
+681,1973 Pittsburgh Steelers season
+682,1974 Pittsburgh Steelers season
+683,1975 Pittsburgh Steelers season
+684,2005 San Francisco 49ers season
+685,2008 Chicago Rush season
+686,2008 Colorado Crush season
+687,2008 Grand Rapids Rampage season
+688,2005 Pittsburgh Steelers season
+689,1976 Pittsburgh Steelers season
+690,1977 Pittsburgh Steelers season
+691,1978 Pittsburgh Steelers season
+692,1982 Pittsburgh Steelers season
+693,1980 Pittsburgh Steelers season
+694,1981 Pittsburgh Steelers season
+695,1997 Pittsburgh Steelers season
+696,1983 Pittsburgh Steelers season
+697,2004 Pittsburgh Steelers season
+698,1984 Pittsburgh Steelers season
+699,1985 Pittsburgh Steelers season
+700,1986 Pittsburgh Steelers season
+701,1987 Pittsburgh Steelers season
+702,1988 Pittsburgh Steelers season
+703,1989 Pittsburgh Steelers season
+704,1968 Pittsburgh Steelers season
+705,1990 Pittsburgh Steelers season
+706,2004 Washington Redskins season
+707,2003 Washington Redskins season
+708,1987 Washington Redskins season
+709,1932 Boston Braves (NFL) season
+710,1937 Washington Redskins season
+711,2002 Washington Redskins season
+712,2001 Washington Redskins season
+713,2000 Washington Redskins season
+714,1999 Washington Redskins season
+715,1998 Washington Redskins season
+716,1997 Washington Redskins season
+717,1996 Washington Redskins season
+718,1995 Washington Redskins season
+719,1994 Washington Redskins season
+720,1993 Washington Redskins season
+721,1992 Washington Redskins season
+722,1921 Green Bay Packers season
+723,1922 Green Bay Packers season
+724,1923 Green Bay Packers season
+725,1924 Green Bay Packers season
+726,1925 Green Bay Packers season
+727,1926 Green Bay Packers season
+728,1927 Green Bay Packers season
+729,1928 Green Bay Packers season
+730,1929 Green Bay Packers season
+731,1930 Green Bay Packers season
+732,1931 Green Bay Packers season
+733,1932 Green Bay Packers season
+734,1919 Green Bay Packers season
+735,1920 Green Bay Packers season
+736,1991 Pittsburgh Steelers season
+737,2008 Arizona Rattlers season
+738,2008 Los Angeles Avengers season
+739,2008 San Jose SaberCats season
+740,2008 Utah Blaze season
+741,2008 Cleveland Gladiators season
+742,1992 Pittsburgh Steelers season
+743,2008 Columbus Destroyers season
+744,2005 New Orleans Saints season
+745,1992 Green Bay Packers season
+746,1991 Green Bay Packers season
+747,1990 Green Bay Packers season
+748,1988 Green Bay Packers season
+749,1968 Green Bay Packers season
+750,1987 Green Bay Packers season
+751,1986 Green Bay Packers season
+752,1985 Green Bay Packers season
+753,1984 Green Bay Packers season
+754,1983 Green Bay Packers season
+755,1973 Green Bay Packers season
+756,1974 Green Bay Packers season
+757,1972 Green Bay Packers season
+758,1971 Green Bay Packers season
+759,1970 Green Bay Packers season
+760,1969 Green Bay Packers season
+761,1981 Green Bay Packers season
+762,1982 Green Bay Packers season
+763,1977 Green Bay Packers season
+764,1980 Green Bay Packers season
+765,1976 Green Bay Packers season
+766,1979 Green Bay Packers season
+767,1975 Green Bay Packers season
+768,1978 Green Bay Packers season
+769,1953 Green Bay Packers season
+770,1958 Green Bay Packers season
+771,1936 Green Bay Packers season
+772,1993 Pittsburgh Steelers season
+773,1952 Pittsburgh Steelers season
+774,1933 Pittsburgh Pirates (NFL) season
+775,1994 Pittsburgh Steelers season
+776,1995 Pittsburgh Steelers season
+777,1933 Green Bay Packers season
+778,1934 Green Bay Packers season
+779,1996 Pittsburgh Steelers season
+780,1990 Washington Redskins season
+781,1989 Washington Redskins season
+782,1988 Washington Redskins season
+783,1986 Washington Redskins season
+784,1985 Washington Redskins season
+785,1998 Pittsburgh Steelers season
+786,1999 Pittsburgh Steelers season
+787,2000 Pittsburgh Steelers season
+788,1984 Indianapolis Colts season
+789,1985 Indianapolis Colts season
+790,1986 Indianapolis Colts season
+791,2008 Pittsburgh Steelers season
+792,1987 Indianapolis Colts season
+793,1988 Indianapolis Colts season
+794,1989 Indianapolis Colts season
+795,1990 Indianapolis Colts season
+796,1991 Indianapolis Colts season
+797,1954 Green Bay Packers season
+798,1992 Indianapolis Colts season
+799,1957 Green Bay Packers season
+800,1955 Green Bay Packers season
+801,1956 Green Bay Packers season
+802,1935 Green Bay Packers season
+803,1993 Indianapolis Colts season
+804,1937 Green Bay Packers season
+805,1940 Green Bay Packers season
+806,1949 Green Bay Packers season
+807,1945 Green Bay Packers season
+808,1994 Indianapolis Colts season
+809,1942 Green Bay Packers season
+810,1943 Green Bay Packers season
+811,1947 Green Bay Packers season
+812,1946 Green Bay Packers season
+813,1948 Green Bay Packers season
+814,1950 Green Bay Packers season
+815,1951 Green Bay Packers season
+816,1952 Green Bay Packers season
+817,1959 Green Bay Packers season
+818,1963 Green Bay Packers season
+819,1964 Green Bay Packers season
+820,1995 Indianapolis Colts season
+821,1996 Indianapolis Colts season
+822,1938 Green Bay Packers season
+823,1939 Green Bay Packers season
+824,1941 Green Bay Packers season
+825,1944 Green Bay Packers season
+826,1960 Green Bay Packers season
+827,1962 Green Bay Packers season
+828,1961 Green Bay Packers season
+829,1965 Green Bay Packers season
+830,1997 Indianapolis Colts season
+831,1998 Indianapolis Colts season
+832,1999 Indianapolis Colts season
+833,2000 Indianapolis Colts season
+834,2001 Indianapolis Colts season
+835,2003 Pittsburgh Steelers season
+836,2008 Kansas City Chiefs season
+837,1983 Baltimore Colts season
+838,1982 Baltimore Colts season
+839,1981 Baltimore Colts season
+840,1980 Baltimore Colts season
+841,2002 Pittsburgh Steelers season
+842,1979 Baltimore Colts season
+843,1978 Baltimore Colts season
+844,1977 Baltimore Colts season
+845,1976 Baltimore Colts season
+846,1975 Baltimore Colts season
+847,1974 Baltimore Colts season
+848,1973 Baltimore Colts season
+849,1972 Baltimore Colts season
+850,2001 Pittsburgh Steelers season
+851,1934 Pittsburgh Pirates (NFL) season
+852,1971 Baltimore Colts season
+853,2008 Cleveland Browns season
+854,1970 Baltimore Colts season
+855,1969 Baltimore Colts season
+856,1968 Baltimore Colts season
+857,1967 Baltimore Colts season
+858,1966 Baltimore Colts season
+859,1965 Baltimore Colts season
+860,2008 Dallas Desperados season
+861,2008 New York Dragons season
+862,2008 Philadelphia Soul season
+863,2008 Georgia Force season
+864,1953 Baltimore Colts season
+865,1954 Baltimore Colts season
+866,1955 Baltimore Colts season
+867,1956 Baltimore Colts season
+868,1957 Baltimore Colts season
+869,1960 Baltimore Colts season
+870,1961 Baltimore Colts season
+871,1962 Baltimore Colts season
+872,1963 Baltimore Colts season
+873,1964 Baltimore Colts season
+874,1959 Baltimore Colts season
+875,1958 Baltimore Colts season
+876,2008 New England Patriots season
+877,2008 New York Jets season
+878,2008 Orlando Predators season
+879,2008 Tampa Bay Storm season
+880,2008 New Orleans VooDoo season
+881,2008 Indianapolis Colts season
+882,2008 Philadelphia Eagles season
+883,2008 Baltimore Ravens season
+884,2008 Miami Dolphins season
+885,2008 Jacksonville Jaguars season
+886,2008 Green Bay Packers season
+887,1984 Washington Redskins season
+888,1983 Washington Redskins season
+889,1981 Washington Redskins season
+890,1980 Washington Redskins season
+891,1979 Washington Redskins season
+892,1978 Washington Redskins season
+893,1977 Washington Redskins season
+894,1976 Washington Redskins season
+895,1933 Boston Redskins season
+896,1934 Boston Redskins season
+897,1935 Boston Redskins season
+898,1936 Boston Redskins season
+899,2008 Atlanta Falcons season
+900,2005 Atlanta Falcons season
+901,1975 Washington Redskins season
+902,1974 Washington Redskins season
+903,1973 Washington Redskins season
+904,1972 Washington Redskins season
+905,1971 Washington Redskins season
+906,1970 Washington Redskins season
+907,1969 Washington Redskins season
+908,1968 Washington Redskins season
+909,2008 Minnesota Vikings season
+910,1954 San Francisco 49ers season
+911,1955 San Francisco 49ers season
+912,1956 San Francisco 49ers season
+913,1967 Washington Redskins season
+914,1966 Washington Redskins season
+915,1965 Washington Redskins season
+916,1964 Washington Redskins season
+917,1963 Washington Redskins season
+918,1962 Washington Redskins season
+919,1961 Washington Redskins season
+920,1960 Washington Redskins season
+921,1959 Washington Redskins season
+922,1958 Washington Redskins season
+923,1957 Washington Redskins season
+924,1956 Washington Redskins season
+925,1955 Washington Redskins season
+926,1957 San Francisco 49ers season
+927,1954 Washington Redskins season
+928,1953 Washington Redskins season
+929,1952 Washington Redskins season
+930,1951 Washington Redskins season
+931,1950 Washington Redskins season
+932,1949 Washington Redskins season
+933,1948 Washington Redskins season
+934,1947 Washington Redskins season
+935,1946 Washington Redskins season
+936,1945 Washington Redskins season
+937,1944 Washington Redskins season
+938,1943 Washington Redskins season
+939,1942 Washington Redskins season
+940,1941 Washington Redskins season
+941,1940 Washington Redskins season
+942,1939 Washington Redskins season
+943,1938 Washington Redskins season
+944,2008 San Diego Chargers season
+945,1967 Pittsburgh Steelers season
+946,2008 Chicago Bears season
+947,1966 Pittsburgh Steelers season
+948,2008 Carolina Panthers season
+949,1965 Pittsburgh Steelers season
+950,1920 Akron Pros season
+951,2005 Detroit Lions season
+952,2004 Detroit Lions season
+953,2005 San Diego Chargers season
+954,2003 San Diego Chargers season
+955,2002 San Diego Chargers season
+956,2004 San Diego Chargers season
+957,2001 San Diego Chargers season
+958,2000 San Diego Chargers season
+959,1999 San Diego Chargers season
+960,1998 San Diego Chargers season
+961,1997 San Diego Chargers season
+962,1996 San Diego Chargers season
+963,1995 San Diego Chargers season
+964,1994 San Diego Chargers season
+965,1993 San Diego Chargers season
+966,1992 San Diego Chargers season
+967,1991 San Diego Chargers season
+968,1990 San Diego Chargers season
+969,2008 Seattle Seahawks season
+970,2008 Detroit Lions season
+971,1990 Buffalo Bills season
+972,1991 Buffalo Bills season
+973,1992 Buffalo Bills season
+974,1993 Buffalo Bills season
+975,1981 San Francisco 49ers season
+976,1989 San Diego Chargers season
+977,1988 San Diego Chargers season
+978,1987 San Diego Chargers season
+979,1985 San Diego Chargers season
+980,1986 San Diego Chargers season
+981,1984 San Diego Chargers season
+982,1982 San Diego Chargers season
+983,1983 San Diego Chargers season
+984,1981 San Diego Chargers season
+985,1980 San Diego Chargers season
+986,1979 San Diego Chargers season
+987,1978 San Diego Chargers season
+988,1977 San Diego Chargers season
+989,1976 San Diego Chargers season
+990,1975 San Diego Chargers season
+991,1974 San Diego Chargers season
+992,1973 San Diego Chargers season
+993,1972 San Diego Chargers season
+994,1971 San Diego Chargers season
+995,1970 San Diego Chargers season
+996,2002 Houston Texans season
+997,2003 Houston Texans season
+998,2004 Houston Texans season
+999,2005 Houston Texans season
+1000,1969 San Diego Chargers season
+1001,1968 San Diego Chargers season
+1002,1967 San Diego Chargers season
+1003,1966 San Diego Chargers season
+1004,1965 San Diego Chargers season
+1005,1964 San Diego Chargers season
+1006,1963 San Diego Chargers season
+1007,1962 San Diego Chargers season
+1008,1961 San Diego Chargers season
+1009,1960 Los Angeles Chargers season
+1010,1970 New York Giants season
+1011,2001 Dallas Cowboys season
+1012,1994 San Francisco 49ers season
+1013,1989 San Francisco 49ers season
+1014,1988 San Francisco 49ers season
+1015,1990 San Francisco 49ers season
+1016,2008 New York Giants season
+1017,2008 Dallas Cowboys season
+1018,2008 Tampa Bay Buccaneers season
+1019,2008 Buffalo Bills season
+1020,2008 New Orleans Saints season
+1021,2008 Cincinnati Bengals season
+1022,2008 Tennessee Titans season
+1023,1971 Dallas Cowboys season
+1024,1970 Dallas Cowboys season
+1025,1964 Pittsburgh Steelers season
+1026,2008 Oakland Raiders season
+1027,2008 San Francisco 49ers season
+1028,2008 Houston Texans season
+1029,2008 Arizona Cardinals season
+1030,1963 Pittsburgh Steelers season
+1031,1962 Pittsburgh Steelers season
+1032,1961 Pittsburgh Steelers season
+1033,1960 Pittsburgh Steelers season
+1034,1959 Pittsburgh Steelers season
+1035,1958 Pittsburgh Steelers season
+1036,1957 Pittsburgh Steelers season
+1037,1956 Pittsburgh Steelers season
+1038,1955 Pittsburgh Steelers season
+1039,1954 Pittsburgh Steelers season
+1040,1953 Pittsburgh Steelers season
+1041,1926 New York Giants season
+1042,1928 New York Giants season
+1043,1929 New York Giants season
+1044,1930 New York Giants season
+1045,1931 New York Giants season
+1046,1932 New York Giants season
+1047,1933 New York Giants season
+1048,1925 New York Giants season
+1049,1935 New York Giants season
+1050,1927 New York Giants season
+1051,1936 New York Giants season
+1052,1937 New York Giants season
+1053,1939 New York Giants season
+1054,1940 New York Giants season
+1055,1942 New York Giants season
+1056,1941 New York Giants season
+1057,1934 New York Giants season
+1058,1944 New York Giants season
+1059,1943 New York Giants season
+1060,1945 New York Giants season
+1061,1946 New York Giants season
+1062,1947 New York Giants season
+1063,1948 New York Giants season
+1064,1949 New York Giants season
+1065,1950 New York Giants season
+1066,1951 New York Giants season
+1067,1938 New York Giants season
+1068,1954 New York Giants season
+1069,1953 New York Giants season
+1070,1952 New York Giants season
+1071,1955 New York Giants season
+1072,1957 New York Giants season
+1073,1951 Pittsburgh Steelers season
+1074,1950 Pittsburgh Steelers season
+1075,1949 Pittsburgh Steelers season
+1076,1948 Pittsburgh Steelers season
+1077,1977 Dallas Cowboys season
+1078,1984 San Francisco 49ers season
+1079,1973 Miami Dolphins season
+1080,1989 Detroit Lions season
+1081,1991 Detroit Lions season
+1082,1995 Detroit Lions season
+1083,1994 Detroit Lions season
+1084,1997 Detroit Lions season
+1085,1956 New York Giants season
+1086,1947 Chicago Cardinals season
+1087,1953 Detroit Lions season
+1088,1957 Detroit Lions season
+1089,1952 Detroit Lions season
+1090,1978 Dallas Cowboys season
+1091,1978 Houston Oilers season
+1092,1979 Houston Oilers season
+1093,1980 Houston Oilers season
+1094,1987 Houston Oilers season
+1095,1988 Houston Oilers season
+1096,1989 Houston Oilers season
+1097,1997 Tennessee Oilers season
+1098,1990 Houston Oilers season
+1099,1991 Houston Oilers season
+1100,1992 Houston Oilers season
+1101,1993 Houston Oilers season
+1102,1960 Houston Oilers season
+1103,1961 Houston Oilers season
+1104,1947 Pittsburgh Steelers season
+1105,1962 Houston Oilers season
+1106,1946 Pittsburgh Steelers season
+1107,1945 Pittsburgh Steelers season
+1108,1966 Buffalo Bills season
+1109,1965 Buffalo Bills season
+1110,1964 Buffalo Bills season
+1111,1942 Pittsburgh Steelers season
+1112,1982 Miami Dolphins season
+1113,1983 Miami Dolphins season
+1114,1984 Miami Dolphins season
+1115,1985 Miami Dolphins season
+1116,1990 Miami Dolphins season
+1117,1992 Miami Dolphins season
+1118,1995 Miami Dolphins season
+1119,1994 Miami Dolphins season
+1120,2000 Miami Dolphins season
+1121,1999 Miami Dolphins season
+1122,2000 Buffalo Bills season
+1123,1999 Buffalo Bills season
+1124,1999 Tennessee Titans season
+1125,2000 Tennessee Titans season
+1126,1989 Buffalo Bills season
+1127,1988 Buffalo Bills season
+1128,1973 Buffalo Bills season
+1129,1941 Pittsburgh Steelers season
+1130,1940 Pittsburgh Steelers season
+1131,1939 Pittsburgh Pirates (NFL) season
+1132,1938 Pittsburgh Pirates (NFL) season
+1133,2001 New York Giants season
+1134,1937 Pittsburgh Pirates (NFL) season
+1135,1936 Pittsburgh Pirates (NFL) season
+1136,1935 Pittsburgh Pirates (NFL) season
+1137,1922 Canton Bulldogs season
+1138,1998 Atlanta Falcons season
+1139,1969 Buffalo Bills season
+1140,1960 Buffalo Bills season
+1141,2001 Buffalo Bills season
+1142,2002 Buffalo Bills season
+1143,2000 Oakland Raiders season
+1144,2001 Oakland Raiders season
+1145,2002 Oakland Raiders season
+1146,1990 Los Angeles Raiders season
+1147,1989 Los Angeles Raiders season
+1148,1988 Los Angeles Raiders season
+1149,1993 Los Angeles Raiders season
+1150,1997 Oakland Raiders season
+1151,1995 Arizona Cardinals season
+1152,1998 Arizona Cardinals season
+1153,2000 Arizona Cardinals season
+1154,2001 Arizona Cardinals season
+1155,1987 St. Louis Cardinals (NFL) season
+1156,1988 Phoenix Cardinals season
+1157,1989 Phoenix Cardinals season
+1158,1960 St. Louis Cardinals (NFL) season
+1159,1962 St. Louis Cardinals (NFL) season
+1160,1948 Chicago Cardinals season
+1161,1984 St. Louis Cardinals (NFL) season
+1162,1974 St. Louis Cardinals (NFL) season
+1163,1975 St. Louis Cardinals (NFL) season
+1164,2000 Detroit Lions season
+1165,2001 Detroit Lions season
+1166,2002 Arizona Cardinals season
+1167,1959 New York Giants season
+1168,1960 New York Giants season
+1169,1961 New York Giants season
+1170,1962 New York Giants season
+1171,1963 New York Giants season
+1172,1958 New York Giants season
+1173,1967 New York Giants season
+1174,1989 New York Giants season
+1175,1964 New York Giants season
+1176,1978 New York Giants season
+1177,2000 New York Giants season
+1178,1993 New York Giants season
+1179,1974 Buffalo Bills season
+1180,1980 Buffalo Bills season
+1181,1979 Philadelphia Eagles season
+1182,1980 Philadelphia Eagles season
+1183,1981 Philadelphia Eagles season
+1184,1978 Philadelphia Eagles season
+1185,1988 Philadelphia Eagles season
+1186,1989 Philadelphia Eagles season
+1187,1990 Philadelphia Eagles season
+1188,1991 Philadelphia Eagles season
+1189,1964 St. Louis Cardinals (NFL) season
+1190,2000 Philadelphia Eagles season
+1191,1999 Philadelphia Eagles season
+1192,1965 St. Louis Cardinals (NFL) season
+1193,1979 St. Louis Cardinals (NFL) season
+1194,1978 St. Louis Cardinals (NFL) season
+1195,1925 Chicago Cardinals season
+1196,1949 Chicago Cardinals season
+1197,1977 St. Louis Cardinals (NFL) season
+1198,1967 St. Louis Cardinals (NFL) season
+1199,1970 San Francisco 49ers season
+1200,1948 Philadelphia Eagles season
+1201,1960 Philadelphia Eagles season
+1202,1949 Philadelphia Eagles season
+1203,1984 Atlanta Falcons season
+1204,1982 Atlanta Falcons season
+1205,2001 Atlanta Falcons season
+1206,2000 Atlanta Falcons season
+1207,1981 Atlanta Falcons season
+1208,1966 Atlanta Falcons season
+1209,1971 Atlanta Falcons season
+1210,1994 Atlanta Falcons season
+1211,1989 Atlanta Falcons season
+1212,1995 Atlanta Falcons season
+1213,1975 Atlanta Falcons season
+1214,1997 Atlanta Falcons season
+1215,1980 Atlanta Falcons season
+1216,1990 Atlanta Falcons season
+1217,1990 Phoenix Cardinals season
+1218,2000 New Orleans Saints season
+1219,1978 Atlanta Falcons season
+1220,1991 Atlanta Falcons season
+1221,2001 San Francisco 49ers season
+1222,1967 New Orleans Saints season
+1223,1981 New Orleans Saints season
+1224,1990 New Orleans Saints season
+1225,1995 New Orleans Saints season
+1226,1992 New Orleans Saints season
+1227,1991 New Orleans Saints season
+1228,1985 New Orleans Saints season
+1229,1971 New Orleans Saints season
+1230,1989 New Orleans Saints season
+1231,1987 New Orleans Saints season
+1232,1999 New Orleans Saints season
+1233,1997 New Orleans Saints season
+1234,1991 San Francisco 49ers season
+1235,1972 San Francisco 49ers season
+1236,1971 San Francisco 49ers season
+1237,1967 San Francisco 49ers season
+1238,1982 St. Louis Cardinals (NFL) season
+1239,2000 San Francisco 49ers season
+1240,1999 San Francisco 49ers season
+1241,1998 San Francisco 49ers season
+1242,1997 San Francisco 49ers season
+1243,1996 San Francisco 49ers season
+1244,1995 San Francisco 49ers season
+1245,1993 San Francisco 49ers season
+1246,1992 San Francisco 49ers season
+1247,1987 San Francisco 49ers season
+1248,1986 San Francisco 49ers season
+1249,1985 San Francisco 49ers season
+1250,1983 San Francisco 49ers season
+1251,1979 San Francisco 49ers season
+1252,1994 Arizona Cardinals season
+1253,1961 San Francisco 49ers season
+1254,1962 San Francisco 49ers season
+1255,1989 Denver Broncos season
+1256,1977 Denver Broncos season
+1257,1987 Denver Broncos season
+1258,1983 Denver Broncos season
+1259,1985 New York Giants season
+1260,2000 Denver Broncos season
+1261,1995 Denver Broncos season
+1262,1993 Denver Broncos season
+1263,1984 Denver Broncos season
+1264,1978 Denver Broncos season
+1265,1979 Denver Broncos season
+1266,2001 Denver Broncos season
+1267,1991 Denver Broncos season
+1268,1935 Detroit Lions season
+1269,1996 Denver Broncos season
+1270,2005 Cincinnati Bengals season
+1271,1970 Cincinnati Bengals season
+1272,1968 Cincinnati Bengals season
+1273,1973 Cincinnati Bengals season
+1274,1981 Cincinnati Bengals season
+1275,1988 Cincinnati Bengals season
+1276,1990 Cincinnati Bengals season
+1277,2003 Cincinnati Bengals season
+1278,1975 Dallas Cowboys season
+1279,2002 San Francisco 49ers season
+1280,1975 Cincinnati Bengals season
+1281,1982 Cincinnati Bengals season
+1282,2001 Cincinnati Bengals season
+1283,2000 Cincinnati Bengals season
+1284,1999 Cincinnati Bengals season
+1285,1997 Cincinnati Bengals season
+1286,1998 Cincinnati Bengals season
+1287,1996 Cincinnati Bengals season
+1288,1996 Baltimore Ravens season
+1289,1995 Jacksonville Jaguars season
+1290,1986 Cincinnati Bengals season
+1291,1984 Cincinnati Bengals season
+1292,1995 Cincinnati Bengals season
+1293,1994 Cincinnati Bengals season
+1294,1996 Jacksonville Jaguars season
+1295,1999 Jacksonville Jaguars season
+1296,1997 Jacksonville Jaguars season
+1297,1998 Jacksonville Jaguars season
+1298,2000 Jacksonville Jaguars season
+1299,2001 Jacksonville Jaguars season
+1300,2004 New York Giants season
+1301,1927 Duluth Eskimos season
+1302,1976 Cincinnati Bengals season
+1303,2001 New Orleans Saints season
+1304,2001 Tennessee Titans season
+1305,2001 Philadelphia Eagles season
+1306,2001 Baltimore Ravens season
+1307,2001 Miami Dolphins season
+1308,1971 Miami Dolphins season
+1309,2008 Toronto Argonauts season
+1310,2008 Calgary Stampeders season
+1311,2008 Saskatchewan Roughriders season
+1312,2008 Edmonton Eskimos season
+1313,2008 BC Lions season
+1314,2008 Hamilton Tiger-Cats season
+1315,2008 Montreal Alouettes season
+1316,2008 Winnipeg Blue Bombers season
+1317,2007 Saskatchewan Roughriders season
+1318,1998 Buffalo Bills season
+1319,1962 Buffalo Bills season
+1320,1963 Buffalo Bills season
+1321,1967 Buffalo Bills season
+1322,1968 Buffalo Bills season
+1323,1963 Detroit Lions season
+1324,1967 Atlanta Falcons season
+1325,1968 Atlanta Falcons season
+1326,1976 Atlanta Falcons season
+1327,1974 Atlanta Falcons season
+1328,1977 Atlanta Falcons season
+1329,1983 Atlanta Falcons season
+1330,1987 Atlanta Falcons season
+1331,1993 Atlanta Falcons season
+1332,2003 Atlanta Falcons season
+1333,2004 Atlanta Falcons season
+1334,1968 Denver Broncos season
+1335,1975 Buffalo Bills season
+1336,1970 Buffalo Bills season
+1337,1983 Buffalo Bills season
+1338,2008 Boston Cannons season
+1339,1985 Buffalo Bills season
+1340,1972 Buffalo Bills season
+1341,1978 Buffalo Bills season
+1342,1979 Buffalo Bills season
+1343,1984 Buffalo Bills season
+1344,1981 Buffalo Bills season
+1345,1971 Buffalo Bills season
+1346,1986 Buffalo Bills season
+1347,1995 Buffalo Bills season
+1348,1963 San Francisco 49ers season
+1349,1964 San Francisco 49ers season
+1350,1965 San Francisco 49ers season
+1351,1966 San Francisco 49ers season
+1352,1968 San Francisco 49ers season
+1353,1969 San Francisco 49ers season
+1354,1975 San Francisco 49ers season
+1355,1974 San Francisco 49ers season
+1356,1966 Miami Dolphins season
+1357,1998 Baltimore Ravens season
+1358,1999 Baltimore Ravens season
+1359,1979 Cincinnati Bengals season
+1360,1978 Cincinnati Bengals season
+1361,1980 Cincinnati Bengals season
+1362,1983 Cincinnati Bengals season
+1363,2002 Cincinnati Bengals season
+1364,1992 Cincinnati Bengals season
+1365,1991 Cincinnati Bengals season
+1366,1960 Denver Broncos season
+1367,1961 Denver Broncos season
+1368,1969 Cincinnati Bengals season
+1369,1962 Denver Broncos season
+1370,1963 Denver Broncos season
+1371,1964 Denver Broncos season
+1372,1965 Denver Broncos season
+1373,1966 Denver Broncos season
+1374,1967 Denver Broncos season
+1375,1970 Denver Broncos season
+1376,1971 Denver Broncos season
+1377,1971 Cincinnati Bengals season
+1378,1972 Denver Broncos season
+1379,1972 Cincinnati Bengals season
+1380,1974 Cincinnati Bengals season
+1381,1977 Cincinnati Bengals season
+1382,1985 Cincinnati Bengals season
+1383,1987 Cincinnati Bengals season
+1384,1989 Cincinnati Bengals season
+1385,1993 Cincinnati Bengals season
+1386,2004 Cincinnati Bengals season
+1387,1973 Denver Broncos season
+1388,1994 Denver Broncos season
+1389,1974 Denver Broncos season
+1390,1975 Denver Broncos season
+1391,1976 Denver Broncos season
+1392,1980 Denver Broncos season
+1393,1982 Denver Broncos season
+1394,1959 Chicago Cardinals season
+1395,1960 Dallas Cowboys season
+1396,1966 Dallas Cowboys season
+1397,1997 Baltimore Ravens season
+1398,1981 Denver Broncos season
+1399,1985 Denver Broncos season
+1400,2002 Denver Broncos season
+1401,2002 Jacksonville Jaguars season
+1402,2003 Jacksonville Jaguars season
+1403,1988 Denver Broncos season
+1404,1999 Denver Broncos season
+1405,2004 Jacksonville Jaguars season
+1406,2004 Denver Broncos season
+1407,2003 Denver Broncos season
+1408,2005 Jacksonville Jaguars season
+1409,2008 Philadelphia Barrage season
+1410,1972 Oakland Raiders season
+1411,1971 Oakland Raiders season
+1412,1970 Oakland Raiders season
+1413,1973 Oakland Raiders season
+1414,1975 Oakland Raiders season
+1415,1978 Oakland Raiders season
+1416,1977 Oakland Raiders season
+1417,1974 Oakland Raiders season
+1418,1990 Denver Broncos season
+1419,1992 Denver Broncos season
+1420,2004 San Francisco 49ers season
+1421,2003 San Francisco 49ers season
+1422,1946 San Francisco 49ers season
+1423,1947 San Francisco 49ers season
+1424,1948 San Francisco 49ers season
+1425,1949 San Francisco 49ers season
+1426,1958 San Francisco 49ers season
+1427,1959 San Francisco 49ers season
+1428,1960 San Francisco 49ers season
+1429,1973 San Francisco 49ers season
+1430,1976 San Francisco 49ers season
+1431,1977 San Francisco 49ers season
+1432,1978 San Francisco 49ers season
+1433,1980 San Francisco 49ers season
+1434,1982 San Francisco 49ers season
+1435,2005 Arizona Cardinals season
+1436,2005 Baltimore Ravens season
+1437,2005 Buffalo Bills season
+1438,2005 Miami Dolphins season
+1439,2005 Oakland Raiders season
+1440,2005 Tennessee Titans season
+1441,2004 Arizona Cardinals season
+1442,2004 Baltimore Ravens season
+1443,1942 Detroit Lions season
+1444,2004 Buffalo Bills season
+1445,1975 Detroit Lions season
+1446,1992 Detroit Lions season
+1447,1960 Detroit Lions season
+1448,1979 Detroit Lions season
+1449,1961 Detroit Lions season
+1450,1970 Detroit Lions season
+1451,1993 Detroit Lions season
+1452,2003 Detroit Lions season
+1453,2002 Detroit Lions season
+1454,2004 Miami Dolphins season
+1455,1983 Detroit Lions season
+1456,2004 New Orleans Saints season
+1457,2004 Oakland Raiders season
+1458,2004 Tennessee Titans season
+1459,2003 Arizona Cardinals season
+1460,2003 Baltimore Ravens season
+1461,2003 Buffalo Bills season
+1462,2003 Miami Dolphins season
+1463,2003 New Orleans Saints season
+1464,1962 Detroit Lions season
+1465,1930 Portsmouth Spartans season
+1466,1932 Portsmouth Spartans season
+1467,1964 Detroit Lions season
+1468,2003 New York Giants season
+1469,1980 Detroit Lions season
+1470,1982 Detroit Lions season
+1471,1990 Detroit Lions season
+1472,2003 Oakland Raiders season
+1473,2003 Philadelphia Eagles season
+1474,2003 Tennessee Titans season
+1475,1965 Detroit Lions season
+1476,1987 Detroit Lions season
+1477,1987 Buffalo Bills season
+1478,1976 Buffalo Bills season
+1479,1976 Detroit Lions season
+1480,1976 New Orleans Saints season
+1481,1978 New Orleans Saints season
+1482,1979 New Orleans Saints season
+1483,1985 Atlanta Falcons season
+1484,1988 Atlanta Falcons season
+1485,1979 Atlanta Falcons season
+1486,1962 Philadelphia Eagles season
+1487,1963 Philadelphia Eagles season
+1488,1961 Philadelphia Eagles season
+1489,1964 Philadelphia Eagles season
+1490,1965 Philadelphia Eagles season
+1491,1966 Philadelphia Eagles season
+1492,1967 Philadelphia Eagles season
+1493,1976 Philadelphia Eagles season
+1494,1982 Buffalo Bills season
+1495,1982 New Orleans Saints season
+1496,1978 Detroit Lions season
+1497,1982 Philadelphia Eagles season
+1498,1988 New York Giants season
+1499,1987 New York Giants season
+1500,1982 New York Giants season
+1501,1982 Houston Oilers season
+1502,1981 Houston Oilers season
+1503,1978 Miami Dolphins season
+1504,1974 Miami Dolphins season
+1505,1979 Miami Dolphins season
+1506,1981 Miami Dolphins season
+1507,1980 Miami Dolphins season
+1508,2002 Atlanta Falcons season
+1509,1934 Detroit Lions season
+1510,1988 Detroit Lions season
+1511,1974 Detroit Lions season
+1512,1969 Detroit Lions season
+1513,1968 Houston Oilers season
+1514,1973 Philadelphia Eagles season
+1515,1973 New York Giants season
+1516,1972 St. Louis Cardinals (NFL) season
+1517,1967 Detroit Lions season
+1518,1975 New York Giants season
+1519,1975 Philadelphia Eagles season
+1520,2002 Baltimore Ravens season
+1521,2002 Miami Dolphins season
+1522,1993 Miami Dolphins season
+1523,2002 New Orleans Saints season
+1524,2002 New York Giants season
+1525,2002 Philadelphia Eagles season
+1526,2002 Tennessee Titans season
+1527,1999 Arizona Cardinals season
+1528,1999 Atlanta Falcons season
+1529,1999 Detroit Lions season
+1530,1991 New York Giants season
+1531,1999 New York Giants season
+1532,1999 Oakland Raiders season
+1533,1987 Los Angeles Raiders season
+1534,1998 Detroit Lions season
+1535,1998 Miami Dolphins season
+1536,1975 Miami Dolphins season
+1537,1975 New Orleans Saints season
+1538,1975 Houston Oilers season
+1539,1998 New Orleans Saints season
+1540,1998 New York Giants season
+1541,1998 Oakland Raiders season
+1542,1998 Philadelphia Eagles season
+1543,1998 Tennessee Oilers season
+1544,1997 Arizona Cardinals season
+1545,1997 Buffalo Bills season
+1546,1997 Miami Dolphins season
+1547,1997 New York Giants season
+1548,1997 Philadelphia Eagles season
+1549,1996 Arizona Cardinals season
+1550,1996 Atlanta Falcons season
+1551,1965 New York Giants season
+1552,1966 New York Giants season
+1553,1968 New York Giants season
+1554,1969 New York Giants season
+1555,1996 Buffalo Bills season
+1556,1971 New York Giants season
+1557,1972 New York Giants season
+1558,1974 New York Giants season
+1559,1976 New York Giants season
+1560,1977 New York Giants season
+1561,1996 Detroit Lions season
+1562,1979 New York Giants season
+1563,1980 New York Giants season
+1564,1981 New York Giants season
+1565,1983 New York Giants season
+1566,1984 New York Giants season
+1567,1992 New York Giants season
+1568,1994 New York Giants season
+1569,1995 New York Giants season
+1570,1996 New York Giants season
+1571,1996 Houston Oilers season
+1572,1979 Oakland Raiders season
+1573,1994 Buffalo Bills season
+1574,1996 Miami Dolphins season
+1575,1996 New Orleans Saints season
+1576,1996 Oakland Raiders season
+1577,1996 Philadelphia Eagles season
+1578,1995 Houston Oilers season
+1579,1995 Philadelphia Eagles season
+1580,1994 Houston Oilers season
+1581,1994 New Orleans Saints season
+1582,1994 Philadelphia Eagles season
+1583,1993 New Orleans Saints season
+1584,1993 Philadelphia Eagles season
+1585,1993 Phoenix Cardinals season
+1586,1992 Atlanta Falcons season
+1587,1992 Los Angeles Raiders season
+1588,1992 Philadelphia Eagles season
+1589,1992 Phoenix Cardinals season
+1590,1991 Los Angeles Raiders season
+1591,1991 Miami Dolphins season
+1592,1991 Phoenix Cardinals season
+1593,1989 Miami Dolphins season
+1594,1988 Miami Dolphins season
+1595,1988 New Orleans Saints season
+1596,1987 Miami Dolphins season
+1597,1987 Philadelphia Eagles season
+1598,1986 Detroit Lions season
+1599,1986 Houston Oilers season
+1600,1986 Los Angeles Raiders season
+1601,1986 Miami Dolphins season
+1602,1986 New Orleans Saints season
+1603,1986 Philadelphia Eagles season
+1604,1986 St. Louis Cardinals (NFL) season
+1605,1985 Detroit Lions season
+1606,1985 Houston Oilers season
+1607,1985 Los Angeles Raiders season
+1608,1985 Philadelphia Eagles season
+1609,1985 St. Louis Cardinals (NFL) season
+1610,1984 Detroit Lions season
+1611,1984 Houston Oilers season
+1612,1984 Los Angeles Raiders season
+1613,1984 New Orleans Saints season
+1614,2006 BC Lions season
+1615,1984 Philadelphia Eagles season
+1616,1983 Houston Oilers season
+1617,1983 New Orleans Saints season
+1618,1983 Philadelphia Eagles season
+1619,1983 St. Louis Cardinals (NFL) season
+1620,1981 Dallas Cowboys season
+1621,1981 Detroit Lions season
+1622,1981 St. Louis Cardinals (NFL) season
+1623,1980 Dallas Cowboys season
+1624,1980 New Orleans Saints season
+1625,1980 St. Louis Cardinals (NFL) season
+1626,1979 Dallas Cowboys season
+1627,1977 Buffalo Bills season
+1628,1977 Detroit Lions season
+1629,1977 Houston Oilers season
+1630,1977 Miami Dolphins season
+1631,1977 New Orleans Saints season
+1632,1977 Philadelphia Eagles season
+1633,1976 Dallas Cowboys season
+1634,1976 Houston Oilers season
+1635,1976 Miami Dolphins season
+1636,1976 St. Louis Cardinals (NFL) season
+1637,1974 Dallas Cowboys season
+1638,1974 Houston Oilers season
+1639,2006 Toronto Argonauts season
+1640,1974 New Orleans Saints season
+1641,2009 Jacksonville Jaguars season
+1642,2009 Tennessee Titans season
+1643,2009 Houston Texans season
+1644,2009 Indianapolis Colts season
+1645,2009 Kansas City Chiefs season
+1646,2009 Minnesota Vikings season
+1647,2009 Green Bay Packers season
+1648,2009 Oakland Raiders season
+1649,2009 Baltimore Ravens season
+1650,2009 New England Patriots season
+1651,2009 Cleveland Browns season
+1652,2009 Denver Broncos season
+1653,2009 San Diego Chargers season
+1654,2009 Cincinnati Bengals season
+1655,2009 BC Lions season
+1656,2009 Calgary Stampeders season
+1657,2009 Detroit Lions season
+1658,2009 Edmonton Eskimos season
+1659,2009 Saskatchewan Roughriders season
+1660,2009 Hamilton Tiger-Cats season
+1661,2009 Montreal Alouettes season
+1662,2009 Toronto Argonauts season
+1663,2009 Winnipeg Blue Bombers season
+1664,2009 New York Jets season
+1665,2009 Washington Redskins season
+1666,2005 BC Lions season
+1667,2004 BC Lions season
+1668,2007 Hamilton Tiger-Cats season
+1669,2004 Toronto Argonauts season
+1670,2007 Edmonton Eskimos season
+1671,2009 Buffalo Bills season
+1672,2009 Philadelphia Eagles season
+1673,2009 New York Giants season
+1674,2009 Pittsburgh Steelers season
+1675,1970 Miami Dolphins season
+1676,2009 Atlanta Falcons season
+1677,2009 Miami Dolphins season
+1678,2009 Dallas Cowboys season
+1679,1974 Philadelphia Eagles season
+1680,1973 Atlanta Falcons season
+1681,1973 Dallas Cowboys season
+1682,2009 San Francisco 49ers season
+1683,1973 Detroit Lions season
+1684,1973 Houston Oilers season
+1685,1973 New Orleans Saints season
+1686,1973 St. Louis Cardinals (NFL) season
+1687,1972 Atlanta Falcons season
+1688,2009 Tampa Bay Buccaneers season
+1689,1972 Dallas Cowboys season
+1690,2009 Carolina Panthers season
+1691,2009 New Orleans Saints season
+1692,2009 Chicago Bears season
+1693,1972 Detroit Lions season
+1694,1972 Houston Oilers season
+1695,1972 New Orleans Saints season
+1696,1972 Philadelphia Eagles season
+1697,1969 Miami Dolphins season
+1698,1968 Miami Dolphins season
+1699,1967 Miami Dolphins season
+1700,1971 Detroit Lions season
+1701,1971 Houston Oilers season
+1702,1971 Philadelphia Eagles season
+1703,1971 St. Louis Cardinals (NFL) season
+1704,1970 Atlanta Falcons season
+1705,2009 St. Louis Rams season
+1706,2009 Arizona Cardinals season
+1707,1970 Houston Oilers season
+1708,2009 Seattle Seahawks season
+1709,1970 New Orleans Saints season
+1710,1970 Philadelphia Eagles season
+1711,1970 St. Louis Cardinals (NFL) season
+1712,1969 Atlanta Falcons season
+1713,1969 Dallas Cowboys season
+1714,1969 New Orleans Saints season
+1715,1969 Philadelphia Eagles season
+1716,1969 St. Louis Cardinals (NFL) season
+1717,1968 Dallas Cowboys season
+1718,1968 Detroit Lions season
+1719,1968 New Orleans Saints season
+1720,1968 Philadelphia Eagles season
+1721,1968 St. Louis Cardinals (NFL) season
+1722,1967 Dallas Cowboys season
+1723,1966 Detroit Lions season
+1724,1966 St. Louis Cardinals (NFL) season
+1725,1965 Dallas Cowboys season
+1726,1964 Dallas Cowboys season
+1727,1963 Dallas Cowboys season
+1728,1963 St. Louis Cardinals (NFL) season
+1729,1961 St. Louis Cardinals (NFL) season
+1730,1962 Dallas Cowboys season
+1731,1961 Dallas Cowboys season
+1732,1959 Detroit Lions season
+1733,1959 Philadelphia Eagles season
+1734,1958 Chicago Cardinals season
+1735,1958 Detroit Lions season
+1736,1958 Philadelphia Eagles season
+1737,1957 Chicago Cardinals season
+1738,1957 Philadelphia Eagles season
+1739,1956 Chicago Cardinals season
+1740,1956 Detroit Lions season
+1741,1956 Philadelphia Eagles season
+1742,1955 Chicago Cardinals season
+1743,1955 Detroit Lions season
+1744,1955 Philadelphia Eagles season
+1745,1954 Chicago Cardinals season
+1746,1954 Detroit Lions season
+1747,1954 Philadelphia Eagles season
+1748,1953 Chicago Cardinals season
+1749,1952 Chicago Cardinals season
+1750,1953 Philadelphia Eagles season
+1751,1952 Dallas Texans season
+1752,1952 Philadelphia Eagles season
+1753,1951 Chicago Cardinals season
+1754,1951 Detroit Lions season
+1755,1951 New York Yanks season
+1756,1950 Baltimore Colts season
+1757,1950 Chicago Cardinals season
+1758,1950 Detroit Lions season
+1759,1950 New York Yanks season
+1760,1949 New York Bulldogs season
+1761,1948 Boston Yanks season
+1762,1947 Boston Yanks season
+1763,1946 Boston Yanks season
+1764,1951 Philadelphia Eagles season
+1765,1950 Philadelphia Eagles season
+1766,1947 Philadelphia Eagles season
+1767,1949 Baltimore Colts season
+1768,1948 Baltimore Colts season
+1769,1947 Baltimore Colts season
+1770,1949 Detroit Lions season
+1771,1948 Detroit Lions season
+1772,1947 Detroit Lions season
+1773,2003 BC Lions season
+1774,1946 Chicago Cardinals season
+1775,2002 BC Lions season
+1776,2001 BC Lions season
+1777,2000 BC Lions season
+1778,1946 Detroit Lions season
+1779,1946 Philadelphia Eagles season
+1780,1945 Boston Yanks season
+1781,1945 Chicago Cardinals season
+1782,1945 Detroit Lions season
+1783,1945 Philadelphia Eagles season
+1784,1944 Boston Yanks season
+1785,1944 Brooklyn Tigers season
+1786,1944 Detroit Lions season
+1787,1944 Philadelphia Eagles season
+1788,1943 Brooklyn Dodgers (NFL) season
+1789,1943 Chicago Cardinals season
+1790,1943 Detroit Lions season
+1791,1942 Brooklyn Dodgers (NFL) season
+1792,1942 Chicago Cardinals season
+1793,1942 Philadelphia Eagles season
+1794,1941 Brooklyn Dodgers (NFL) season
+1795,1941 Chicago Cardinals season
+1796,1941 Detroit Lions season
+1797,1941 Philadelphia Eagles season
+1798,1940 Brooklyn Dodgers (NFL) season
+1799,1940 Chicago Cardinals season
+1800,1940 Detroit Lions season
+1801,1940 Philadelphia Eagles season
+1802,1939 Brooklyn Dodgers (NFL) season
+1803,1939 Chicago Cardinals season
+1804,1939 Detroit Lions season
+1805,1939 Philadelphia Eagles season
+1806,1938 Brooklyn Dodgers (NFL) season
+1807,1938 Chicago Cardinals season
+1808,1938 Detroit Lions season
+1809,1938 Philadelphia Eagles season
+1810,1937 Brooklyn Dodgers (NFL) season
+1811,1937 Chicago Cardinals season
+1812,1937 Detroit Lions season
+1813,1937 Philadelphia Eagles season
+1814,1936 Brooklyn Dodgers (NFL) season
+1815,1936 Chicago Cardinals season
+1816,1936 Detroit Lions season
+1817,1936 Philadelphia Eagles season
+1818,1935 Brooklyn Dodgers (NFL) season
+1819,1935 Chicago Cardinals season
+1820,1935 Philadelphia Eagles season
+1821,1934 Brooklyn Dodgers (NFL) season
+1822,1934 Chicago Cardinals season
+1823,1934 Cincinnati Reds (NFL) season
+1824,1934 Philadelphia Eagles season
+1825,1934 St. Louis Gunners season
+1826,1933 Brooklyn Dodgers (NFL) season
+1827,1933 Chicago Cardinals season
+1828,1933 Cincinnati Reds (NFL) season
+1829,1933 Philadelphia Eagles season
+1830,1933 Portsmouth Spartans season
+1831,1932 Brooklyn Dodgers (NFL) season
+1832,1932 Chicago Cardinals season
+1833,1932 Staten Island Stapletons season
+1834,1931 Brooklyn Dodgers (NFL) season
+1835,1931 Chicago Cardinals season
+1836,1931 Cleveland Indians (NFL) season
+1837,1931 Frankford Yellow Jackets season
+1838,1931 Portsmouth Spartans season
+1839,1931 Providence Steam Roller season
+1840,1931 Staten Island Stapletons season
+1841,1930 Brooklyn Dodgers (NFL) season
+1842,1930 Chicago Cardinals season
+1843,1930 Frankford Yellow Jackets season
+1844,1930 Minneapolis Red Jackets season
+1845,1930 Newark Tornadoes season
+1846,1930 Providence Steam Roller season
+1847,1930 Staten Island Stapletons season
+1848,1929 Boston Bulldogs season
+1849,1929 Buffalo Bisons (NFL) season
+1850,1999 BC Lions season
+1851,1998 BC Lions season
+1852,1997 BC Lions season
+1853,1996 BC Lions season
+1854,1995 BC Lions season
+1855,1929 Chicago Cardinals season
+1856,1929 Dayton Triangles season
+1857,1994 BC Lions season
+1858,1929 Frankford Yellow Jackets season
+1859,1929 Minneapolis Red Jackets season
+1860,1993 BC Lions season
+1861,1929 Orange Tornadoes season
+1862,1992 BC Lions season
+1863,1991 BC Lions season
+1864,1929 Providence Steam Roller season
+1865,1990 BC Lions season
+1866,1929 Staten Island Stapletons season
+1867,1928 Chicago Cardinals season
+1868,1928 Dayton Triangles season
+1869,1928 Detroit Wolverines (NFL) season
+1870,1926 Detroit Panthers season
+1871,1928 Frankford Yellow Jackets season
+1872,1928 New York Yankees (NFL) season
+1873,1928 Pottsville Maroons season
+1874,1928 Providence Steam Roller season
+1875,1927 Buffalo Bisons (NFL) season
+1876,1927 Chicago Cardinals season
+1877,1927 Cleveland Bulldogs season
+1878,1927 Dayton Triangles season
+1879,1927 Frankford Yellow Jackets season
+1880,1927 New York Yankees (NFL) season
+1881,1927 Pottsville Maroons season
+1882,1927 Providence Steam Roller season
+1883,1926 Akron Indians season
+1884,1926 Brooklyn Lions season
+1885,1926 Buffalo Rangers season
+1886,1926 Canton Bulldogs season
+1887,1926 Chicago Cardinals season
+1888,1926 Columbus Tigers season
+1889,1926 Dayton Triangles season
+1890,1926 Duluth Eskimos season
+1891,1926 Frankford Yellow Jackets season
+1892,1926 Hammond Pros season
+1893,1926 Hartford Blues season
+1894,1926 Kansas City Cowboys season
+1895,1926 Los Angeles Buccaneers season
+1896,1926 Louisville Colonels season
+1897,1926 Milwaukee Badgers season
+1898,1926 Pottsville Maroons season
+1899,1926 Providence Steam Roller season
+1900,1926 Racine Tornadoes season
+1901,1925 Akron Pros season
+1902,1925 Buffalo Bisons (NFL) season
+1903,1925 Canton Bulldogs season
+1904,1925 Cleveland Bulldogs season
+1905,1925 Columbus Tigers season
+1906,1925 Dayton Triangles season
+1907,1925 Detroit Panthers season
+1908,1925 Duluth Kelleys season
+1909,1925 Frankford Yellow Jackets season
+1910,1925 Hammond Pros season
+1911,1925 Kansas City Cowboys season
+1912,1925 Milwaukee Badgers season
+1913,1925 Pottsville Maroons season
+1914,1925 Providence Steam Roller season
+1915,1925 Rochester Jeffersons season
+1916,1925 Rock Island Independents season
+1917,1924 Akron Pros season
+1918,1924 Buffalo Bisons (NFL) season
+1919,1924 Chicago Cardinals season
+1920,1924 Cleveland Bulldogs season
+1921,1924 Dayton Triangles season
+1922,1924 Columbus Tigers season
+1923,1924 Duluth Kelleys season
+1924,2005 Toronto Argonauts season
+1925,1924 Frankford Yellow Jackets season
+1926,1924 Hammond Pros season
+1927,1924 Kansas City Blues season
+1928,1924 Kenosha Maroons season
+1929,1924 Milwaukee Badgers season
+1930,1924 Minneapolis Marines season
+1931,1924 Racine Legion season
+1932,1924 Rochester Jeffersons season
+1933,1924 Rock Island Independents season
+1934,2003 Toronto Argonauts season
+1935,1923 Akron Pros season
+1936,1923 Buffalo All-Americans season
+1937,1923 Canton Bulldogs season
+1938,1923 Chicago Cardinals season
+1939,1923 Cleveland Indians (NFL) season
+1940,1923 Columbus Tigers season
+1941,1923 Dayton Triangles season
+1942,1923 Duluth Kelleys season
+1943,1923 Hammond Pros season
+1944,1923 Louisville Brecks season
+1945,1923 Milwaukee Badgers season
+1946,1923 Minneapolis Marines season
+1947,1923 Oorang Indians season
+1948,1923 Racine Legion season
+1949,1923 Rochester Jeffersons season
+1950,1923 Rock Island Independents season
+1951,1923 St. Louis All-Stars season
+1952,1923 Toledo Maroons season
+1953,1922 Akron Pros season
+1954,1922 Buffalo All-Americans season
+1955,1922 Chicago Cardinals season
+1956,1922 Columbus Panhandles season
+1957,1922 Dayton Triangles season
+1958,1922 Evansville Crimson Giants season
+1959,1922 Hammond Pros season
+1960,1922 Louisville Brecks season
+1961,1922 Milwaukee Badgers season
+1962,1922 Minneapolis Marines season
+1963,1922 Oorang Indians season
+1964,1922 Racine Legion season
+1965,1922 Rochester Jeffersons season
+1966,1922 Rock Island Independents season
+1967,1922 Toledo Maroons season
+1968,1921 Akron Pros season
+1969,1921 Buffalo All-Americans season
+1970,1921 Canton Bulldogs season
+1971,1921 Chicago Cardinals season
+1972,1921 Cincinnati Celts season
+1973,1921 Cleveland Indians (NFL) season
+1974,1921 Columbus Panhandles season
+1975,1921 Dayton Triangles season
+1976,1921 Detroit Tigers (NFL) season
+1977,1921 Evansville Crimson Giants season
+1978,1921 Hammond Pros season
+1979,1921 Louisville Brecks season
+1980,1921 Minneapolis Marines season
+1981,1921 Muncie Flyers season
+1982,1921 New York Brickley Giants season
+1983,1921 Rochester Jeffersons season
+1984,1921 Rock Island Independents season
+1985,1921 Tonawanda Kardex season
+1986,1921 Washington Senators (NFL) season
+1987,1920 Buffalo All-Americans season
+1988,2002 Toronto Phantoms season
+1989,2001 Toronto Phantoms season
+1990,1920 Canton Bulldogs season
+1991,1920 Chicago Cardinals season
+1992,1920 Chicago Tigers season
+1993,1920 Cleveland Tigers (NFL) season
+1994,1920 Columbus Panhandles season
+1995,1920 Dayton Triangles season
+1996,1920 Detroit Heralds season
+1997,1920 Hammond Pros season
+1998,1920 Muncie Flyers season
+1999,1920 Rochester Jeffersons season
+2000,1920 Rock Island Independents season
+2001,2002 Toronto Argonauts season
+2002,2001 Toronto Argonauts season
+2003,2000 Toronto Argonauts season
+2004,1999 Toronto Argonauts season
+2005,1998 Toronto Argonauts season
+2006,1997 Toronto Argonauts season
+2007,1996 Toronto Argonauts season
+2008,1989 BC Lions season
+2009,1988 BC Lions season
+2010,1946 Brooklyn Dodgers (AAFC) season
+2011,1946 Buffalo Bisons season
+2012,1946 Chicago Rockets season
+2013,1946 Los Angeles Dons season
+2014,1946 New York Yankees (AAFC) season
+2015,1947 Brooklyn Dodgers (AAFC) season
+2016,1947 Buffalo Bills (AAFC) season
+2017,1947 Chicago Rockets season
+2018,1947 Los Angeles Dons season
+2019,1947 New York Yankees (AAFC) season
+2020,1948 Brooklyn Dodgers (AAFC) season
+2021,1948 Buffalo Bills (AAFC) season
+2022,1948 Chicago Rockets season
+2023,1948 Los Angeles Dons season
+2024,1948 New York Yankees (AAFC) season
+2025,1949 Buffalo Bills (AAFC) season
+2026,1949 Chicago Hornets season
+2027,1949 Los Angeles Dons season
+2028,1987 BC Lions season
+2029,1986 BC Lions season
+2030,1949 New York Yankees (AAFC) season
+2031,1963 Houston Oilers season
+2032,1964 Houston Oilers season
+2033,1965 Houston Oilers season
+2034,1966 Houston Oilers season
+2035,1967 Houston Oilers season
+2036,1969 Houston Oilers season
+2037,2007 Montreal Alouettes season
+2038,1985 BC Lions season
+2039,2006 Hamilton Tiger-Cats season
+2040,1995 Baltimore Stallions season
+2041,2007 Winnipeg Blue Bombers season
+2042,2005 Hamilton Tiger-Cats season
+2043,1995 Calgary Stampeders season
+2044,2005 Ottawa Renegades season
+2045,2005 Montreal Alouettes season
+2046,2006 Calgary Stampeders season
+2047,2006 Saskatchewan Roughriders season
+2048,2006 Edmonton Eskimos season
+2049,1996 Calgary Stampeders season
+2050,1994 Calgary Stampeders season
+2051,1993 Calgary Stampeders season
+2052,1992 Calgary Stampeders season
+2053,1991 Calgary Stampeders season
+2054,1990 Calgary Stampeders season
+2055,1997 Calgary Stampeders season
+2056,1901 Homestead Library & Athletic Club football team
+2057,1900 Homestead Library & Athletic Club football team
+2058,1995 Birmingham Barracudas season
+2059,2002 Ottawa Renegades season
+2060,1970 Toronto Argonauts season
+2061,1971 Toronto Argonauts season
+2062,1972 Toronto Argonauts season
+2063,1973 Toronto Argonauts season
+2064,1974 Toronto Argonauts season
+2065,1975 Toronto Argonauts season
+2066,1976 Toronto Argonauts season
+2067,1977 Toronto Argonauts season
+2068,1978 Toronto Argonauts season
+2069,1979 Toronto Argonauts season
+2070,1993 Sacramento Gold Miners season
+2071,1970 Hamilton Tiger-Cats season
+2072,1971 Hamilton Tiger-Cats season
+2073,1972 Hamilton Tiger-Cats season
+2074,1973 Hamilton Tiger-Cats season
+2075,1975 Hamilton Tiger-Cats season
+2076,1974 Hamilton Tiger-Cats season
+2077,1977 Hamilton Tiger-Cats season
+2078,1976 Hamilton Tiger-Cats season
+2079,1978 Hamilton Tiger-Cats season
+2080,1979 Hamilton Tiger-Cats season
+2081,2005 Saskatchewan Roughriders season
+2082,1984 BC Lions season
+2083,1970 BC Lions season
+2084,1971 BC Lions season
+2085,1972 BC Lions season
+2086,1973 BC Lions season
+2087,1974 BC Lions season
+2088,1975 BC Lions season
+2089,1976 BC Lions season
+2090,1977 BC Lions season
+2091,1978 BC Lions season
+2092,1979 BC Lions season
+2093,1980 BC Lions season
+2094,1981 BC Lions season
+2095,1982 BC Lions season
+2096,1983 BC Lions season
+2097,1989 Saskatchewan Roughriders season
+2098,1969 BC Lions season
+2099,1954 BC Lions season
+2100,1955 BC Lions season
+2101,1956 BC Lions season
+2102,1957 BC Lions season
+2103,1958 BC Lions season
+2104,1959 BC Lions season
+2105,1960 BC Lions season
+2106,1961 BC Lions season
+2107,1968 BC Lions season
+2108,1967 BC Lions season
+2109,1966 BC Lions season
+2110,1965 BC Lions season
+2111,1962 BC Lions season
+2112,1963 BC Lions season
+2113,1964 BC Lions season
+2114,1991 Toronto Argonauts season
+2115,1981 Montreal Alouettes season
+2116,1994 Shreveport Pirates season
+2117,1970 Saskatchewan Roughriders season
+2118,1975 Edmonton Eskimos season
+2119,1978 Edmonton Eskimos season
+2120,1979 Edmonton Eskimos season
+2121,1980 Edmonton Eskimos season
+2122,1981 Edmonton Eskimos season
+2123,1982 Edmonton Eskimos season
+2124,1987 Edmonton Eskimos season
+2125,1988 Edmonton Eskimos season
+2126,1989 Edmonton Eskimos season
+2127,1998 Calgary Stampeders season
+2128,1989 Calgary Stampeders season
+2129,1974 Calgary Stampeders season
+2130,1975 Calgary Stampeders season
+2131,1976 Calgary Stampeders season
+2132,1977 Calgary Stampeders season
+2133,1978 Calgary Stampeders season
+2134,1979 Calgary Stampeders season
+2135,1973 Calgary Stampeders season
+2136,1980 Calgary Stampeders season
+2137,1981 Calgary Stampeders season
+2138,1983 Calgary Stampeders season
+2139,1982 Calgary Stampeders season
+2140,1968 Calgary Stampeders season
+2141,1969 Calgary Stampeders season
+2142,1970 Calgary Stampeders season
+2143,1972 Calgary Stampeders season
+2144,1984 Calgary Stampeders season
+2145,1971 Calgary Stampeders season
+2146,1980 Montreal Alouettes season
+2147,1985 Calgary Stampeders season
+2148,1988 Calgary Stampeders season
+2149,1986 Calgary Stampeders season
+2150,1987 Calgary Stampeders season
+2151,1967 Calgary Stampeders season
+2152,1984 Winnipeg Blue Bombers season
+2153,1988 Winnipeg Blue Bombers season
+2154,1999 Calgary Stampeders season
+2155,1996 Ottawa Rough Riders season
+2156,1995 Ottawa Rough Riders season
+2157,1994 Ottawa Rough Riders season
+2158,1993 Ottawa Rough Riders season
+2159,1990 Toronto Argonauts season
+2160,1992 Toronto Argonauts season
+2161,1993 Toronto Argonauts season
+2162,1982 Toronto Argonauts season
+2163,1983 Toronto Argonauts season
+2164,1994 Toronto Argonauts season
+2165,1992 Ottawa Rough Riders season
+2166,1991 Ottawa Rough Riders season
+2167,1973 Ottawa Rough Riders season
+2168,1976 Ottawa Rough Riders season
+2169,1984 Toronto Argonauts season
+2170,1985 Toronto Argonauts season
+2171,1980 Hamilton Tiger-Cats season
+2172,1984 Hamilton Tiger-Cats season
+2173,1985 Hamilton Tiger-Cats season
+2174,1986 Hamilton Tiger-Cats season
+2175,1989 Hamilton Tiger-Cats season
+2176,1986 Toronto Argonauts season
+2177,1987 Toronto Argonauts season
+2178,1988 Toronto Argonauts season
+2179,1989 Toronto Argonauts season
+2180,1995 Toronto Argonauts season
+2181,2004 Saskatchewan Roughriders season
+2182,2006 Montreal Alouettes season
+2183,1990 Hamilton Tiger-Cats season
+2184,1991 Hamilton Tiger-Cats season
+2185,1990 Ottawa Rough Riders season
+2186,1992 Hamilton Tiger-Cats season
+2187,1993 Hamilton Tiger-Cats season
+2188,1994 Hamilton Tiger-Cats season
+2189,1995 Hamilton Tiger-Cats season
+2190,1995 Edmonton Eskimos season
+2191,1995 Saskatchewan Roughriders season
+2192,1995 Winnipeg Blue Bombers season
+2193,1981 Ottawa Rough Riders season
+2194,2003 Saskatchewan Roughriders season
+2195,2004 Ottawa Renegades season
+2196,2000 Calgary Stampeders season
+2197,2001 Calgary Stampeders season
+2198,2002 Calgary Stampeders season
+2199,2003 Calgary Stampeders season
+2200,2004 Calgary Stampeders season
+2201,2005 Calgary Stampeders season
+2202,1960 Ottawa Rough Riders season
+2203,1968 Ottawa Rough Riders season
+2204,1969 Ottawa Rough Riders season
+2205,1966 Calgary Stampeders season
+2206,1965 Calgary Stampeders season
+2207,1990 Winnipeg Blue Bombers season
+2208,1966 Saskatchewan Roughriders season
+2209,1981 Toronto Argonauts season
+2210,1980 Toronto Argonauts season
+2211,1960 Toronto Argonauts season
+2212,1961 Toronto Argonauts season
+2213,1964 Calgary Stampeders season
+2214,1963 Calgary Stampeders season
+2215,1962 Calgary Stampeders season
+2216,1961 Calgary Stampeders season
+2217,1960 Calgary Stampeders season
+2218,1959 Calgary Stampeders season
+2219,1958 Calgary Stampeders season
+2220,1977 Montreal Alouettes season
+2221,1957 Calgary Stampeders season
+2222,1956 Calgary Stampeders season
+2223,1955 Calgary Stampeders season
+2224,1954 Calgary Stampeders season
+2225,1953 Calgary Stampeders season
+2226,1952 Calgary Stampeders season
+2227,1951 Calgary Stampeders season
+2228,2004 Montreal Alouettes season
+2229,2005 Edmonton Eskimos season
+2230,2004 Edmonton Eskimos season
+2231,1979 Winnipeg Blue Bombers season
+2232,2002 Saskatchewan Roughriders season
+2233,2004 Hamilton Tiger-Cats season
+2234,2006 Winnipeg Blue Bombers season
+2235,1969 Toronto Argonauts season
+2236,1968 Toronto Argonauts season
+2237,1967 Toronto Argonauts season
+2238,2005 Winnipeg Blue Bombers season
+2239,1966 Toronto Argonauts season
+2240,1965 Toronto Argonauts season
+2241,1964 Toronto Argonauts season
+2242,1963 Toronto Argonauts season
+2243,1962 Toronto Argonauts season
+2244,1959 Toronto Argonauts season
+2245,1958 Toronto Argonauts season
+2246,1957 Toronto Argonauts season
+2247,2003 Hamilton Tiger-Cats season
+2248,1956 Toronto Argonauts season
+2249,1955 Toronto Argonauts season
+2250,1954 Toronto Argonauts season
+2251,1953 Toronto Argonauts season
+2252,1952 Toronto Argonauts season
+2253,1951 Toronto Argonauts season
+2254,1950 Toronto Argonauts season
+2255,1949 Toronto Argonauts season
+2256,1948 Toronto Argonauts season
+2257,1947 Toronto Argonauts season
+2258,1946 Toronto Argonauts season
+2259,1945 Toronto Argonauts season
+2260,2009 Toronto Nationals season
+2261,2007 Rhein Fire season
+2262,2007 Frankfurt Galaxy season
+2263,2007 Berlin Thunder season
+2264,1945 Calgary Stampeders season
+2265,1946 Calgary Stampeders season
+2266,1947 Calgary Stampeders season
+2267,1948 Calgary Stampeders season
+2268,1949 Calgary Stampeders season
+2269,1950 Calgary Stampeders season
+2270,2007 Hamburg Sea Devils season
+2271,2007 Cologne Centurions season
+2272,2006 Rhein Fire season
+2273,1991 Frankfurt Galaxy season
+2274,1991 Barcelona Dragons season
+2275,1991 London Monarchs season
+2276,2003 Ottawa Renegades season
+2277,1996 Hamilton Tiger-Cats season
+2278,1997 Hamilton Tiger-Cats season
+2279,1998 Hamilton Tiger-Cats season
+2280,1999 Hamilton Tiger-Cats season
+2281,1992 London Monarchs season
+2282,1992 Barcelona Dragons season
+2283,2004 Winnipeg Blue Bombers season
+2284,2003 Winnipeg Blue Bombers season
+2285,1992 Frankfurt Galaxy season
+2286,2000 Rhein Fire season
+2287,1995 Rhein Fire season
+2288,1996 Rhein Fire season
+2289,1997 Rhein Fire season
+2290,1997 Barcelona Dragons season
+2291,1998 Barcelona Dragons season
+2292,2001 Rhein Fire season
+2293,2003 Rhein Fire season
+2294,2004 Berlin Thunder season
+2295,1998 Rhein Fire season
+2296,2002 Winnipeg Blue Bombers season
+2297,1997 Frankfurt Galaxy season
+2298,1998 Frankfurt Galaxy season
+2299,2001 Winnipeg Blue Bombers season
+2300,2000 Winnipeg Blue Bombers season
+2301,1999 Winnipeg Blue Bombers season
+2302,1998 Winnipeg Blue Bombers season
+2303,1997 Winnipeg Blue Bombers season
+2304,1996 Winnipeg Blue Bombers season
+2305,1991 Winnipeg Blue Bombers season
+2306,1992 Winnipeg Blue Bombers season
+2307,1993 Winnipeg Blue Bombers season
+2308,1994 Winnipeg Blue Bombers season
+2309,1998 Amsterdam Admirals season
+2310,1997 London Monarchs season
+2311,1998 England Monarchs season
+2312,2004 Rhein Fire season
+2313,1995 Frankfurt Galaxy season
+2314,1996 Frankfurt Galaxy season
+2315,1996 London Monarchs season
+2316,1995 London Monarchs season
+2317,1995 Amsterdam Admirals season
+2318,1996 Amsterdam Admirals season
+2319,1997 Amsterdam Admirals season
+2320,2004 Amsterdam Admirals season
+2321,2003 Frankfurt Galaxy season
+2322,2004 Frankfurt Galaxy season
+2323,2006 Hamburg Sea Devils season
+2324,2005 Hamburg Sea Devils season
+2325,2001 Saskatchewan Roughriders season
+2326,2010 Toronto Argonauts season
+2327,2010 Winnipeg Blue Bombers season
+2328,2010 Saskatchewan Roughriders season
+2329,2010 Edmonton Eskimos season
+2330,2010 Hamilton Tiger-Cats season
+2331,2010 Philadelphia Eagles season
+2332,2003 Montreal Alouettes season
+2333,2002 Montreal Alouettes season
+2334,2010 BC Lions season
+2335,2010 Calgary Stampeders season
+2336,2009 Florida Tuskers season
+2337,1995 Barcelona Dragons season
+2338,1996 Barcelona Dragons season
+2339,2003 Barcelona Dragons season
+2340,2005 Rhein Fire season
+2341,2010 Montreal Alouettes season
+2342,2010 Detroit Lions season
+2343,2010 New York Giants season
+2344,2010 Cleveland Browns season
+2345,2010 Pittsburgh Steelers season
+2346,2010 Tampa Bay Buccaneers season
+2347,2010 Cincinnati Bengals season
+2348,2010 New York Jets season
+2349,2010 Chicago Bears season
+2350,2010 New England Patriots season
+2351,2010 Carolina Panthers season
+2352,2010 Kansas City Chiefs season
+2353,2010 San Francisco 49ers season
+2354,2006 Frankfurt Galaxy season
+2355,2010 Miami Dolphins season
+2356,2010 Denver Broncos season
+2357,2010 St. Louis Rams season
+2358,1988 Chicago Bruisers season
+2359,2010 Green Bay Packers season
+2360,2010 Seattle Seahawks season
+2361,2010 Tennessee Titans season
+2362,2010 Houston Texans season
+2363,2010 Oakland Raiders season
+2364,2010 Jacksonville Jaguars season
+2365,2010 Washington Redskins season
+2366,2010 Atlanta Falcons season
+2367,2010 Buffalo Bills season
+2368,1960 Edmonton Eskimos season
+2369,2010 Arizona Cardinals season
+2370,2010 Baltimore Ravens season
+2371,2010 San Diego Chargers season
+2372,2010 Dallas Cowboys season
+2373,2010 Indianapolis Colts season
+2374,2010 Minnesota Vikings season
+2375,2010 New Orleans Saints season
+2376,2002 Rhein Fire season
+2377,2004 Cologne Centurions season
+2378,1960 Saskatchewan Roughriders season
+2379,1960 Winnipeg Blue Bombers season
+2380,2000 Frankfurt Galaxy season
+2381,2001 Montreal Alouettes season
+2382,2000 Montreal Alouettes season
+2383,1999 Montreal Alouettes season
+2384,2000 Saskatchewan Roughriders season
+2385,2003 Edmonton Eskimos season
+2386,2000 Hamilton Tiger-Cats season
+2387,2001 Hamilton Tiger-Cats season
+2388,2002 Hamilton Tiger-Cats season
+2389,2006 Cologne Centurions season
+2390,2006 Berlin Thunder season
+2391,2010 Orlando Predators season
+2392,2010 Tampa Bay Storm season
+2393,2010 Jacksonville Sharks season
+2394,2010 Alabama Vipers season
+2395,2010 Dallas Vigilantes season
+2396,1998 Montreal Alouettes season
+2397,1997 Montreal Alouettes season
+2398,2010 Oklahoma City Yard Dawgz season
+2399,2010 Tulsa Talons season
+2400,2010 Chicago Rush season
+2401,2010 Cleveland Gladiators season
+2402,2010 Iowa Barnstormers season
+2403,2010 Milwaukee Iron season
+2404,2010 Arizona Rattlers season
+2405,2010 Spokane Shock season
+2406,2010 Utah Blaze season
+2407,2002 Edmonton Eskimos season
+2408,1995 Memphis Mad Dogs season
+2409,1996 Montreal Alouettes season
+2410,2009 California Redwoods season
+2411,2009 New York Sentinels season
+2412,1994 Arizona Rattlers season
+2413,2009 Las Vegas Locomotives season
+2414,2005 Frankfurt Galaxy season
+2415,1982 Ottawa Rough Riders season
+2416,1983 Ottawa Rough Riders season
+2417,1984 Ottawa Rough Riders season
+2418,1985 Ottawa Rough Riders season
+2419,1986 Ottawa Rough Riders season
+2420,1987 Ottawa Rough Riders season
+2421,1988 Ottawa Rough Riders season
+2422,1989 Ottawa Rough Riders season
+2423,2002 Frankfurt Galaxy season
+2424,2010 Hartford Colonials season
+2425,2010 Florida Tuskers season
+2426,2010 Omaha Nighthawks season
+2427,2010 Las Vegas Locomotives season
+2428,2010 Sacramento Mountain Lions season
+2429,1980 Ottawa Rough Riders season
+2430,1999 Saskatchewan Roughriders season
+2431,1997 Scottish Claymores season
+2432,1988 Detroit Drive season
+2433,1988 Los Angeles Cobras season
+2434,2005 Berlin Thunder season
+2435,2005 Cologne Centurions season
+2436,2005 Amsterdam Admirals season
+2437,1996 Scottish Claymores season
+2438,1995 Scottish Claymores season
+2439,1977 Ottawa Rough Riders season
+2440,1978 Ottawa Rough Riders season
+2441,1979 Ottawa Rough Riders season
+2442,1975 Ottawa Rough Riders season
+2443,2001 Frankfurt Galaxy season
+2444,2001 Barcelona Dragons season
+2445,2001 Berlin Thunder season
+2446,1974 Ottawa Rough Riders season
+2447,1998 Saskatchewan Roughriders season
+2448,1997 Saskatchewan Roughriders season
+2449,1996 Saskatchewan Roughriders season
+2450,1972 Ottawa Rough Riders season
+2451,1971 Ottawa Rough Riders season
+2452,1970 Ottawa Rough Riders season
+2453,1967 Ottawa Rough Riders season
+2454,2010 Toronto Nationals season
+2455,1955 Ottawa Rough Riders season
+2456,1925 Hartford Blues season
+2457,1924 Waterbury Blues season
+2458,1927 Hartford Giants season
+2459,1989 Winnipeg Blue Bombers season
+2460,1987 Winnipeg Blue Bombers season
+2461,1986 Winnipeg Blue Bombers season
+2462,1985 Winnipeg Blue Bombers season
+2463,1994 Baltimore CFLers season
+2464,2011 Dallas Cowboys season
+2465,2011 Winnipeg Blue Bombers season
+2466,2011 Edmonton Eskimos season
+2467,2011 Hamilton Tiger-Cats season
+2468,2011 BC Lions season
+2469,1905 Canton Bulldogs season
+2470,1906 Canton Bulldogs season
+2471,1911 Canton Bulldogs season
+2472,1994 Saskatchewan Roughriders season
+2473,2004 Scottish Claymores season
+2474,1919 Canton Bulldogs season
+2475,1916 Canton Bulldogs season
+2476,2011 Toronto Argonauts season
+2477,1912 Canton Bulldogs season
+2478,1914 Canton Bulldogs season
+2479,1913 Canton Bulldogs season
+2480,2011 Calgary Stampeders season
+2481,1895 Latrobe Athletic Association season
+2482,1896 Latrobe Athletic Association season
+2483,1897 Latrobe Athletic Association season
+2484,1898 Latrobe Athletic Association season
+2485,1899 Latrobe Athletic Association season
+2486,1900 Latrobe Athletic Association season
+2487,1901 Latrobe Athletic Association season
+2488,1902 Latrobe Athletic Association season
+2489,1903 Latrobe Athletic Association season
+2490,1904 Latrobe Athletic Association season
+2491,1905 Latrobe Athletic Association season
+2492,1906 Latrobe Athletic Association season
+2493,1907 Latrobe Athletic Association season
+2494,1894 Greensburg Athletic Association season
+2495,1895 Greensburg Athletic Association season
+2496,1896 Greensburg Athletic Association season
+2497,1897 Greensburg Athletic Association season
+2498,1898 Greensburg Athletic Association season
+2499,1900 Greensburg Athletic Association season
+2500,1893 Greensburg Athletic Association season
+2501,1892 Greensburg Athletic Association season
+2502,1891 Greensburg Athletic Association season
+2503,1890 Greensburg Athletic Association season
+2504,1891 Pittsburgh Athletic Club football season
+2505,1892 Pittsburgh Athletic Club football season
+2506,1893 Pittsburgh Athletic Club football season
+2507,1894 Pittsburgh Athletic Club football season
+2508,1895 Pittsburgh Athletic Club football season
+2509,1896 Pittsburgh Athletic Club football season
+2510,1898 Duquesne Country and Athletic Club season
+2511,1903 Franklin Athletic Club season
+2512,2011 New York Giants season
+2513,2011 Philadelphia Eagles season
+2514,2011 Washington Redskins season
+2515,1902 Pittsburgh Stars season
+2516,1902 Philadelphia Athletics (NFL) season
+2517,1902 Philadelphia Phillies (NFL) season
+2518,1903 Philadelphia Athletics (NFL) season
+2519,2011 Saskatchewan Roughriders season
+2520,2011 Montreal Alouettes season
+2521,1903 Massillon Tigers season
+2522,1904 Massillon Tigers season
+2523,1905 Massillon Tigers season
+2524,1906 Massillon Tigers season
+2525,1907 All-Massillons season
+2526,1919 Massillon Tigers season
+2527,1915 Canton Bulldogs season
+2528,1917 Massillon Tigers season
+2529,1916 Massillon Tigers season
+2530,1915 Massillon Tigers season
+2531,1917 Canton Bulldogs season
+2532,1918 Dayton Triangles season
+2533,1919 Dayton Triangles season
+2534,1917 Dayton Triangles season
+2535,1916 Dayton Triangles season
+2536,1915 Dayton Gym-Cadets season
+2537,1914 Dayton St. Mary's Cadets season
+2538,1913 Dayton St. Mary's Cadets season
+2539,1913 Akron Indians season
+2540,1914 Akron Indians season
+2541,1919 Akron Indians season
+2542,1912 Akron Indians season
+2543,1911 Akron Indians season
+2544,1910 Akron Indians season
+2545,1919 Buffalo Prospects season
+2546,1918 Buffalo Niagaras season
+2547,1917 Buffalo All-Stars season
+2548,1916 Buffalo All-Stars season
+2549,1915 Buffalo All-Stars season
+2550,1919 Cleveland Indians (NFL) season
+2551,1916 Cleveland Indians (NFL) season
+2552,1946 Montreal Alouettes season
+2553,2011 Tampa Bay Storm season
+2554,2011 Orlando Predators season
+2555,2011 New Orleans VooDoo season
+2556,2011 Jacksonville Sharks season
+2557,2011 Georgia Force season
+2558,2011 Cleveland Gladiators season
+2559,2011 Milwaukee Mustangs season
+2560,2011 Philadelphia Soul season
+2561,1951 Ottawa Rough Riders season
+2562,1940 Ottawa Rough Riders season
+2563,1926 Ottawa Senators season
+2564,1925 Ottawa Senators season
+2565,1982 Montreal Concordes season
+2566,1986 Montreal Alouettes season
+2567,1987 Montreal Alouettes season
+2568,1974 Montreal Alouettes season
+2569,1970 Montreal Alouettes season
+2570,1949 Montreal Alouettes season
+2571,2011 Cleveland Browns season
+2572,2011 Denver Broncos season
+2573,1981 Winnipeg Blue Bombers season
+2574,1980 Winnipeg Blue Bombers season
+2575,1982 Winnipeg Blue Bombers season
+2576,1983 Winnipeg Blue Bombers season
+2577,1981 Hamilton Tiger-Cats season
+2578,1982 Hamilton Tiger-Cats season
+2579,1983 Hamilton Tiger-Cats season
+2580,1987 Hamilton Tiger-Cats season
+2581,1988 Hamilton Tiger-Cats season
+2582,2011 San Francisco 49ers season
+2583,2011 Carolina Panthers season
+2584,2011 Pittsburgh Steelers season
+2585,2011 Buffalo Bills season
+2586,2011 New York Jets season
+2587,2011 Houston Texans season
+2588,2011 Tennessee Titans season
+2589,2011 Detroit Lions season
+2590,2011 Baltimore Ravens season
+2591,2011 Minnesota Vikings season
+2592,2011 St. Louis Rams season
+2593,2011 Cincinnati Bengals season
+2594,2011 New England Patriots season
+2595,2011 San Diego Chargers season
+2596,2011 Oakland Raiders season
+2597,2011 Tampa Bay Buccaneers season
+2598,2011 Miami Dolphins season
+2599,2011 Arizona Cardinals season
+2600,2011 Jacksonville Jaguars season
+2601,2011 Seattle Seahawks season
+2602,2011 Kansas City Chiefs season
+2603,2011 Atlanta Falcons season
+2604,2011 New Orleans Saints season
+2605,2011 Chicago Bears season
+2606,2011 Green Bay Packers season
+2607,2011 Indianapolis Colts season
+2608,2003 Berlin Thunder season
+2609,2003 Amsterdam Admirals season
+2610,2000 Amsterdam Admirals season
+2611,2000 Barcelona Dragons season
+2612,2000 Berlin Thunder season
+2613,2000 Scottish Claymores season
+2614,2011 Pittsburgh Power season
+2615,2011 Chicago Rush season
+2616,1919 Rochester Jeffersons season
+2617,2011 Dallas Vigilantes season
+2618,2001 Amsterdam Admirals season
+2619,2001 Scottish Claymores season
+2620,2011 Iowa Barnstormers season
+2621,2002 Berlin Thunder season
+2622,2011 Kansas City Command season
+2623,2011 Denver Outlaws season
+2624,2011 Tulsa Talons season
+2625,2011 Arizona Rattlers season
+2626,2011 San Jose SaberCats season
+2627,2011 Spokane Shock season
+2628,2011 Utah Blaze season
+2629,1983 Montreal Concordes season
+2630,1978 Winnipeg Blue Bombers season
+2631,1984 Montreal Concordes season
+2632,1985 Montreal Concordes season
+2633,2002 Amsterdam Admirals season
+2634,2002 Barcelona Dragons season
+2635,2002 Scottish Claymores season
+2636,1999 Berlin Thunder season
+2637,1999 Barcelona Dragons season
+2638,1999 Frankfurt Galaxy season
+2639,1999 Amsterdam Admirals season
+2640,1999 Rhein Fire season
+2641,1999 Scottish Claymores season
+2642,1998 Scottish Claymores season
+2643,1959 Ottawa Rough Riders season
+2644,1958 Ottawa Rough Riders season
+2645,1957 Ottawa Rough Riders season
+2646,1956 Ottawa Rough Riders season
+2647,1996 Minnesota Fighting Pike season
+2648,1989 Denver Dynamite season
+2649,2001 Edmonton Eskimos season
+2650,1962 Winnipeg Blue Bombers season
+2651,1958 Winnipeg Blue Bombers season
+2652,1961 Winnipeg Blue Bombers season
+2653,1959 Winnipeg Blue Bombers season
+2654,1935 Winnipeg Winnipegs season
+2655,1939 Winnipeg Blue Bombers season
+2656,1941 Winnipeg Blue Bombers season
+2657,2010 Fort Wayne FireHawks season
+2658,1953 Hamilton Tiger-Cats season
+2659,1957 Hamilton Tiger-Cats season
+2660,1963 Hamilton Tiger-Cats season
+2661,1965 Hamilton Tiger-Cats season
+2662,1967 Hamilton Tiger-Cats season
+2663,2010 Cincinnati Commandos season
+2664,2011 Cincinnati Commandos season
+2665,2010 Chicago Cardinals season
+2666,2010 Marion Mayhem season
+2667,2010 Miami Valley Silverbacks season
+2668,2011 Dayton Silverbacks season
+2669,2010 Wisconsin Wolfpack season
+2670,2011 Chicago Knights season
+2671,2011 Indianapolis Enforcers season
+2672,2011 Marion Blue Racers season
+2673,2011 Port Huron Predators season
+2674,1995 Shreveport Pirates season
+2675,1993 Edmonton Eskimos season
+2676,1994 Las Vegas Posse season
+2677,2003 Scottish Claymores season
+2678,2011 Omaha Nighthawks season
+2679,1995 San Antonio Texans season
+2680,1994 Sacramento Gold Miners season
+2681,2011 Canton Cougars season
+2682,2011 Eastern Kentucky Drillers season
+2683,2011 Johnstown Generals season
+2684,2011 Huntington Hammer season
+2685,2011 Northern Kentucky River Monsters season
+2686,2011 Saginaw Sting season
+2687,2011 Las Vegas Locomotives season
+2688,2011 Sacramento Mountain Lions season
+2689,2011 Virginia Destroyers season
+2690,1978 Montreal Alouettes season
+2691,1979 Montreal Alouettes season
+2692,1916 Columbus Panhandles season
+2693,1913 Columbus Panhandles season
+2694,1914 Columbus Panhandles season
+2695,1915 Columbus Panhandles season
+2696,1950 Hamilton Tiger-Cats season
+2697,1935 Calgary Bronks season
+2698,1919 Columbus Panhandles season
+2699,1919 Rock Island Independents season
+2700,1918 Columbus Panhandles season
+2701,1917 Columbus Panhandles season
+2702,1910 Columbus Panhandles season
+2703,1949 Edmonton Eskimos season
+2704,1949 Hamilton Wildcats season
+2705,1949 Hamilton Tigers season
+2706,1936 Pittsburgh Americans season
+2707,1937 Pittsburgh Americans season
+2708,2012 Iowa Barnstormers season
+2709,1924 Pottsville Maroons season
+2710,1923 Pottsville Maroons season
+2711,1922 Pottsville Maroons season
+2712,1923 Frankford Yellow Jackets season
+2713,1922 Frankford Yellow Jackets season
+2714,1926 Rock Island Independents season
+2715,1927 Rock Island Independents season
+2716,1918 Rock Island Independents season
+2717,1919 Decatur Staleys season
+2718,2012 Toronto Argonauts season
+2719,1954 Ottawa Rough Riders season
+2720,1953 Ottawa Rough Riders season
+2721,1952 Ottawa Rough Riders season
+2722,1950 Ottawa Rough Riders season
+2723,1949 Ottawa Rough Riders season
+2724,1948 Ottawa Rough Riders season
+2725,1947 Ottawa Rough Riders season
+2726,1946 Ottawa Rough Riders season
+2727,1945 Ottawa Rough Riders season
+2728,1942 Ottawa Rough Riders season
+2729,1941 Ottawa Rough Riders season
+2730,2012 Saskatchewan Roughriders season
+2731,1954 Edmonton Eskimos season
+2732,1955 Edmonton Eskimos season
+2733,1956 Edmonton Eskimos season
+2734,1939 Ottawa Rough Riders season
+2735,1938 Ottawa Rough Riders season
+2736,2012 Montreal Alouettes season
+2737,2012 Calgary Stampeders season
+2738,2012 Hamilton Tiger-Cats season
+2739,2012 Edmonton Eskimos season
+2740,2012 Winnipeg Blue Bombers season
+2741,2012 BC Lions season
+2742,1937 Ottawa Rough Riders season
+2743,1936 Ottawa Rough Riders season
+2744,2012 St. Louis Rams season
+2745,2012 Cleveland Browns season
+2746,2012 Philadelphia Eagles season
+2747,2012 Chicago Bears season
+2748,2012 Miami Dolphins season
+2749,2012 Jacksonville Jaguars season
+2750,2012 Pittsburgh Steelers season
+2751,2012 Cincinnati Bengals season
+2752,2012 Denver Broncos season
+2753,2012 Baltimore Ravens season
+2754,2012 New York Giants season
+2755,2012 Carolina Panthers season
+2756,2012 Seattle Seahawks season
+2757,2012 Oakland Raiders season
+2758,2012 Buffalo Bills season
+2759,2012 Minnesota Vikings season
+2760,2012 Tampa Bay Buccaneers season
+2761,2012 Indianapolis Colts season
+2762,2012 San Diego Chargers season
+2763,2012 Kansas City Chiefs season
+2764,2012 Arizona Cardinals season
+2765,2012 Washington Redskins season
+2766,2012 New York Jets season
+2767,2012 Tennessee Titans season
+2768,2012 Dallas Cowboys season
+2769,2012 San Francisco 49ers season
+2770,2012 Houston Texans season
+2771,2012 Green Bay Packers season
+2772,2012 Atlanta Falcons season
+2773,2012 New Orleans Saints season
+2774,2012 New England Patriots season
+2775,2012 Detroit Lions season
+2776,2012 Tampa Bay Storm season
+2777,2012 Orlando Predators season
+2778,2012 New Orleans VooDoo season
+2779,2005 Tampa Bay Storm season
+2780,2012 Jacksonville Sharks season
+2781,2012 Cleveland Gladiators season
+2782,2012 Indianapolis Enforcers season
+2783,2012 Dayton Silverbacks season
+2784,2012 Chicago Pythons season
+2785,2012 Port Huron Patriots season
+2786,2012 Evansville Rage season
+2787,2012 Saginaw Sting season
+2788,2012 Milwaukee Mustangs season
+2789,2012 Philadelphia Soul season
+2790,2012 Pittsburgh Power season
+2791,2012 Georgia Force season
+2792,1935 Ottawa Rough Riders season
+2793,1934 Ottawa Rough Riders season
+2794,1933 Ottawa Rough Riders season
+2795,1932 Ottawa Rough Riders season
+2796,1931 Ottawa Rough Riders season
+2797,1930 Ottawa Senators season
+2798,1929 Ottawa Senators season
+2799,1928 Ottawa Senators season
+2800,1927 Ottawa Senators season
+2801,2009 Miami Valley Silverbacks season
+2802,2008 Miami Valley Silverbacks season
+2803,2007 Miami Valley Silverbacks season
+2804,2006 Miami Valley Silverbacks season
+2805,2009 Saginaw Sting season
+2806,2008 Saginaw Sting season
+2807,2009 Milwaukee Bonecrushers season
+2808,2008 Milwaukee Bonecrushers season
+2809,2009 Wisconsin Wolfpack season
+2810,2012 Chicago Rush season
+2811,2012 Virginia Destroyers season
+2812,2012 Utah Blaze season
+2813,2012 Kansas City Command season
+2814,2012 San Antonio Talons season
+2815,2012 Arizona Rattlers season
+2816,2012 San Jose SaberCats season
+2817,2012 Spokane Shock season
+2818,1924 Ottawa Rough Riders season
+2819,1923 Ottawa Rough Riders season
+2820,1922 Ottawa Rough Riders season
+2821,1921 Ottawa Rough Riders season
+2822,1920 Ottawa Rough Riders season
+2823,1919 Ottawa Rough Riders season
+2824,1907 Rock Island Independents season
+2825,1908 Rock Island Independents season
+2826,1917 Rock Island Independents season
+2827,1916 Rock Island Independents season
+2828,1915 Rock Island Independents season
+2829,1914 Rock Island Independents season
+2830,1909 Rock Island Independents season
+2831,1912 Rock Island Independents season
+2832,1910 Rock Island Independents season
+2833,1913 Rock Island Independents season
+2834,1915 Akron Indians season
+2835,1936 Calgary Bronks season
+2836,2012 Cincinnati Commandos season
+2837,1937 Calgary Bronks season
+2838,1938 Calgary Bronks season
+2839,1939 Calgary Bronks season
+2840,1940 Calgary Bronks season
+2841,1938 Toronto Argonauts season
+2842,1937 Toronto Argonauts season
+2843,1933 Toronto Argonauts season
+2844,1921 Toronto Argonauts season
+2845,1941 Toronto Argonauts season
+2846,1940 Toronto Argonauts season
+2847,1939 Toronto Argonauts season
+2848,2009 Marion Mayhem season
+2849,2008 Marion Mayhem season
+2850,2007 Marion Mayhem season
+2851,2006 Marion Mayhem season
+2852,2012 Cedar Rapids Titans season
+2853,2012 Marion Blue Racers season
+2854,2012 Eastern Kentucky Drillers season
+2855,1991 Birmingham Fire season
+2856,1992 Birmingham Fire season
+2857,2012 Las Vegas Locomotives season
+2858,2012 Omaha Nighthawks season
+2859,2012 Sacramento Mountain Lions season
+2860,2011 Allen Wranglers season
+2861,2012 Allen Wranglers season
+2862,2013 Texas Revolution season
+2863,2010 Arkansas Diamonds season
+2864,2009 Arkansas Twisters season
+2865,2013 Marion Blue Racers season
+2866,2008 Arkansas Twisters season
+2867,1969 Hamilton Tiger-Cats season
+2868,1914 Toronto Argonauts season
+2869,2013 Hamilton Tiger-Cats season
+2870,2013 Winnipeg Blue Bombers season
+2871,2013 Dayton Sharks season
+2872,2013 Kane County Dawgs season
+2873,2013 Kentucky Xtreme season
+2874,2013 Saginaw Sting season
+2875,2013 Port Huron Patriots season
+2876,2013 Owensboro Rage season
+2877,2013 Erie Explosion season
+2878,2013 Detroit Thunder season
+2879,2013 Kentucky Drillers season
+2880,2013 Edmonton Eskimos season
+2881,2013 Saskatchewan Roughriders season
+2882,2013 Montreal Alouettes season
+2883,2013 BC Lions season
+2884,2013 Buffalo Bills season
+2885,2013 Miami Dolphins season
+2886,2013 New England Patriots season
+2887,2013 New York Jets season
+2888,2013 Cincinnati Bengals season
+2889,2013 Baltimore Ravens season
+2890,2013 Pittsburgh Steelers season
+2891,2013 Cleveland Browns season
+2892,2013 Houston Texans season
+2893,2013 Jacksonville Jaguars season
+2894,2013 Indianapolis Colts season
+2895,2013 Denver Broncos season
+2896,2013 Tennessee Titans season
+2897,2013 Kansas City Chiefs season
+2898,2013 Oakland Raiders season
+2899,2013 San Diego Chargers season
+2900,2013 Dallas Cowboys season
+2901,2013 Philadelphia Eagles season
+2902,2013 New York Giants season
+2903,2013 Washington Redskins season
+2904,2013 Chicago Bears season
+2905,2013 Detroit Lions season
+2906,2013 Green Bay Packers season
+2907,2013 Atlanta Falcons season
+2908,2013 Minnesota Vikings season
+2909,2013 Carolina Panthers season
+2910,2013 New Orleans Saints season
+2911,2013 Tampa Bay Buccaneers season
+2912,2013 Arizona Cardinals season
+2913,2013 St. Louis Rams season
+2914,2013 San Francisco 49ers season
+2915,2013 Seattle Seahawks season
+2916,2013 Calgary Stampeders season
+2917,2013 Toronto Argonauts season
+2918,2012 Erie Explosion season
+2919,2013 Tampa Bay Storm season
+2920,2013 Orlando Predators season
+2921,2013 New Orleans VooDoo season
+2922,2013 Jacksonville Sharks season
+2923,1990 Denver Dynamite season
+2924,1991 Denver Dynamite season
+2925,2013 Cleveland Gladiators season
+2926,1988 Pittsburgh Gladiators season
+2927,2013 Philadelphia Soul season
+2928,1988 New England Steamrollers season
+2929,2013 Pittsburgh Power season
+2930,2013 Chicago Rush season
+2931,2013 Iowa Barnstormers season
+2932,2013 San Antonio Talons season
+2933,1988 New York Knights season
+2934,2013 Arizona Rattlers season
+2935,2013 San Jose SaberCats season
+2936,2013 Spokane Shock season
+2937,2013 Utah Blaze season
+2938,2013 Cedar Rapids Titans season
+2939,1989 Pittsburgh Gladiators season
+2940,1989 Detroit Drive season
+2941,1989 Chicago Bruisers season
+2942,1989 Maryland Commandos season
+2943,1990 Washington Commandos season
+2944,1990 Detroit Drive season
+2945,1990 Pittsburgh Gladiators season
+2946,1990 Dallas Texans season
+2947,1990 Albany Firebirds season
+2948,1936 Toronto Argonauts season
+2949,1935 Toronto Argonauts season
+2950,1934 Toronto Argonauts season
+2951,1932 Toronto Argonauts season
+2952,1931 Toronto Argonauts season
+2953,1930 Toronto Argonauts season
+2954,1929 Toronto Argonauts season
+2955,1928 Toronto Argonauts season
+2956,1927 Toronto Argonauts season
+2957,1926 Toronto Argonauts season
+2958,1925 Toronto Argonauts season
+2959,1924 Toronto Argonauts season
+2960,1923 Toronto Argonauts season
+2961,1922 Toronto Argonauts season
+2962,1920 Toronto Argonauts season
+2963,1919 Toronto Argonauts season
+2964,1915 Toronto Argonauts season
+2965,1913 Toronto Argonauts season
+2966,1991 Detroit Drive season
+2967,1991 Tampa Bay Storm season
+2968,1991 Albany Firebirds season
+2969,1912 Toronto Argonauts season
+2970,1911 Toronto Argonauts season
+2971,1910 Toronto Argonauts season
+2972,1909 Toronto Argonauts season
+2973,2013 Wyoming Cavalry season
+2974,1908 Toronto Argonauts season
+2975,1907 Toronto Argonauts season
+2976,1915 Ottawa Rough Riders season
+2977,1991 Dallas Texans season
+2978,1914 Ottawa Rough Riders season
+2979,1913 Ottawa Rough Riders season
+2980,1912 Ottawa Rough Riders season
+2981,1911 Ottawa Rough Riders season
+2982,1910 Ottawa Rough Riders season
+2983,1991 Orlando Predators season
+2984,1909 Ottawa Rough Riders season
+2985,1908 Ottawa Rough Riders season
+2986,1907 Ottawa Rough Riders season
+2987,1991 Columbus Thunderbolts season
+2988,2013 Colorado Ice season
+2989,2013 Chicago Slaughter season
+2990,1992 San Antonio Force season
+2991,2012 Colorado Ice season
+2992,2011 Colorado Ice season
+2993,1992 Orlando Predators season
+2994,1992 Tampa Bay Storm season
+2995,1992 Charlotte Rage season
+2996,1992 Detroit Drive season
+2997,1992 Cincinnati Rockers season
+2998,2013 Green Bay Blizzard season
+2999,2013 Sioux Falls Storm season
+3000,1992 Albany Firebirds season
+3001,1992 Cleveland Thunderbolts season
+3002,1992 Dallas Texans season

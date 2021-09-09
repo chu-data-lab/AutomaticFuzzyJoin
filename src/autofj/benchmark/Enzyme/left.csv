@@ -1,0 +1,3918 @@
+id,title
+0,Adenylate cyclase
+1,Chymotrypsin
+2,DNA ligase
+3,Lactase
+4,Monoamine oxidase
+5,Restriction enzyme
+6,Superoxide dismutase
+7,Trypsin
+8,Autolysin
+9,Chitinase
+10,Amylase
+11,Chymosin
+12,Beta-galactosidase
+13,Alcohol dehydrogenase
+14,Cytochrome c oxidase
+15,NADH dehydrogenase (ubiquinone)
+16,Xanthine oxidase
+17,Iodothyronine deiodinase
+18,Ornithine decarboxylase
+19,Dihydrofolate reductase
+20,Hexokinase
+21,ATPase
+22,Urease
+23,Pepsin
+24,ATP synthase
+25,Glutathione peroxidase
+26,RNA polymerase
+27,DNA polymerase
+28,Telomerase
+29,RuBisCO
+30,Cyclooxygenase
+31,Cytochrome c peroxidase
+32,Protein kinase A
+33,Histone methyltransferase
+34,Cellulase
+35,Maltase
+36,Small GTPase
+37,Helicase
+38,Tryptophan synthase
+39,Acetaldehyde dehydrogenase
+40,Aspartate carbamoyltransferase
+41,Protein disulfide-isomerase
+42,RNase H
+43,Phosphofructokinase 1
+44,PFP (enzyme)
+45,Pyruvate kinase
+46,AMP-activated protein kinase
+47,Lysozyme
+48,Histone acetyltransferase
+49,Guanylate cyclase
+50,Arginase
+51,Cyclin-dependent kinase
+52,RecBCD
+53,Choline acetyltransferase
+54,Ubiquitin ligase
+55,Serine protease
+56,Angiotensin-converting enzyme
+57,Bromelain
+58,Creatine kinase
+59,Ribonucleotide reductase
+60,Alkaline phosphatase
+61,Thiaminase
+62,Aromatic L-amino acid decarboxylase
+63,Glucose oxidase
+64,DNA gyrase
+65,Transglutaminase
+66,Nitric oxide synthase
+67,Phosphorylase
+68,Thioredoxin reductase
+69,Aspartate transaminase
+70,Succinate dehydrogenase
+71,Nitrogenase
+72,Glutamate dehydrogenase
+73,DD-transpeptidase
+74,Malate dehydrogenase
+75,Photosystem I
+76,Mitogen-activated protein kinase
+77,Hyaluronidase
+78,C3-convertase
+79,Protein kinase C
+80,Epoxide hydrolase
+81,Isocitrate dehydrogenase
+82,Glutathione S-transferase
+83,5-alpha reductase
+84,Myeloperoxidase
+85,Histone deacetylase
+86,Acrosin
+87,Thymidine kinase
+88,Sarcosine oxidase
+89,Oxoglutarate dehydrogenase complex
+90,Cysteine dioxygenase
+91,Neuraminidase
+92,Glutamate decarboxylase
+93,Glycogen phosphorylase
+94,Granzyme B
+95,Pullulanase
+96,Phospholipase A2
+97,Invertase
+98,Cancer procoagulant
+99,Glucose-6-phosphate isomerase
+100,Aconitase
+101,Poly ADP ribose polymerase
+102,Cytochrome b6f complex
+103,Tryptase
+104,Pyruvate carboxylase
+105,Peptidyl transferase
+106,Glycogenin
+107,Nucleoside-diphosphate kinase
+108,Beta-glucuronidase
+109,Acetyl-CoA carboxylase
+110,Xylanase
+111,L-gulonolactone oxidase
+112,Enteropeptidase
+113,Triosephosphate isomerase
+114,Semenogelase
+115,Farnesyltransferase
+116,Phosphofructokinase 2
+117,Glutamine synthetase
+118,11-Beta hydroxysteroid dehydrogenase
+119,Transketolase
+120,Plasmepsin
+121,Glycogen synthase
+122,Micrococcal nuclease
+123,Pyruvate decarboxylase
+124,Kynureninase
+125,Glucose 6-phosphatase
+126,Thyroid peroxidase
+127,Glucuronosyltransferase
+128,Protein tyrosine phosphatase
+129,Separase
+130,Argininosuccinate synthase
+131,Argininosuccinate lyase
+132,Heme oxygenase
+133,Glycogen branching enzyme
+134,MAP kinase kinase kinase
+135,Enolase
+136,Aldehyde dehydrogenase
+137,Biliverdin reductase
+138,Dihydrobenzophenanthridine oxidase
+139,Succinyl coenzyme A synthetase
+140,4-Hydroxyphenylpyruvate dioxygenase
+141,Sphingosine kinase
+142,Catechol oxidase
+143,DMSO reductase
+144,Muconate lactonizing enzyme
+145,Mandelate racemase
+146,Porphobilinogen synthase
+147,Sulfite oxidase
+148,Nitrite reductase
+149,Acid phosphatase
+150,Purine nucleoside phosphorylase
+151,Ribonuclease A
+152,Cathepsin e
+153,Gelatinase a
+154,Glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+155,Pyruvate dehydrogenase (NADP+)
+156,Ferroxidase
+157,Site-specific DNA-methyltransferase (cytosine-N4-specific)
+158,Site-specific DNA-methyltransferase (adenine-specific)
+159,Histone-arginine N-methyltransferase
+160,DNA-directed DNA polymerase
+161,Glycosylphosphatidylinositol phospholipase D
+162,Phospholipase D
+163,Type I site-specific deoxyribonuclease
+164,DNA topoisomerase
+165,DNA ligase (NAD+)
+166,B-amylase
+167,Nitrate reductase
+168,Interstitial collagenase
+169,Granzyme A
+170,Pepsin B
+171,Pepsin A
+172,Aspergillopepsin I
+173,Phosphodiesterase I
+174,Plasma kallikrein
+175,Alternative-complement-pathway C3/C5 convertase
+176,Pancreatic elastase
+177,Endopeptidase Clp
+178,Cathepsin L
+179,Cathepsin T
+180,Cathepsin V
+181,Gelatinase B
+182,L-lactate dehydrogenase (cytochrome)
+183,"Catechol 2,3-dioxygenase"
+184,"Catechol 1,2-dioxygenase"
+185,Membrane-type matrix metalloproteinase-1
+186,D-arginase
+187,Neutrophil collagenase
+188,Microbial collagenase
+189,Carboxypeptidase u
+190,Diacylglycerol kinase
+191,Deoxyribonuclease V
+192,Exodeoxyribonuclease I
+193,Sphingomyelin phosphodiesterase D
+194,Sphingomyelin phosphodiesterase
+195,Beta-glucosidase
+196,Phosphoenolpyruvate carboxylase
+197,Phosphoenolpyruvate carboxykinase (ATP)
+198,Phosphoenolpyruvate carboxykinase (diphosphate)
+199,Sulfite reductase (ferredoxin)
+200,"1,4-a-glucan 6-a-glucosyltransferase"
+201,Receptor tyrosine kinase
+202,G protein-coupled receptor kinase
+203,Oxaloacetate decarboxylase
+204,Phosphoglycerate kinase
+205,Bisphosphoglycerate mutase
+206,Hydroxymethylglutaryl-CoA reductase
+207,Uroporphyrinogen III synthase
+208,Ferrochelatase
+209,Ribonucleoside-triphosphate reductase
+210,5'-nucleotidase
+211,Alpha-Mannosidase
+212,Hexosaminidase
+213,Alpha-glucosidase
+214,Steroid 17a-monooxygenase
+215,Lumazine synthase
+216,Renal tissue kallikrein
+217,Clostripain
+218,Galactosylceramidase
+219,Cerebroside-sulfatase
+220,Steryl-sulfatase
+221,Cytosol alanyl aminopeptidase
+222,Malonyl-CoA decarboxylase
+223,Vitamin K epoxide reductase
+224,Prolyl isomerase
+225,Aspartoacylase
+226,Geranylgeranyltransferase type 1
+227,Subtilisin
+228,D-amino acid oxidase
+229,Laccase
+230,Arylsulfatase
+231,N4-(beta-N-acetylglucosaminyl)-L-asparaginase
+232,N-acetylgalactosamine-4-sulfatase
+233,Alkylglycerone phosphate synthase
+234,3-beta-HSD
+235,Alcohol sulfotransferase
+236,Aspartokinase
+237,Orotidine 5'-phosphate decarboxylase
+238,Capping enzyme
+239,Serine/threonine-specific protein kinase
+240,Phosphorylase kinase
+241,RNA-dependent RNA polymerase
+242,Aldose reductase
+243,Tryptophan hydroxylase
+244,Ubiquitin-activating enzyme
+245,Ubiquitin-conjugating enzyme
+246,Galactoside O-acetyltransferase
+247,Pectinesterase
+248,Hyaluronan synthase
+249,Pyruvate dehydrogenase
+250,Propionyl-CoA carboxylase
+251,Enoyl-acyl carrier protein reductase
+252,Fatty acid synthase
+253,Thermolysin
+254,Adamalysin
+255,Dihydropteroate synthase
+256,Myrosinase
+257,Delta-cadinene synthase
+258,Chalcone synthase
+259,Pyruvate dehydrogenase kinase
+260,Mitogen-activated protein kinase kinase
+261,Serotonin N-acetyltransferase
+262,CTP synthetase
+263,Dihydroorotate dehydrogenase
+264,Myosin ATPase
+265,Myeloblastin
+266,Acetolactate synthase
+267,Cytochrome b5 reductase
+268,Glycerol kinase
+269,Ribonuclease T1
+270,Heterotrimeric G protein
+271,3-hydroxy-3-methylglutaryl-CoA lyase
+272,Prostacyclin synthase
+273,Phospholipase A1
+274,Aldehyde oxidase
+275,Polyphenol oxidase
+276,Glutaminase
+277,Serine hydroxymethyltransferase
+278,17Beta Hydroxysteroid dehydrogenase
+279,Transaldolase
+280,TEV protease
+281,Lysin
+282,Phosphopentose epimerase
+283,Nitrile hydratase
+284,Staphylokinase
+285,Acetoacetate decarboxylase
+286,Phenylalanine racemase (ATP-hydrolysing)
+287,Amine dehydrogenase
+288,L-isoaspartyl methyltransferase
+289,Farnesyl-diphosphate farnesyltransferase
+290,Squalene monooxygenase
+291,Lanosterol synthase
+292,Stem bromelain
+293,Fruit bromelain
+294,Calpain-1
+295,Calpain-2
+296,"Lysine 2,3-aminomutase"
+297,Mevalonate kinase
+298,Phosphomevalonate kinase
+299,Fructose-bisphosphate aldolase
+300,L-xylulose reductase
+301,"Homogentisate 1,2-dioxygenase"
+302,Dynein ATPase
+303,Cu2+-exporting ATPase
+304,Plus-end-directed kinesin ATPase
+305,Minus-end-directed kinesin ATPase
+306,Tubulin GTPase
+307,Nitrate reductase (NADPH)
+308,Nitrate reductase (cytochrome)
+309,Nitrate reductase (NAD(P)H)
+310,Nitrate reductase (NADH)
+311,Glycerol-3-phosphate dehydrogenase
+312,Lactate racemase
+313,Methylmalonyl CoA epimerase
+314,Atrazine chlorohydrolase
+315,Pyridoxine 5'-phosphate oxidase
+316,AIR synthetase (FGAM cyclase)
+317,Sucrose phosphorylase
+318,Ficain
+319,Barbiturase
+320,Actinidain
+321,Chlorophyllase
+322,"Glucose-1,6-bisphosphate synthase"
+323,Pantothenate kinase
+324,Arginine:glycine amidinotransferase
+325,Fructokinase
+326,Acetylserotonin O-methyltransferase
+327,Prostaglandin E synthase
+328,Alpha-amylase
+329,Dimethylallyltranstransferase
+330,Pappalysin-1
+331,Carboxypeptidase A
+332,Glutamate carboxypeptidase
+333,Carboxypeptidase c
+334,Carbamoyl phosphate synthase II
+335,Orotate phosphoribosyltransferase
+336,Heparosan-N-sulfate-glucuronate 5-epimerase
+337,IMP dehydrogenase
+338,Adenylosuccinate synthase
+339,Polynucleotide phosphorylase
+340,Endoglycosidase H
+341,Ornithine aminotransferase
+342,Ribose-phosphate diphosphokinase
+343,Cystathionine gamma-lyase
+344,Adenosylmethionine decarboxylase
+345,Phosphoribosylaminoimidazole carboxylase
+346,Tyrosine aminotransferase
+347,Tyrosylprotein sulfotransferase
+348,3-Isopropylmalate dehydratase
+349,Riboflavin synthase
+350,Amine oxidase
+351,DCMP deaminase
+352,"B-N-acetylglucosaminyl-glycopeptide b-1,4-galactosyltransferase"
+353,HIV-1 protease
+354,Protein-synthesizing GTPase
+355,Signal-recognition-particle GTPase
+356,Chaperonin ATPase
+357,Non-chaperonin molecular chaperone ATPase
+358,Pancreatic ribonuclease
+359,Exoribonuclease II
+360,Oligonucleotidase
+361,Aspergillus nuclease S1
+362,Type III site-specific deoxyribonuclease
+363,Type II site-specific deoxyribonuclease
+364,Deoxyribonuclease IV
+365,A-N-acetylgalactosaminidase
+366,"Glucan 1,4-a-glucosidase"
+367,Insulysin
+368,Lysostaphin
+369,Alliinase
+370,RNA helicase
+371,Spermine synthase
+372,Lysine decarboxylase
+373,Ubiquinol oxidase
+374,N-acetyllactosamine synthase
+375,Lactose synthase
+376,"1,3-Beta-glucan synthase"
+377,Diglyceride acyltransferase
+378,Ceramide glucosyltransferase
+379,NAD+ kinase
+380,4-hydroxybutyrate dehydrogenase
+381,Strombine dehydrogenase
+382,Xanthoxin dehydrogenase
+383,Salicylaldehyde dehydrogenase
+384,Sarcosine dehydrogenase
+385,Sequoyitol dehydrogenase
+386,Serine 2-dehydrogenase
+387,Serine 3-dehydrogenase
+388,Shikimate dehydrogenase
+389,Sorbitol-6-phosphate 2-dehydrogenase
+390,Sorbose dehydrogenase
+391,Spermidine dehydrogenase
+392,Succinate-semialdehyde dehydrogenase
+393,Succinylglutamate-semialdehyde dehydrogenase
+394,Sulfite dehydrogenase
+395,Ephedrine dehydrogenase
+396,Erythrose-4-phosphate dehydrogenase
+397,Estradiol 17alpha-dehydrogenase
+398,Estradiol 17beta-dehydrogenase
+399,Vomifoliol dehydrogenase
+400,Vellosimine dehydrogenase
+401,Acetoacetyl-CoA reductase
+402,Acylglycerone-phosphate reductase
+403,Aldose 1-dehydrogenase
+404,Aldose-6-phosphate reductase (NADPH)
+405,Apiose 1-reductase
+406,Allyl-alcohol dehydrogenase
+407,Aryl-alcohol dehydrogenase
+408,Aryl-alcohol dehydrogenase (NADP+)
+409,Benzyl-2-methyl-hydroxybutyrate dehydrogenase
+410,Carbonyl reductase (NADPH)
+411,Carnitine 3-dehydrogenase
+412,Carveol dehydrogenase
+413,Chlordecone reductase
+414,"Cholest-5-ene-3beta,7alpha-diol 3beta-dehydrogenase"
+415,Cholestanetetraol 26-dehydrogenase
+416,Cinnamyl-alcohol dehydrogenase
+417,Codeinone reductase (NADPH)
+418,Coniferyl-alcohol dehydrogenase
+419,Cyclohexanol dehydrogenase
+420,"Cyclohexane-1,2-diol dehydrogenase"
+421,Cyclopentanol dehydrogenase
+422,D-arabinitol 2-dehydrogenase
+423,D-arabinitol 4-dehydrogenase
+424,D-arabinose 1-dehydrogenase
+425,D-iditol 2-dehydrogenase
+426,Diethyl 2-methyl-3-oxosuccinate reductase
+427,Dihydrobunolol dehydrogenase
+428,Dihydrokaempferol 4-reductase
+429,Diiodophenylpyruvate reductase
+430,Dimethylmalate dehydrogenase
+431,D-malate dehydrogenase (decarboxylating)
+432,D-pinitol dehydrogenase
+433,DTDP-4-dehydro-6-deoxyglucose reductase
+434,DTDP-4-dehydrorhamnose reductase
+435,DTDP-6-deoxy-L-talose 4-dehydrogenase
+436,D-threo-aldose 1-dehydrogenase
+437,DTDP-galactose 6-dehydrogenase
+438,D-xylose 1-dehydrogenase
+439,D-xylose 1-dehydrogenase (NADP+)
+440,D-xylulose reductase
+441,Erythrulose reductase
+442,Farnesol dehydrogenase
+443,Flavanone 4-reductase
+444,Fluoren-9-ol dehydrogenase
+445,Fructose 5-dehydrogenase (NADP+)
+446,D-arabinose 1-dehydrogenase (NAD(P)+)
+447,Fructuronate reductase
+448,Galactitol-1-phosphate 5-dehydrogenase
+449,Galactitol 2-dehydrogenase
+450,Galactose 1-dehydrogenase
+451,Galactose 1-dehydrogenase (NADP+)
+452,GDP-4-dehydro-6-deoxy-D-mannose reductase
+453,Alcohol dehydrogenase (NAD(P)+)
+454,GDP-6-deoxy-D-talose 4-dehydrogenase
+455,GDP-4-dehydro-D-rhamnose reductase
+456,GDP-L-fucose synthase
+457,GDP-mannose 6-dehydrogenase
+458,Geraniol dehydrogenase
+459,Glycerol dehydrogenase
+460,"(R,R)-butanediol dehydrogenase"
+461,Gluconate 2-dehydrogenase
+462,Propanediol-phosphate dehydrogenase
+463,Gluconate 5-dehydrogenase
+464,Glucose 1-dehydrogenase
+465,Glucose 1-dehydrogenase (NADP+)
+466,Glucose 1-dehydrogenase (NAD+)
+467,Glucuronate reductase
+468,Glucuronolactone reductase
+469,Glycerol-1-phosphate dehydrogenase (NAD(P)+)
+470,Glycerate dehydrogenase
+471,Glycerol 2-dehydrogenase (NADP+)
+472,Glycerol-3-phosphate 1-dehydrogenase (NADP+)
+473,Glycerol-3-phosphate dehydrogenase (NAD+)
+474,Glycerol dehydrogenase (NADP+)
+475,Glyoxylate reductase
+476,Glyoxylate reductase (NADP+)
+477,Hexadecanol dehydrogenase
+478,Histidinol dehydrogenase
+479,Homoisocitrate dehydrogenase
+480,Hydroxycyclohexanecarboxylate dehydrogenase
+481,Hydroxymalonate dehydrogenase
+482,Hydroxymethylglutaryl-CoA reductase (NADPH)
+483,Hydroxyphenylpyruvate reductase
+484,Hydroxypyruvate reductase
+485,Indanol dehydrogenase
+486,Indole-3-acetaldehyde reductase (NADH)
+487,Indole-3-acetaldehyde reductase (NADPH)
+488,Indolelactate dehydrogenase
+489,4-Hydroxycyclohexanecarboxylate dehydrogenase
+490,Inositol 2-dehydrogenase
+491,4-(hydroxymethyl)benzenesulfonate dehydrogenase
+492,Isopiperitenol dehydrogenase
+493,4-hydroxythreonine-4-phosphate dehydrogenase
+494,4-oxoproline reductase
+495,Isopropanol dehydrogenase (NADP+)
+496,Ketol-acid reductoisomerase
+497,Lactaldehyde reductase
+498,4-phosphoerythronate dehydrogenase
+499,Lactaldehyde reductase (NADPH)
+500,L-arabinitol 2-dehydrogenase
+501,L-arabinitol 4-dehydrogenase
+502,L-arabinose 1-dehydrogenase
+503,L-glycol dehydrogenase
+504,L-gulonate 3-dehydrogenase
+505,L-iditol 2-dehydrogenase
+506,L-idonate 5-dehydrogenase
+507,Long-chain-alcohol dehydrogenase
+508,L-rhamnose 1-dehydrogenase
+509,L-threonate 3-dehydrogenase
+510,L-threonine 3-dehydrogenase
+511,L-xylose 1-dehydrogenase
+512,Malate dehydrogenase (decarboxylating)
+513,Malate dehydrogenase (NADP+)
+514,Malate dehydrogenase (oxaloacetate-decarboxylating)
+515,Malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+)
+516,Mannitol-1-phosphate 5-dehydrogenase
+517,Mannitol 2-dehydrogenase
+518,Mannitol 2-dehydrogenase (NADP+)
+519,Mannitol dehydrogenase
+520,Mannose-6-phosphate 6-reductase
+521,Mannuronate reductase
+522,Methanol dehydrogenase
+523,Methylglyoxal reductase (NADH-dependent)
+524,Mevaldate reductase
+525,Methylglyoxal reductase (NADPH-dependent)
+526,Mevaldate reductase (NADPH)
+527,N-acetylhexosamine 1-dehydrogenase
+528,Morphine 6-dehydrogenase
+529,N-acylmannosamine 1-dehydrogenase
+530,Octanol dehydrogenase
+531,Omega-hydroxydecanoate dehydrogenase
+532,Oxaloglycolate reductase (decarboxylating)
+533,Pantoate 4-dehydrogenase
+534,Perillyl-alcohol dehydrogenase
+535,Phosphogluconate 2-dehydrogenase
+536,Phosphogluconate dehydrogenase (decarboxylating)
+537,Prostaglandin-E2 9-reductase
+538,Prostaglandin-F synthase
+539,Pterocarpin synthase
+540,Pyridoxal 4-dehydrogenase
+541,Pyridoxine 4-dehydrogenase
+542,Quinate dehydrogenase
+543,Retinol dehydrogenase
+544,Ribitol 2-dehydrogenase
+545,Ribitol-5-phosphate 2-dehydrogenase
+546,Ribose 1-dehydrogenase (NADP+)
+547,Salutaridine reductase (NADPH)
+548,S-(hydroxymethyl)glutathione dehydrogenase
+549,Sorbose 5-dehydrogenase (NADP+)
+550,Sorbose reductase
+551,Sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)
+552,Sulcatone reductase
+553,Tagaturonate reductase
+554,Testosterone 17beta-dehydrogenase
+555,Tartrate dehydrogenase
+556,Tetrahydroxynaphthalene reductase
+557,Tropinone reductase I
+558,Tropinone reductase II
+559,UDP-N-acetylglucosamine 6-dehydrogenase
+560,UDP-N-acetylmuramate dehydrogenase
+561,Ureidoglycolate dehydrogenase
+562,Uronate dehydrogenase
+563,12alpha-hydroxysteroid dehydrogenase
+564,12beta-hydroxysteroid dehydrogenase
+565,"1,5-anhydro-D-fructose reductase"
+566,"1,3-propanediol dehydrogenase"
+567,"1,5-anhydro-D-fructose reductase (1,5-anhydro-D-mannitol-forming)"
+568,15-hydroxyicosatetraenoate dehydrogenase
+569,15-hydroxyprostaglandin-D dehydrogenase (NADP+)
+570,15-hydroxyprostaglandin dehydrogenase (NADP+)
+571,15-hydroxyprostaglandin dehydrogenase (NAD+)
+572,15-hydroxyprostaglandin-I dehydrogenase (NADP+)
+573,16-alpha-hydroxysteroid dehydrogenase
+574,20alpha-hydroxysteroid dehydrogenase
+575,21-hydroxysteroid dehydrogenase (NAD+)
+576,21-hydroxysteroid dehydrogenase (NADP+)
+577,"2,5-didehydrogluconate reductase"
+578,2-alkyn-1-ol dehydrogenase
+579,2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+580,Glycerol-3-phosphate dehydrogenase (NAD(P)+)
+581,2-dehydro-3-deoxy-D-gluconate 6-dehydrogenase
+582,2-dehydropantoate 2-reductase
+583,2-dehydropantolactone reductase (A-specific)
+584,2-dehydropantolactone reductase (B-specific)
+585,2-deoxy-D-gluconate 3-dehydrogenase
+586,2-hydroxy-3-oxopropionate reductase
+587,2-hydroxymethylglutarate dehydrogenase
+588,2-oxoadipate reductase
+589,2-(R)-hydroxypropyl-CoM dehydrogenase
+590,2-(S)-hydroxypropyl-CoM dehydrogenase
+591,3alpha-hydroxy-5beta-androstane-17-one 3alpha-dehydrogenase
+592,3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)
+593,3alpha-hydroxycholanate dehydrogenase
+594,3alpha-hydroxyglycyrrhetinate dehydrogenase
+595,3alpha-hydroxysteroid dehydrogenase (A-specific)
+596,3alpha-hydroxysteroid dehydrogenase (B-specific)
+597,3alpha(or 20beta)-hydroxysteroid dehydrogenase
+598,3beta-hydroxy-5beta-steroid dehydrogenase
+599,3beta-hydroxy-5alpha-steroid dehydrogenase
+600,3beta(or 20alpha)-hydroxysteroid dehydrogenase
+601,3-dehydro-L-gulonate 2-dehydrogenase
+602,3-dehydrosphinganine reductase
+603,3-hydroxy-2-methylbutyryl-CoA dehydrogenase
+604,3-hydroxybenzyl-alcohol dehydrogenase
+605,3-hydroxyacyl-CoA dehydrogenase
+606,3-hydroxyisobutyrate dehydrogenase
+607,3-hydroxybutyryl-CoA dehydrogenase
+608,3-hydroxypimeloyl-CoA dehydrogenase
+609,3-hydroxypropionate dehydrogenase
+610,3-keto-steroid reductase
+611,3-methylbutanal reductase
+612,6-endo-hydroxycineole dehydrogenase
+613,5-amino-6-(5-phosphoribosylamino)uracil reductase
+614,6-hydroxyhexanoate dehydrogenase
+615,6-pyruvoyltetrahydropterin 2'-reductase
+616,7alpha-hydroxysteroid dehydrogenase
+617,7beta-hydroxysteroid dehydrogenase (NADP+)
+618,8-oxocoformycin reductase
+619,(-)-borneol dehydrogenase
+620,(-)-menthol dehydrogenase
+621,(+)-borneol dehydrogenase
+622,(+)-neomenthol dehydrogenase
+623,(R)-2-hydroxy-fatty-acid dehydrogenase
+624,(R)-2-hydroxyacid dehydrogenase
+625,(R)-3-hydroxyacid-ester dehydrogenase
+626,(R)-4-hydroxyphenyllactate dehydrogenase
+627,3-(imidazol-5-yl)lactate dehydrogenase
+628,(R)-aminopropanol dehydrogenase
+629,(S)-3-hydroxyacid-ester dehydrogenase
+630,(S)-2-hydroxy-fatty-acid dehydrogenase
+631,(+)-sabinol dehydrogenase
+632,3-oxoacyl-(acyl-carrier-protein) reductase
+633,"(S,S)-butanediol dehydrogenase"
+634,(S)-carnitine 3-dehydrogenase
+635,(S)-usnate reductase
+636,(+)-trans-carveol dehydrogenase
+637,3-oxoacyl-(acyl-carrier-protein) reductase (NADH)
+638,12-hydroxydihydrochelirubine 12-O-methyltransferase
+639,10-hydroxydihydrosanguinarine 10-O-methyltransferase
+640,24-methylenesterol C-methyltransferase
+641,"3,7-dimethylquercetin 4'-O-methyltransferase"
+642,3'-demethylstaurosporine O-methyltransferase
+643,3-demethylubiquinone-9 3-O-methyltransferase
+644,"3-hydroxy-16-methoxy-2,3-dihydrotabersonine N-methyltransferase"
+645,3-hydroxyanthranilate 4-C-methyltransferase
+646,3'-hydroxy-N-methyl-(S)-coclaurine 4'-O-methyltransferase
+647,3-methylquercetin 7-O-methyltransferase
+648,6-hydroxymellein O-methyltransferase
+649,6-O-methylnorlaudanosoline 5'-O-methyltransferase
+650,8-hydroxyquercetin 8-O-methyltransferase
+651,Amine N-methyltransferase
+652,7-methylxanthosine synthase
+653,Anthranilate N-methyltransferase
+654,Apigenin 4'-O-methyltransferase
+655,Caffeate O-methyltransferase
+656,Caffeoyl-CoA O-methyltransferase
+657,Calmodulin-lysine N-methyltransferase
+658,Chlorophenol O-methyltransferase
+659,Carnosine N-methyltransferase
+660,Cobalt-factor II C20-methyltransferase
+661,Columbamine O-methyltransferase
+662,Corydaline synthase
+663,Cycloartenol 24-C-methyltransferase
+664,Cyclopropane-fatty-acyl-phospholipid synthase
+665,(cytochrome c)-arginine N-methyltransferase
+666,(cytochrome c)-lysine N-methyltransferase
+667,(cytochrome c)-methionine S-methyltransferase
+668,Demethylmacrocin O-methyltransferase
+669,Demethylsterigmatocystin 6-O-methyltransferase
+670,Deoxycytidylate C-methyltransferase
+671,Dimethylhistidine N-methyltransferase
+672,Diphthine synthase
+673,Fatty-acid O-methyltransferase
+674,Glucuronoxylan 4-O-methyltransferase
+675,Glycine N-methyltransferase
+676,Hexaprenyldihydroxybenzoate methyltransferase
+677,Homocysteine S-methyltransferase
+678,Indolepyruvate C-methyltransferase
+679,Inositol 1-methyltransferase
+680,Inositol 3-methyltransferase
+681,Inositol 4-methyltransferase
+682,Iodophenol O-methyltransferase
+683,Isobutyraldoxime O-methyltransferase
+684,(Iso)eugenol O-methyltransferase
+685,Isoflavone 4'-O-methyltransferase
+686,Isoflavone 7-O-methyltransferase
+687,Isoliquiritigenin 2'-O-methyltransferase
+688,Isoorientin 3'-O-methyltransferase
+689,Jasmonate O-methyltransferase
+690,Kaempferol 4'-O-methyltransferase
+691,Licodione 2'-O-methyltransferase
+692,Loganate O-methyltransferase
+693,Luteolin O-methyltransferase
+694,Macrocin O-methyltransferase
+695,Magnesium protoporphyrin IX methyltransferase
+696,Methionine S-methyltransferase
+697,Methylene-fatty-acyl-phospholipid synthase
+698,MRNA (2'-O-methyladenosine-N6-)-methyltransferase
+699,Methylquercetagetin 6-O-methyltransferase
+700,MRNA (guanine-N7-)-methyltransferase
+701,MRNA (nucleoside-2'-O-)-methyltransferase
+702,(Myelin basic protein)-arginine N-methyltransferase
+703,Myricetin O-methyltransferase
+704,N-benzoyl-4-hydroxyanthranilate 4-O-methyltransferase
+705,Nicotinamide N-methyltransferase
+706,Nicotinate N-methyltransferase
+707,O-demethylpuromycin O-methyltransferase
+708,Phenol O-methyltransferase
+709,Phosphatidylethanolamine N-methyltransferase
+710,Phosphatidyl-N-methylethanolamine N-methyltransferase
+711,Phosphoethanolamine N-methyltransferase
+712,Polysaccharide O-methyltransferase
+713,Precorrin-3B C17-methyltransferase
+714,Precorrin-2 C20-methyltransferase
+715,Precorrin-4 C11-methyltransferase
+716,Precorrin-6A synthase (deacetylating)
+717,"Precorrin-6Y C5,15-methyltransferase (decarboxylating)"
+718,Protein-histidine N-methyltransferase
+719,Protein-glutamate O-methyltransferase
+720,Pyridine N-methyltransferase
+721,Quercetin 3-O-methyltransferase
+722,Putrescine N-methyltransferase
+723,(Ribulose-bisphosphate carboxylase)-lysine N-methyltransferase
+724,RRNA (adenine-N6-)-methyltransferase
+725,RRNA (adenosine-2'-O-)-methyltransferase
+726,RRNA (guanine-N1-)-methyltransferase
+727,"(RS)-1-benzyl-1,2,3,4-tetrahydroisoquinoline N-methyltransferase"
+728,RRNA (guanine-N2-)-methyltransferase
+729,(RS)-norcoclaurine 6-O-methyltransferase
+730,(S)-coclaurine-N-methyltransferase
+731,(S)-scoulerine 9-O-methyltransferase
+732,Sterigmatocystin 8-O-methyltransferase
+733,Sterol 24-C-methyltransferase
+734,(S)-tetrahydroprotoberberine N-methyltransferase
+735,Tabersonine 16-O-methyltransferase
+736,Tetrahydrocolumbamine 2-O-methyltransferase
+737,Tetrahydromethanopterin S-methyltransferase
+738,Thioether S-methyltransferase
+739,Theobromine synthase
+740,Thiol S-methyltransferase
+741,Thymidylate synthase (FAD)
+742,Tocopherol O-methyltransferase
+743,Trans-aconitate 2-methyltransferase
+744,Trans-aconitate 3-methyltransferase
+745,TRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+746,TRNA (adenine-N1-)-methyltransferase
+747,TRNA (adenine-N6-)-methyltransferase
+748,TRNA (cytosine-5-)-methyltransferase
+749,TRNA (guanine-N1-)-methyltransferase
+750,TRNA (guanine-N2-)-methyltransferase
+751,TRNA (guanine-N7-)-methyltransferase
+752,TRNA guanosine-2'-O-methyltransferase
+753,Tryptophan 2-C-methyltransferase
+754,TRNA (uracil-5-)-methyltransferase
+755,Tyramine N-methyltransferase
+756,Xanthotoxol O-methyltransferase
+757,"1,2-dihydrovomilenine reductase"
+758,"1,2-dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate dehydrogenase"
+759,12-oxophytodienoate reductase
+760,"15,16-dihydrobiliverdin:ferredoxin oxidoreductase"
+761,15-oxoprostaglandin 13-oxidase
+762,"1,6-dihydroxycyclohexa-2,4-diene-1-carboxylate dehydrogenase"
+763,"2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase"
+764,"2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase"
+765,"2,4-dichlorobenzoyl-CoA reductase"
+766,2-alkenal reductase
+767,2-coumarate reductase
+768,2-enoate reductase
+769,2-furoyl-CoA dehydrogenase
+770,2-hexadecenal reductase
+771,"2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate reductase"
+772,2'-hydroxydaidzein reductase
+773,2'-Hydroxyisoflavone reductase
+774,2-methylacyl-CoA dehydrogenase
+775,2-methyl-branched-chain-enoyl-CoA reductase
+776,3-methyleneoxindole reductase
+777,3-oxo-5beta-steroid 4-dehydrogenase
+778,3-oxosteroid 1-dehydrogenase
+779,"(3S,4R)-3,4-dihydroxycyclohexa-1,5-diene-1,4-dicarboxylate dehydrogenase"
+780,4-hydroxybenzoyl-CoA reductase
+781,"5,6-dihydroxy-3-methyl-2-oxo-1,2,5,6-tetrahydroquinoline dehydrogenase"
+782,6-hydroxynicotinate reductase
+783,Acyl-CoA dehydrogenase (NADP+)
+784,Acyl-CoA oxidase
+785,"All-trans-retinol 13,14-reductase"
+786,"Alpha-santonin 1,2-reductase"
+787,Anthocyanidin reductase
+788,Arogenate dehydrogenase
+789,Arogenate dehydrogenase (NAD(P)+)
+790,Arogenate dehydrogenase (NADP+)
+791,Benzoyl-CoA reductase
+792,Beta-nitroacrylate reductase
+793,Bilirubin oxidase
+794,Biochanin-A reductase
+795,Butyryl-CoA dehydrogenase
+796,Cholestenone 5alpha-reductase
+797,"Cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase"
+798,"Cis-1,2-dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate dehydrogenase"
+799,"Cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase"
+800,"Cis-1,2-dihydrobenzene-1,2-diol dehydrogenase"
+801,Cis-2-enoyl-CoA reductase (NADPH)
+802,"Cis-3,4-dihydrophenanthrene-3,4-diol dehydrogenase"
+803,Cis-dihydroethylcatechol dehydrogenase
+804,Coproporphyrinogen dehydrogenase
+805,Cortisone alpha-reductase
+806,Cucurbitacin Delta23-reductase
+807,Cyclohexanone dehydrogenase
+808,Delta14-sterol reductase
+809,Delta24(241)-sterol reductase
+810,Delta24-sterol reductase
+811,Dibenzothiophene dihydrodiol dehydrogenase
+812,Dihydropyrimidine dehydrogenase (NADP+)
+813,Dihydrouracil dehydrogenase (NAD+)
+814,Dihydrouracil oxidase
+815,Divinyl chlorophyllide a 8-vinyl-reductase
+816,"Enoyl-(acyl-carrier-protein) reductase (NADPH, A-specific)"
+817,"Enoyl-(acyl-carrier-protein) reductase (NADPH, B-specific)"
+818,Fumarate reductase (NADH)
+819,Geissoschizine dehydrogenase
+820,Isoquinoline 1-oxidoreductase
+821,Isovaleryl-CoA dehydrogenase
+822,"Kynurenate-7,8-dihydrodiol dehydrogenase"
+823,L-galactonolactone oxidase
+824,Maleylacetate reductase
+825,Meso-tartrate dehydrogenase
+826,Orotate reductase (NADH)
+827,Orotate reductase (NADPH)
+828,Phloroglucinol reductase
+829,Phosphatidylcholine desaturase
+830,"Phthalate 4,5-cis-dihydrodiol dehydrogenase"
+831,Phycocyanobilin:ferredoxin oxidoreductase
+832,Phycoerythrobilin:ferredoxin oxidoreductase
+833,Phytochromobilin:ferredoxin oxidoreductase
+834,Pimeloyl-CoA dehydrogenase
+835,Precorrin-2 dehydrogenase
+836,Precorrin-6A reductase
+837,Prephenate dehydrogenase
+838,Prephenate dehydrogenase (NADP+)
+839,Progesterone 5alpha-reductase
+840,Protochlorophyllide reductase
+841,Pyrroloquinoline-quinone synthase
+842,Quinaldate 4-oxidoreductase
+843,Quinoline 2-oxidoreductase
+844,Quinoline-4-carboxylate 2-oxidoreductase
+845,Secologanin synthase
+846,"Terephthalate 1,2-cis-dihydrodiol dehydrogenase"
+847,Tetrahydroberberine oxidase
+848,"Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase"
+849,Trans-2-enoyl-CoA reductase (NAD+)
+850,Trans-2-enoyl-CoA reductase (NADPH)
+851,"Tryptophan alpha,beta-oxidase"
+852,Xanthommatin reductase
+853,Zeatin reductase
+854,Chlorate reductase
+855,(Formate-C-acetyltransferase)-activating enzyme
+856,Pyrogallol hydroxytransferase
+857,Selenate reductase
+858,Sulfur reductase
+859,Tetrachloroethene reductive dehalogenase
+860,Beta-cyclopiazonate dehydrogenase
+861,Betaine reductase
+862,Columbamine oxidase
+863,D-proline reductase (dithiol)
+864,Glycine reductase
+865,Isopenicillin N synthase
+866,Reticuline oxidase
+867,Sarcosine reductase
+868,Sulochrin oxidase ((-)-bisdechlorogeodin-forming)
+869,Sulochrin oxidase ((+)-bisdechlorogeodin-forming)
+870,"2,4-dichlorophenol 6-monooxygenase"
+871,24-hydroxycholesterol 7alpha-hydroxylase
+872,"2,6-dihydroxypyridine 3-monooxygenase"
+873,27-hydroxycholesterol 7alpha-monooxygenase
+874,"2-chlorobenzoate 1,2-dioxygenase"
+875,"2-aminobenzenesulfonate 2,3-dioxygenase"
+876,2'-deoxymugineic-acid 2'-dioxygenase
+877,2-hydroxybiphenyl 3-monooxygenase
+878,2-hydroxycyclohexanone 2-monooxygenase
+879,2-hydroxypyridine 5-monooxygenase
+880,"2-hydroxyquinoline 5,6-dioxygenase"
+881,2-hydroxyquinoline 8-monooxygenase
+882,"3,9-dihydroxypterocarpan 6a-monooxygenase"
+883,2-nitrophenol 2-monooxygenase
+884,3-hydroxy-2-methylpyridinecarboxylate dioxygenase
+885,3-hydroxybenzoate 2-monooxygenase
+886,3-hydroxybenzoate 4-monooxygenase
+887,3-hydroxybenzoate 6-monooxygenase
+888,3-hydroxyphenylacetate 6-hydroxylase
+889,3-phenylpropanoate dioxygenase
+890,4-aminobenzoate 1-monooxygenase
+891,"4-chlorophenylacetate 3,4-dioxygenase"
+892,4-hydroxyacetophenone monooxygenase
+893,4-hydroxybenzoate 1-hydroxylase
+894,4-hydroxybenzoate 3-monooxygenase
+895,4-hydroxybenzoate 3-monooxygenase (NAD(P)H)
+896,4-hydroxyphenylacetaldehyde oxime monooxygenase
+897,4-hydroxyphenylacetate 1-monooxygenase
+898,4-Hydroxyphenylacetate 3-monooxygenase
+899,4-hydroxyquinoline 3-monooxygenase
+900,4-methoxybenzoate monooxygenase (O-demethylating)
+901,4'-methoxyisoflavone 2'-hydroxylase
+902,4-nitrophenol 2-monooxygenase
+903,"4-sulfobenzoate 3,4-dioxygenase"
+904,"5beta-cholestane-3alpha,7alpha-diol 12alpha-hydroxylase"
+905,5-O-(4-coumaroyl)-D-quinate 3'-monooxygenase
+906,5-pyridoxate dioxygenase
+907,6-oxocineole dehydrogenase
+908,7alpha-hydroxycholest-4-en-3-one 12alpha-hydroxylase
+909,7-deoxyloganin 7-hydroxylase
+910,8-dimethylallylnaringenin 2'-hydroxylase
+911,(+)-abscisic acid 8'-hydroxylase
+912,Acyl-(acyl-carrier-protein) desaturase
+913,Albendazole monooxygenase
+914,Alkanal monooxygenase (FMN-linked)
+915,Alkane 1-monooxygenase
+916,Alkanesulfonate monooxygenase
+917,Alkene monooxygenase
+918,Aminocyclopropanecarboxylate oxidase
+919,"Androst-4-ene-3,17-dione monooxygenase"
+920,Anhydrotetracycline monooxygenase
+921,Anthranilate 3-monooxygenase
+922,"Anthranilate 1,2-dioxygenase (deaminating, decarboxylating)"
+923,Anthranilate 3-monooxygenase (deaminating)
+924,Anthraniloyl-CoA monooxygenase
+925,"Benzene 1,2-dioxygenase"
+926,"Benzoate 1,2-dioxygenase"
+927,Benzoate 4-monooxygenase
+928,Berbamunine synthase
+929,Benzoyl-CoA 3-monooxygenase
+930,"Beta-carotene 15,15'-monooxygenase"
+931,"Biphenyl 2,3-dioxygenase"
+932,"Camphor 1,2-monooxygenase"
+933,Camphor 5-monooxygenase
+934,"Carotene 7,8-desaturase"
+935,Cholestanetriol 26-monooxygenase
+936,Cholesterol 24-hydroxylase
+937,Cholesterol 25-hydroxylase
+938,Cholesterol 7alpha-monooxygenase
+939,Choline monooxygenase
+940,Corticosterone 18-monooxygenase
+941,CMP-N-acetylneuraminate monooxygenase
+942,Cyclopentanone monooxygenase
+943,Deacetoxycephalosporin-C hydroxylase
+944,Deacetoxycephalosporin-C synthase
+945,Deacetoxyvindoline 4-hydroxylase
+946,Delta12-fatty acid dehydrogenase
+947,Deoxyhypusine monooxygenase
+948,Deoxysarpagine hydroxylase
+949,Dihydrochelirubine 12-monooxygenase
+950,Dihydrosanguinarine 10-monooxygenase
+951,Ecdysone 20-monooxygenase
+952,Estradiol 6beta-monooxygenase
+953,Flavanone 3-dioxygenase
+954,Flavone synthase
+955,Flavonoid 3'-monooxygenase
+956,Flavonol synthase
+957,Gibberellin 2beta-dioxygenase
+958,Gibberellin-44 dioxygenase
+959,Gibberellin 3beta-dioxygenase
+960,Glyceollin synthase
+961,Alkylglycerol monooxygenase
+962,Hydroxyphenylacetonitrile 2-monooxygenase
+963,Hyoscyamine (6S)-dioxygenase
+964,Isoflavone 2'-hydroxylase
+965,Isoflavone 3'-hydroxylase
+966,Juglone 3-monooxygenase
+967,Imidazoleacetate 4-monooxygenase
+968,Kynurenine 3-monooxygenase
+969,"Kynurenine 7,8-hydroxylase"
+970,Latia-luciferin monooxygenase (demethylating)
+971,Lathosterol oxidase
+972,Leucocyanidin oxygenase
+973,Leukotriene-E4 20-monooxygenase
+974,Licodione synthase
+975,Leukotriene-B4 20-monooxygenase
+976,Linalool 8-monooxygenase
+977,Linoleoyl-CoA desaturase
+978,L-lysine 6-monooxygenase (NADPH)
+979,Lithocholate 6beta-hydroxylase
+980,Mandelate 4-monooxygenase
+981,Melilotate 3-monooxygenase
+982,(-)-menthol monooxygenase
+983,Monoprenyl isoflavone epoxidase
+984,Methyltetrahydroprotoberberine 14-monooxygenase
+985,Myristoyl-CoA 11-(E) desaturase
+986,"Naphthalene 1,2-dioxygenase"
+987,Myristoyl-CoA 11-(Z) desaturase
+988,Nitric oxide dioxygenase
+989,N-methylcoclaurine 3'-monooxygenase
+990,Orcinol 2-monooxygenase
+991,Peptide-aspartate beta-dioxygenase
+992,Peptidylglycine monooxygenase
+993,Phenol 2-monooxygenase
+994,Phenylacetone monooxygenase
+995,Phosphatidylcholine 12-monooxygenase
+996,"Phthalate 4,5-dioxygenase"
+997,"Phylloquinone monooxygenase (2,3-epoxidizing)"
+998,Phytanoyl-CoA dioxygenase
+999,Plasmanylethanolamine desaturase
+1000,Precorrin-3B synthase
+1001,Procollagen-proline 3-dioxygenase
+1002,Procollagen-proline dioxygenase
+1003,Progesterone 11alpha-monooxygenase
+1004,Progesterone monooxygenase
+1005,Proline 3-hydroxylase
+1006,Psoralen synthase
+1007,Protopine 6-monooxygenase
+1008,Pyrimidine-deoxynucleoside 1'-dioxygenase
+1009,Questin monooxygenase
+1010,Pyrimidine-deoxynucleoside 2'-dioxygenase
+1011,Quinine 3-monooxygenase
+1012,Salutaridine synthase
+1013,(R)-limonene 6-monooxygenase
+1014,(S)-canadine synthase
+1015,Salicylate 1-monooxygenase
+1016,(S)-cheilanthifoline synthase
+1017,Senecionine N-oxygenase
+1018,(S)-limonene 3-monooxygenase
+1019,(S)-limonene 7-monooxygenase
+1020,(S)-limonene 6-monooxygenase
+1021,(S)-stylopine synthase
+1022,Stearoyl-CoA 9-desaturase
+1023,Steroid 11beta-monooxygenase
+1024,Steroid 17alpha-monooxygenase
+1025,Steroid 9alpha-monooxygenase
+1026,Tabersonine 16-hydroxylase
+1027,Sterol 14-demethylase
+1028,Taxadiene 5alpha-hydroxylase
+1029,Taurine dioxygenase
+1030,Taxane 10beta-hydroxylase
+1031,Taxane 13alpha-hydroxylase
+1032,Taxifolin 8-monooxygenase
+1033,"Terephthalate 1,2-dioxygenase"
+1034,Thiophene-2-carbonyl-CoA monooxygenase
+1035,Thymine dioxygenase
+1036,Toluene dioxygenase
+1037,Trans-cinnamate 2-monooxygenase
+1038,Trans-cinnamate 4-monooxygenase
+1039,Trimethyllysine dioxygenase
+1040,Vanillate monooxygenase
+1041,Unspecific monooxygenase
+1042,Vinorine hydroxylase
+1043,2-hydroxyglutarate dehydrogenase
+1044,2-oxo-acid reductase
+1045,3-hydroxycyclohexanone dehydrogenase
+1046,4-hydroxymandelate oxidase
+1047,Alcohol dehydrogenase (acceptor)
+1048,Alkan-1-ol dehydrogenase (acceptor)
+1049,Alcohol oxidase
+1050,Aryl-alcohol oxidase
+1051,Catechol oxidase (dimerizing)
+1052,Cellobiose dehydrogenase (acceptor)
+1053,Choline dehydrogenase
+1054,Cholesterol oxidase
+1055,Choline oxidase
+1056,D-2-hydroxy-acid dehydrogenase
+1057,"D-arabinono-1,4-lactone oxidase"
+1058,Dehydrogluconate dehydrogenase
+1059,D-lactate dehydrogenase (cytochrome)
+1060,D-lactate dehydrogenase (cytochrome c-553)
+1061,D-mannitol oxidase
+1062,D-sorbitol dehydrogenase (acceptor)
+1063,Ecdysone oxidase
+1064,Fructose 5-dehydrogenase
+1065,Gluconate 2-dehydrogenase (acceptor)
+1066,Glucose dehydrogenase (acceptor)
+1067,Glucose-fructose oxidoreductase
+1068,Glucoside 3-dehydrogenase
+1069,Glycerol-3-phosphate oxidase
+1070,Glycerol dehydrogenase (acceptor)
+1071,Glycolate dehydrogenase
+1072,Hexose oxidase
+1073,Hydroxyacid-oxoacid transhydrogenase
+1074,Hydroxyphytanate oxidase
+1075,Long-chain-alcohol oxidase
+1076,L-sorbose oxidase
+1077,Malate dehydrogenase (quinone)
+1078,Malate oxidase
+1079,Mannitol dehydrogenase (cytochrome)
+1080,N-acylhexosamine oxidase
+1081,Polyvinyl-alcohol dehydrogenase (acceptor)
+1082,Polyvinyl-alcohol oxidase
+1083,Pyranose oxidase
+1084,Pyridoxine 4-oxidase
+1085,Pyridoxine 5-dehydrogenase
+1086,Quinate dehydrogenase (pyrroloquinoline-quinone)
+1087,(R)-pantolactone dehydrogenase (flavin)
+1088,(S)-2-hydroxy-acid oxidase
+1089,(S)-mandelate dehydrogenase
+1090,Secondary-alcohol oxidase
+1091,Thiamine oxidase
+1092,Vanillyl-alcohol oxidase
+1093,Vitamin-K-epoxide reductase (warfarin-insensitive)
+1094,Vitamin-K-epoxide reductase (warfarin-sensitive)
+1095,Xylitol oxidase
+1096,"2,5-dioxovalerate dehydrogenase"
+1097,2-oxoaldehyde dehydrogenase (NAD+)
+1098,2-oxoaldehyde dehydrogenase (NADP+)
+1099,2-oxobutyrate synthase
+1100,2-oxoglutarate synthase
+1101,2-oxoisovalerate dehydrogenase (acylating)
+1102,"3alpha,7alpha,12alpha-trihydroxycholestan-26-al 26-oxidoreductase"
+1103,3-methyl-2-oxobutanoate dehydrogenase
+1104,3-methyl-2-oxobutanoate dehydrogenase (ferredoxin)
+1105,4-carboxy-2-hydroxymuconate-6-semialdehyde dehydrogenase
+1106,4-formylbenzenesulfonate dehydrogenase
+1107,4-hydroxybenzaldehyde dehydrogenase
+1108,4-hydroxymuconic-semialdehyde dehydrogenase
+1109,4-hydroxyphenylpyruvate oxidase
+1110,4-trimethylammoniobutyraldehyde dehydrogenase
+1111,4-hydroxyphenylacetaldehyde dehydrogenase
+1112,5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase
+1113,6-oxohexanoate dehydrogenase
+1114,Abscisic-aldehyde oxidase
+1115,Aldehyde dehydrogenase (FAD-independent)
+1116,Aldehyde dehydrogenase (NAD+)
+1117,Aldehyde dehydrogenase (NAD(P)+)
+1118,Aldehyde dehydrogenase (NADP+)
+1119,Aldehyde dehydrogenase (pyrroloquinoline-quinone)
+1120,Aminobutyraldehyde dehydrogenase
+1121,Aminomuconate-semialdehyde dehydrogenase
+1122,Aryl-aldehyde dehydrogenase
+1123,Aryl-aldehyde dehydrogenase (NADP+)
+1124,Aryl-aldehyde oxidase
+1125,Aspartate-semialdehyde dehydrogenase
+1126,Benzaldehyde dehydrogenase (NAD+)
+1127,Benzaldehyde dehydrogenase (NADP+)
+1128,Betaine-aldehyde dehydrogenase
+1129,Butanal dehydrogenase
+1130,Carbon monoxide dehydrogenase
+1131,Carbon-monoxide dehydrogenase (cytochrome b-561)
+1132,Carbon-monoxide dehydrogenase (ferredoxin)
+1133,Carboxylate reductase
+1134,Coniferyl-aldehyde dehydrogenase
+1135,Cinnamoyl-CoA reductase
+1136,Fluoroacetaldehyde dehydrogenase
+1137,Formaldehyde dehydrogenase
+1138,Formaldehyde dismutase
+1139,Formate dehydrogenase (cytochrome)
+1140,Formate dehydrogenase (cytochrome-c-553)
+1141,Formate dehydrogenase (NADP+)
+1142,Formylmethanofuran dehydrogenase
+1143,Glutamate-5-semialdehyde dehydrogenase
+1144,Gamma-guanidinobutyraldehyde dehydrogenase
+1145,Glutamyl-tRNA reductase
+1146,Glutarate-semialdehyde dehydrogenase
+1147,Glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
+1148,Glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+)
+1149,Glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+1150,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+1151,Glycolaldehyde dehydrogenase
+1152,Glyoxylate dehydrogenase (acylating)
+1153,Glyoxylate oxidase
+1154,Hexadecanal dehydrogenase (acylating)
+1155,Indolepyruvate ferredoxin oxidoreductase
+1156,Indole-3-acetaldehyde oxidase
+1157,Lactaldehyde dehydrogenase
+1158,L-aminoadipate-semialdehyde dehydrogenase
+1159,Long-chain-fatty-acyl-CoA reductase
+1160,Malonate-semialdehyde dehydrogenase
+1161,Malonate-semialdehyde dehydrogenase (acetylating)
+1162,Methylmalonate-semialdehyde dehydrogenase (acylating)
+1163,Mycothiol-dependent formaldehyde dehydrogenase
+1164,Oxalate oxidase
+1165,N-acetyl-gamma-glutamyl-phosphate reductase
+1166,Oxoglutarate dehydrogenase (NADP+)
+1167,Phenylacetaldehyde dehydrogenase
+1168,Phenylglyoxylate dehydrogenase (acylating)
+1169,Pyridoxal oxidase
+1170,Pyruvate dehydrogenase (acetyl-transferring)
+1171,Pyruvate dehydrogenase (cytochrome)
+1172,Pyruvate oxidase
+1173,Pyruvate oxidase (CoA-acetylating)
+1174,Pyruvate synthase
+1175,(R)-dehydropantoate dehydrogenase
+1176,Retinal dehydrogenase
+1177,Retinal oxidase
+1178,Vanillin dehydrogenase
+1179,Succinate-semialdehyde dehydrogenase (NAD(P)+)
+1180,Arsenate reductase (azurin)
+1181,Arsenate reductase (donor)
+1182,Arsenate reductase (glutaredoxin)
+1183,Methylarsonate reductase
+1184,Phosphonate dehydrogenase
+1185,4-Cresol dehydrogenase (hydroxylating)
+1186,"3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase"
+1187,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+1188,6-hydroxynicotinate dehydrogenase
+1189,Aquacobalamin reductase
+1190,Aquacobalamin reductase (NADPH)
+1191,Cob(II)alamin reductase
+1192,CDP-4-dehydro-6-deoxyglucose reductase
+1193,"Cob(II)yrinic acid a,c-diamide reductase"
+1194,Cyanocobalamin reductase (cyanide-eliminating)
+1195,Diferric-transferrin reductase
+1196,Ethylbenzene hydroxylase
+1197,Leucoanthocyanidin reductase
+1198,Ferric-chelate reductase
+1199,(Methionine synthase) reductase
+1200,Nicotinate dehydrogenase
+1201,Nitrogenase (flavodoxin)
+1202,Phenylacetyl-CoA dehydrogenase
+1203,Pteridine oxidase
+1204,Superoxide reductase
+1205,"1-hydroxy-2-naphthoate 1,2-dioxygenase"
+1206,"2,3-dihydroxybenzoate 2,3-dioxygenase"
+1207,"2,3-dihydroxybenzoate 3,4-dioxygenase"
+1208,"2,3-dihydroxyindole 2,3-dioxygenase"
+1209,"2,5-dihydroxypyridine 5,6-dioxygenase"
+1210,"2,4'-dihydroxyacetophenone dioxygenase"
+1211,2-nitropropane dioxygenase
+1212,"3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione 4,5-dioxygenase"
+1213,"3-carboxyethylcatechol 2,3-dioxygenase"
+1214,"3,4-dihydroxyphenylacetate 2,3-dioxygenase"
+1215,"3-hydroxy-2-methylquinolin-4-one 2,4-dioxygenase"
+1216,"3-hydroxy-4-oxoquinoline 2,4-dioxygenase"
+1217,"3-hydroxyanthranilate 3,4-dioxygenase"
+1218,3-hydroxyanthranilate oxidase
+1219,4-hydroxymandelate synthase
+1220,"5,10-Methenyltetrahydromethanopterin hydrogenase"
+1221,"7,8-dihydroxykynurenate 8,8a-dioxygenase"
+1222,Acetylacetone-cleaving enzyme
+1223,Acireductone dioxygenase (iron(II)-requiring)
+1224,Acireductone dioxygenase (Ni2+-requiring)
+1225,"Apo-beta-carotenoid-14',13'-dioxygenase"
+1226,Arachidonate 12-lipoxygenase
+1227,Arginine 2-monooxygenase
+1228,Arachidonate 8-lipoxygenase
+1229,"Ascorbate 2,3-dioxygenase"
+1230,"Biphenyl-2,3-diol 1,2-dioxygenase"
+1231,Chloridazon-catechol dioxygenase
+1232,"Caffeate 3,4-dioxygenase"
+1233,Chlorite O2-lyase
+1234,Coenzyme F420 hydrogenase
+1235,Cypridina-luciferin 2-monooxygenase
+1236,Cysteamine dioxygenase
+1237,Cytochrome-c3 hydrogenase
+1238,Fatty-acid peroxidase
+1239,"Gentisate 1,2-dioxygenase"
+1240,Ferredoxin hydrogenase
+1241,Hydrogenase (acceptor)
+1242,Hydrogen dehydrogenase
+1243,Hydrogen dehydrogenase (NADP+)
+1244,Hydrogen:quinone oxidoreductase
+1245,"Hydroxyquinol 1,2-dioxygenase"
+1246,"Indole 2,3-dioxygenase"
+1247,Lactate 2-monooxygenase
+1248,L-ascorbate oxidase
+1249,L-ascorbate peroxidase
+1250,Lignin peroxidase
+1251,Lignostilbene alphabeta-dioxygenase
+1252,Linoleate 11-lipoxygenase
+1253,Linoleate diol synthase
+1254,Lysine 2-monooxygenase
+1255,Manganese peroxidase
+1256,Methanosarcina-phenazine hydrogenase
+1257,NADH peroxidase
+1258,NADPH peroxidase
+1259,Oplophorus-luciferin 2-monooxygenase
+1260,"Peptide-tryptophan 2,3-dioxygenase"
+1261,Phenylalanine 2-monooxygenase
+1262,Phospholipid-hydroperoxide glutathione peroxidase
+1263,"Protocatechuate 3,4-dioxygenase"
+1264,"Protocatechuate 4,5-dioxygenase"
+1265,"Pyrogallol 1,2-oxygenase"
+1266,"Quercetin 2,3-dioxygenase"
+1267,Ribosyldihydronicotinamide dehydrogenase (quinone)
+1268,Renilla-luciferin 2-monooxygenase
+1269,Rifamycin-B oxidase
+1270,Stizolobate synthase
+1271,Stizolobinate synthase
+1272,"Trans-acenaphthene-1,2-diol dehydrogenase"
+1273,Tryptophan 2'-dioxygenase
+1274,Tryptophan 2-monooxygenase
+1275,Watasenia-luciferin 2-monooxygenase
+1276,"1,2-dehydroreticulinium reductase (NADPH)"
+1277,1-Pyrroline-5-carboxylate dehydrogenase
+1278,"2,4-diaminopentanoate dehydrogenase"
+1279,"2-hydroxy-1,4-benzoquinone reductase"
+1280,2-oxopropyl-CoM reductase (carboxylating)
+1281,3-aci-nitropropanoate oxidase
+1282,4-(dimethylamino)phenylazoxybenzene reductase
+1283,"5,10-methylenetetrahydromethanopterin reductase"
+1284,"6,7-dihydropteridine reductase"
+1285,Acetylindoxyl oxidase
+1286,Adenylyl-sulfate reductase
+1287,Adenylyl-sulfate reductase (glutathione)
+1288,Adenylyl-sulfate reductase (thioredoxin)
+1289,Alanine dehydrogenase
+1290,Alanopine dehydrogenase
+1291,Asparagusate reductase
+1292,Aspartate dehydrogenase
+1293,Amine oxidase (copper-containing)
+1294,Azobenzene reductase
+1295,Berberine reductase
+1296,Beta-alanopine dehydrogenase
+1297,Bis-gamma-glutamylcystine reductase
+1298,CoA-disulfide reductase
+1299,CoA-glutathione reductase
+1300,Cyclohexylamine oxidase
+1301,Cystine reductase
+1302,Cytokinin dehydrogenase
+1303,D-aspartate oxidase
+1304,Delta1-piperideine-2-carboxylate reductase
+1305,D-glutamate(D-aspartate) oxidase
+1306,D-glutamate oxidase
+1307,Dimethylamine dehydrogenase
+1308,Diaminopimelate dehydrogenase
+1309,Dimethylglycine dehydrogenase
+1310,Dimethylglycine oxidase
+1311,D-lysopine dehydrogenase
+1312,D-nopaline dehydrogenase
+1313,D-octopine dehydrogenase
+1314,Enzyme-thiol transhydrogenase (glutathione-disulfide)
+1315,Ethanolamine oxidase
+1316,Flavin reductase
+1317,FMN reductase
+1318,Formyltetrahydrofolate dehydrogenase
+1319,Glutamate synthase (ferredoxin)
+1320,Glutamate synthase (NADH)
+1321,Glutamate synthase (NADPH)
+1322,Glutathione dehydrogenase (ascorbate)
+1323,Glutathione oxidase
+1324,Glycine dehydrogenase
+1325,Glycine dehydrogenase (cyanide-forming)
+1326,Glycine dehydrogenase (cytochrome)
+1327,Hydrogensulfite reductase
+1328,Hydroxylamine oxidase
+1329,Hydroxylamine reductase
+1330,Hydroxylamine reductase (NADH)
+1331,Hyponitrite reductase
+1332,Hypotaurine dehydrogenase
+1333,L-amino-acid dehydrogenase
+1334,L-amino-acid oxidase
+1335,L-aspartate oxidase
+1336,Leghemoglobin reductase
+1337,Leucine dehydrogenase
+1338,"L-erythro-3,5-diaminohexanoate dehydrogenase"
+1339,L-glutamate oxidase
+1340,L-lysine 6-oxidase
+1341,L-lysine oxidase
+1342,L-methionine (S)-S-oxide reductase
+1343,L-methionine (R)-S-oxide reductase
+1344,L-pipecolate dehydrogenase
+1345,L-pipecolate oxidase
+1346,Lysine dehydrogenase
+1347,Methanethiol oxidase
+1348,Methylenetetrahydrofolate dehydrogenase (NAD+)
+1349,Methylenetetrahydrofolate dehydrogenase (NADP+)
+1350,Methylenetetrahydrofolate reductase (ferredoxin)
+1351,Methylenetetrahydromethanopterin dehydrogenase
+1352,Methylglutamate dehydrogenase
+1353,Monodehydroascorbate reductase (NADH)
+1354,Mycothione reductase
+1355,N5-(carboxyethyl)ornithine synthase
+1356,N6-methyl-lysine oxidase
+1357,NADH dehydrogenase (quinone)
+1358,NADPH dehydrogenase
+1359,NADPH dehydrogenase (quinone)
+1360,NAD(P)H dehydrogenase (quinone)
+1361,NAD(P)H oxidase
+1362,NADPH:quinone reductase
+1363,NAD(P)+ transhydrogenase (AB-specific)
+1364,NAD(P)+ transhydrogenase (B-specific)
+1365,N-hydroxy-2-acetamidofluorene reductase
+1366,Nitric-oxide reductase
+1367,Nicotine dehydrogenase
+1368,Cytochrome c nitrite reductase
+1369,Nitrite reductase (NO-forming)
+1370,Nitrite reductase (NAD(P)H)
+1371,Nitroalkane oxidase
+1372,Nitroquinoline-N-oxide reductase
+1373,Nitrous-oxide reductase
+1374,N-methylalanine dehydrogenase
+1375,N-methyl-L-amino-acid oxidase
+1376,P-benzoquinone reductase (NADPH)
+1377,Opine dehydrogenase
+1378,Peptide-methionine (R)-S-oxide reductase
+1379,Phenylalanine dehydrogenase
+1380,Phosphoadenylyl-sulfate reductase (thioredoxin)
+1381,Polyamine oxidase
+1382,Prenylcysteine oxidase
+1383,PreQ1 synthase
+1384,Proline dehydrogenase
+1385,Protein-disulfide reductase
+1386,Protein-disulfide reductase (glutathione)
+1387,Pteridine reductase
+1388,Putrescine oxidase
+1389,Pyrimidodiazepine synthase
+1390,Pyrroline-2-carboxylate reductase
+1391,Pyrroline-5-carboxylate reductase
+1392,(S)-6-hydroxynicotine oxidase
+1393,(R)-6-hydroxynicotine oxidase
+1394,"Saccharopine dehydrogenase (NAD+, L-glutamate-forming)"
+1395,"Saccharopine dehydrogenase (NAD+, L-lysine-forming)"
+1396,"Saccharopine dehydrogenase (NADP+, L-glutamate-forming)"
+1397,"Saccharopine dehydrogenase (NADP+, L-lysine-forming)"
+1398,Sulfite reductase
+1399,Sulfiredoxin
+1400,Sulfite reductase (NADPH)
+1401,Taurine dehydrogenase
+1402,Tauropine dehydrogenase
+1403,Thiol oxidase
+1404,Thiomorpholine-carboxylate dehydrogenase
+1405,Thiosulfate dehydrogenase
+1406,Thiosulfate dehydrogenase (quinone)
+1407,Trimethylamine dehydrogenase
+1408,Trimethylamine-N-oxide reductase
+1409,Trimethylamine-N-oxide reductase (cytochrome c)
+1410,Trypanothione-disulfide reductase
+1411,Tryptophan dehydrogenase
+1412,Valine dehydrogenase (NADP+)
+1413,Vomilenine reductase
+1414,16-hydroxysteroid epimerase
+1415,2-acetolactate mutase
+1416,2-aminohexano-6-lactam racemase
+1417,"2-chloro-4-carboxymethylenebut-2-en-1,4-olide isomerase"
+1418,2-methyleneglutarate mutase
+1419,"3-carboxy-cis,cis-muconate cycloisomerase"
+1420,3-(hydroxyamino)phenol mutase
+1421,3-hydroxybutyryl-CoA epimerase
+1422,4-carboxymethyl-4-methylbutenolide mutase
+1423,4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+1424,4-hydroxyproline epimerase
+1425,5-(carboxyamino)imidazole ribonucleotide mutase
+1426,5-carboxymethyl-2-hydroxymuconate Delta-isomerase
+1427,Acetoin racemase
+1428,Aconitate Delta-isomerase
+1429,ADP-glyceromanno-heptose 6-epimerase
+1430,Alanine racemase
+1431,Aldose 1-epimerase
+1432,Allantoin racemase
+1433,Allene-oxide cyclase
+1434,Alpha-methylacyl-CoA racemase
+1435,Alpha-pinene-oxide decyclase
+1436,Amino-acid racemase
+1437,Arabinose-5-phosphate isomerase
+1438,Arabinose isomerase
+1439,Arginine racemase
+1440,Ascopyrone tautomerase
+1441,Aspartate racemase
+1442,"Beta-lysine 5,6-aminomutase"
+1443,Beta-phosphoglucomutase
+1444,Bornyl diphosphate synthase
+1445,"Carboxy-cis,cis-muconate cyclase"
+1446,CDP-paratose 2-epimerase
+1447,Cellobiose epimerase
+1448,Chalcone isomerase
+1449,Chloromuconate cycloisomerase
+1450,Cholestenol Delta-isomerase
+1451,Chondroitin-glucuronate 5-epimerase
+1452,Chorismate mutase
+1453,Copalyl diphosphate synthase
+1454,Corticosteroid side-chain-isomerase
+1455,Cycloartenol synthase
+1456,Cycloeucalenol cycloisomerase
+1457,Diaminopimelate epimerase
+1458,Dichloromuconate cycloisomerase
+1459,"D-lysine 5,6-aminomutase"
+1460,D-lyxose ketol-isomerase
+1461,Dodecenoyl-CoA isomerase
+1462,"D-ornithine 4,5-aminomutase"
+1463,Ent-Copalyl diphosphate synthase
+1464,Farnesol 2-isomerase
+1465,Furylfuramide isomerase
+1466,Galactose-6-phosphate isomerase
+1467,"GDP-mannose 3,5-epimerase"
+1468,Glucose-6-phosphate 1-epimerase
+1469,Glucuronate isomerase
+1470,"Glutamate-1-semialdehyde 2,1-aminomutase"
+1471,Glutamate racemase
+1472,(hydroxyamino)benzene mutase
+1473,Hydroxypyruvate isomerase
+1474,Inositol-3-phosphate synthase
+1475,Isobutyryl-CoA mutase
+1476,Isocitrate epimerase
+1477,Isomaltulose synthase
+1478,Isopenicillin N epimerase
+1479,Isopentenyl-diphosphate Delta-isomerase
+1480,Isopiperitenone Delta-isomerase
+1481,L-arabinose isomerase
+1482,L-dopachrome isomerase
+1483,"Leucine 2,3-aminomutase"
+1484,L-fucose isomerase
+1485,Linoleate isomerase
+1486,L-rhamnose isomerase
+1487,L-ribulose-5-phosphate 3-epimerase
+1488,L-ribulose-5-phosphate 4-epimerase
+1489,Lysine racemase
+1490,Lysolecithin acylmutase
+1491,Maleate isomerase
+1492,Maleylacetoacetate isomerase
+1493,Maleylpyruvate isomerase
+1494,Maltose alpha-D-glucosyltransferase
+1495,Maltose epimerase
+1496,Mannose isomerase
+1497,Methionine racemase
+1498,Methylaspartate mutase
+1499,Methylitaconate Delta-isomerase
+1500,Muconolactone Delta-isomerase
+1501,N-acylglucosamine 2-epimerase
+1502,N-acylglucosamine-6-phosphate 2-epimerase
+1503,Neoxanthin synthase
+1504,Nocardicin-A epimerase
+1505,Ornithine racemase
+1506,Oxaloacetate tautomerase
+1507,Phenylpyruvate tautomerase
+1508,Phosphoacetylglucosamine mutase
+1509,Phosphoenolpyruvate mutase
+1510,Phosphoglucomutase (glucose-cofactor)
+1511,Phosphoglucosamine mutase
+1512,Phosphomannomutase
+1513,Phosphopentomutase
+1514,Polyenoic fatty acid isomerase
+1515,Phosphoribosylanthranilate isomerase
+1516,Precorrin-8X methylmutase
+1517,Proline racemase
+1518,Prostaglandin-A1 Delta-isomerase
+1519,Prostaglandin-D synthase
+1520,Protein-serine epimerase
+1521,Retinal isomerase
+1522,Retinol isomerase
+1523,Ribose-5-phosphate isomerase
+1524,Ribose isomerase
+1525,S-methyl-5-thioribose-1-phosphate isomerase
+1526,Steroid Delta-isomerase
+1527,Styrene-oxide isomerase
+1528,Tartrate epimerase
+1529,Tetrahydroxypteridine cycloisomerase
+1530,Thiocyanate isomerase
+1531,Threonine racemase
+1532,Trans-2-decenoyl-(acyl-carrier protein) isomerase
+1533,TRNA-pseudouridine synthase I
+1534,"Tyrosine 2,3-aminomutase"
+1535,UDP-arabinose 4-epimerase
+1536,UDP-galactopyranose mutase
+1537,UDP-glucosamine 4-epimerase
+1538,UDP-glucuronate 4-epimerase
+1539,UDP-glucose 4-epimerase
+1540,UDP-glucuronate 5'-epimerase
+1541,UDP-N-acetylglucosamine 4-epimerase
+1542,UDP-N-acetylglucosamine 2-epimerase
+1543,Vinylacetyl-CoA Delta-isomerase
+1544,Adenosylmethionine hydrolase
+1545,Alkenylglycerophosphoethanolamine hydrolase
+1546,Alkenylglycerophosphocholine hydrolase
+1547,Hepoxilin-epoxide hydrolase
+1548,Isochorismatase
+1549,Leukotriene-A4 hydrolase
+1550,Microsomal epoxide hydrolase
+1551,Trans-epoxysuccinate hydrolase
+1552,1-aminocyclopropane-1-carboxylate synthase
+1553,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+1554,3-aminobutyryl-CoA ammonia-lyase
+1555,3-chloro-D-alanine dehydrochlorinase
+1556,3-ketovalidoxylamine C-N-lyase
+1557,Aspartate ammonia-lyase
+1558,Beta-alanyl-CoA ammonia-lyase
+1559,Carbamoyl-serine ammonia-lyase
+1560,Cystathionine beta-lyase
+1561,Cysteine lyase
+1562,Cysteine-S-conjugate beta-lyase
+1563,Cytidylate cyclase
+1564,D-cysteine desulfhydrase
+1565,DDT-dehydrochlorinase
+1566,Deacetylipecoside synthase
+1567,Deacetylisoipecoside synthase
+1568,Diaminopropionate ammonia-lyase
+1569,Dihydroxyphenylalanine ammonia-lyase
+1570,Dimethylpropiothetin dethiomethylase
+1571,D-serine ammonia-lyase
+1572,Erythro-3-hydroxyaspartate ammonia-lyase
+1573,Ethanolamine ammonia-lyase
+1574,FAD-AMP lyase (cyclizing)
+1575,Formimidoyltetrahydrofolate cyclodeaminase
+1576,Glucosaminate ammonia-lyase
+1577,Glycosylphosphatidylinositol diacylglycerol-lyase
+1578,Holocytochrome-c synthase
+1579,Homocysteine desulfhydrase
+1580,L-3-cyanoalanine synthase
+1581,L-2-amino-4-chloropent-4-enoate dehydrochlorinase
+1582,L-cysteate sulfo-lyase
+1583,Lactoylglutathione lyase
+1584,Leukotriene-C4 synthase
+1585,L-serine ammonia-lyase
+1586,Methionine gamma-lyase
+1587,Methylaspartate ammonia-lyase
+1588,Peptidylamidoglycolate lyase
+1589,Ornithine cyclodeaminase
+1590,Phenylalanine ammonia-lyase
+1591,Phosphatidylinositol diacylglycerol-lyase
+1592,Phosphosulfolactate synthase
+1593,Purine imidazole-ring cyclase
+1594,S-alkylcysteine lyase
+1595,S-carboxymethylcysteine synthase
+1596,Selenocysteine lyase
+1597,Serine-sulfate ammonia-lyase
+1598,S-(hydroxymethyl)glutathione synthase
+1599,Strictosidine synthase
+1600,S-ribosylhomocysteine lyase
+1601,Sulfolactate sulfo-lyase
+1602,Threo-3-hydroxyaspartate ammonia-lyase
+1603,Threonine ammonia-lyase
+1604,Ureidoglycolate lyase
+1605,3-hydroxymethylcephem carbamoyltransferase
+1606,3-methyl-2-oxobutanoate hydroxymethyltransferase
+1607,D-alanine 2-hydroxymethyltransferase
+1608,Deoxycytidylate 5-hydroxymethyltransferase
+1609,Glycine formimidoyltransferase
+1610,Glycine hydroxymethyltransferase
+1611,Lysine carbamoyltransferase
+1612,Methionyl-tRNA formyltransferase
+1613,Methylmalonyl-CoA carboxytransferase
+1614,N-acetylornithine carbamoyltransferase
+1615,Oxamate carbamoyltransferase
+1616,Phosphoribosylaminoimidazolecarboxamide formyltransferase
+1617,Putrescine carbamoyltransferase
+1618,Scyllo-inosamine-4-phosphate amidinotransferase
+1619,Aliphatic aldoxime dehydratase
+1620,Alkylmercury lyase
+1621,Phenylacetaldoxime dehydratase
+1622,Indoleacetaldoxime dehydratase
+1623,Sirohydrochlorin cobaltochelatase
+1624,Sirohydrochlorin ferrochelatase
+1625,3-mercaptopyruvate sulfurtransferase
+1626,3-oxoadipate CoA-transferase
+1627,3-oxoacid CoA-transferase
+1628,5-hydroxypentanoate CoA-transferase
+1629,Acetate CoA-transferase
+1630,Amine sulfotransferase
+1631,Aryl-sulfate sulfotransferase
+1632,Aryl sulfotransferase
+1633,Biotin synthase
+1634,Choline sulfotransferase
+1635,Chondroitin 6-sulfotransferase
+1636,Chondroitin 4-sulfotransferase
+1637,Cinnamoyl-CoA:phenyllactate CoA-transferase
+1638,Citramalate CoA-transferase
+1639,Citrate CoA-transferase
+1640,Coenzyme-B sulfoethylthiotransferase
+1641,Cortisol sulfotransferase
+1642,Cysteine desulfurase
+1643,Desulfoglucosinolate sulfotransferase
+1644,Estrone sulfotransferase
+1645,Flavonol 3-sulfotransferase
+1646,Formyl-CoA transferase
+1647,Galactosylceramide sulfotransferase
+1648,Glutaconate CoA-transferase
+1649,Glycochenodeoxycholate sulfotransferase
+1650,(heparan sulfate)-glucosamine 3-sulfotransferase 1
+1651,(heparan sulfate)-glucosamine 3-sulfotransferase 2
+1652,(heparan sulfate)-glucosamine 3-sulfotransferase 3
+1653,(heparan sulfate)-glucosamine N-sulfotransferase
+1654,Keratan sulfotransferase
+1655,L-seryl-tRNASec selenium transferase
+1656,Lipoyl synthase
+1657,Malonate CoA-transferase
+1658,Oxalate CoA-transferase
+1659,Petromyzonol sulfotransferase
+1660,Propionate CoA-transferase
+1661,Psychosine sulfotransferase
+1662,"Quercetin-3,3'-bissulfate 7-sulfotransferase"
+1663,Scymnol sulfotransferase
+1664,Quercetin-3-sulfate 3'-sulfotransferase
+1665,Quercetin-3-sulfate 4'-sulfotransferase
+1666,Steroid sulfotransferase
+1667,Renilla-luciferin sulfotransferase
+1668,Succinyl-CoA:(R)-benzylsuccinate CoA-transferase
+1669,Thiol sulfotransferase
+1670,Thiosulfate sulfurtransferase
+1671,Triglucosylalkylacylglycerol sulfotransferase
+1672,TRNA sulfurtransferase
+1673,Tyrosine-ester sulfotransferase
+1674,UDP-N-acetylgalactosamine-4-sulfate sulfotransferase
+1675,"2,6-dioxo-6-phenylhexa-3-enoate hydrolase"
+1676,2'-hydroxybiphenyl-2-sulfinate desulfinase
+1677,2-hydroxymuconate-semialdehyde hydrolase
+1678,4-chlorobenzoate dehalogenase
+1679,4-chlorobenzoyl-CoA dehalogenase
+1680,Acetylpyruvate hydrolase
+1681,Acylpyruvate hydrolase
+1682,Alkylhalidase
+1683,Beta-diketone hydrolase
+1684,Cyclamate sulfohydrolase
+1685,"Cyclohexane-1,3-dione hydrolase"
+1686,Haloacetate dehalogenase
+1687,N-sulfoglucosamine sulfohydrolase
+1688,Haloalkane dehalogenase
+1689,Oxaloacetase
+1690,Phloretin hydrolase
+1691,Phosphoamidase
+1692,Phosphonoacetaldehyde hydrolase
+1693,Phosphonoacetate hydrolase
+1694,Phosphonopyruvate hydrolase
+1695,(R)-2-haloacid dehalogenase
+1696,(S)-2-haloacid dehalogenase
+1697,Trithionate hydrolase
+1698,UDP-sulfoquinovose synthase
+1699,17-alpha-hydroxyprogesterone aldolase
+1700,(1-hydroxycyclohexan-1-yl)acetyl-CoA lyase
+1701,"2,2-dialkylglycine decarboxylase (pyruvate)"
+1702,"2,3-dimethylmalate lyase"
+1703,2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+1704,2-dehydro-3-deoxy-D-pentonate aldolase
+1705,2-dehydro-3-deoxyglucarate aldolase
+1706,2-dehydro-3-deoxy-L-pentonate aldolase
+1707,2-dehydro-3-deoxy-phosphogluconate aldolase
+1708,2-dehydropantoate aldolase
+1709,2-oxoglutarate decarboxylase
+1710,"3,4-dihydroxyphthalate decarboxylase"
+1711,3-dehydro-L-gulonate-6-phosphate decarboxylase
+1712,3-deoxy-D-manno-octulosonate aldolase
+1713,"3-hydroxy-2-methylpyridine-4,5-dicarboxylate 4-decarboxylase"
+1714,3-hydroxy-3-isohexenylglutaryl-CoA lyase
+1715,3-hydroxyaspartate aldolase
+1716,4-(2-carboxyphenyl)-2-oxobut-3-enoate aldolase
+1717,3-oxolaurate decarboxylase
+1718,"4,5-dihydroxyphthalate decarboxylase"
+1719,4-carboxymuconolactone decarboxylase
+1720,4-hydroxy-2-oxoglutarate aldolase
+1721,4-hydroxy-2-oxovalerate aldolase
+1722,4-hydroxy-4-methyl-2-oxoglutarate aldolase
+1723,4-hydroxybenzoate decarboxylase
+1724,4-hydroxyphenylacetate decarboxylase
+1725,4-hydroxyphenylpyruvate decarboxylase
+1726,4-oxalocrotonate decarboxylase
+1727,5-dehydro-2-deoxyphosphogluconate aldolase
+1728,5-guanidino-2-oxopentanoate decarboxylase
+1729,"5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase"
+1730,6-methylsalicylate decarboxylase
+1731,Acetolactate decarboxylase
+1732,Acetylenedicarboxylate decarboxylase
+1733,Aconitate decarboxylase
+1734,Aminobenzoate decarboxylase
+1735,Aminocarboxymuconate-semialdehyde decarboxylase
+1736,Aminodeoxychorismate lyase
+1737,Anthranilate synthase
+1738,Arginine decarboxylase
+1739,Arylmalonate decarboxylase
+1740,Aspartate 1-decarboxylase
+1741,Aspartate 4-decarboxylase
+1742,Benzoin aldolase
+1743,Benzoylformate decarboxylase
+1744,Benzylsuccinate synthase
+1745,Branched-chain-2-oxoacid decarboxylase
+1746,Carnitine decarboxylase
+1747,Chorismate lyase
+1748,Citramalate lyase
+1749,Citramalyl-CoA lyase
+1750,Citrate (pro-3S)-lyase
+1751,Citryl-CoA lyase
+1752,D-dopachrome decarboxylase
+1753,Dehydro-L-gulonate decarboxylase
+1754,Deoxyribose-phosphate aldolase
+1755,Diaminobutyrate decarboxylase
+1756,Deoxyribodipyrimidine photo-lyase
+1757,Diaminopimelate decarboxylase
+1758,Dihydroneopterin aldolase
+1759,Dihydroxyfumarate decarboxylase
+1760,Dimethylaniline-N-oxide aldolase
+1761,Diphosphomevalonate decarboxylase
+1762,Fructose-6-phosphate phosphoketolase
+1763,Fucosterol-epoxide lyase
+1764,Gallate decarboxylase
+1765,Gentisate decarboxylase
+1766,Glutaconyl-CoA decarboxylase
+1767,Hydroxyglutamate decarboxylase
+1768,Hydroxymandelonitrile lyase
+1769,Hydroxypyruvate decarboxylase
+1770,Hydroxynitrilase
+1771,Indole-3-glycerol-phosphate lyase
+1772,Indolepyruvate decarboxylase
+1773,Indole-3-glycerol-phosphate synthase
+1774,Isocitrate lyase
+1775,Lactate aldolase
+1776,Ketotetrose-phosphate aldolase
+1777,L-fuculose-phosphate aldolase
+1778,Malyl-CoA lyase
+1779,Mandelonitrile lyase
+1780,Methionine decarboxylase
+1781,Methylmalonyl-CoA decarboxylase
+1782,N-acetylneuraminate lyase
+1783,Methylisocitrate lyase
+1784,Naphthoate synthase
+1785,O-pyrocatechuate decarboxylase
+1786,Octadecanal decarbonylase
+1787,Orsellinate decarboxylase
+1788,Oxalate decarboxylase
+1789,Oxalomalate lyase
+1790,Oxalyl-CoA decarboxylase
+1791,Pantothenoylcysteine decarboxylase
+1792,Phenylalanine decarboxylase
+1793,Phenylserine aldolase
+1794,Phenylpyruvate decarboxylase
+1795,Phosphatidylserine decarboxylase
+1796,Phosphoketolase
+1797,Phosphonopyruvate decarboxylase
+1798,Phosphopantothenoylcysteine decarboxylase
+1799,Propioin synthase
+1800,Protocatechuate decarboxylase
+1801,Rhamnulose-1-phosphate aldolase
+1802,Sphinganine-1-phosphate aldolase
+1803,Stipitatonate decarboxylase
+1804,Sulfinoalanine decarboxylase
+1805,Sulfopyruvate decarboxylase
+1806,Tagatose-bisphosphate aldolase
+1807,Tartrate decarboxylase
+1808,Tartronate-semialdehyde synthase
+1809,Threonine aldolase
+1810,Threonine-phosphate decarboxylase
+1811,Trimethylamine-oxide aldolase
+1812,Tryptophanase
+1813,Tyrosine decarboxylase
+1814,Tyrosine phenol-lyase
+1815,UDP-galacturonate decarboxylase
+1816,UDP-glucuronate decarboxylase
+1817,Uracil-5-carboxylate decarboxylase
+1818,Valine decarboxylase
+1819,Vanillin synthase
+1820,2-oxoglutarate carboxylase
+1821,4-Coumarate-CoA ligase
+1822,5-(carboxyamino)imidazole ribonucleotide synthase
+1823,5-formyltetrahydrofolate cyclo-ligase
+1824,Acetone carboxylase
+1825,Adenosylcobyric acid synthase (glutamine-hydrolysing)
+1826,Aerobactin synthase
+1827,Aminodeoxychorismate synthase
+1828,Asparaginyl-tRNA synthase (glutamine-hydrolysing)
+1829,Biotin carboxylase
+1830,(carboxyethyl)arginine beta-lactam-synthase
+1831,Carnosine synthase
+1832,(citrate (pro-3S)-lyase) ligase
+1833,Cobalt chelatase
+1834,D-aspartate ligase
+1835,Dethiobiotin synthase
+1836,Dihydrofolate synthase
+1837,Gamma-glutamylhistamine synthase
+1838,Geranoyl-CoA carboxylase
+1839,Glutaminyl-tRNA synthase (glutamine-hydrolysing)
+1840,Glutathione synthase
+1841,Glutathionylspermidine synthase
+1842,"Hydrogenobyrinic acid a,c-diamide synthase (glutamine-hydrolysing)"
+1843,Homoglutathione synthase
+1844,L-amino-acid alpha-ligase
+1845,ACV synthetase
+1846,Magnesium chelatase
+1847,NAD+ synthase
+1848,NAD+ synthase (glutamine-hydrolysing)
+1849,Phosphoribosylaminoimidazolesuccinocarboxamide synthase
+1850,Phosphoribosylformylglycinamidine synthase
+1851,RNA-3'-phosphate cyclase
+1852,RNA ligase (ATP)
+1853,Tetrahydrofolate synthase
+1854,Trans-feruloyl-CoA synthase
+1855,Trypanothione synthase
+1856,Urea carboxylase
+1857,Acetylcholinesterase
+1858,"1,5-anhydro-D-fructose dehydratase"
+1859,16-alpha-hydroxyprogesterone dehydratase
+1860,2-hydroxyisoflavanone dehydratase
+1861,2-dehydro-3-deoxy-L-arabinonate dehydratase
+1862,2-methylcitrate dehydratase
+1863,2-methylisocitrate dehydratase
+1864,2-oxopent-4-enoate hydratase
+1865,"3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA hydratase"
+1866,3-cyanoalanine hydratase
+1867,3-dehydroquinate dehydratase
+1868,3-dehydroquinate synthase
+1869,3-hydroxyoctanoyl-(acyl-carrier-protein) dehydratase
+1870,3-hydroxybutyryl-CoA dehydratase
+1871,3-hydroxypalmitoyl-(acyl-carrier-protein) dehydratase
+1872,4-oxalmesaconate hydratase
+1873,4a-hydroxytetrahydrobiopterin dehydratase
+1874,5alpha-hydroxysteroid dehydratase
+1875,(4S)-limonene synthase
+1876,5-dehydro-4-deoxyglucarate dehydratase
+1877,Abietadiene synthase
+1878,Acetylenecarboxylate hydratase
+1879,Acetylene hydratase
+1880,Altronate dehydratase
+1881,"Amorpha-4,11-diene synthase"
+1882,Anhydrosialidase
+1883,Arabinonate dehydratase
+1884,Aristolochene synthase
+1885,ATP-dependent NAD(P)H-hydrate dehydratase
+1886,Bile-acid 7alpha-dehydratase
+1887,Arogenate dehydratase
+1888,Carboxymethyloxysuccinate lyase
+1889,Carnitine dehydratase
+1890,Casbene synthase
+1891,"CDP-glucose 4,6-dehydratase"
+1892,Chondroitin AC lyase
+1893,Chondroitin-sulfate-ABC endolyase
+1894,Chondroitin B lyase
+1895,Chondroitin-sulfate-ABC exolyase
+1896,Chorismate synthase
+1897,Citrate dehydratase
+1898,Crotonoyl-(acyl-carrier-protein) hydratase
+1899,Cyanamide hydratase
+1900,Cyanide hydratase
+1901,"Cyclohexa-1,5-dienecarbonyl-CoA hydratase"
+1902,Cyclohexyl-isocyanide hydratase
+1903,D-fuconate dehydratase
+1904,D-glutamate cyclase
+1905,Dihydroxy-acid dehydratase
+1906,Dimethylmaleate hydratase
+1907,DNA-(apurinic or apyrimidinic site) lyase
+1908,D(-)-tartrate dehydratase
+1909,"DTDP-glucose 4,6-dehydratase"
+1910,Ectoine synthase
+1911,(-)-endo-fenchol synthase
+1912,Ent-kaurene synthase
+1913,Ethanolamine-phosphate phospho-lyase
+1914,Galactarate dehydratase
+1915,Galactonate dehydratase
+1916,"GDP-mannose 4,6-dehydratase"
+1917,Germacrene-A synthase
+1918,Glucarate dehydratase
+1919,Gluconate dehydratase
+1920,Glucuronan lyase
+1921,Glycerol dehydratase
+1922,Heparin lyase
+1923,Heparin-sulfate lyase
+1924,Homoaconitate hydratase
+1925,Hyaluronate lyase
+1926,Hydroperoxide dehydratase
+1927,Imidazoleglycerol-phosphate dehydratase
+1928,Inulin fructotransferase (DFA-I-forming)
+1929,Inulin fructotransferase (DFA-III-forming)
+1930,Isohexenylglutaconyl-CoA hydratase
+1931,Isoprene synthase
+1932,Itaconyl-CoA hydratase
+1933,Kievitone hydratase
+1934,Lactoyl-CoA dehydratase
+1935,L-arabinonate dehydratase
+1936,Levan fructotransferase (DFA-IV-forming)
+1937,L-fuconate dehydratase
+1938,Long-chain-enoyl-CoA hydratase
+1939,L-rhamnonate dehydratase
+1940,L(+)-tartrate dehydratase
+1941,Maleate hydratase
+1942,Mannonate dehydratase
+1943,Methylglyoxal synthase
+1944,Methylthioribulose 1-phosphate dehydratase
+1945,Myo-inosose-2 dehydratase
+1946,Myrcene synthase
+1947,Octopamine dehydratase
+1948,Oleate hydratase
+1949,Oligogalacturonide lyase
+1950,Pectate disaccharide-lyase
+1951,Pectate lyase
+1952,Pectin lyase
+1953,Pentalenene synthase
+1954,Phaseollidin hydratase
+1955,Phosphogluconate dehydratase
+1956,Pinene synthase
+1957,Poly(alpha-L-guluronate) lyase
+1958,Prephenate dehydratase
+1959,Poly(beta-D-mannuronate) lyase
+1960,Propanediol dehydratase
+1961,Protoaphin-aglucone dehydratase (cyclizing)
+1962,Pseudouridylate synthase
+1963,Pyrazolylalanine synthase
+1964,(R)-2-methylmalate dehydratase
+1965,(R)-limonene synthase
+1966,R-linalool synthase
+1967,(S)-2-methylmalate dehydratase
+1968,Sabinene-hydrate synthase
+1969,Scytalone dehydratase
+1970,S-linalool synthase
+1971,(S)-norcoclaurine synthase
+1972,Synephrine dehydratase
+1973,Taxadiene synthase
+1974,Threonine synthase
+1975,Trans-feruloyl-CoA hydratase
+1976,Trans-L-3-hydroxyproline dehydratase
+1977,Trichodiene synthase
+1978,"UDP-glucose 4,6-dehydratase"
+1979,Vetispiradiene synthase
+1980,Xylonate dehydratase
+1981,Xanthan lyase
+1982,5'-acylphosphoadenosine hydrolase
+1983,Adenosine-tetraphosphatase
+1984,Adenylylsulfatase
+1985,ADP-ribose diphosphatase
+1986,Acylphosphatase
+1987,ADP-sugar diphosphatase
+1988,Ag+-exporting ATPase
+1989,Alpha-factor-transporting ATPase
+1990,Arsenite-transporting ATPase
+1991,ATP diphosphatase
+1992,Beta-glucan-transporting ATPase
+1993,Bis(5'-adenosyl)-triphosphatase
+1994,Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical)
+1995,Bis(5'-nucleosyl)-tetraphosphatase (symmetrical)
+1996,Cadmium-transporting ATPase
+1997,Capsular-polysaccharide-transporting ATPase
+1998,Cd2+-exporting ATPase
+1999,CDP-diacylglycerol diphosphatase
+2000,CDP-glycerol diphosphatase
+2001,Hydroxyacylglutathione hydrolase
+2002,Proteinase K
+2003,Channel-conductance-controlling ATPase
+2004,Chloroplast protein-transporting ATPase
+2005,DCTP diphosphatase
+2006,Diphosphoinositol-polyphosphate diphosphatase
+2007,Cl-transporting ATPase
+2008,Dolichyldiphosphatase
+2009,DUTP diphosphatase
+2010,Endopolyphosphatase
+2011,Exopolyphosphatase
+2012,FAD diphosphatase
+2013,Fatty-acyl-CoA-transporting ATPase
+2014,Fe3+-transporting ATPase
+2015,Glycerol-3-phosphate-transporting ATPase
+2016,Guanine-transporting ATPase
+2017,"Guanosine-5'-triphosphate,3'-diphosphate diphosphatase"
+2018,Guanosine-diphosphatase
+2019,Heme-transporting ATPase
+2020,Inorganic diphosphatase
+2021,Iron-chelate-transporting ATPase
+2022,K+-transporting ATPase
+2023,Lipopolysaccharide-transporting ATPase
+2024,M7G(5')pppN diphosphatase
+2025,Maltose-transporting ATPase
+2026,Manganese-transporting ATPase
+2027,Mg2+-importing ATPase
+2028,Microtubule-severing ATPase
+2029,Mitochondrial protein-transporting ATPase
+2030,Molybdate-transporting ATPase
+2031,Monosaccharide-transporting ATPase
+2032,NAD+ diphosphatase
+2033,Na+-exporting ATPase
+2034,Na+-transporting two-sector ATPase
+2035,Nickel-transporting ATPase
+2036,Nitrate-transporting ATPase
+2037,Nonpolar-amino-acid-transporting ATPase
+2038,Nucleoplasmin ATPase
+2039,Nucleoside phosphoacylhydrolase
+2040,Nucleoside-diphosphatase
+2041,Nucleoside-triphosphatase
+2042,Nucleoside-triphosphate diphosphatase
+2043,Nucleotide diphosphatase
+2044,Oligopeptide-transporting ATPase
+2045,Oligosaccharide-diphosphodolichol diphosphatase
+2046,Oligosaccharide-transporting ATPase
+2047,Peptide-transporting ATPase
+2048,Peroxisome-assembly ATPase
+2049,Phosphate-transporting ATPase
+2050,Phosphoadenylylsulfatase
+2051,Phospholipid-translocating ATPase
+2052,Phosphonate-transporting ATPase
+2053,Phosphoribosyl-ATP diphosphatase
+2054,Polar-amino-acid-transporting ATPase
+2055,Polyamine-transporting ATPase
+2056,Proteasome ATPase
+2057,Protein-secreting ATPase
+2058,Quaternary-amine-transporting ATPase
+2059,Sulfate-transporting ATPase
+2060,Taurine-transporting ATPase
+2061,Teichoic-acid-transporting ATPase
+2062,Thiamine-triphosphatase
+2063,Thymidine-triphosphatase
+2064,Trimetaphosphatase
+2065,Triphosphatase
+2066,UDP-sugar diphosphatase
+2067,Undecaprenyl-diphosphatase
+2068,Vesicle-fusing ATPase
+2069,Vitamin B12-transporting ATPase
+2070,Zn2+-exporting ATPase
+2071,Xenobiotic-transporting ATPase
+2072,"1,4-lactonase"
+2073,11-cis-retinyl-palmitate hydrolase
+2074,"2',3'-cyclic-nucleotide 2'-phosphodiesterase"
+2075,1-alkyl-2-acetylglycerophosphocholine esterase
+2076,2-Carboxy-D-arabinitol-1-phosphatase
+2077,2-deoxyglucose-6-phosphatase
+2078,2-phosphosulfolactate phosphatase
+2079,"2-pyrone-4,6-dicarboxylate lactonase"
+2080,"3'(2'),5'-bisphosphate nucleotidase"
+2081,"3',5'-cyclic-GMP phosphodiesterase"
+2082,3-deoxy-manno-octulosonate-8-phosphatase
+2083,3-hydroxyisobutyryl-CoA hydrolase
+2084,3'-nucleotidase
+2085,3-oxoadipate enol-lactonase
+2086,3-phosphoglycerate phosphatase
+2087,3-phytase
+2088,4-hydroxybenzoyl-CoA thioesterase
+2089,4-methyloxaloacetate esterase
+2090,4-nitrophenylphosphatase
+2091,4-phytase
+2092,4-pyridoxolactonase
+2093,"5-(3,4-diacetoxybut-1-ynyl)-2,2'-bithiophene deacetylase"
+2094,5-phytase
+2095,6-acetylglucose deacetylase
+2096,Acetoacetyl-CoA hydrolase
+2097,Acetoxybutynylbithiophene deacetylase
+2098,Acetylalkylglycerol acetylhydrolase
+2099,(acetyl-CoA carboxylase)-phosphatase
+2100,Acetyl-CoA hydrolase
+2101,Acetylesterase
+2102,Acetylsalicylate deacetylase
+2103,Acetylxylan esterase
+2104,Actinomycin lactonase
+2105,Acylcarnitine hydrolase
+2106,(acyl-carrier-protein) phosphodiesterase
+2107,Acyl-CoA hydrolase
+2108,Acyloxyacyl hydrolase
+2109,ADP-dependent medium-chain-acyl-CoA hydrolase
+2110,ADP-dependent short-chain-acyl-CoA hydrolase
+2111,ADP-phosphoglycerate phosphatase
+2112,Alkylacetylglycerophosphatase
+2113,Alkylglycerophosphoethanolamine phosphodiesterase
+2114,All-trans-retinyl-palmitate hydrolase
+2115,Alpha-amino-acid esterase
+2116,Alpha-ribazole phosphatase
+2117,Aryldialkylphosphatase
+2118,Aminoacyl-tRNA hydrolase
+2119,Bile-acid-CoA hydrolase
+2120,Arylesterase
+2121,Bis(2-ethylhexyl)phthalate esterase
+2122,Bisphosphoglycerate phosphatase
+2123,Caldesmon-phosphatase
+2124,Carboxylesterase
+2125,Carboxymethylenebutenolidase
+2126,Cephalosporin-C deacetylase
+2127,Cetraxate benzylesterase
+2128,Chlorogenate hydrolase
+2129,Choloyl-CoA hydrolase
+2130,Choline-sulfatase
+2131,Chondro-4-sulfatase
+2132,Chondro-6-sulfatase
+2133,Citrate lyase deacetylase
+2134,CMP-N-acylneuraminate phosphodiesterase
+2135,Cutinase
+2136,Deoxylimonate A-ring-lactonase
+2137,D-arabinonolactonase
+2138,DGTPase
+2139,Deoxynucleotide 3'-phosphatase
+2140,Dihydrocoumarin hydrolase
+2141,Diisopropyl-fluorophosphatase
+2142,Disulfoglucosamine-6-sulfatase
+2143,D-lactate-2-sulfatase
+2144,Dodecanoyl-(acyl-carrier-protein) hydrolase
+2145,Dolichyl-phosphatase
+2146,Dolichylphosphate-glucose phosphodiesterase
+2147,Dolichylphosphate-mannose phosphodiesterase
+2148,Fatty-acyl-ethyl-ester synthase
+2149,Formyl-CoA hydrolase
+2150,Feruloyl esterase
+2151,"Fructose-2,6-bisphosphate 2-phosphatase"
+2152,"Fructose-2,6-bisphosphate 6-phosphatase"
+2153,Fusarinine-C ornithinesterase
+2154,Galactolipase
+2155,Gluconolactonase
+2156,Glucose-1-phosphatase
+2157,Glucose-1-phospho-D-mannosylglycoprotein phosphodiesterase
+2158,Glucosylglycerol 3-phosphatase
+2159,Glutathione thiolesterase
+2160,"Glycerol-1,2-cyclic-phosphate 2-phosphodiesterase"
+2161,Glycerol-1-phosphatase
+2162,Glycerol-2-phosphatase
+2163,Glycerophosphocholine cholinephosphodiesterase
+2164,Glycerophosphocholine phosphodiesterase
+2165,Glycerophosphodiester phosphodiesterase
+2166,Glycerophosphoinositol glycerophosphodiesterase
+2167,Glycerophosphoinositol inositolphosphodiesterase
+2168,(glycogen-synthase-D) phosphatase
+2169,Glycosulfatase
+2170,Guanidinodeoxy-scyllo-inositol-4-phosphatase
+2171,"Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase"
+2172,Histidinol-phosphatase
+2173,Hydroxybutyrate-dimer hydrolase
+2174,Hydroxymethylglutaryl-CoA hydrolase
+2175,(hydroxymethylglutaryl-CoA reductase (NADPH))-phosphatase
+2176,"Inositol-1,4-bisphosphate 1-phosphatase"
+2177,Inositol-phosphate phosphatase
+2178,Juvenile-hormone esterase
+2179,L-arabinonolactonase
+2180,Limonin-D-ring-lactonase
+2181,"L-rhamnono-1,4-lactonase"
+2182,Lipid-phosphate phosphatase
+2183,Lysophospholipase
+2184,Mannitol-1-phosphatase
+2185,Mannosyl-3-phosphoglycerate phosphatase
+2186,Acylglycerol lipase
+2187,Methylphosphothioglycerate phosphatase
+2188,Methylumbelliferyl-acetate deacetylase
+2189,Monomethyl-sulfatase
+2190,Monoterpenyl-diphosphatase
+2191,Multiple inositol-polyphosphate phosphatase
+2192,(myosin-light-chain) phosphatase
+2193,N-acetylgalactosaminoglycan deacetylase
+2194,N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase
+2195,N-acylneuraminate-9-phosphatase
+2196,Oleoyl-(acyl-carrier-protein) hydrolase
+2197,Palmitoyl-CoA hydrolase
+2198,Palmitoyl(protein) hydrolase
+2199,Orsellinate-depside hydrolase
+2200,Phenylacetyl-CoA hydrolase
+2201,Phorbol-diester hydrolase
+2202,Phosphatidate phosphatase
+2203,Glucuronate-2-sulfatase
+2204,Phosphatidylglycerophosphatase
+2205,"Phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase"
+2206,"Phosphatidylinositol-3,4-bisphosphate 4-phosphatase"
+2207,Cellulose-polysulfatase
+2208,Phosphatidylinositol deacylase
+2209,Phosphoenolpyruvate phosphatase
+2210,Phosphatidylinositol-3-phosphatase
+2211,Phosphoglycerate phosphatase
+2212,Phosphoglycolate phosphatase
+2213,Phosphoinositide 5-phosphatase
+2214,(phosphorylase) phosphatase
+2215,Poly(3-hydroxybutyrate) depolymerase
+2216,N-acetylgalactosamine-6-sulfatase
+2217,Phosphoserine phosphatase
+2218,Polynucleotide 3'-phosphatase
+2219,Polyneuridine-aldehyde esterase
+2220,Polynucleotide 5'-phosphatase
+2221,Prenyl-diphosphatase
+2222,N-sulfoglucosamine-3-sulfatase
+2223,Protein-glutamate methylesterase
+2224,Pyridoxal phosphatase
+2225,(pyruvate dehydrogenase (acetyl-transferring))-phosphatase
+2226,(pyruvate kinase)-phosphatase
+2227,Retinyl-palmitate esterase
+2228,Sedoheptulose-bisphosphatase
+2229,S-formylglutathione hydrolase
+2230,Serine-ethanolaminephosphate phosphodiesterase
+2231,Sialate O-acetylesterase
+2232,Sinapine esterase
+2233,(S)-methylmalonyl-CoA hydrolase
+2234,Sorbitol-6-phosphatase
+2235,S-succinylglutathione hydrolase
+2236,Steroid-lactonase
+2237,Sterol esterase
+2238,Streptomycin-6-phosphatase
+2239,Succinyl-CoA hydrolase
+2240,Sucrose-phosphatase
+2241,Sugar-phosphatase
+2242,Sugar-terminal-phosphatase
+2243,Tannase
+2244,Poly(3-hydroxyoctanoate) depolymerase
+2245,Thymidylate 5'-phosphatase
+2246,Trehalose-phosphatase
+2247,Triacetate-lactonase
+2248,Tropinesterase
+2249,Uronolactonase
+2250,"Xylono-1,4-lactonase"
+2251,Wax-ester hydrolase
+2252,"1,2-alpha-L-fucosidase"
+2253,"1,3-alpha-L-fucosidase"
+2254,"1,6-alpha-D-mannosidase"
+2255,"1,6-alpha-L-fucosidase"
+2256,1-methyladenosine nucleosidase
+2257,3-deoxyoctulosonase
+2258,2-deoxyglucosidase
+2259,6-phospho-beta-galactosidase
+2260,6-phospho-beta-glucosidase
+2261,Adenosine nucleosidase
+2262,ADP-ribosyl-(dinitrogen reductase) hydrolase
+2263,Adenosylhomocysteine nucleosidase
+2264,"Alpha,alpha-phosphotrehalase"
+2265,"Alpha,alpha-trehalase"
+2266,Alpha-glucuronidase
+2267,AMP nucleosidase
+2268,Amygdalin beta-glucosidase
+2269,Beta-apiosyl-beta-glucosidase
+2270,Beta-aspartyl-N-acetylglucosaminidase
+2271,Beta-L-arabinosidase
+2272,Beta-primeverosidase
+2273,Coniferin beta-glucosidase
+2274,Cyclomaltodextrinase
+2275,Difructose-anhydride synthase
+2276,Endoglycosylceramidase
+2277,"Galacturan 1,4-alpha-galacturonidase"
+2278,GDP-glucosidase
+2279,Glucosylceramidase
+2280,Glucuronosyl-disulfoglucosamine glucuronidase
+2281,Glycosylceramidase
+2282,Glycyrrhizinate beta-glucuronidase
+2283,Inosinate nucleosidase
+2284,Inosine nucleosidase
+2285,Methylthioadenosine nucleosidase
+2286,Maltose-6'-phosphate glucosidase
+2287,Mucinaminylserine mucinaminidase
+2288,NAD(P)+ nucleosidase
+2289,N-methyl nucleosidase
+2290,NMN nucleosidase
+2291,Protein-glucosylgalactosylhydroxylysine glucosidase
+2292,Prunasin beta-glucosidase
+2293,NAD+ nucleosidase
+2294,Purine nucleosidase
+2295,Pyrimidine-5'-nucleotide nucleosidase
+2296,Quercitrinase
+2297,Galactosylgalactosylglucosylceramidase
+2298,Raucaffricine beta-glucosidase
+2299,Ribosylpyrimidine nucleosidase
+2300,Steryl-beta-glucosidase
+2301,Uridine nucleosidase
+2302,Vicianin beta-glucosidase
+2303,"Xyloglucan-specific endo-beta-1,4-glucanase"
+2304,"Xyloglucan-specific exo-beta-1,4-glucanase"
+2305,1-pyrroline-4-hydroxy-2-carboxylate deaminase
+2306,1-aminocyclopropane-1-carboxylate deaminase
+2307,"2,5-dioxopiperazine hydrolase"
+2308,2-(acetamidomethylene)succinate hydrolase
+2309,2-aminomuconate deaminase
+2310,2-(hydroxymethyl)-3-(acetamidomethylene)succinate hydrolase
+2311,4-acetamidobutyrate deacetylase
+2312,4-acetamidobutyryl-CoA deacetylase
+2313,4-methyleneglutaminase
+2314,5-aminopentanamidase
+2315,5-oxoprolinase (ATP-hydrolysing)
+2316,6-aminohexanoate-cyclic-dimer hydrolase
+2317,6-aminohexanoate-dimer hydrolase
+2318,Acetylornithine deacetylase
+2319,Acetylputrescine deacetylase
+2320,Acetylspermidine deacetylase
+2321,Acylagmatine amidase
+2322,Acyl-lysine deacylase
+2323,Adenine deaminase
+2324,Adenosine-phosphate deaminase
+2325,Adenosylcobinamide hydrolase
+2326,ADP deaminase
+2327,Agmatine deiminase
+2328,Agmatinase
+2329,Aliphatic nitrilase
+2330,Alkylamidase
+2331,Allantoate deiminase
+2332,Allantoicase
+2333,Allantoinase
+2334,Allophanate hydrolase
+2335,Amidase
+2336,Amidinoaspartase
+2337,Aminoacylase
+2338,Aminoimidazolase
+2339,Arginine deiminase
+2340,Arylacetonitrilase
+2341,Aryl-acylamidase
+2342,Arylalkyl acylamidase
+2343,Arylformamidase
+2344,ATP deaminase
+2345,Beta-ureidopropionase
+2346,Biuret amidohydrolase
+2347,Blasticidin-S deaminase
+2348,Bromoxynil nitrilase
+2349,Carboxymethylhydantoinase
+2350,Carnitinamidase
+2351,Chenodeoxycholoyltaurine hydrolase
+2352,Chitin deacetylase
+2353,Choloylglycine hydrolase
+2354,Citrullinase
+2355,Creatinase
+2356,Creatininase
+2357,Creatinine deaminase
+2358,Cyanoalanine nitrilase
+2359,Cyanuric acid amidohydrolase
+2360,Cytosine deaminase
+2361,DCTP deaminase
+2362,D-benzoylarginine-4-nitroanilide amidase
+2363,DCTP deaminase (dUMP-forming)
+2364,Deoxycytidine deaminase
+2365,Diaminohydroxyphosphoribosylaminopyrimidine deaminase
+2366,D-glutaminase
+2367,Diguanidinobutanase
+2368,Dihydropyrimidinase
+2369,Enamidase
+2370,Dimethylargininase
+2371,Formamidase
+2372,Formimidoylaspartate deiminase
+2373,Formimidoylglutamate deiminase
+2374,Formimidoylglutamase
+2375,Formylaspartate deformylase
+2376,Formylmethionine deformylase
+2377,Formyltetrahydrofolate deformylase
+2378,Gamma-glutamyl-gamma-aminobutyrate hydrolase
+2379,Glucosamine-6-phosphate deaminase
+2380,Glutamin-(asparagin-)ase
+2381,Glutaryl-7-aminocephalosporanic-acid acylase
+2382,Glutathionylspermidine amidase
+2383,GTP cyclohydrolase II
+2384,GTP cyclohydrolase IIa
+2385,Guanidinoacetase
+2386,Guanidinobutyrase
+2387,Guanidinopropionase
+2388,Guanosine deaminase
+2389,Hippurate hydrolase
+2390,Hydroxydechloroatrazine ethylaminohydrolase
+2391,Hydroxyisourate hydrolase
+2392,Imidazolonepropionase
+2393,IMP cyclohydrolase
+2394,L-lysine-lactamase
+2395,Long-chain-fatty-acyl-glutamate deacylase
+2396,Maleimide hydrolase
+2397,Mandelamide amidase
+2398,Methenyltetrahydrofolate cyclohydrolase
+2399,Methenyltetrahydromethanopterin cyclohydrolase
+2400,Methylguanidinase
+2401,Mimosinase
+2402,Aculeacin-A deacylase
+2403,N-acetyldiaminopimelate deacetylase
+2404,N-acetyl-beta-alanine deacetylase
+2405,N-acetylglucosamine-6-phosphate deacetylase
+2406,N-acetylglucosamine deacetylase
+2407,N-acetylglucosaminylphosphatidylinositol deacetylase
+2408,N-acyl-D-amino-acid deacylase
+2409,N-acetylmuramoyl-L-alanine amidase
+2410,N-acyl-D-aspartate deacylase
+2411,N-acyl-D-glutamate deacylase
+2412,Glycosphingolipid deacylase
+2413,N-benzyloxycarbonylglycine hydrolase
+2414,N-carbamoyl-D-amino acid hydrolase
+2415,N-carbamoyl-L-amino-acid hydrolase
+2416,N-carbamoylputrescine amidase
+2417,Peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
+2418,N-carbamoylsarcosine amidase
+2419,N-feruloylglycine deacylase
+2420,N-formylglutamate deformylase
+2421,N-formylmethionylaminoacyl-tRNA deformylase
+2422,Nicotinamidase
+2423,Nicotinamide-nucleotide amidase
+2424,N-isopropylammelide isopropylaminohydrolase
+2425,N-(long-chain-acyl)ethanolamine deacylase
+2426,N-malonylurea hydrolase
+2427,N-methyl-2-oxoglutaramate hydrolase
+2428,N-methylhydantoinase (ATP-hydrolysing)
+2429,"N,N-dimethylformamidase"
+2430,N-substituted formamide deformylase
+2431,N-succinylarginine dihydrolase
+2432,Omega-amidase
+2433,Pantetheine hydrolase
+2434,Pantothenase
+2435,Penicillin amidase
+2436,Pentanamidase
+2437,Peptide deformylase
+2438,Peptidyl-glutaminase
+2439,Phosphoribosyl-AMP cyclohydrolase
+2440,Phthalyl amidase
+2441,Proclavaminate amidinohydrolase
+2442,Protein-arginine deiminase
+2443,Protein-glutamine glutaminase
+2444,Pterin deaminase
+2445,Pyrithiamine deaminase
+2446,Riboflavinase
+2447,Ricinine nitrilase
+2448,S-adenosylhomocysteine deaminase
+2449,Sepiapterin deaminase
+2450,(S)-N-acetyl-1-phenylethylamine hydrolase
+2451,Succinyl-diaminopimelate desuccinylase
+2452,Succinylglutamate desuccinylase
+2453,Theanine hydrolase
+2454,Thiocyanate hydrolase
+2455,Tryptophanamidase
+2456,Ureidoglycolate hydrolase
+2457,Ureidosuccinase
+2458,Urethanase
+2459,10-deacetylbaccatin III 10-O-acetyltransferase
+2460,10-hydroxytaxane O-acetyltransferase
+2461,13-hydroxylupinine O-tigloyltransferase
+2462,1-acylglycerol-3-phosphate O-acyltransferase
+2463,1-acylglycerophosphocholine O-acyltransferase
+2464,1-alkenylglycerophosphocholine O-acyltransferase
+2465,1-alkenylglycerophosphoethanolamine O-acyltransferase
+2466,1-alkyl-2-acetylglycerol O-acyltransferase
+2467,1-alkylglycerophosphocholine O-acetyltransferase
+2468,1-alkylglycerophosphocholine O-acyltransferase
+2469,"2,3-diaminopropionate N-oxalyltransferase"
+2470,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase"
+2471,2-acylglycerol-3-phosphate O-acyltransferase
+2472,2-acylglycerol O-acyltransferase
+2473,2-acylglycerophosphocholine O-acyltransferase
+2474,2alpha-hydroxytaxane 2-O-benzoyltransferase
+2475,2-ethylmalate synthase
+2476,2-hydroxyglutarate synthase
+2477,2-isopropylmalate synthase
+2478,2-methylcitrate synthase
+2479,"3,4-dichloroaniline N-malonyltransferase"
+2480,3-ethylmalate synthase
+2481,3-oxoadipyl-CoA thiolase
+2482,3-propylmalate synthase
+2483,6'-Deoxychalcone synthase
+2484,6-methylsalicylic-acid synthase
+2485,8-amino-7-oxononanoate synthase
+2486,Acetyl-CoA C-acetyltransferase
+2487,Acetyl-CoA C-myristoyltransferase
+2488,Acridone synthase
+2489,(acyl-carrier-protein) S-acetyltransferase
+2490,(acyl-carrier-protein) S-malonyltransferase
+2491,Agaritine gamma-glutamyltransferase
+2492,Agmatine N4-coumaroyltransferase
+2493,Alanylphosphatidylglycerol synthase
+2494,Alcohol O-cinnamoyltransferase
+2495,Alcohol O-acetyltransferase
+2496,Alkylglycerophosphate 2-O-acetyltransferase
+2497,Alpha-tubulin N-acetyltransferase
+2498,Aminoglycoside N3'-acetyltransferase
+2499,Aminoglycoside N6'-acetyltransferase
+2500,Anthocyanin 5-aromatic acyltransferase
+2501,Anthocyanin 5-O-glucoside 6'''-O-malonyltransferase
+2502,Anthranilate N-benzoyltransferase
+2503,Anthranilate N-malonyltransferase
+2504,Arginine N-succinyltransferase
+2505,Arginyltransferase
+2506,Aromatic-hydroxylamine O-acetyltransferase
+2507,Arylamine N-acetyltransferase
+2508,Aspartate N-acetyltransferase
+2509,Aspartyltransferase
+2510,ATP citrate synthase
+2511,Benzophenone synthase
+2512,Beta-glucogallin O-galloyltransferase
+2513,Beta-ketoacyl-acyl-carrier-protein synthase II
+2514,Beta-ketoacyl-acyl-carrier-protein synthase I
+2515,Beta-ketoacyl-(acyl-carrier-protein) synthase III
+2516,Bile acid-CoA:amino acid N-acyltransferase
+2517,Biphenyl synthase
+2518,CDP-acylglycerol O-arachidonoyltransferase
+2519,Carnitine O-octanoyltransferase
+2520,Citrate (Re)-synthase
+2521,Cysteine-S-conjugate N-acetyltransferase
+2522,Cortisol O-acetyltransferase
+2523,D-alanine gamma-glutamyltransferase
+2524,D-amino-acid N-acetyltransferase
+2525,Deacetylcephalosporin-C acetyltransferase
+2526,Deacetyl-(citrate-(pro-3S)-lyase) S-acetyltransferase
+2527,Deacetylvindoline O-acetyltransferase
+2528,Decylcitrate synthase
+2529,Decylhomocitrate synthase
+2530,D-glutamyltransferase
+2531,Diamine N-acetyltransferase
+2532,Diaminobutyrate acetyltransferase
+2533,Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase
+2534,Dihydrolipoyllysine-residue succinyltransferase
+2535,Dolichol O-acyltransferase
+2536,D-tryptophan N-acetyltransferase
+2537,D-tryptophan N-malonyltransferase
+2538,Ecdysone O-acyltransferase
+2539,Erythronolide synthase
+2540,Fatty-acid synthase
+2541,Fatty-acyl-CoA synthase
+2542,Flavonol-3-O-beta-glucoside O-malonyltransferase
+2543,Flavonol-3-O-triglucoside O-coumaroyltransferase
+2544,Formate C-acetyltransferase
+2545,Galactarate O-hydroxycinnamoyltransferase
+2546,Galactolipid O-acyltransferase
+2547,Galactosylacylglycerol O-acyltransferase
+2548,Gentamicin 2'-N-acetyltransferase
+2549,Gamma-glutamylcyclotransferase
+2550,Gentamicin 3'-N-acetyltransferase
+2551,Glucarate O-hydroxycinnamoyltransferase
+2552,Glucarolactone O-hydroxycinnamoyltransferase
+2553,Glucosamine N-acetyltransferase
+2554,Glutamate N-acetyltransferase
+2555,Glucosamine-1-phosphate N-acetyltransferase
+2556,Glucosamine-phosphate N-acetyltransferase
+2557,Glutamine N-acyltransferase
+2558,Glutamine N-phenylacetyltransferase
+2559,Glutaminyl-peptide cyclotransferase
+2560,Glutathione gamma-glutamylcysteinyltransferase
+2561,Glycerophospholipid acyltransferase (CoA-dependent)
+2562,Glycerol-3-phosphate O-acyltransferase
+2563,Glycine C-acetyltransferase
+2564,Glycerophospholipid arachidonoyl-transferase (CoA-independent)
+2565,Glycine N-acyltransferase
+2566,Glycine N-benzoyltransferase
+2567,Glycoprotein N-palmitoyltransferase
+2568,Glycoprotein O-fatty-acyltransferase
+2569,Glycylpeptide N-tetradecanoyltransferase
+2570,Histidine N-acetyltransferase
+2571,Homocitrate synthase
+2572,Homoserine O-acetyltransferase
+2573,Homoserine O-succinyltransferase
+2574,Hydrogen-sulfide S-acetyltransferase
+2575,Icosanoyl-CoA synthase
+2576,Imidazole N-acetyltransferase
+2577,Isocitrate O-dihydroxycinnamoyltransferase
+2578,Leucine N-acetyltransferase
+2579,Isopenicillin N N-acyltransferase
+2580,Leucyltransferase
+2581,Lipoyl(octanoyl) transferase
+2582,Long-chain-alcohol O-fatty-acyltransferase
+2583,Lovastatin nonaketide synthase
+2584,Lysine N-acetyltransferase
+2585,Lysyltransferase
+2586,Malate synthase
+2587,Maltose O-acetyltransferase
+2588,Monoterpenol O-acetyltransferase
+2589,Mycocerosate synthase
+2590,(myelin-proteolipid) O-palmitoyltransferase
+2591,N6-hydroxylysine O-acetyltransferase
+2592,N-acetylneuraminate 4-O-acetyltransferase
+2593,N-acetylneuraminate 7-O(or 9-O)-acetyltransferase
+2594,Naringenin-chalcone synthase
+2595,N-hydroxyarylamine O-acetyltransferase
+2596,Peptide alpha-N-acetyltransferase
+2597,Ornithine N-benzoyltransferase
+2598,Phenylalanine N-acetyltransferase
+2599,Phloroisovalerophenone synthase
+2600,Phosphate acetyltransferase
+2601,Phosphate butyryltransferase
+2602,Phospholipid:diacylglycerol acyltransferase
+2603,Pinosylvin synthase
+2604,Piperidine N-piperoyltransferase
+2605,Plasmalogen synthase
+2606,Platelet-activating factor acetyltransferase
+2607,Polysialic-acid O-acetyltransferase
+2608,Propanoyl-CoA C-acyltransferase
+2609,Propionyl-CoA C2-trimethyltridecanoyltransferase
+2610,Protein-glutamine gamma-glutamyltransferase
+2611,Putrescine N-hydroxycinnamoyltransferase
+2612,Quinate O-hydroxycinnamoyltransferase
+2613,Retinol O-fatty-acyltransferase
+2614,Ribosomal-protein-alanine N-acetyltransferase
+2615,Rosmarinate synthase
+2616,Salutaridinol 7-O-acetyltransferase
+2617,Serine O-acetyltransferase
+2618,Serine C-palmitoyltransferase
+2619,Shikimate O-hydroxycinnamoyltransferase
+2620,Sphingosine N-acyltransferase
+2621,Sulfoacetaldehyde acetyltransferase
+2622,Tartronate O-hydroxycinnamoyltransferase
+2623,Sterol O-acyltransferase
+2624,Taxadien-5alpha-ol O-acetyltransferase
+2625,Tetrahydrodipicolinate N-acetyltransferase
+2626,Thioethanolamine S-acetyltransferase
+2627,Trehalose O-mycolyltransferase
+2628,Trihydroxystilbene synthase
+2629,Tyramine N-feruloyltransferase
+2630,UDP-N-acetylmuramoylpentapeptide-lysine N6-alanyltransferase
+2631,Vinorine synthase
+2632,1-deoxy-D-xylulose-5-phosphate synthase
+2633,2-hydroxy-3-oxoadipate synthase
+2634,Fluorothreonine transaldolase
+2635,Formaldehyde transketolase
+2636,3-deoxy-8-phosphooctulonate synthase
+2637,4-hydroxybenzoate nonaprenyltransferase
+2638,Adenosylmethionine cyclotransferase
+2639,Adenylate dimethylallyltransferase
+2640,Aspulvinone dimethylallyltransferase
+2641,Beta-pyrazolylalanine synthase
+2642,Chlorophyll synthase
+2643,Chrysanthemyl diphosphate synthase
+2644,Cystathionine gamma-synthase
+2645,Cysteine synthase
+2646,Dimethylallylcistransferase
+2647,Discadenine synthase
+2648,"Di-trans,poly-cis-decaprenylcistransferase"
+2649,Farnesyltranstransferase
+2650,Galactose-6-sulfurylase
+2651,Geranylgeranylglycerol-phosphate geranylgeranyltransferase
+2652,Geranyltranstransferase
+2653,Homospermidine synthase (spermidine-specific)
+2654,Isonocardicin synthase
+2655,Lavandulyl diphosphate synthase
+2656,L-mimosine synthase
+2657,N2-(2-carboxyethyl)arginine synthase
+2658,N-acetylneuraminate synthase
+2659,N-acylneuraminate-9-phosphate synthase
+2660,Naringenin 8-dimethylallyltransferase
+2661,Nicotianamine synthase
+2662,O-phosphoserine sulfhydrylase
+2663,O-acetylhomoserine aminocarboxypropyltransferase
+2664,Phosphoglycerol geranylgeranyltransferase
+2665,Protein geranylgeranyltransferase type I
+2666,Protein geranylgeranyltransferase type II
+2667,Rubber cis-polyprenylcistransferase
+2668,Sym-norspermidine synthase
+2669,Thiamine-phosphate diphosphorylase
+2670,Trans-hexaprenyltranstransferase
+2671,Trans-octaprenyltranstransferase
+2672,Trans-pentaprenyltranstransferase
+2673,TRNA isopentenyltransferase
+2674,TRNA-uridine aminocarboxypropyltransferase
+2675,Tryptophan dimethylallyltransferase
+2676,Uracilylalanine synthase
+2677,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+2678,Zeatin 9-aminocarboxyethyltransferase
+2679,Z-farnesyl diphosphate synthase
+2680,Oximinotransferase
+2681,Pyridoxine 5'-phosphate synthase
+2682,"1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol transaminase"
+2683,"2,5-diaminovalerate transaminase"
+2684,2-aminoadipate transaminase
+2685,2-aminohexanoate transaminase
+2686,4-hydroxyglutamate transaminase
+2687,4-aminobutyrate transaminase
+2688,Acetylornithine transaminase
+2689,5-aminovalerate transaminase
+2690,Aminolevulinate transaminase
+2691,Aromatic-amino-acid transaminase
+2692,Cephalosporin-C transaminase
+2693,Cysteine-conjugate transaminase
+2694,Cysteine transaminase
+2695,D-4-hydroxyphenylglycine transaminase
+2696,Diamine transaminase
+2697,D-amino-acid transaminase
+2698,Dihydroxyphenylalanine transaminase
+2699,Diiodotyrosine transaminase
+2700,"DTDP-4-amino-4,6-dideoxy-D-glucose transaminase"
+2701,"DTDP-4-amino-4,6-dideoxygalactose transaminase"
+2702,Glycine transaminase
+2703,Histidine transaminase
+2704,Histidinol-phosphate transaminase
+2705,Leucine transaminase
+2706,"L,L-diaminopimelate aminotransferase"
+2707,L-lysine 6-transaminase
+2708,N6-acetyl-beta-lysine transaminase
+2709,Nicotianamine aminotransferase
+2710,Ornithine(lysine) transaminase
+2711,Phenylalanine(histidine) transaminase
+2712,Pyridoxamine-phosphate transaminase
+2713,(S)-3-amino-2-methylpropionate transaminase
+2714,Succinyldiaminopimelate transaminase
+2715,Succinylornithine transaminase
+2716,Thyroid-hormone transaminase
+2717,Tryptophan transaminase
+2718,"UDP-2-acetamido-4-amino-2,4,6-trideoxyglucose transaminase"
+2719,Lactate dehydrogenase
+2720,"1,2-diacylglycerol 3-glucosyltransferase"
+2721,"1,3-beta-D-glucan phosphorylase"
+2722,"1,3-beta-galactosyl-N-acetylhexosamine phosphorylase"
+2723,"1,3-beta-oligoglucan phosphorylase"
+2724,13-hydroxydocosanoate 13-beta-glucosyltransferase
+2725,"1,4-beta-D-xylan synthase"
+2726,"2,1-fructan:2,1-fructan 1-fructosyltransferase"
+2727,2-coumarate O-beta-glucosyltransferase
+2728,2-Hydroxyacylsphingosine 1-beta-galactosyltransferase
+2729,3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase
+2730,4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase
+2731,4-hydroxybenzoate 4-O-beta-D-glucosyltransferase
+2732,6G-fructosyltransferase
+2733,Abequosyltransferase
+2734,Aldose beta-D-fructosyltransferase
+2735,Alginate synthase
+2736,Alizarin 2-beta-glucosyltransferase
+2737,"Alpha-1,3-glucan synthase"
+2738,"Alpha,alpha-trehalose-phosphate synthase (GDP-forming)"
+2739,"Alpha-1,4-glucan-protein synthase (ADP-forming)"
+2740,"Alpha,alpha-trehalose phosphorylase"
+2741,"Alpha,alpha-trehalose phosphorylase (configuration-retaining)"
+2742,"Alpha,alpha-trehalose-phosphate synthase (UDP-forming)"
+2743,Amylosucrase
+2744,"Alpha-N-acetylneuraminate alpha-2,8-sialyltransferase"
+2745,"Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase"
+2746,Anthocyanidin 3-O-glucosyltransferase
+2747,Anthocyanin 3'-O-beta-glucosyltransferase
+2748,Anthranilate phosphoribosyltransferase
+2749,Arylamine glucosyltransferase
+2750,ATP phosphoribosyltransferase
+2751,"Beta-galactoside alpha-2,3-sialyltransferase"
+2752,"Beta-galactoside alpha-2,6-sialyltransferase"
+2753,Bilirubin-glucuronoside glucuronosyltransferase
+2754,Cellobiose phosphorylase
+2755,Cellodextrin phosphorylase
+2756,Cellulose synthase (GDP-forming)
+2757,Cellulose synthase (UDP-forming)
+2758,Chitin synthase
+2759,Chitobiosyldiphosphodolichol beta-mannosyltransferase
+2760,Cis-p-coumarate glucosyltransferase
+2761,Cinnamate beta-D-glucosyltransferase
+2762,Cis-zeatin O-beta-D-glucosyltransferase
+2763,Coniferyl-alcohol glucosyltransferase
+2764,Cyanidin 3-O-rutinoside 5-O-glucosyltransferase
+2765,Cytokinin 7-beta-glucosyltransferase
+2766,Cyanohydrin beta-glucosyltransferase
+2767,Deoxyuridine phosphorylase
+2768,Dextransucrase
+2769,Dextrin dextranase
+2770,Digalactosyldiacylglycerol synthase
+2771,Diglucosyl diacylglycerol synthase
+2772,Dioxotetrahydropyrimidine phosphoribosyltransferase
+2773,Dolichyl-phosphate alpha-N-acetylglucosaminyltransferase
+2774,Dolichyl-phosphate beta-D-mannosyltransferase
+2775,Dolichyl-phosphate beta-glucosyltransferase
+2776,Dolichyl-phosphate D-xylosyltransferase
+2777,Dolichyl-phosphate-mannose-protein mannosyltransferase
+2778,Flavanone 7-O-beta-glucosyltransferase
+2779,Flavone 7-O-beta-glucosyltransferase
+2780,Flavone apiosyltransferase
+2781,Flavonol-3-O-glucoside glucosyltransferase
+2782,4-alpha-glucanotransferase
+2783,Flavonol-3-O-glucoside L-rhamnosyltransferase
+2784,Flavonol 3-O-glucosyltransferase
+2785,Flavonol-3-O-glycoside glucosyltransferase
+2786,Flavonol 7-O-beta-glucosyltransferase
+2787,Flavonol-3-O-glycoside xylosyltransferase
+2788,Fucosylgalactoside 3-alpha-galactosyltransferase
+2789,Galactogen 6beta-galactosyltransferase
+2790,Alternansucrase
+2791,Galactolipid galactosyltransferase
+2792,Galactoside 2-alpha-L-fucosyltransferase
+2793,"Galactosyldiacylglycerol alpha-2,3-sialyltransferase"
+2794,Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase
+2795,Galactosylxylosylprotein 3-beta-galactosyltransferase
+2796,Gallate 1-beta-glucosyltransferase
+2797,Ganglioside galactosyltransferase
+2798,Gibberellin beta-D-glucosyltransferase
+2799,Globoside alpha-N-acetylgalactosaminyltransferase
+2800,Globotriaosylceramide 3-beta-N-acetylgalactosaminyltransferase
+2801,Glucomannan 4-beta-mannosyltransferase
+2802,Glucosaminylgalactosylglucosylceramide beta-galactosyltransferase
+2803,Glucosylglycerol-phosphate synthase
+2804,Glycoprotein 2-beta-D-xylosyltransferase
+2805,Glycoprotein 3-alpha-L-fucosyltransferase
+2806,Glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase
+2807,Glycoprotein 6-alpha-L-fucosyltransferase
+2808,Glycosaminoglycan galactosyltransferase
+2809,Guanosine phosphorylase
+2810,Heteroglycan alpha-mannosyltransferase
+2811,Hydroquinone glucosyltransferase
+2812,Hydroxyanthraquinone glucosyltransferase
+2813,Hydroxycinnamate 4-beta-glucosyltransferase
+2814,Hydroxymandelonitrile glucosyltransferase
+2815,Indole-3-acetate beta-glucosyltransferase
+2816,Indolylacetylinositol arabinosyltransferase
+2817,Indolylacetyl-myo-inositol galactosyltransferase
+2818,Cyclomaltodextrin glucanotransferase
+2819,Indoxyl-UDPG glucosyltransferase
+2820,Inositol 3-alpha-galactosyltransferase
+2821,DNA alpha-glucosyltransferase
+2822,Inulosucrase
+2823,Isoflavone 7-O-glucosyltransferase
+2824,Isovitexin beta-glucosyltransferase
+2825,Kaempferol 3-O-galactosyltransferase
+2826,DNA beta-glucosyltransferase
+2827,Kojibiose phosphorylase
+2828,"Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase"
+2829,Lactosylceramide 4-alpha-galactosyltransferase
+2830,"Lactosylceramide alpha-2,3-sialyltransferase"
+2831,"Lactosylceramide alpha-2,6-N-sialyltransferase"
+2832,Glucosyl-DNA beta-glucosyltransferase
+2833,"Lactosylceramide beta-1,3-galactosyltransferase"
+2834,Laminaribiose phosphorylase
+2835,Levansucrase
+2836,Limonoid glucosyltransferase
+2837,Linamarin synthase
+2838,Lipid-A-disaccharide synthase
+2839,Lipopolysaccharide 3-alpha-galactosyltransferase
+2840,Lipopolysaccharide glucosyltransferase I
+2841,Lipopolysaccharide glucosyltransferase II
+2842,Lipopolysaccharide N-acetylglucosaminyltransferase
+2843,Lipopolysaccharide N-acetylmannosaminouronosyltransferase
+2844,Luteolin-7-O-diglucuronide 4'-O-glucuronosyltransferase
+2845,Luteolin 7-O-glucuronosyltransferase
+2846,Maltose phosphorylase
+2847,Maltose synthase
+2848,Mannotetraose 2-alpha-N-acetylglucosaminyltransferase
+2849,Mannosyl-3-phosphoglycerate synthase
+2850,Methyl-ONN-azoxymethanol beta-D-glucosyltransferase
+2851,Monosialoganglioside sialyltransferase
+2852,Monogalactosyldiacylglycerol synthase
+2853,Monoterpenol beta-glucosyltransferase
+2854,N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase
+2855,N-acetylglucosaminyldiphosphoundecaprenol glucosyltransferase
+2856,N-acetylglucosaminyl-proteoglycan 4-beta-glucuronosyltransferase
+2857,N-acetyllactosaminide 3-alpha-galactosyltransferase
+2858,"N-acetyllactosaminide alpha-2,3-sialyltransferase"
+2859,"N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase"
+2860,"N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase"
+2861,N-acylsphingosine galactosyltransferase
+2862,"Neolactotetraosylceramide alpha-2,3-sialyltransferase"
+2863,N-hydroxythioamide S-beta-glucosyltransferase
+2864,Nicotinate glucosyltransferase
+2865,Nicotinate-nucleotide diphosphorylase (carboxylating)
+2866,Nicotinate phosphoribosyltransferase
+2867,Nuatigenin 3beta-glucosyltransferase
+2868,Nucleoside deoxyribosyltransferase
+2869,Nucleoside ribosyltransferase
+2870,O-dihydroxycoumarin 7-O-glucosyltransferase
+2871,Peptidoglycan glycosyltransferase
+2872,Phenol beta-glucosyltransferase
+2873,Phosphatidylinositol N-acetylglucosaminyltransferase
+2874,Phosphopolyprenol glucosyltransferase
+2875,Polygalacturonate 4-alpha-galacturonosyltransferase
+2876,Poly(glycerol-phosphate) alpha-glucosyltransferase
+2877,Poly(ribitol-phosphate) beta-glucosyltransferase
+2878,Polypeptide N-acetylgalactosaminyltransferase
+2879,Poly(ribitol-phosphate) N-acetylglucosaminyl-transferase
+2880,Procollagen galactosyltransferase
+2881,Procollagen glucosyltransferase
+2882,Protein N-acetylglucosaminyltransferase
+2883,Purine-nucleoside phosphorylase
+2884,Pyridoxine 5'-O-beta-D-glucosyltransferase
+2885,Pyrimidine-nucleoside phosphorylase
+2886,Queuine tRNA-ribosyltransferase
+2887,Salicyl-alcohol beta-D-glucosyltransferase
+2888,Scopoletin glucosyltransferase
+2889,Sinapate 1-glucosyltransferase
+2890,(Skp1-protein)-hydroxyproline N-acetylglucosaminyltransferase
+2891,S-methyl-5'-thioadenosine phosphorylase
+2892,Sn-glycerol-3-phosphate 1-galactosyltransferase
+2893,Sn-glycerol-3-phosphate 2-alpha-galactosyltransferase
+2894,Sphingosine beta-galactosyltransferase
+2895,Starch synthase
+2896,Steroid N-acetylglucosaminyltransferase
+2897,Sterol 3beta-glucosyltransferase
+2898,Sucrose 6F-alpha-galactosyltransferase
+2899,Sucrose-phosphate synthase
+2900,Sucrose:sucrose fructosyltransferase
+2901,Sucrose synthase
+2902,Thymidine phosphorylase
+2903,Trans-zeatin O-beta-D-glucosyltransferase
+2904,Trehalose 6-phosphate phosphorylase
+2905,Undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+2906,TRNA-queuosine beta-mannosyltransferase
+2907,Undecaprenyl-phosphate mannosyltransferase
+2908,Urate-ribonucleotide phosphorylase
+2909,Uridine phosphorylase
+2910,Vitexin beta-glucosyltransferase
+2911,Vomilenine glucosyltransferase
+2912,Xanthine phosphoribosyltransferase
+2913,Xylosylprotein 4-beta-galactosyltransferase
+2914,Zeatin O-beta-D-xylosyltransferase
+2915,1-alkenyl-2-acylglycerol choline phosphotransferase
+2916,1-phosphatidylinositol 4-kinase
+2917,1-phosphatidylinositol-3-phosphate 5-kinase
+2918,1-phosphatidylinositol-4-phosphate 5-kinase
+2919,1-phosphatidylinositol-5-phosphate 4-kinase
+2920,1-phosphofructokinase
+2921,"(2,3-dihydroxybenzoyl)adenylate synthase"
+2922,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+2923,2-dehydro-3-deoxygalactonokinase
+2924,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+2925,2-dehydro-3-deoxygluconokinase
+2926,2'-phosphotransferase
+2927,3-deoxy-manno-octulosonate cytidylyltransferase
+2928,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+2929,5-dehydro-2-deoxygluconokinase
+2930,5-methyldeoxycytidine-5'-phosphate kinase
+2931,Acetate kinase (diphosphate)
+2932,6-phosphofructo-2-kinase
+2933,(acetyl-CoA carboxylase) kinase
+2934,Acetylglutamate kinase
+2935,Acylglycerol kinase
+2936,Adenosine kinase
+2937,Adenosylcobinamide kinase
+2938,Adenosylcobinamide-phosphate guanylyltransferase
+2939,Adenylyl-sulfate kinase
+2940,ADP-specific glucokinase
+2941,ADP-specific phosphofructokinase
+2942,Agmatine kinase
+2943,Aldose-1-phosphate nucleotidyltransferase
+2944,Aldose-1-phosphate adenylyltransferase
+2945,Alkylglycerol kinase
+2946,Alkylglycerone kinase
+2947,Allose kinase
+2948,"Alpha-glucan, water dikinase"
+2949,Ammonia kinase
+2950,Anthranilate adenylyltransferase
+2951,Arginine kinase
+2952,ATP adenylyltransferase
+2953,Beta-glucoside kinase
+2954,Beta-adrenergic-receptor kinase
+2955,Branched-chain-fatty-acid kinase
+2956,Butyrate kinase
+2957,Carbamate kinase
+2958,Carboxyvinyl-carboxyphosphonate phosphorylmutase
+2959,CDP-glycerol glycerophosphotransferase
+2960,CDP-ribitol ribitolphosphotransferase
+2961,Ceramide cholinephosphotransferase
+2962,Choline-phosphate cytidylyltransferase
+2963,Choline kinase
+2964,Ceramide kinase
+2965,Cytidylate kinase
+2966,D-arabinokinase
+2967,Dehydrogluconokinase
+2968,Deoxyadenosine kinase
+2969,(deoxy)adenylate kinase
+2970,Deoxyguanosine kinase
+2971,Deoxynucleoside kinase
+2972,(deoxy)nucleoside-phosphate kinase
+2973,Dephospho-CoA kinase
+2974,Dephospho-(reductase kinase) kinase
+2975,Diacylglycerol cholinephosphotransferase
+2976,Dihydrostreptomycin-6-phosphate 3'alpha-kinase
+2977,Diphosphate-purine nucleoside kinase
+2978,Diphosphoinositol-pentakisphosphate kinase
+2979,D-ribitol-5-phosphate cytidylyltransferase
+2980,Dolichol kinase
+2981,D-ribulokinase
+2982,Dual-specificity kinase
+2983,DTMP kinase
+2984,Elongation factor 2 kinase
+2985,Erythritol kinase
+2986,Ethanolamine kinase
+2987,Ethanolamine-phosphate cytidylyltransferase
+2988,Diacylglycerol ethanolaminephosphotransferase
+2989,Farnesyl-diphosphate kinase
+2990,FMN adenylyltransferase
+2991,Formate kinase
+2992,Fucokinase
+2993,Fucose-1-phosphate guanylyltransferase
+2994,Galactose-1-phosphate thymidylyltransferase
+2995,Galacturonokinase
+2996,Gluconokinase
+2997,Glucosamine kinase
+2998,Glucose-1-phosphate adenylyltransferase
+2999,Glucose-1-phosphate guanylyltransferase
+3000,Glucose-1-phosphate cytidylyltransferase
+3001,Glucose-1-phosphate phosphodismutase
+3002,Glucose-1-phosphate thymidylyltransferase
+3003,Glucuronate-1-phosphate uridylyltransferase
+3004,Glucuronokinase
+3005,Glutamate 1-kinase
+3006,Glutamate 5-kinase
+3007,Glycerate kinase
+3008,Glycerol-3-phosphate cytidylyltransferase
+3009,Glycerone kinase
+3010,Goodpasture-antigen-binding protein kinase
+3011,GTP diphosphokinase
+3012,Guanidinoacetate kinase
+3013,Guanosine-triphosphate guanylyltransferase
+3014,Hamamelose kinase
+3015,Guanylate kinase
+3016,Holo-ACP synthase
+3017,Histidine kinase
+3018,Holo-(acyl-carrier-protein) synthase
+3019,Homoserine kinase
+3020,Hydroxyethylthiazole kinase
+3021,Hydroxylysine kinase
+3022,Hydroxymethylpyrimidine kinase
+3023,Hygromycin-B kinase
+3024,Hypotaurocyamine kinase
+3025,Inosine kinase
+3026,Inositol 3-kinase
+3027,Inositol-pentakisphosphate 2-kinase
+3028,Inositol-tetrakisphosphate 1-kinase
+3029,Inositol-tetrakisphosphate 5-kinase
+3030,Inositol-trisphosphate 3-kinase
+3031,Isocitrate dehydrogenase (NADP+) kinase
+3032,Kanamycin kinase
+3033,L-arabinokinase
+3034,L-Fuculokinase
+3035,Lombricine kinase
+3036,Low-density-lipoprotein receptor kinase
+3037,L-xylulokinase
+3038,Macrolide 2'-kinase
+3039,Mannokinase
+3040,Mannose-1-phosphate guanylyltransferase
+3041,Mannose-1-phosphate guanylyltransferase (GDP)
+3042,Membrane-oligosaccharide glycerophosphotransferase
+3043,MRNA guanylyltransferase
+3044,Myosin-heavy-chain kinase
+3045,N-acetylgalactosamine kinase
+3046,N-acetylglucosamine kinase
+3047,N-acylmannosamine kinase
+3048,N-acylneuraminate cytidylyltransferase
+3049,NADH kinase
+3050,Nicotinamide-nucleotide adenylyltransferase
+3051,Nicotinate-nucleotide adenylyltransferase
+3052,N-methylphosphoethanolamine cytidylyltransferase
+3053,Fas-activated serine/threonine kinase
+3054,Nucleoside-phosphate kinase
+3055,Nucleoside phosphotransferase
+3056,Nucleoside-triphosphate-aldose-1-phosphate nucleotidyltransferase
+3057,Non-specific serine/threonine protein kinase
+3058,Nucleotide diphosphokinase
+3059,Opheline kinase
+3060,Pantetheine kinase
+3061,Pantetheine-phosphate adenylyltransferase
+3062,Phenylalanine adenylyltransferase
+3063,Phosphatidate cytidylyltransferase
+3064,Phosphatidylcholine synthase
+3065,"Phosphatidylinositol-4,5-bisphosphate 3-kinase"
+3066,Phosphatidylinositol-4-phosphate 3-kinase
+3067,"Phosphoglucan, water dikinase"
+3068,Phosphoglucokinase
+3069,Phosphoglycerate kinase (GTP)
+3070,Phosphomannan mannosephosphotransferase
+3071,Phosphomethylpyrimidine kinase
+3072,Phospho-N-acetylmuramoyl-pentapeptide-transferase
+3073,Phosphoribokinase
+3074,Phosphoribulokinase
+3075,Polo kinase
+3076,Polynucleotide 5'-hydroxyl-kinase
+3077,Polynucleotide adenylyltransferase
+3078,Polyphosphate kinase
+3079,Protein-histidine pros-kinase
+3080,Protein-histidine tele-kinase
+3081,Protein-Npi-phosphohistidine-sugar phosphotransferase
+3082,(protein-PII) uridylyltransferase
+3083,Pseudouridine kinase
+3084,Pyridoxal kinase
+3085,"Pyruvate, phosphate dikinase"
+3086,"Pyruvate, water dikinase"
+3087,Rhamnulokinase
+3088,Riboflavin phosphotransferase
+3089,Riboflavin kinase
+3090,Ribokinase
+3091,"Ribose 1,5-bisphosphate phosphokinase"
+3092,Ribose-5-phosphate adenylyltransferase
+3093,Ribosylnicotinamide kinase
+3094,Ribulokinase
+3095,(RNA-polymerase)-subunit kinase
+3096,RNA uridylyltransferase
+3097,Scyllo-inosamine 4-kinase
+3098,Sedoheptulokinase
+3099,"Selenide, water dikinase"
+3100,Serine-phosphoethanolamine synthase
+3101,S-methyl-5-thioribose kinase
+3102,Sphingomyelin synthase
+3103,Sphingosine cholinephosphotransferase
+3104,Streptomycin 6-kinase
+3105,Sulfate adenylyltransferase
+3106,Sulfate adenylyltransferase (ADP)
+3107,T2-induced deoxynucleotide kinase
+3108,Tagatose-6-phosphate kinase
+3109,Tagatose kinase
+3110,Tau-protein kinase
+3111,Taurocyamine kinase
+3112,Thiamine-diphosphate kinase
+3113,Thiamine diphosphokinase
+3114,Thiamine kinase
+3115,Thiamine-phosphate kinase
+3116,Triokinase
+3117,Triphosphoribosyl-dephospho-CoA synthase
+3118,CCA tRNA nucleotidyltransferase
+3119,TRNA nucleotidyltransferase
+3120,Tropomyosin kinase
+3121,(tyrosine 3-monooxygenase) kinase
+3122,UDP-N-acetylglucosamine diphosphorylase
+3123,UMP kinase
+3124,Undecaprenol kinase
+3125,Undecaprenyl-phosphate galactose phosphotransferase
+3126,Uridine kinase
+3127,UTP-monosaccharide-1-phosphate uridylyltransferase
+3128,Viomycin kinase
+3129,Xylitol kinase
+3130,Xylulokinase
+3131,Protein xylosyltransferase
+3132,Xyloglucan 4-glucosyltransferase
+3133,Xyloglucan 6-xylosyltransferase
+3134,Xyloglucan:xyloglucosyl transferase
+3135,Phosphatidylinositol a-mannosyltransferase
+3136,Peptide-O-fucosyltransferase
+3137,Oligosaccharide 4-alpha-D-glucosyltransferase
+3138,O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase
+3139,"Initiation-specific alpha-1,6-mannosyltransferase"
+3140,Glycolipid 2-alpha-mannosyltransferase
+3141,Glycolipid 3-alpha-mannosyltransferase
+3142,Glycoprotein-fucosylgalactoside a-N-acetylgalactosaminyltransferase
+3143,Matrix metallopeptidase 12
+3144,HRASLS3
+3145,Spore photoproduct lyase
+3146,Serratiopeptidase
+3147,Fluorinase
+3148,L-threonine dehydrogenase
+3149,Agarase
+3150,Proton ATPase
+3151,4-Hydroxy-3-methylbut-2-enyl diphosphate reductase
+3152,T7 DNA polymerase
+3153,Non-receptor tyrosine kinase
+3154,Macrophage elastase
+3155,Dispersin B
+3156,Cruzipain
+3157,Dipeptidyl-peptidase I
+3158,Iodotyrosine deiodinase
+3159,Phytoene synthase
+3160,Deiodinase
+3161,Chymopapain
+3162,Phosphoribosylglycinamide formyltransferase
+3163,Phosphoribosylaminoimidazole synthetase
+3164,Molybdopterin synthase
+3165,Cathepsin X
+3166,Calpain-3
+3167,Nepenthesin
+3168,Caffeine synthase
+3169,Lambda-carrageenase
+3170,Anthrax lethal factor endopeptidase
+3171,Polygalacturonase
+3172,Protein serine/threonine phosphatase
+3173,DNA polymerase delta
+3174,Meprin A
+3175,Diguanylate cyclase
+3176,3-Isopropylmalate dehydrogenase
+3177,S-adenosylmethionine synthetase enzyme
+3178,"Cob(I)yrinic acid a,c-diamide adenosyltransferase"
+3179,Cyanate hydratase
+3180,Formylglycine-generating sulfatase enzyme
+3181,Vinylphenol reductase
+3182,Hepsin
+3183,Dipeptidyl-peptidase III
+3184,Styrene monooxygenase
+3185,Nucleotide Pyrophosphatase/Phosphodiesterase (NPP)
+3186,DAHP synthase
+3187,EPSP synthase
+3188,IgA protease
+3189,Celloxylanase
+3190,Anthocyanin 3-O-glucoside 6''-O-hydroxycinnamoyltransferase
+3191,Red chlorophyll catabolite reductase
+3192,Tyrosine ammonia-lyase
+3193,4-Hydroxycinnamate decarboxylase
+3194,Acetoin dehydrogenase
+3195,Diacetyl reductase ((R)-acetoin forming)
+3196,Diacetyl reductase ((S)-acetoin forming)
+3197,3(or 17)a-hydroxysteroid dehydrogenase
+3198,Quinate/shikimate dehydrogenase
+3199,Chlorophyll(ide) b reductase
+3200,Momilactone-A synthase
+3201,Dihydrocarveol dehydrogenase
+3202,"Limonene-1,2-diol dehydrogenase"
+3203,3-hydroxypropionate dehydrogenase (NADP+)
+3204,Malate dehydrogenase (NAD(P)+)
+3205,NADP-retinol dehydrogenase
+3206,D-arabitol-phosphate dehydrogenase
+3207,"2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase"
+3208,D-arabinitol dehydrogenase (NADP+)
+3209,UDP-glucuronic acid dehydrogenase
+3210,S-(hydroxymethyl)mycothiol dehydrogenase
+3211,D-xylose reductase
+3212,Sulfopropanediol 3-dehydrogenase
+3213,Phosphonoacetaldehyde reductase (NADH)
+3214,(S)-sulfolactate dehydrogenase
+3215,(S)-1-phenylethanol dehydrogenase
+3216,2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase
+3217,Sulfoacetaldehyde reductase
+3218,Germacrene A alcohol dehydrogenase
+3219,11-cis-retinol dehydrogenase
+3220,L-galactose 1-dehydrogenase
+3221,Perakine reductase
+3222,Eugenol synthase
+3223,Isoeugenol synthase
+3224,Benzil reductase ((S)-benzoin forming)
+3225,Benzil reductase ((R)-benzoin forming)
+3226,(-)-Endo-fenchol dehydrogenase
+3227,(+)-Thujan-3-ol dehydrogenase
+3228,8-Hydroxygeraniol dehydrogenase
+3229,"Sepiapterin reductase (L-threo-7,8-dihydrobiopterin forming)"
+3230,Zerumbone synthase
+3231,5-Exo-hydroxycamphor dehydrogenase
+3232,Nicotine blue oxidoreductase
+3233,2-Deoxy-scyllo-inosamine dehydrogenase
+3234,Very-long-chain 3-oxoacyl-CoA reductase
+3235,Chanoclavine-I dehydrogenase
+3236,Secoisolariciresinol dehydrogenase
+3237,Decaprenylphospho-beta-D-erythro-pentofuranosid-2-ulose 2-reductase
+3238,Methylecgonone reductase
+3239,UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase
+3240,UDP-N-acetyl-D-mannosamine dehydrogenase
+3241,L-2-hydroxycarboxylate dehydrogenase (NAD+)
+3242,(2R)-3-sulfolactate dehydrogenase (NADP+)
+3243,DTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)
+3244,1-Deoxy-11beta-hydroxypentalenate dehydrogenase
+3245,CDP-paratose synthase
+3246,CDP-abequose synthase
+3247,Polyvinyl alcohol dehydrogenase (cytochrome)
+3248,Methanol dehydrogenase (cytochrome c)
+3249,Alcohol dehydrogenase (cytochrome c)
+3250,Nucleoside oxidase
+3251,Prosolanapyrone-II oxidase
+3252,Nucleoside oxidase (H2O2-forming)
+3253,Paromamine 6'-oxidase
+3254,6'''-Hydroxyneomycin C oxidase
+3255,Alcohol dehydrogenase (quinone)
+3256,Formate dehydrogenase-N
+3257,Glycerol-3-phosphate dehydrogenase (quinone)
+3258,Cyclic alcohol dehydrogenase (quinone)
+3259,Quinate dehydrogenase (quinone)
+3260,Alcohol dehydrogenase (azurin)
+3261,Glucose-6-phosphate dehydrogenase (coenzyme-F420)
+3262,Decaprenylphospho-beta-D-ribofuranose 2-oxidase
+3263,Uracil dehydrogenase
+3264,Pyranose dehydrogenase (acceptor)
+3265,L-sorbose 1-dehydrogenase
+3266,Formate dehydrogenase (acceptor)
+3267,Soluble quinoprotein glucose dehydrogenase
+3268,Alcohol dehydrogenase (nicotinoprotein)
+3269,Methanol dehydrogenase (nicotinoprotein)
+3270,2-Deoxy-scyllo-inosamine dehydrogenase (SAM-dependent)
+3271,Sulfoacetaldehyde dehydrogenase
+3272,"Abieta-7,13-dien-18-al dehydrogenase"
+3273,Malonyl CoA reductase (malonate semialdehyde-forming)
+3274,Succinate-semialdehyde dehydrogenase (acylating)
+3275,"3,4-Dehydroadipyl-CoA semialdehyde dehydrogenase (NADP+)"
+3276,2-Formylbenzoate dehydrogenase
+3277,Succinate-semialdehyde dehydrogenase (NADP+)
+3278,Long-chain acyl-(acyl-carrier-protein) reductase
+3279,Sulfoacetaldehyde dehydrogenase (acylating)
+3280,Beta-apo-4'-carotenal oxygenase
+3281,3-Succinoylsemialdehyde-pyridine dehydrogenase
+3282,Alcohol-forming fatty acyl-CoA reductase
+3283,2-Hydroxymuconate-6-semialdehyde dehydrogenase
+3284,Geranial dehydrogenase
+3285,Oxalate oxidoreductase
+3286,Cortisone b-reductase
+3287,(+)-Pulegone reductase
+3288,(-)-Isopiperitenone reductase
+3289,Geranylgeranyl diphosphate reductase
+3290,Acrylyl-CoA reductase (NADPH)
+3291,Crotonyl-CoA carboxylase/reductase
+3292,Crotonyl-CoA reductase
+3293,"3-(cis-5,6-dihydroxycyclohexa-1,3-dien-1-yl)propanoate dehydrogenase"
+3294,TRNA-dihydrouridine47 synthase (NAD(P)+)
+3295,TRNA-dihydrouridine16/17 synthase (NAD(P)+)
+3296,TRNA-dihydrouridine20a/20b synthase (NAD(P)+)
+3297,TRNA-dihydrouridine20 synthase (NAD(P)+)
+3298,Artemisinic aldehyde Delta11(13)-reductase
+3299,Very-long-chain enoyl-CoA reductase
+3300,Polyprenol reductase
+3301,Acrylyl-CoA reductase (NADH)
+3302,Botryococcus squalene synthase
+3303,Botryococcene synthase
+3304,Galactonolactone dehydrogenase
+3305,Dihydroorotate dehydrogenase (quinone)
+3306,Protoporphyrinogen IX dehydrogenase (menaquinone)
+3307,Fumarate reductase (menaquinone)
+3308,15-Cis-phytoene desaturase
+3309,"9,9'-Dicis-zeta-carotene desaturase"
+3310,Phycoerythrobilin synthase
+3311,Ferredoxin:protochlorophyllide reductase (ATP-dependent)
+3312,Pentalenolactone synthase
+3313,Short-chain acyl-CoA dehydrogenase
+3314,"4,4'-Diapophytoene desaturase"
+3315,(R)-benzylsuccinyl-CoA dehydrogenase
+3316,Medium-chain acyl-CoA dehydrogenase
+3317,Long-chain acyl-CoA dehydrogenase
+3318,Very-long-chain acyl-CoA dehydrogenase
+3319,2-Amino-4-deoxychorismate dehydrogenase
+3320,Carvone reductase
+3321,All-trans-zeta-carotene desaturase
+3322,"1-Hydroxycarotenoid 3,4-desaturase"
+3323,Phytoene desaturase (zeta-carotene-forming)
+3324,"Phytoene desaturase (3,4-didehydrolycopene-forming)"
+3325,Phytoene desaturase (neurosporene-forming)
+3326,Phytoene desaturase (lycopene-forming)
+3327,Glutaryl-CoA dehydrogenase (non-decarboxylating)
+3328,Lysine 6-dehydrogenase
+3329,Pyruvate dehydrogenase (quinone)
+3330,Valine dehydrogenase (NAD+)
+3331,3-dehydroquinate synthase II
+3332,Glycine oxidase
+3333,Primary-amine oxidase
+3334,7-Chloro-L-tryptophan oxidase
+3335,Pseudooxynicotine oxidase
+3336,D-amino acid dehydrogenase (quinone)
+3337,Methylamine dehydrogenase (amicyanin)
+3338,Aralkylamine dehydrogenase (azurin)
+3339,1-Pyrroline dehydrogenase
+3340,Flavin reductase (NADH)
+3341,FMN reductase (NADPH)
+3342,FAD reductase (NADH)
+3343,FMN reductase (NAD(P)H)
+3344,8-Hydroxy-5-deazaflavin:NADPH oxidoreductase
+3345,Riboflavin reductase (NAD(P)H)
+3346,FMN reductase (NADH)
+3347,Carboxynorspermidine synthase
+3348,FAD reductase (NAD(P)H)
+3349,Festuclavine dehydrogenase
+3350,Dihydroorotate dehydrogenase (fumarate)
+3351,N1-acetylpolyamine oxidase
+3352,"Polyamine oxidase (propane-1,3-diamine-forming)"
+3353,"N8-acetylspermidine oxidase (propane-1,3-diamine-forming)"
+3354,Spermine oxidase
+3355,Non-specific polyamine oxidase
+3356,L-saccharopine oxidase
+3357,4-Methylaminobutanoate oxidase (formaldehyde-forming)
+3358,N-alkylglycine oxidase
+3359,4-Methylaminobutanoate oxidase (methylamine-forming)
+3360,D-proline dehydrogenase
+3361,6-Hydroxypseudooxynicotine dehydrogenase
+3362,NADH:ubiquinone reductase (Na+-transporting)
+3363,NADH:ubiquinone reductase (non-electrogenic)
+3364,"Nitric oxide reductase (NAD(P), nitrous oxide-forming)"
+3365,Nitric oxide reductase (cytochrome c)
+3366,Hydroxylamine dehydrogenase
+3367,Nitrate reductase (quinone)
+3368,Nitric oxide reductase (menaquinol)
+3369,Nitrite dismutase
+3370,Glutathione amide reductase
+3371,Dimethylsulfone reductase
+3372,Sulfide-cytochrome-c reductase (flavocytochrome c)
+3373,Dimethyl sulfide:cytochrome c2 reductase
+3374,Farnesylcysteine lyase
+3375,Methionine-S-oxide reductase
+3376,Protein-methionine-S-oxide reductase
+3377,Peptide-methionine (S)-S-oxide reductase
+3378,Sulfide:quinone reductase
+3379,Ferredoxin:thioredoxin reductase
+3380,O-aminophenol oxidase
+3381,Ubiquinol oxidase (H+-transporting)
+3382,Menaquinol oxidase (H+-transporting)
+3383,Plastoquinol/plastocyanin reductase
+3384,Violaxanthin de-epoxidase
+3385,NADH dehydrogenase
+3386,Versatile peroxidase
+3387,Glutathione amide-dependent peroxidase
+3388,Bromide peroxidase
+3389,Dye decolorizing peroxidase
+3390,Prostamide/prostaglandin F2alpha synthase
+3391,Catalase-peroxidase
+3392,Unspecific peroxygenase
+3393,Plant seed peroxygenase
+3394,Fatty-acid peroxygenase
+3395,"Hydrogenase (NAD+, ferredoxin)"
+3396,Sulfur dioxygenase
+3397,9-cis-epoxycarotenoid dioxygenase
+3398,"1,2-dihydroxynaphthalene dioxygenase"
+3399,Gallate dioxygenase
+3400,Linoleate 9S-lipoxygenase
+3401,Torulene dioxygenase
+3402,Linoleate 8R-lipoxygenase
+3403,Linolenate 9R-lipoxygenase
+3404,Linoleate 10R-lipoxygenase
+3405,"Beta-carotene 15,15'-dioxygenase"
+3406,5-nitrosalicylate dioxygenase
+3407,Carotenoid isomerooxygenase
+3408,"Hydroquinone 1,2-dioxygenase"
+3409,"8'-apo-beta-carotenoid 14',13'-cleaving dioxygenase"
+3410,"9-cis-beta-carotene 9',10'-cleaving dioxygenase"
+3411,Carlactone synthase
+3412,"All-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase"
+3413,"Carotenoid-9',10'-cleaving dioxygenase"
+3414,2-hydroxyethylphosphonate dioxygenase
+3415,Methylphosphonate synthase
+3416,Methylphenyltetrahydropyridine N-monooxygenase
+3417,Chlorophyllide-a oxygenase
+3418,"3,4-dihydroxyphenylalanine oxidative deaminase"
+3419,Nitronate monooxygenase
+3420,Dichloroarcyriaflavin A synthase
+3421,Dinoflagellate luciferase
+3422,2-oxoglutarate dioxygenase (ethylene-forming)
+3423,Clavaminate synthase
+3424,Mugineic-acid 3-dioxygenase
+3425,(Histone-H3)-lysine-36 demethylase
+3426,Hypoxia-inducible factor-proline dioxygenase
+3427,Hypoxia-inducible factor-asparagine dioxygenase
+3428,Thebaine 6-O-demethylase
+3429,Codeine 3-O-demethylase
+3430,DNA oxidative demethylase
+3431,2-oxoglutarate/L-arginine monooxygenase/decarboxylase (succinate-forming)
+3432,1-Deoxypentalenic acid 11beta-hydroxylase
+3433,Pentalenolactone F synthase
+3434,Pheophorbide a oxygenase
+3435,"Benzoyl-CoA 2,3-dioxygenase"
+3436,"Carbazole 1,9a-dioxygenase"
+3437,Cyclohexanone monooxygenase
+3438,Tyrosine N-monooxygenase
+3439,Pentachlorophenol monooxygenase
+3440,Ketosteroid monooxygenase
+3441,Methylsterol monooxygenase
+3442,Ent-kaurene oxidase
+3443,Ent-kaurenoic acid oxidase
+3444,Magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase
+3445,"Flavonoid 3',5'-hydroxylase"
+3446,Zeaxanthin epoxidase
+3447,(+)-Menthofuran synthase
+3448,Monocyclic monoterpene ketone monooxygenase
+3449,Epi-isozizaene 5-monooxygenase
+3450,"Limonene 1,2-monooxygenase"
+3451,Abietadiene hydroxylase
+3452,Abietadienol hydroxylase
+3453,Geranylgeraniol 18-hydroxylase
+3454,Methanesulfonate monooxygenase
+3455,3-Epi-6-deoxocathasterone 23-monooxygenase
+3456,FAD-dependent urate hydroxylase
+3457,6-Hydroxynicotinate 3-monooxygenase
+3458,Angelicin synthase
+3459,Geranylhydroquinone 3''-hydroxylase
+3460,Isoleucine N-monooxygenase
+3461,Valine N-monooxygenase
+3462,"5-epiaristolochene 1,3-dihydroxylase"
+3463,Costunolide synthase
+3464,Premnaspirodiene oxygenase
+3465,Germacrene A hydroxylase
+3466,Phenylalanine N-monooxygenase
+3467,Tryptophan N-monooxygenase
+3468,Vitamin D3 24-hydroxylase
+3469,3-(3-hydroxyphenyl)propanoate hydroxylase
+3470,7-Methylxanthine demethylase
+3471,Beta-carotene 3-hydroxylase
+3472,Pyrrole-2-carboxylate monooxygenase
+3473,Dimethyl-sulfide monooxygenase
+3474,Pentalenene oxygenase
+3475,Beta-amyrin 11-oxidase
+3476,Isoflavonoid synthase
+3477,1-hydroxy-2-naphthoate hydroxylase
+3478,Indole-2-monooxygenase
+3479,Indolin-2-one monooxygenase
+3480,3-hydroxyindolin-2-one monooxygenase
+3481,"2-Hydroxy-1,4-benzoxazin-3-one monooxygenase"
+3482,Cholest-4-en-3-one 26-monooxygenase
+3483,3-Ketosteroid 9alpha-monooxygenase
+3484,Ent-isokaurene C2-hydroxylase
+3485,"9beta-pimara-7,15-diene oxidase"
+3486,"Ent-cassa-12,15-diene 11-hydroxylase"
+3487,Taxoid 14beta-hydroxylase
+3488,Taxoid 7beta-hydroxylase
+3489,Trimethylamine monooxygenase
+3490,"Phenylacetyl-CoA 1,2-epoxidase"
+3491,Alpha-humulene 10-hydroxylase
+3492,Geraniol 8-hydroxylase
+3493,(+)-Sabinene 3-hydroxylase
+3494,Erythromycin 12 hydroxylase
+3495,Alpha-pinene monooxygenase
+3496,"1,8-Cineole 2-endo-monooxygenase"
+3497,"1,8-Cineole 2-exo-monooxygenase"
+3498,"Amorpha-4,11-diene 12-monooxygenase"
+3499,"(2,2,3-Trimethyl-5-oxocyclopent-3-enyl)acetyl-CoA 1,5-monooxygenase"
+3500,(+)-Camphor 6-exo-hydroxylase
+3501,"2,5-diketocamphane 1,2-monooxygenase"
+3502,6-Hydroxy-3-succinoylpyridine 3-monooxygenase
+3503,Nitric-oxide synthase (NAD(P)H-dependent)
+3504,4-Nitrocatechol 4-monooxygenase
+3505,4-Nitrophenol 4-monooxygenase
+3506,Indole-3-pyruvate monooxygenase
+3507,Sphinganine C4-monooxygenase
+3508,Pentalenolactone D synthase
+3509,Neopentalenolactone D synthase
+3510,Tryptophan 7-halogenase
+3511,Anthranilate 3-monooxygenase (FAD)
+3512,Nitrilotriacetate monooxygenase
+3513,"3-Hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase"
+3514,4-(Gamma-L-glutamylamino)butanoyl-(BtrI acyl-carrier protein) monooxygenase
+3515,Steroid 15beta-monooxygenase
+3516,Spheroidene monooxygenase
+3517,(+)-Camphor 6-endo-hydroxylase
+3518,Pentalenic acid synthase
+3519,Delta8-fatty-acid desaturase
+3520,Delta11-fatty-acid desaturase
+3521,Delta12-fatty-acid desaturase
+3522,(S)-2-hydroxypropylphosphonic acid epoxidase
+3523,"2,4-Dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase"
+3524,Biflaviolin synthase
+3525,Pseudobaptigenin synthase
+3526,Methane monooxygenase (particulate)
+3527,Ammonia monooxygenase
+3528,"5,6-dimethylbenzimidazole synthase"
+3529,"All-trans-8'-apo-beta-carotenal 15,15'-oxygenase"
+3530,"Zeaxanthin 7,8-dioxygenase"
+3531,Beta-amyrin 24-hydroxylase
+3532,Diapolycopene oxygenase
+3533,Carotene epsilon-monooxygenase
+3534,Pyrimidine oxygenase
+3535,(+)-Larreatricin hydroxylase
+3536,Ferric-chelate reductase (NADPH)
+3537,Ascorbate ferrireductase (transmembrane)
+3538,Iron:rusticyanin reductase
+3539,Bile-acid 7alpha-dehydroxylase
+3540,"3-Oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase"
+3541,Nicotinate dehydrogenase (cytochrome)
+3542,Lupanine 17-hydroxylase (cytochrome c)
+3543,Caffeine dehydrogenase
+3544,7-Hydroxymethyl chlorophyll a reductase
+3545,Uracil/thymine dehydrogenase
+3546,Adrenodoxin-NADP+ reductase
+3547,Mycoredoxin
+3548,Aureusidin synthase
+3549,Tetrahydrocannabinolic acid synthase
+3550,Cannabidiolic acid synthase
+3551,Arsenate reductase (cytochrome c)
+3552,5-hydroxyfuranocoumarin 5-O-methyltransferase
+3553,8-hydroxyfuranocoumarin 8-O-methyltransferase
+3554,Uroporphyrinogen-III C-methyltransferase
+3555,Arsenite methyltransferase
+3556,Glycine/sarcosine N-methyltransferase
+3557,Dimethylglycine N-methyltransferase
+3558,Glycine/sarcosine/dimethylglycine N-methyltransferase
+3559,Demethylmenaquinone methyltransferase
+3560,Demethylrebeccamycin-D-glucose O-methyltransferase
+3561,Methyl halide transferase
+3562,23S rRNA (uridine2552-2'-O)-methyltransferase
+3563,27S pre-rRNA (guanosine2922-2'-O)-methyltransferase
+3564,21S rRNA (uridine2791-2'-O)-methyltransferase
+3565,"Tricetin 3',4',5'-O-trimethyltransferase"
+3566,16S rRNA (guanine527-N7)-methyltransferase
+3567,16S rRNA (guanine966-N2)-methyltransferase
+3568,16S rRNA (guanine1207-N2)-methyltransferase
+3569,23S rRNA (guanine2445-N2)-methyltransferase
+3570,23S rRNA (guanine1835-N2)-methyltransferase
+3571,Tricin synthase
+3572,16S rRNA (cytosine967-C5)-methyltransferase
+3573,23S rRNA (pseudouridine1915-N3)-methyltransferase
+3574,16S rRNA (cytosine1407-C5)-methyltransferase
+3575,16S rRNA (guanine1405-N7)-methyltransferase
+3576,16S rRNA (adenine1408-N1)-methyltransferase
+3577,23S rRNA (adenine1618-N6)-methyltransferase
+3578,16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase
+3579,18S rRNA (adenine1779-N6/adenine1780-N6)-dimethyltransferase
+3580,23S rRNA (adenine2085-N6)-dimethyltransferase
+3581,23S rRNA (guanosine2251-2'-O)-methyltransferase
+3582,23S rRNA (cytidine2498-2'-O)-methyltransferase
+3583,23S rRNA (guanine745-N1)-methyltransferase
+3584,23S rRNA (guanine748-N1)-methyltransferase
+3585,23S rRNA (uracil747-C5)-methyltransferase
+3586,23S rRNA (uracil1939-C5)-methyltransferase
+3587,23S rRNA (cytosine1962-C5)-methyltransferase
+3588,23S rRNA (adenine2503-C2)-methyltransferase
+3589,16S rRNA (uracil1498-N3)-methyltransferase
+3590,"23S rRNA (adenine2503-C2,C8)-dimethyltransferase"
+3591,Cobalt-precorrin-5B (C1)-methyltransferase
+3592,Cobalt-precorrin-7 (C15)-methyltransferase (decarboxylating)
+3593,Malonyl-CoA O-methyltransferase
+3594,16S rRNA (cytidine1402-2'-O)-methyltransferase
+3595,16S rRNA (cytosine1402-N4)-methyltransferase
+3596,TRNA (cytidine32/uridine32-2'-O)-methyltransferase
+3597,"2-Methoxy-6-polyprenyl-1,4-benzoquinol methylase"
+3598,Multisite-specific tRNA:(cytosine-C5)-methyltransferase
+3599,TRNA (cytosine34-C5)-methyltransferase
+3600,TRNA (cytosine38-C5)-methyltransferase
+3601,TRNA (cytidine32/guanosine34-2'-O)-methyltransferase
+3602,TRNA (cytidine56-2'-O)-methyltransferase
+3603,TRNA (cytidine34-2'-O)-methyltransferase
+3604,23S rRNA (uridine2479-2'-O)-methyltransferase
+3605,23S rRNA (guanine2535-N1)-methyltransferase
+3606,Demethylspheroidene O-methyltransferase
+3607,TRNASer (uridine44-2'-O)-methyltransferase
+3608,"2,7,4'-Trihydroxyisoflavanone 4'-O-methyltransferase"
+3609,Geosmin synthase
+3610,TRNA (guanine10-N2)-dimethyltransferase
+3611,TRNA (guanine10-N2)-methyltransferase
+3612,TRNA (guanine26-N2/guanine27-N2)-dimethyltransferase
+3613,TRNA (guanine26-N2)-dimethyltransferase
+3614,TRNA (adenine22-N1)-methyltransferase
+3615,TRNA (adenine9-N1)-methyltransferase
+3616,TRNA (adenine57-N1/adenine58-N1)-methyltransferase
+3617,TRNA (adenine58-N1)-methyltransferase
+3618,TRNA (guanine9-N1)-methyltransferase
+3619,2-Polyprenyl-6-hydroxyphenyl methylase
+3620,TRNA1Val (adenine37-N6)-methyltransferase
+3621,23S rRNA (adenine2503-C8)-methyltransferase
+3622,TRNA:m4X modification enzyme
+3623,23S rRNA (cytidine1920-2'-O)-methyltransferase
+3624,16S rRNA (cytidine1409-2'-O)-methyltransferase
+3625,TRNA (guanine37-N1)-methyltransferase
+3626,TRNA (carboxymethyluridine34-5-O)-methyltransferase
+3627,23S rRNA (adenosine1067-2'-O)-methyltransferase
+3628,Flavonoid 4'-O-methyltransferase
+3629,Naringenin 7-O-methyltransferase
+3630,(Phosphatase 2A protein)-leucine-carboxy methyltransferase
+3631,"DTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase"
+3632,"DTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase"
+3633,"DTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase"
+3634,Mycinamicin III 3''-O-methyltransferase
+3635,Mycinamicin VI 2''-O-methyltransferase
+3636,L-olivosyl-oleandolide 3-O-methyltransferase
+3637,Trans-resveratrol di-O-methyltransferase
+3638,"2,4,7-trihydroxy-1,4-benzoxazin-3-one-glucoside 7-O-methyltransferase"
+3639,16S rRNA (guanine1516-N2)-methyltransferase
+3640,2-Ketoarginine methyltransferase
+3641,Protein N-terminal methyltransferase
+3642,(Methyl-Co(III) methanol-specific corrinoid protein):coenzyme M methyltransferase
+3643,(Methyl-Co(III) methylamine-specific corrinoid protein):coenzyme M methyltransferase
+3644,Methylamine-corrinoid protein Co-methyltransferase
+3645,Dimethylamine-corrinoid protein Co-methyltransferase
+3646,Trimethylamine-corrinoid protein Co-methyltransferase
+3647,Methylated-thiol-coenzyme M methyltransferase
+3648,Tetramethylammonium-corrinoid protein Co-methyltransferase
+3649,(Methyl-Co(III) tetramethylammonium-specific corrinoid protein):coenzyme M methyltransferase
+3650,Erythromycin 3''-O-methyltransferase
+3651,Geranyl diphosphate 2-C-methyltransferase
+3652,TRNA (guanine6-N2)-methyltransferase
+3653,TRNA (pseudouridine54-N1)-methyltransferase
+3654,5-Methyltetrahydrofolate:corrinoid/iron-sulfur protein Co-methyltransferase
+3655,(Fructose-bisphosphate aldolase)-lysine N-methyltransferase
+3656,RRNA small subunit pseudouridine methyltransferase Nep1
+3657,4-Dimethylallyltryptophan N-methyltransferase
+3658,Squalene methyltransferase
+3659,Botryococcene C-methyltransferase
+3660,23S rRNA (guanine2069-N7)-methyltransferase
+3661,Tellurite methyltransferase
+3662,UDP-4-amino-4-deoxy-L-arabinose formyltransferase
+3663,Malonyl-S-ACP:biotin-protein carboxyltransferase
+3664,N-succinylornithine carbamoyltransferase
+3665,6-Deoxy-5-ketofructose 1-phosphate synthase
+3666,2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase
+3667,"2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase"
+3668,(R)-citramalate synthase
+3669,Phosphinothricin acetyltransferase
+3670,Acyl-homoserine-lactone synthase
+3671,Tropine acyltransferase
+3672,Pseudotropine acyltransferase
+3673,Acetyl-S-ACP:malonate ACP transferase
+3674,Omega-hydroxypalmitate O-feruloyl transferase
+3675,Mycothiol synthase
+3676,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+3677,Glycine N-phenylacetyltransferase
+3678,TRNAMet cytidine acetyltransferase
+3679,Acetoacetyl-CoA synthase
+3680,(Z)-3-hexen-1-ol acetyltransferase
+3681,Benzyl alcohol O-benzoyltransferase
+3682,"DTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase"
+3683,Glycerol-3-phosphate 2-O-acyltransferase
+3684,Very-long-chain 3-oxoacyl-CoA synthase
+3685,Lipoyl amidotransferase
+3686,"UDP-2-acetamido-3-amino-2,3-dideoxy-glucuronate N-acetyltransferase"
+3687,"UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase"
+3688,"UDP-4-amino-4,6-dideoxy-N-acetyl-alpha-D-glucosamine N-acetyltransferase"
+3689,Octanoyl-(GcvH):protein N-octanoyltransferase
+3690,Fumigaclavine B O-acetyltransferase
+3691,"3,5,7-Trioxododecanoyl-CoA synthase"
+3692,Beta-ketodecanoyl-(acyl-carrier-protein) synthase
+3693,4-Hydroxycoumarin synthase
+3694,"DTDP-4-amino-4,6-dideoxy-D-glucose acyltransferase"
+3695,"DTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase"
+3696,Lipid II:glycine glycyltransferase
+3697,N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-(N6-glycyl)-D-alanyl-D-alanine-diphosphoundecaprenyl-N-acetylglucosamine:glycine glycyltransferase
+3698,N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-(N6-triglycine)-D-alanyl-D-alanine-diphosphoundecaprenyl-N-acetylglucosamine:glycine glycyltransferase
+3699,Ribostamycin:4-(gamma-L-glutamylamino)-(S)-2-hydroxybutanoyl-(BtrI acyl-carrier protein) 4-(gamma-L-glutamylamino)-(S)-2-hydroxybutanoate transferase
+3700,(N-acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase
+3701,"A-1,3-mannosyl-glycoprotein 2-b-N-acetylglucosaminyltransferase"
+3702,"B-1,3-galactosyl-O-glycosyl-glycoprotein b-1,6-N-acetylglucosaminyltransferase"
+3703,"A-1,4-glucan-protein synthase (UDP-forming)"
+3704,N-acetylglucosaminyldiphosphodolichol N-acetylglucosaminyltransferase
+3705,"A-1,6-mannosyl-glycoprotein 2-b-N-acetylglucosaminyltransferase"
+3706,"B-1,4-mannosyl-glycoprotein 4-b-N-acetylglucosaminyltransferase"
+3707,"A-1,3-mannosyl-glycoprotein 4-b-N-acetylglucosaminyltransferase"
+3708,"B-1,3-galactosyl-O-glycosyl-glycoprotein b-1,3-N-acetylglucosaminyltransferase"
+3709,"Acetylgalactosaminyl-O-glycosyl-glycoprotein b-1,3-N-acetylglucosaminyltransferase"
+3710,"Acetylgalactosaminyl-O-glycosyl-glycoprotein b-1,6-N-acetylglucosaminyltransferase"
+3711,"Globotriosylceramide b-1,6-N-acetylgalactosaminyl-transferase"
+3712,"A-1,6-mannosyl-glycoprotein 6-b-N-acetylglucosaminyltransferase"
+3713,"Beta-galactosyl-N-acetylglucosaminylgalactosylglucosyl-ceramide beta-1,3-acetylglucosaminyltransferase"
+3714,"Galactosyl-N-acetylglucosaminylgalactosylglucosyl-ceramide b-1,6-N-acetylglucosaminyltransferase"
+3715,"N-acetylneuraminylgalactosylglucosylceramide b-1,4-N-acetylgalactosaminyltransferase"
+3716,Glucuronylgalactosylproteoglycan 4-b-N-acetylgalactosaminyltransferase
+3717,Glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-b-N-acetylgalactosaminyltransferase
+3718,N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+3719,"High-mannose-oligosaccharide beta-1,4-N-acetylglucosaminyltransferase"
+3720,"Alpha-1,6-mannosyl-glycoprotein 4-b-N-acetylglucosaminyltransferase"
+3721,"2,4-Dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2 -D-glucosyltransferase"
+3722,Glucuronyl-galactosyl-proteoglycan 4-a-N-acetylglucosaminyltransferase
+3723,Glucuronosyl-N-acetylglucosaminyl-proteoglycan 4-alpha-N-acetylglucosaminyltransferase
+3724,N-acetyl-beta-glucosaminyl-glycoprotein 4-beta-N-acetylgalactosaminyltransferase
+3725,"Alpha,alpha-trehalose synthase"
+3726,Mannosylfructose-phosphate synthase
+3727,Beta-D-galactosyl-(1-4)-L-rhamnose phosphorylase
+3728,Cycloisomaltooligosaccharide glucanotransferase
+3729,"Delphinidin 3',5'-O-glucosyltransferase"
+3730,D-inositol-3-phosphate glycosyltransferase
+3731,"GlcA-beta-(1-2)-D-Man-alpha-(1-3)-D-Glc-beta-(1-4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol 4-beta-mannosyltransferase"
+3732,GDP-mannose:cellobiosyl-diphosphopolyprenol alpha-mannosyltransferase
+3733,Baicalein 7-O-glucuronosyltransferase
+3734,Cyanidin-3-O-glucoside 2-O-glucuronosyltransferase
+3735,Protein O-GlcNAc transferase
+3736,"Dolichyl-P-Glc:Glc2Man9GlcNAc2-PP-dolichol alpha-1,2-glucosyltransferase"
+3737,"GDP-Man:Man2GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase"
+3738,"Dolichyl-P-Man:Man5GlcNAc2-PP-dolichol alpha-1,3-mannosyltransferase"
+3739,"Dolichyl-P-Man:Man6GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase"
+3740,"Dolichyl-P-Man:Man7GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase"
+3741,"Dolichyl-P-Man:Man8GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase"
+3742,Soyasapogenol glucuronosyltransferase
+3743,Abscisate beta-glucosyltransferase
+3744,D-Man-alpha-(1-3)-D-Glc-beta-(1-4)-D-Glc-alpha-1-diphosphoundecaprenol 2-beta-glucuronyltransferase
+3745,"Dolichyl-P-Glc:Glc1Man9GlcNAc2-PP-dolichol alpha-1,3-glucosyltransferase"
+3746,Glucosyl-3-phosphoglycerate synthase
+3747,"Dolichyl-P-Glc:Man9GlcNAc2-PP-dolichol alpha-1,3-glucosyltransferase"
+3748,Glucosylglycerate synthase
+3749,Mannosylglycerate synthase
+3750,Mannosylglucosyl-3-phosphoglycerate synthase
+3751,Crocetin glucosyltransferase
+3752,Soyasapogenol B glucuronide galactosyltransferase
+3753,Soyasaponin III rhamnosyltransferase
+3754,"Glucosylceramide beta-1,4-galactosyltransferase"
+3755,"Lactotriaosylceramide beta-1,4-galactosyltransferase"
+3756,Zeaxanthin glucosyltransferase
+3757,Glycosyltransferase DesVII
+3758,Desosaminyl transferase EryCIII
+3759,Nigerose phosphorylase
+3760,"N,N'-diacetylchitobiose phosphorylase"
+3761,4-O-beta-D-mannosyl-D-glucose phosphorylase
+3762,3-O-alpha-D-glucosyl-L-rhamnose phosphorylase
+3763,2-Deoxystreptamine N-acetyl-D-glucosaminyltransferase
+3764,2-Deoxystreptamine glucosyltransferase
+3765,UDP-GlcNAc:ribostamycin N-acetylglucosaminyltransferase
+3766,Chalcone 4'-O-glucosyltransferase
+3767,"Galactofuranosylgalactofuranosylrhamnosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,5/1,6-galactofuranosyltransferase"
+3768,"Rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase"
+3769,N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+3770,"N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase"
+3771,"N-acetylgalactosamine-N,N'-diacetylbacillosaminyl-diphospho-undecaprenol 4-alpha-N-acetylgalactosaminyltransferase"
+3772,"GalNAc-alpha-(1-4)-GalNAc-alpha-(1-3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase"
+3773,"GalNAc5-diNAcBac-PP-undecaprenol beta-1,3-glucosyltransferase"
+3774,"Xylogalacturonan beta-1,3-xylosyltransferase"
+3775,"UDP-D-xylose:beta-D-glucoside alpha-1,3-D-xylosyltransferase"
+3776,Lipid IVA 4-amino-4-deoxy-L-arabinosyltransferase
+3777,S-methyl-5'-thioinosine phosphorylase
+3778,Decaprenyl-phosphate phosphoribosyltransferase
+3779,Galactan 5-O-arabinofuranosyltransferase
+3780,Arabinofuranan 3-O-arabinosyltransferase
+3781,TRNA-guanine15 transglycosylase
+3782,"(a-N-acetylneuraminyl-2,3-b-galactosyl-1,3)-N-acetyl-galactosaminide 6-a-sialyltransferase"
+3783,Lipid IVA 3-deoxy-D-manno-octulosonic acid transferase
+3784,(KDO)-lipid IVA 3-deoxy-D-manno-octulosonic acid transferase
+3785,(KDO)2-lipid IVA (2-8) 3-deoxy-D-manno-octulosonic acid transferase
+3786,(KDO)3-lipid IVA (2-4) 3-deoxy-D-manno-octulosonic acid transferase
+3787,Starch synthase (maltosyl-transferring)
+3788,S-adenozilmetionin:tRNA ribosyltransferase-isomerase
+3789,Undecaprenyl-diphosphooligosaccharide-protein glycotransferase
+3790,Trihydroxypterocarpan dimethylallyltransferase
+3791,Homospermidine synthase
+3792,Deoxyhypusine synthase
+3793,Leachianone-G 2''-dimethylallyltransferase
+3794,Quinolinate synthase
+3795,O-phospho-L-seryl-tRNA:Cys-tRNA synthase
+3796,"1,4-dihydroxy-2-naphthoate polyprenyltransferase"
+3797,TRNA dimethylallyltransferase
+3798,Cysteate synthase
+3799,"7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase"
+3800,Thermospermine synthase
+3801,7-Dimethylallyltryptophan synthase
+3802,Geranylfarnesyl diphosphate synthase
+3803,Hexaprenyl diphosphate synthase (geranylgeranyl-diphosphate specific)
+3804,"Hexaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)"
+3805,All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific)
+3806,All-trans-nonaprenyl diphosphate synthase (geranylgeranyl-diphosphate specific)
+3807,"Trans,polycis-decaprenyl diphosphate synthase"
+3808,"Ditrans,polycis-polyprenyl diphosphate synthase ((2E,6E)-farnesyl diphosphate specific)"
+3809,"Trans,polycis-polyprenyl diphosphate synthase ((2Z,6E)-farnesyl diphosphate specific)"
+3810,"Tritrans,polycis-undecaprenyl-diphosphate synthase (geranylgeranyl-diphosphate specific)"
+3811,All-trans-octaprenyl-diphosphate synthase
+3812,All-trans-decaprenyl-diphosphate synthase
+3813,"(2Z,6Z)-farnesyl diphosphate synthase"
+3814,4-Hydroxybenzoate geranyltransferase
+3815,Adenozil-chloride synthase
+3816,Xanthan ketal pyruvate transferase
+3817,"4,4'-Diapophytoene synthase"
+3818,Pseudaminic acid synthase
+3819,Rhizobium leguminosarum exopolysaccharide glucosyl ketal-pyruvate-transferase
+3820,All-trans-phytoene synthase
+3821,Fumigaclavine A dimethylallyltransferase
+3822,"N,N'-diacetyllegionaminate synthase"
+3823,Presqualene diphosphate synthase
+3824,Phosphoserine transaminase
+3825,Putrescine aminotransferase
+3826,2-Amino-4-deoxychorismate synthase
+3827,UDP-4-amino-4-deoxy-L-arabinose aminotransferase
+3828,Metionin transaminase
+3829,"DTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase"
+3830,"DTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase"
+3831,"UDP-4-amino-4,6-dideoxy-N-acetyl-alpha-D-glucosamine transaminase"
+3832,"UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase"
+3833,Neamine transaminase
+3834,2'-Deamino-2'-hydroxyneamine transaminase
+3835,Neomycin C transaminase
+3836,UDP-2-acetamido-2-deoxy-ribo-hexuluronate aminotransferase
+3837,Archaeosine synthase
+3838,3-Methyl-2-oxobutanoate dehydrogenase (acetyl-transferring) kinase
+3839,Inositol-polyphosphate multikinase
+3840,"Inositol-1,3,4-trisphosphate 5/6-kinase"
+3841,CTP-dependent riboflavin kinase
+3842,N-acetylhexosamine 1-kinase
+3843,Hygromycin B 4-O-kinase
+3844,O-phosphoseryl-tRNASec kinase
+3845,Glycerate 2-kinase
+3846,3-Deoxy-D-manno-octulosonic acid kinase
+3847,D-glycero-beta-D-manno-heptose-7-phosphate kinase
+3848,D-glycero-alpha-D-manno-heptose-7-phosphate kinase
+3849,Pantoate kinase
+3850,Anhydro-N-acetylmuramic acid kinase
+3851,Protein-fructosamine 3-kinase
+3852,Protein-ribulosamine 3-kinase
+3853,Nicotinate riboside kinase
+3854,Diacylglycerol kinase (CTP dependent)
+3855,Maltokinase
+3856,UDP-N-acetylglucosamine kinase
+3857,L-threonine kinase
+3858,Propionate kinase
+3859,Inositol-hexakisphosphate kinase
+3860,(d)CMP kinase
+3861,Isopentenyl phosphate kinase
+3862,"(Pyruvate, phosphate dikinase)-phosphate phosphotransferase"
+3863,"(Pyruvate, water dikinase)-phosphate phosphotransferase"
+3864,Ribonuclease T2
+3865,Nucleoside-triphosphate-hexose-1-phosphate nucleotidyltransferase
+3866,Malonate decarboxylase holo-(acyl-carrier protein) synthase
+3867,CDP-archaeol synthase
+3868,2-Phospho-L-lactate guanylyltransferase
+3869,GDP-L-galactose phosphorylase
+3870,D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase
+3871,D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+3872,Sulfur carrier protein ThiS adenylyltransferase
+3873,1L-myo-inositol 1-phosphate cytidylyltransferase
+3874,Molybdopterin adenylyltransferase
+3875,Molybdenum cofactor cytidylyltransferase
+3876,Molybdenum cofactor guanylyltransferase
+3877,GDP-D-glucose phosphorylase
+3878,TRNAHis guanylyltransferase
+3879,Molybdopterin-synthase adenylyltransferase
+3880,Pseudaminic acid cytidylyltransferase
+3881,"CMP-N,N'-diacetyllegionaminic acid synthase"
+3882,UDP-N-acetylgalactosamine diphosphorylase
+3883,Adenosylcobinamide-GDP ribazoletransferase
+3884,2-phospho-L-lactate transferase
+3885,L-serine-phosphatidylethanolamine phosphatidyltransferase
+3886,Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+3887,Undecaprenyl-phosphate glucose phosphotransferase
+3888,3-O-alpha-D-mannopyranosyl-alpha-D-mannopyranose xylosylphosphotransferase
+3889,CDP-L-myo-inositol myo-inositolphosphotransferase
+3890,"Undecaprenyl phosphate N,N'-diacetylbacillosamine 1-phosphate transferase"
+3891,Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase
+3892,"(Pyruvate, phosphate dikinase) kinase"
+3893,"(Pyruvate, water dikinase) kinase"
+3894,Molybdenum cofactor sulfurtransferase
+3895,Thiazole synthase
+3896,Molybdopterin synthase sulfurtransferase
+3897,N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase
+3898,Dermatan 4-sulfotransferase
+3899,Arsenate-mycothiol transferase
+3900,O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
+3901,Molybdopterin molybdotransferase
+3902,Triacylglycerol lipase
+3903,Acetylajmaline esterase
+3904,Quorum-quenching N-acyl-homoserine lactonase
+3905,Pheophorbidase
+3906,Monoterpene epsilon-lactone hydrolase
+3907,Cocaine esterase
+3908,Pimelyl-(acyl-carrier protein) methyl ester esterase
+3909,Rhamnogalacturonan acetylesterase
+3910,Fumonisin B1 esterase
+3911,Pyrethroid hydrolase
+3912,Protein phosphatase methylesterase-1
+3913,All-trans-retinyl ester 13-cis isomerohydrolase
+3914,2-oxo-3-(5-oxofuran-2-ylidene)propanoate lactonase
+3915,4-sulfomuconolactone hydrolase
+3916,Mycophenolic acid acyl-glucuronide esterase

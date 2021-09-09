@@ -1,0 +1,1315 @@
+id,title
+0,Bundestag
+1,Council of the European Union
+2,European Parliament
+3,House of Lords
+4,House of Commons of the United Kingdom
+5,Parliament of the United Kingdom
+6,Sejm of the Republic of Poland
+7,Supreme Soviet of the Soviet Union
+8,United States Congress
+9,Greater London Authority
+10,Politburo of the Communist Party of China
+11,Scottish Parliament
+12,Greater London Council
+13,Australian House of Representatives
+14,House of Commons of Canada
+15,Knesset
+16,Parliament of Canada
+17,Althing
+18,Senate of Canada
+19,Legislative Yuan
+20,North Ayrshire
+21,East Ayrshire
+22,South Ayrshire
+23,Politburo Standing Committee of the Communist Party of China
+24,Irish House of Commons
+25,Oireachtas
+26,House of Representatives (Netherlands)
+27,Riksdag
+28,National Diet
+29,Australian Senate
+30,French Directory
+31,Parliament of Norway
+32,Parliament of Northern Ireland
+33,Birmingham City Council
+34,National Constituent Assembly
+35,National Convention
+36,States-General of the Netherlands
+37,Parliament of Finland
+38,National Assembly (Republic of China)
+39,French Consulate
+40,House of Councillors
+41,House of Representatives (Japan)
+42,National Council (Austria)
+43,Federal Council (Austria)
+44,Bundesrat of Germany
+45,Albany Congress
+46,Rajya Sabha
+47,National Assembly for Wales
+48,House of Burgesses
+49,Guardian Council
+50,Minnesota Senate
+51,Minnesota House of Representatives
+52,Secretariat of the Communist Party of China Central Committee
+53,Hampshire County Council
+54,Legislative Council of Hong Kong
+55,Lok Sabha
+56,Congress of the Philippines
+57,House of Representatives of the Philippines
+58,Senate of the Philippines
+59,National Assembly (France)
+60,Parliament of Australia
+61,Tynwald
+62,House of Keys
+63,National Council (Switzerland)
+64,Council of States (Switzerland)
+65,Northern Ireland Assembly
+66,Mississippi House of Representatives
+67,Newport City Council
+68,Metropolitan Board of Works
+69,Congress of Deputies (Spain)
+70,Senate of Spain
+71,Legislative Council of the Isle of Man
+72,London County Council
+73,House of Representatives of New Zealand
+74,London Assembly
+75,Liverpool City Council
+76,Second Continental Congress
+77,City of London Corporation
+78,Avon County Council
+79,Parliament of South Africa
+80,Parliament of Great Britain
+81,Parliament of England
+82,Islamic Consultative Assembly
+83,National Assembly of Quebec
+84,Philadelphia City Council
+85,Parliament of Croatia
+86,Quebec Legislature
+87,Parliament of India
+88,Congress of the Union
+89,Chamber of Deputies (Mexico)
+90,Oxfordshire County Council
+91,Dublin City Council
+92,California State Legislature
+93,Maine Legislature
+94,Michigan Legislature
+95,Virginia General Assembly
+96,Alaska Legislature
+97,Massachusetts General Court
+98,Maryland General Assembly
+99,Delaware General Assembly
+100,Colorado General Assembly
+101,New Hampshire General Court
+102,Vermont General Assembly
+103,Rhode Island General Assembly
+104,Connecticut General Assembly
+105,Georgia General Assembly
+106,Ohio General Assembly
+107,North Carolina General Assembly
+108,Montana Legislature
+109,New Jersey Legislature
+110,New York State Legislature
+111,New Mexico Legislature
+112,Hawaii State Legislature
+113,National Assembly (Kuwait)
+114,Texas Legislature
+115,Florida Legislature
+116,Folketing
+117,Indiana General Assembly
+118,Sandwell Metropolitan Borough Council
+119,West Midlands County Council
+120,Landtag of Bavaria
+121,Senate of the Republic (Mexico)
+122,Expediency Discernment Council
+123,United States House Committee on Rules
+124,Senate of the Republic of Poland
+125,United States House Committee on Ways and Means
+126,California State Assembly
+127,California State Senate
+128,North Carolina Senate
+129,North Carolina House of Representatives
+130,National Council (Slovakia)
+131,Palau National Congress
+132,Saeima
+133,Irish House of Lords
+134,Provisional Legislative Council
+135,Dudley Metropolitan Borough Council
+136,Parliament of Malaysia
+137,Dewan Rakyat
+138,National Assembly (Venezuela)
+139,Assembly of Experts
+140,Wisconsin State Senate
+141,Wisconsin State Assembly
+142,Legislative Assembly of Quebec
+143,Legislative Council of Quebec
+144,Cortes Generales
+145,Texas House of Representatives
+146,National Assembly (Poland)
+147,Texas Senate
+148,Parliament of Southern Ireland
+149,Walloon Parliament
+150,Flemish Parliament
+151,Parliament of the Brussels-Capital Region
+152,Senate of Northern Ireland
+153,House of Commons of Northern Ireland
+154,Parliament of Greenland
+155,Dublin County Council
+156,Senate (France)
+157,Victorian Legislative Assembly
+158,Parliament of Sri Lanka
+159,Seimas
+160,Jatiyo Sangshad
+161,New South Wales Legislative Council
+162,New South Wales Legislative Assembly
+163,Victorian Legislative Council
+164,Western Australian Legislative Assembly
+165,Northern Territory Legislative Assembly
+166,South Australian Legislative Council
+167,Australian Capital Territory Legislative Assembly
+168,Tasmanian House of Assembly
+169,Tasmanian Legislative Council
+170,South Australian House of Assembly
+171,New York State Assembly
+172,Central American Parliament
+173,Landtag of Rhineland-Palatinate
+174,National Assembly (Hungary)
+175,Senate (Netherlands)
+176,National Assembly (South Korea)
+177,Congress of Colombia
+178,Regional Representative Council
+179,National Assembly (Serbia)
+180,Minnesota Legislature
+181,National Assembly (Panama)
+182,Florida House of Representatives
+183,Warrington Borough Council
+184,Missouri General Assembly
+185,North Dakota Legislative Assembly
+186,North Dakota House of Representatives
+187,North Dakota Senate
+188,Senate of Colombia
+189,Stamp Act Congress
+190,Parliament of Fiji Islands
+191,Congress of the Dominican Republic
+192,Chamber of Deputies of Paraguay
+193,Parliament of Ireland
+194,Legislative Assembly of Ontario
+195,National Council of Provinces
+196,Colorado House of Representatives
+197,Legislative Assembly of British Columbia
+198,Legislative Assembly of Alberta
+199,Legislative Assembly of Manitoba
+200,Nova Scotia House of Assembly
+201,Colorado Senate
+202,Legislative Assembly of New Brunswick
+203,Ottawa City Council
+204,Michigan Senate
+205,Michigan House of Representatives
+206,Toronto City Council
+207,Newfoundland and Labrador House of Assembly
+208,Legislative Assembly of Prince Edward Island
+209,Legislative Assembly of the Northwest Territories
+210,Yukon Legislative Assembly
+211,Legislative Assembly of Nunavut
+212,Senate of Chile
+213,National Congress of Brazil
+214,Congress of Paraguay
+215,Supreme People's Assembly
+216,National Congress of Chile
+217,Chamber of Deputies of Chile
+218,Congress of Guatemala
+219,Massachusetts Senate
+220,Massachusetts House of Representatives
+221,People's Representative Council
+222,Galway City Council
+223,Honolulu City Council
+224,Argentine Chamber of Deputies
+225,Argentine Senate
+226,Legislative Assembly (France)
+227,Senate of Pakistan
+228,National Assembly (Pakistan)
+229,Council of Five Hundred
+230,Ohio House of Representatives
+231,Council of Ancients
+232,Grand National Assembly of Turkey
+233,Riigikogu
+234,Hawaii Senate
+235,Hawaii House of Representatives
+236,Southampton City Council
+237,Imperial Council (Austria)
+238,Belgian Federal Parliament
+239,Gibraltar Parliament
+240,Ohio Senate
+241,Verkhovna Rada
+242,Senate of the Republic (Italy)
+243,Parliament of Pakistan
+244,Illinois General Assembly
+245,Illinois House of Representatives
+246,Illinois Senate
+247,National Assembly (French Revolution)
+248,Parliament of the German-speaking Community
+249,Tennessee House of Representatives
+250,Tennessee Senate
+251,Tennessee General Assembly
+252,South Carolina House of Representatives
+253,South Carolina General Assembly
+254,South Carolina Senate
+255,City Council of Cincinnati elections
+256,Maryland House of Delegates
+257,Georgia House of Representatives
+258,Georgia State Senate
+259,Montana Senate
+260,Mississippi State Senate
+261,List of Nova Scotia General Assemblies
+262,Parliament of Kazakhstan
+263,Los Angeles City Council
+264,King County Council
+265,Seattle City Council
+266,French Parliament
+267,State Duma
+268,National Assembly (Slovenia)
+269,Court of Aldermen
+270,Senate of Puerto Rico
+271,House of Representatives of Puerto Rico
+272,Legislative Assembly of Puerto Rico
+273,Parliament of Tasmania
+274,Assembly of Kosovo
+275,Alaska Senate
+276,Alaska House of Representatives
+277,Washington State Legislature
+278,Pan-African Parliament
+279,Senate (Belgium)
+280,Isle of Wight Council
+281,Assembly of the Republic (Portugal)
+282,Parliament of Victoria
+283,Berkshire County Council
+284,New Zealand Legislative Council
+285,Mississauga City Council
+286,Greater Manchester County Council
+287,Chamber of Deputies (Italy)
+288,Idaho Legislature
+289,National Council of Resistance of Iran
+290,Maryland Senate
+291,New Jersey General Assembly
+292,Congress of the Confederate States
+293,Iowa General Assembly
+294,Kent County Council
+295,Senate (Romania)
+296,Chamber of Deputies (Romania)
+297,Minneapolis City Council
+298,Parliament of New South Wales
+299,Parliament of Queensland
+300,Parliament of Western Australia
+301,Parliament of South Australia
+302,Federal Assembly (Russia)
+303,Federation Council (Russia)
+304,Council of the District of Columbia
+305,Westminster City Council
+306,Indiana House of Representatives
+307,Bhiwandi-Nizampur Municipal Corporation
+308,25th Alberta Legislative Assembly
+309,List of Alberta Legislative Assemblies
+310,Wisconsin Legislature
+311,New York State Senate
+312,Oireachtas of the Irish Free State
+313,National Assembly of South Africa
+314,Italian Parliament
+315,Belfast City Council
+316,Montreal City Council
+317,Calgary City Council
+318,Maine House of Representatives
+319,Council of Representatives of Iraq
+320,Virginia House of Delegates
+321,Arizona State Legislature
+322,Connecticut House of Representatives
+323,Connecticut Senate
+324,House of Representatives (Trinidad and Tobago)
+325,Parliament of Trinidad and Tobago
+326,Senate (Trinidad and Tobago)
+327,Senate of Virginia
+328,Rhode Island House of Representatives
+329,San Francisco Board of Supervisors
+330,Landtag of Saxony
+331,Hertfordshire County Council
+332,Central Commission for Discipline Inspection of the Communist Party of China
+333,Chennai Corporation
+334,Western Australian Legislative Council
+335,Congress of the Republic of Peru
+336,Central Council of Ukraine
+337,Plurinational Legislative Assembly
+338,Chamber of Deputies (Brazil)
+339,Argentine National Congress
+340,Constituent Assembly of India
+341,National Congress of Honduras
+342,Legislative Assembly of El Salvador
+343,National Assembly (Nicaragua)
+344,Hong Kong University Students' Union
+345,Parliament of Lebanon
+346,Legislative Assembly of Macau
+347,New Jersey Senate
+348,National Council (Monaco)
+349,Portuguese Inquisition
+350,Malolos Congress
+351,Legislative Assembly of Queensland
+352,Goa Inquisition
+353,Montana House of Representatives
+354,North Atlantic Council
+355,Curia regis
+356,First Continental Congress
+357,House of the People (Afghanistan)
+358,House of Elders (Afghanistan)
+359,Legislative Assembly of Costa Rica
+360,Federal Assembly (Switzerland)
+361,New York City Council
+362,Bedford Borough Council
+363,Bedfordshire County Council
+364,Stockport Metropolitan Borough Council
+365,Rigsdagen
+366,Florida Senate
+367,Parliament of Singapore
+368,Oxford City Council
+369,National Assembly (Nigeria)
+370,Senate of South Africa
+371,Shura Council
+372,House of Representatives (Egypt)
+373,Parliament of Egypt
+374,Queensland Legislative Council
+375,Pennsylvania General Assembly
+376,Corsican Assembly
+377,Taipei City Council
+378,Missouri House of Representatives
+379,Pennsylvania State Senate
+380,New Mexico House of Representatives
+381,Parliament of Scotland
+382,Primera Junta
+383,San Diego Association of Governments
+384,General Council of Andorra
+385,West Virginia House of Delegates
+386,National Assembly (Bulgaria)
+387,Cork City Council
+388,Parliament of Galicia
+389,New Hampshire House of Representatives
+390,National Assembly (Belize)
+391,West Virginia Legislature
+392,West Virginia Senate
+393,Austrian Parliament
+394,State Great Khural
+395,House of Representatives (Bosnia and Herzegovina)
+396,1st Council of the Northwest Territories
+397,Temporary North-West Council
+398,Dewan Negara
+399,15th Northwest Territories Legislative Assembly
+400,National Parliament of Papua New Guinea
+401,New Mexico Senate
+402,National Assembly (Burundi)
+403,Parliament of Burundi
+404,Senate (Burundi)
+405,Parliament of Uganda
+406,Oregon Legislative Assembly
+407,Hellenic Parliament
+408,Chamber of Deputies (Tunisia)
+409,Kerala Legislature
+410,Legislative Council of Brunei
+411,2nd Council of the Northwest Territories
+412,Navajo Nation Council
+413,Tripura Tribal Areas Autonomous District Council
+414,Delaware Senate
+415,Delaware House of Representatives
+416,Parliament of Barbados
+417,Senate of Barbados
+418,"Urban Council, Hong Kong"
+419,Regional Council (Hong Kong)
+420,National Assembly (Djibouti)
+421,Chamber of Deputies (Luxembourg)
+422,Taupo District Council
+423,Joint session of the United States Congress
+424,Chamber of Deputies (Rwanda)
+425,Kentucky General Assembly
+426,Coventry City Council
+427,People's National Assembly
+428,Parliament of the Republic of Moldova
+429,Parliament of Catalonia
+430,Regina City Council
+431,States of Jersey
+432,States of Guernsey
+433,National Assembly of People's Power
+434,House of Representatives (Belize)
+435,Kentucky Senate
+436,Kentucky House of Representatives
+437,Parliament of Poland
+438,Leicester City Council
+439,Leicestershire County Council
+440,Pennsylvania House of Representatives
+441,Legislative Assembly of Upper Canada
+442,Sheffield City Council
+443,Manchester City Council
+444,People's Majlis
+445,Leeds City Council
+446,Newcastle City Council
+447,Nottingham City Council
+448,Legislature of Liberia
+449,House of Representatives (Liberia)
+450,Senate (Liberia)
+451,Cleveland City Council
+452,Cotswold District Council
+453,Parliament of Albania
+454,Parliament of Ghana
+455,Cornwall Council
+456,Philippine Assembly
+457,People's Consultative Assembly
+458,National Assembly (Bahrain)
+459,Council of Representatives (Bahrain)
+460,Consultative Council (Bahrain)
+461,National Assembly of the Gambia
+462,Legislative Council of Upper Canada
+463,State Council of Ceylon
+464,Arizona Senate
+465,Arizona House of Representatives
+466,Senate (Democratic Republic of the Congo)
+467,Parliament of the Democratic Republic of the Congo
+468,Andean Parliament
+469,Latin American Parliament
+470,Vermont House of Representatives
+471,Parliament of Botswana
+472,Parliament of Namibia
+473,Lancashire County Council
+474,Parliament of Gabon
+475,Parliament of Rwanda
+476,Parliament of Lesotho
+477,Parliament of Zimbabwe
+478,Leh district
+479,Bristol City Council
+480,House of Assembly of Saint Vincent and the Grenadines
+481,Parliament of the Republic of the Congo
+482,Kildare County Council
+483,National Parliament (East Timor)
+484,Legislative Assembly of the Province of Canada
+485,Oshawa City Council
+486,National Assembly (Botswana)
+487,Congress of the Confederation
+488,Parliament of Georgia
+489,Middlesex County Council
+490,Surrey County Council
+491,National Assembly (Cape Verde)
+492,Suffolk County Council
+493,Arkansas Senate
+494,Arkansas House of Representatives
+495,National Assembly (Namibia)
+496,Assembly of the Republic (Mozambique)
+497,House of Assembly (Zimbabwe)
+498,National Council (Namibia)
+499,National Assembly (Niger)
+500,Assembly of the Union of the Comoros
+501,Pontifical Commission for Vatican City State
+502,National Assembly (Central African Republic)
+503,National Assembly (Zambia)
+504,National Assembly (Seychelles)
+505,National Assembly (Guinea)
+506,National Assembly (Lesotho)
+507,Parliament of Transnistria
+508,House of Assembly of Barbados
+509,Chamber of People's Representatives
+510,National Assembly (Togo)
+511,National People's Assembly (Guinea-Bissau)
+512,Parliament of Madagascar
+513,House of Representatives (Nigeria)
+514,Buckinghamshire County Council
+515,Parliament of Sierra Leone
+516,Parliament of Swaziland
+517,National Assembly (Mauritania)
+518,Parliament of Morocco
+519,National Legislature (Sudan)
+520,House of Representatives (Zanzibar)
+521,Sahrawi National Council
+522,Parliament of Antigua and Barbuda
+523,House of Representatives (Antigua and Barbuda)
+524,House of Assembly of Dominica
+525,National Assembly (Burkina Faso)
+526,Windsor City Council
+527,National Assembly (Mali)
+528,New Hampshire Senate
+529,Parliament of Algeria
+530,Legislative Council of the Province of Canada
+531,National Assembly (Kenya)
+532,Chamber of Representatives (Belgium)
+533,Alabama Legislature
+534,Alabama House of Representatives
+535,Alabama Senate
+536,Deputy Speaker of the National Assembly of Pakistan
+537,Reading Borough Council
+538,House of Representatives of Belarus
+539,Grand Council of Fascism
+540,Chamber of Deputies of the Parliament of the Czech Republic
+541,Parliament of the Czech Republic
+542,Senate of the Parliament of the Czech Republic
+543,Derbyshire County Council
+544,National Assembly (Suriname)
+545,National Assembly (Afghanistan)
+546,National Assembly (Angola)
+547,National Assembly (Armenia)
+548,Parliament of the Bahamas
+549,National Assembly (Azerbaijan)
+550,Legislative Assembly of Lower Canada
+551,Legislative Council of Lower Canada
+552,Cheshire County Council
+553,Bath and North East Somerset Council
+554,Council of the Nation
+555,Rhode Island Senate
+556,Kansas Legislature
+557,Oklahoma Legislature
+558,National Assembly of Belarus
+559,Council of the Republic of Belarus
+560,Parliament of Jamaica
+561,Middlesbrough Borough Council
+562,Maine Senate
+563,Senate (Thailand)
+564,House of Representatives (Thailand)
+565,Crown Council of Ethiopia
+566,National Assembly (Republika Srpska)
+567,Federal Parliamentary Assembly
+568,House of Assembly of Saint Lucia
+569,Utah State Legislature
+570,National Assembly (Vietnam)
+571,National Assembly (Benin)
+572,Parliament of Romania
+573,Senate (Belize)
+574,Estates of Aruba
+575,People's Assembly of Abkhazia
+576,Senate (Antigua and Barbuda)
+577,National Assembly (Ivory Coast)
+578,Parliament of Vanuatu
+579,House of Representatives (Yemen)
+580,Supreme Assembly (Uzbekistan)
+581,National Assembly (Tanzania)
+582,Legislative Assembly of Samoa
+583,Legislative Assembly of Tonga
+584,National Assembly (Cameroon)
+585,Parliament of Cambodia
+586,Senate (Cambodia)
+587,National Assembly (Cambodia)
+588,National Assembly (Chad)
+589,National Assembly (Eritrea)
+590,House of Representatives (Cyprus)
+591,National Assembly (Guyana)
+592,Parliament of Tuvalu
+593,Landtag of Liechtenstein
+594,Parliament of Grenada
+595,House of Peoples (Bosnia and Herzegovina)
+596,Parliamentary Assembly of Bosnia and Herzegovina
+597,Chamber of Deputies (Haiti)
+598,Parliament of Haiti
+599,National Assembly (Laos)
+600,House of Assembly (Kiribati)
+601,National Assembly (Malawi)
+602,Legislature of the Marshall Islands
+603,Congress of the Federated States of Micronesia
+604,National Assembly (Mauritius)
+605,National Parliament of Solomon Islands
+606,Consultative Assembly of Saudi Arabia
+607,Grand and General Council
+608,Consultative Assembly of Qatar
+609,National Assembly (Saint Kitts and Nevis)
+610,Assembly of the Republic (Northern Cyprus)
+611,Parliament of Nauru
+612,Macedonian Parliament
+613,Chamber of Deputies of Uruguay
+614,Senate of Uruguay
+615,General Assembly of Uruguay
+616,Supreme Assembly (Tajikistan)
+617,Senate of Paraguay
+618,House of Representatives (Morocco)
+619,Mauritanian Parliament
+620,Supreme Council (Kyrgyzstan)
+621,Parliament of Nepal
+622,Senate of Saint Lucia
+623,Parliament of Saint Lucia
+624,People's Council of Syria
+625,Council of States (Sudan)
+626,National Assembly (Sudan)
+627,Assembly of Turkmenistan
+628,Senate of Bermuda
+629,House of Assembly of Bermuda
+630,House of Assembly of the British Virgin Islands
+631,Legislative Assembly of the Cayman Islands
+632,Parliament of the Cook Islands
+633,Legislature of Guam
+634,Legislative Assembly of the Falkland Islands
+635,Norfolk Legislative Assembly
+636,Basque Parliament
+637,Assembly of the Year XIII
+638,Legislative Chamber of Uzbekistan
+639,Senate of Uzbekistan
+640,Northamptonshire County Council
+641,Second Triumvirate (Argentina)
+642,Hull City Council
+643,Washington State Senate
+644,Legislature of the Virgin Islands
+645,Great National Assembly
+646,Constituent Assembly of Lithuania
+647,Sunderland City Council
+648,Kuala Lumpur City Hall
+649,Kwai Tsing District Council
+650,Tuen Mun District Council
+651,Nevada Assembly
+652,Slough Borough Council
+653,Nevada Legislature
+654,Nevada Senate
+655,Neath Port Talbot County Borough Council
+656,Gaborone City Council
+657,Moscow City Duma
+658,Solihull Metropolitan Borough Council
+659,General Council of Bucharest
+660,Sefton Metropolitan Borough Council
+661,Indiana Senate
+662,Wyoming Legislature
+663,Oregon House of Representatives
+664,Louisiana State Legislature
+665,Galway County Council
+666,Clare County Council
+667,Limerick City Council
+668,Donegal County Council
+669,Cavan County Council
+670,Carlow County Council
+671,Kerry County Council
+672,Laois County Council
+673,Mayo County Council
+674,Meath County Council
+675,Louth County Council
+676,Waterford County Council
+677,Monaghan County Council
+678,Wexford County Council
+679,Westmeath County Council
+680,Wicklow County Council
+681,Roscommon County Council
+682,Leitrim County Council
+683,Kilkenny County Council
+684,Offaly County Council
+685,Sligo County Council
+686,Longford County Council
+687,Waterford City Council
+688,Limerick County Council
+689,People's Seimas
+690,Cork County Council
+691,South Dakota House of Representatives
+692,South Dakota Senate
+693,Ahmedabad Municipal Corporation
+694,Politics of Cluj-Napoca
+695,Ahmedabad Urban Development Authority
+696,Oklahoma House of Representatives
+697,Vermont Senate
+698,Oklahoma Senate
+699,Somerset County Council
+700,North Tipperary County Council
+701,South Tipperary County Council
+702,Parliament of Montenegro
+703,Westminster Court of Burgesses
+704,East African Legislative Assembly
+705,Oregon State Senate
+706,Senate of Iran
+707,Buffalo Common Council
+708,North Bay City Council
+709,Wyoming House of Representatives
+710,Wyoming Senate
+711,Slovenian Parliament
+712,Parliament of the French Community
+713,Punjab Legislative Assembly
+714,Provincial Assembly of the Punjab
+715,Herefordshire Council
+716,New Delhi Municipal Council
+717,Carmarthenshire County Council
+718,Chamber of Nationalities
+719,Spanish Inquisition
+720,Council of Keewatin
+721,Philippine Commission
+722,Doncaster Metropolitan Borough Council
+723,Local government in Peterborough
+724,Isle of Anglesey County Council
+725,Missouri Senate
+726,Federal Senate
+727,Monmouthshire County Council
+728,Gwynedd Council
+729,West Riding County Council
+730,Washington House of Representatives
+731,3rd North-West Legislative Assembly
+732,4th North-West Legislative Assembly
+733,5th North-West Legislative Assembly
+734,1st Northwest Territories Legislative Council
+735,2nd Northwest Territories Legislative Council
+736,3rd Northwest Territories Legislative Council
+737,4th Northwest Territories Legislative Council
+738,5th Northwest Territories Legislative Council
+739,6th Northwest Territories Legislative Council
+740,7th Northwest Territories Legislative Council
+741,8th Northwest Territories Legislative Assembly
+742,9th Northwest Territories Legislative Assembly
+743,10th Northwest Territories Legislative Assembly
+744,11th Northwest Territories Legislative Assembly
+745,12th Northwest Territories Legislative Assembly
+746,13th Northwest Territories Legislative Assembly
+747,14th Northwest Territories Legislative Assembly
+748,Cambridge City Council
+749,Kansas House of Representatives
+750,Kansas Senate
+751,Northumberland County Council
+752,Legislative Council of Newfoundland
+753,Legislative Assembly of Singapore
+754,West Nordic Council
+755,South Cambridgeshire District Council
+756,Cambridgeshire County Council
+757,Thiruvananthapuram Corporation
+758,Interim Batasang Pambansa
+759,West Bengal Legislative Assembly
+760,Andhra Pradesh Legislature
+761,Utah House of Representatives
+762,Utah State Senate
+763,Municipal Chamber of Porto Alegre
+764,Municipal Corporation of Delhi
+765,Delhi Development Authority
+766,Dorset County Council
+767,Tamil Nadu Legislative Council
+768,Special Council of Lower Canada
+769,Provincial Assembly of Sindh
+770,National Assembly (Democratic Republic of the Congo)
+771,Warwickshire County Council
+772,Hope Town District Council
+773,Louisiana State Senate
+774,Merseyside County Council
+775,Knowsley Metropolitan Borough Council
+776,Havering London Borough Council
+777,Hackney London Borough Council
+778,Newham London Borough Council
+779,Waltham Forest London Borough Council
+780,Redbridge London Borough Council
+781,Islington London Borough Council
+782,Barking and Dagenham London Borough Council
+783,Butte County Board of Supervisors
+784,Milton Keynes Council
+785,Iowa Senate
+786,Southern Negro Youth Congress
+787,Pembrokeshire County Council
+788,Rhondda Cynon Taf County Borough Council
+789,Kirklees Metropolitan Borough Council
+790,Caerphilly County Borough Council
+791,High Peak Borough Council
+792,Gloucestershire County Council
+793,Exeter City Council
+794,Senate (Haiti)
+795,Iowa House of Representatives
+796,West Berkshire Council
+797,Idaho House of Representatives
+798,Idaho Senate
+799,Congress of the Republic of Texas
+800,Legislative Assembly of Saskatchewan
+801,Council for Wales and Monmouthshire
+802,Philippine Legislature
+803,Luton Borough Council
+804,Navi Mumbai Municipal Corporation
+805,Parliament of Navarre
+806,Guwahati Municipal Corporation
+807,Legislative Assembly of Saint Petersburg
+808,Supreme Council of Crimea
+809,Worcestershire County Council
+810,Chamber of States
+811,Thanet District Council
+812,Pune Municipal Corporation
+813,Essex County Council
+814,Louisiana House of Representatives
+815,Taft Commission
+816,Nebraska Territorial Legislature
+817,Batasang Bayan
+818,Imperial Legislative Council (India)
+819,Regional Council of Veneto
+820,Parliament of Kenya
+821,Bournemouth Borough Council
+822,States of Alderney
+823,Abgeordnetenhaus of Berlin
+824,House of Lords of Prussia
+825,Rutland County Council
+826,Stoke-on-Trent City Council
+827,Staffordshire County Council
+828,Karnataka Legislative Assembly
+829,Legislative Assembly of Vancouver Island
+830,Tripura Legislative Assembly
+831,Kurdistan Parliament
+832,Provisional Legislature of Oregon
+833,Legislative Council of New Brunswick
+834,Swindon Borough Council
+835,Benelux Parliament
+836,Vadodara Municipal Corporation
+837,Oregon Territorial Legislature
+838,Parliament of Andalusia
+839,Northern Territory Legislative Council
+840,Western Cape Provincial Parliament
+841,Fairfax County Board of Supervisors
+842,List of city council members in Charlotte
+843,Legislature of the Kingdom of Hawaii
+844,Cape Town City Council
+845,Sami Parliament of Norway
+846,South West Community Development Council
+847,Parliament of Senegal
+848,Trafford Metropolitan Borough Council
+849,Tampa City Council
+850,16th Northwest Territories Legislative Assembly
+851,East Sussex County Council
+852,Municipal Corporation of Faridabad
+853,Wiltshire Council
+854,Ecuadorian Constituent Assembly
+855,Assembly of Madrid
+856,Assembly of Vojvodina
+857,Eastern Cape Provincial Legislature
+858,Limpopo Legislature
+859,Ampang Jaya Municipal Council
+860,Nottinghamshire County Council
+861,Portsmouth City Council
+862,List of Prince Edward Island General Assemblies
+863,Khyber Pakhtunkhwa Assembly
+864,Weimar National Assembly
+865,51st Oklahoma Legislature
+866,Ituri Interim Assembly
+867,Mercosur Parliament
+868,National Assembly (Thailand)
+869,KwaZulu-Natal Legislature
+870,Rivers State House of Assembly
+871,Johor Bahru City Council
+872,Johor Bahru Tengah Municipal Council
+873,Kuching North City Hall
+874,Kuching South City Council
+875,Petaling Jaya City Council
+876,Shah Alam City Council
+877,Subang Jaya Municipal Council
+878,List of New Brunswick Legislative Assemblies
+879,Letterkenny Town Council
+880,National Council (Bhutan)
+881,Detroit City Council
+882,Fingal County Council
+883,South Dublin County Council
+884,National Assembly (Bhutan)
+885,Supreme Soviet of the Lithuanian SSR
+886,Congress of People's Deputies of Russia
+887,Nagpur Municipal Corporation
+888,Municipal Council of Penang Island
+889,Seberang Perai Municipal Council
+890,27th Alberta Legislative Assembly
+891,Parliament of Bhutan
+892,Legislative Council of Manitoba
+893,Wigan Council
+894,Senate (Ceylon)
+895,Poole Borough Council
+896,Blackburn with Darwen Borough Council
+897,Southern Rhodesian Legislative Assembly
+898,Parliament of Jordan
+899,Halton Borough Council
+900,Eastern Provincial Council
+901,Shropshire Council
+902,Tokyo Metropolitan Assembly
+903,Parliament of the Central Tibetan Administration
+904,West Sussex County Council
+905,Cumbria County Council
+906,Devon County Council
+907,North Yorkshire County Council
+908,Lincolnshire County Council
+909,Norfolk County Council
+910,Durham County Council
+911,Chamber of Advisors
+912,House of Representatives (Ceylon)
+913,Three Rivers District Council
+914,Landtag of Saxony-Anhalt
+915,Landtag of Thuringia
+916,Landtag of Schleswig-Holstein
+917,Landtag of Saarland
+918,Landtag of Mecklenburg-Vorpommern
+919,Landtag of Hesse
+920,Landtag of Lower Saxony
+921,Bradford City Council
+922,Watford Borough Council
+923,Dacorum Borough Council
+924,North Hertfordshire District Council
+925,Landtag of Brandenburg
+926,Landtag of North Rhine-Westphalia
+927,Assembly of the Community of Municipalities of the Autonomous Province of Kosovo and Metohija
+928,Albuquerque City Council
+929,Bracknell Forest Borough Council
+930,Selayang Municipal Council
+931,Lambeth London Borough Council
+932,Andhra Pradesh Legislative Assembly
+933,Legislative Council of Ceylon
+934,Pasir Gudang Municipal Council
+935,South American Parliament
+936,Penang State Legislative Assembly
+937,Maharashtra Legislative Council
+938,Causeway Coast and Glens District Council
+939,Hamburg Parliament
+940,United States House of Representatives
+941,North Down and Ards District Council
+942,Antrim and Newtownabbey District Council
+943,Mid and East Antrim District Council
+944,Mid-Ulster District Council
+945,Derry and Strabane District Council
+946,Fermanagh and Omagh District Council
+947,Ipswich Borough Council
+948,Putrajaya Corporation
+949,Corts Valencianes
+950,Nashik Municipal Corporation
+951,Thane Municipal Corporation
+952,Bangkok Metropolitan Administration
+953,Uttar Pradesh Legislative Assembly
+954,Katipunan ng Kabataan
+955,List of Newfoundland and Labrador General Assemblies
+956,Greater Poland Regional Assembly
+957,Kuyavian-Pomeranian Regional Assembly
+958,Lesser Poland Regional Assembly
+959,Lower Silesian Regional Assembly
+960,Legislative Council of Zulia
+961,Lublin Regional Assembly
+962,Lubusz Regional Assembly
+963,Masovian Regional Assembly
+964,Opole Regional Assembly
+965,Podlaskie Regional Assembly
+966,Pomeranian Regional Assembly
+967,Silesian Regional Assembly
+968,Subcarpathian Regional Assembly
+969,Warmian-Masurian Regional Assembly
+970,West Pomeranian Regional Assembly
+971,Bihar Legislative Council
+972,Bihar Legislative Assembly
+973,Prussian National Assembly
+974,State Assembly of Bashkortostan
+975,Southern Sudan Legislative Assembly
+976,House of Assembly of South Africa
+977,Tower Hamlets London Borough Council
+978,Kurgan Oblast Duma
+979,Prussian House of Representatives
+980,Telford and Wrekin Council
+981,Derby City Council
+982,House of Commons (South Korea)
+983,Senate (South Korea)
+984,Parliament of the Northern Territory
+985,Ternopil Oblast Council
+986,Legislative Council of Nova Scotia
+987,States of Zeeland
+988,Aquitaine Regional Council
+989,Kampuchean People's Representative Assembly
+990,Parliament of Upper Canada
+991,Legislative Assembly of the Azores
+992,Salisbury City Council
+993,Kharkiv Oblast Council
+994,52nd Oklahoma Legislature
+995,Cheshire East Council
+996,Central Bedfordshire Council
+997,House of Delegates of South Africa
+998,Politburo of the Communist Party of Vietnam
+999,Uttarakhand Legislative Assembly
+1000,Romblon Provincial Federation of the Sangguniang Kabataan
+1001,Politburo of the Lao People's Revolutionary Party
+1002,Municipal Chamber of Rio de Janeiro
+1003,Labuan Corporation
+1004,State Council of the Komi Republic
+1005,Supreme Soviet of Russia
+1006,Kedah State Legislative Assembly
+1007,Malacca City Council
+1008,Legislative Council of Prince Edward Island
+1009,Tamil Nadu Legislative Assembly
+1010,Tamil Nadu Legislature
+1011,Kolhapur Municipal Corporation
+1012,Sangguniang Kabataan
+1013,Latur Municipal Corporation
+1014,Parliament of Ceylon
+1015,"New Jersey Legislative Districts, 2001 apportionment"
+1016,Parliament of South Ossetia
+1017,Legislative Assembly of Amazonas
+1018,Buenos Aires City Legislature
+1019,National State Assembly
+1020,Legislative Council of the Falkland Islands
+1021,Surat Municipal Corporation
+1022,Arkansas General Assembly
+1023,Plymouth General Court
+1024,Kandy Municipal Council
+1025,Lichfield District Council
+1026,Federal Way City Council
+1027,46th General Assembly of Newfoundland and Labrador
+1028,North East Community Development Council
+1029,North West Community Development Council
+1030,South East Community Development Council
+1031,United States Senate
+1032,House of Commons of England
+1033,House of Commons of Great Britain
+1034,45th General Assembly of Newfoundland and Labrador
+1035,Verkhovna Rada of Crimea
+1036,Himachal Pradesh Legislative Assembly
+1037,Nagaland Legislative Assembly
+1038,Charlottetown City Council
+1039,Regional Council of Lombardy
+1040,"Cumberland County Council, England"
+1041,Ipswich Corporation
+1042,New Orleans City Council
+1043,List of Presidents of the National Convention
+1044,Walsall Metropolitan Borough Council
+1045,New Jersey Legislative Council
+1046,Sabah State Legislative Assembly
+1047,South Dakota Legislature
+1048,Norwich City Council
+1049,Greater Manchester Combined Authority
+1050,Karnataka Legislative Council
+1051,Oklahoma Territorial Legislature
+1052,Medway Council
+1053,Plymouth City Council
+1054,Bakersfield City Council
+1055,Selangor State Legislative Assembly
+1056,Kelantan State Legislative Assembly
+1057,Northern Provincial Council
+1058,Perak State Legislative Assembly
+1059,Assam Legislative Assembly
+1060,Current members of the Plurinational Legislative Assembly
+1061,Perlis State Legislative Assembly
+1062,Gobichettipalayam Municipality
+1063,Pimpri-Chinchwad Municipal Corporation
+1064,Malacca State Legislative Assembly
+1065,Sarawak State Legislative Assembly
+1066,Horwich Town Council
+1067,Gujarat Legislative Assembly
+1068,Central Executive Committee of Ukraine
+1069,Negeri Sembilan State Legislative Assembly
+1070,Brighton and Hove City Council
+1071,North East Lincolnshire Council
+1072,Rochdale Metropolitan Borough Council
+1073,Salford City Council
+1074,Bolton Metropolitan Borough Council
+1075,Ukrainian Constituent Assembly
+1076,Jaipur Municipal Corporation
+1077,Aberystwyth Town Council
+1078,Grand Council of Basel-Stadt
+1079,1999 Constituent Assembly of Venezuela
+1080,Senate (Kenya)
+1081,Prince William Board of County Supervisors
+1082,House of Representatives of South Africa
+1083,Herefordshire County Council
+1084,York City Council
+1085,Jammu and Kashmir Legislative Assembly
+1086,Jammu and Kashmir Legislative Council
+1087,Andhra Pradesh Legislative Council
+1088,1st Regional Legislature (Azores)
+1089,Estates of Sint Maarten
+1090,Basildon Borough Council
+1091,Sicilian Regional Assembly
+1092,Congress of People's Deputies of the Soviet Union
+1093,Central Executive Committee of the Soviet Union
+1094,Congress of Soviets of the Soviet Union
+1095,Soviet of the Republic (Supreme Soviet of Russia)
+1096,Soviet of Nationalities (Supreme Soviet of Russia)
+1097,Lewisham London Borough Council
+1098,Johor State Legislative Assembly
+1099,Camden London Borough Council
+1100,National Assembly (Ecuador)
+1101,Tiruchirappalli City Municipal Corporation
+1102,1st Illinois General Assembly
+1103,Kensington and Chelsea London Borough Council
+1104,Barnet London Borough Council
+1105,Greenwich London Borough Council
+1106,Sutton London Borough Council
+1107,East Riding County Council
+1108,Haringey London Borough Council
+1109,Pahang State Legislative Assembly
+1110,Thurrock Council
+1111,95th Illinois General Assembly
+1112,Assembly of the Union
+1113,House of Nationalities
+1114,House of Representatives (Burma)
+1115,South Gloucestershire Council
+1116,Legislative Assembly of Novosibirsk Oblast
+1117,San Diego City Council
+1118,Jharkhand Legislative Assembly
+1119,Mizoram Legislative Assembly
+1120,Odisha Legislative Assembly
+1121,Sikkim Legislative Assembly
+1122,Ascension Island Council
+1123,Reichstag (German Empire)
+1124,Reichstag (Weimar Republic)
+1125,House of Peers (Japan)
+1126,53rd Oklahoma Legislature
+1127,Jaffna Municipal Council
+1128,North Lincolnshire Council
+1129,San Jose City Council
+1130,Ards Borough Council
+1131,Antrim Borough Council
+1132,Ballymena Borough Council
+1133,Banbridge District Council
+1134,Ballymoney Borough Council
+1135,General Assembly of the Ottoman Empire
+1136,Gauteng Provincial Legislature
+1137,North Somerset Council
+1138,Batangas Provincial Board
+1139,Congress of Quintana Roo
+1140,Hounslow London Borough Council
+1141,Batticaloa Municipal Council
+1142,Trincomalee Urban Council
+1143,59th Utah State Legislature
+1144,"New Jersey Legislative Districts, 2011 apportionment"
+1145,Canarian Parliament
+1146,Terengganu State Legislative Assembly
+1147,City Council of Tirana
+1148,Central and Western District Council
+1149,Wan Chai District Council
+1150,Landtag of South Tyrol
+1151,Tonbridge and Malling Borough Council
+1152,Central Executive Committee (PAP)
+1153,Hartlepool Borough Council
+1154,Assembly of French Citizens Abroad
+1155,List of Senators of Pakistan
+1156,Central Singapore Community Development Council
+1157,Supreme Council of the Cultural Revolution
+1158,National Legislature (South Sudan)
+1159,National Legislative Assembly (South Sudan)
+1160,Council of States (South Sudan)
+1161,Fredericton City Council
+1162,List of British Columbia Legislative Assemblies
+1163,Merton London Borough Council
+1164,List of Montana State Representatives
+1165,List of Montana State Senators
+1166,Vavuniya Urban Council
+1167,Chavakachcheri Urban Council
+1168,Point Pedro Urban Council
+1169,Valvettithurai Urban Council
+1170,Mannar Urban Council
+1171,Kalmunai Municipal Council
+1172,Akkaraipattu Municipal Council
+1173,Ampara Urban Council
+1174,Eravur Urban Council
+1175,Kattankudi Urban Council
+1176,Kinniya Urban Council
+1177,Coimbatore City Municipal Corporation
+1178,Pensacola City Council
+1179,17th Northwest Territories Legislative Assembly
+1180,Eastern District Council
+1181,Southern District Council
+1182,Tsuen Wan District Council
+1183,Kowloon City District Council
+1184,Kwun Tong District Council
+1185,Sham Shui Po District Council
+1186,Wong Tai Sin District Council
+1187,Yau Tsim Mong District Council
+1188,Islands District Council
+1189,North District Council
+1190,Sai Kung District Council
+1191,Sha Tin District Council
+1192,Tai Po District Council
+1193,Yuen Long District Council
+1194,Buenos Aires Province Chamber of Deputies
+1195,2nd Illinois General Assembly
+1196,National Assembly of Soviets
+1197,Council of Oman
+1198,Constituent Assembly of Tunisia
+1199,Thrissur Municipal Corporation
+1200,Loudoun County Board of Supervisors
+1201,Kaohsiung City Council
+1202,Tainan City Council
+1203,General Congress of Bukovina
+1204,Hugglescote and Donington le Heath
+1205,Tipperary County Council
+1206,Timmins City Council
+1207,Nebraska Legislature
+1208,Boise City Council
+1209,Reichstag (Nazi Germany)
+1210,Reichstag (North German Confederation)
+1211,Parliament of the Federation of Bosnia and Herzegovina
+1212,Haa Alif Atoll
+1213,Chavakachcheri Divisional Council
+1214,Delft Divisional Council
+1215,Karainagar Divisional Council
+1216,Kayts Divisional Council
+1217,Nallur Divisional Council
+1218,Point Pedro Divisional Council
+1219,Vadamarachchi South West Divisional Council
+1220,Valikamam East Divisional Council
+1221,Valikamam North Divisional Council
+1222,Valikamam South Divisional Council
+1223,Valikamam South West Divisional Council
+1224,Valikamam West Divisional Council
+1225,Velanai Divisional Council
+1226,Prussian State Council
+1227,Karachchi Divisional Council
+1228,Pachchilaipalli Divisional Council
+1229,Poonakary Divisional Council
+1230,Mannar Divisional Council
+1231,Manthai West Divisional Council
+1232,Musali Divisional Council
+1233,Nanaddan Divisional Council
+1234,Manthai East Divisional Council
+1235,Thunukkai Divisional Council
+1236,Vavuniya North Divisional Council
+1237,Vavuniya South Sinhala Divisional Council
+1238,Vavuniya South Tamil Divisional Council
+1239,Venkalacheddikulam Divisional Council
+1240,Sejm of the Duchy of Warsaw
+1241,List of Saskatchewan Legislative Assemblies
+1242,Sejm of Congress Poland
+1243,Monmouth Town Council
+1244,Constituent Assembly of Egypt
+1245,Secretariat of the Communist Party of Vietnam
+1246,West Yorkshire County Council
+1247,Ahmednagar Municipal Corporation
+1248,Akola Municipal Corporation
+1249,Aurangabad Municipal Corporation
+1250,Kalyan-Dombivali Municipal Corporation
+1251,Malegaon Municipal Corporation
+1252,Mira-Bhayandar Municipal Corporation
+1253,Nanded-Waghala Municipal Corporation
+1254,Solapur Municipal Corporation
+1255,Ulhasnagar Municipal Corporation
+1256,Coloured Persons Representative Council
+1257,Yerevan City Council
+1258,Wandsworth London Borough Council
+1259,Okinawa Prefectural Assembly
+1260,Regional Council of Martinique
+1261,Bexley London Borough Council
+1262,Regional Council of French Guiana
+1263,Brent London Borough Council
+1264,Bromley London Borough Council
+1265,Croydon London Borough Council
+1266,Ealing London Borough Council
+1267,Enfield London Borough Council
+1268,Hammersmith and Fulham London Borough Council
+1269,Harrow London Borough Council
+1270,Hillingdon London Borough Council
+1271,Kingston upon Thames London Borough Council
+1272,Richmond upon Thames London Borough Council
+1273,Southwark London Borough Council
+1274,Cirencester Town Council
+1275,Wakefield Metropolitan District Council
+1276,Te Kauhanganui
+1277,General National Congress
+1278,Virginia Governor's Council
+1279,Central Executive Committee of the Pakistan Peoples Party
+1280,Llanbadarn Fawr Community Council
+1281,Parliament of the Province of Canada
+1282,Federal Parliament of Somalia
+1283,Northern Cape Provincial Legislature
+1284,Maidstone Borough Council
+1285,Brihanmumbai Municipal Corporation
+1286,Parliament of Malta
+1287,Constituent Assembly (Portugal)
+1288,Sejm of the Grand Duchy of Posen
+1289,List of constituencies of Gujarat Vidhan Sabha
+1290,National Council of the Movement
+1291,General Junta
+1292,Mie Prefectural Assembly
+1293,Sejm of the Estates
+1294,Sejm of the Land
+1295,11th Regional Legislature (Azores)
+1296,Aichi Prefectural Assembly
+1297,Indore Municipal Corporation
+1298,Legislative Council of Burma
+1299,Manila City Council
+1300,Bhubaneswar Municipal Corporation
+1301,All-Ukrainian Congress of Soviets
+1302,Provincial Assembly of Balochistan
+1303,Catalan Courts
+1304,All-Russian Congress of Soviets
+1305,Pledge of Loyalty Act 2006
+1306,Regional Council of Emilia-Romagna
+1307,Grand Council of Ticino
+1308,Vasai-Virar City Municipal Corporation
+1309,Crewe Town Council
+1310,History of Pakistan National Assembly
+1311,National People's Congress
+1312,54th Oklahoma Legislature
+1313,New Jersey Provincial Council

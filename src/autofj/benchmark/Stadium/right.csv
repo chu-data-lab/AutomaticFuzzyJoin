@@ -1,0 +1,620 @@
+id,title
+0,Centre Bell
+1,Talking Stick Resort Arena
+2,Moda Center
+3,Astrodome
+4,NRG Stadium
+5,Globe Life Park in Arlington
+6,Khasbag Wrestling Stadium
+7,Royal Farms Arena
+8,Baltimore Arena
+9,Chevrolet Hall (Belo Horizonte)
+10,FedEx Field
+11,Angel Stadium
+12,Fartown Ground
+13,Mapfre Stadium
+14,Nissan Stadium
+15,StubHub Center
+16,John Labatt Centre
+17,Bukit Jalil National Stadium
+18,Amalie Arena
+19,Skylands Stadium
+20,BB&T Ballpark at Historic Bowman Field
+21,Susquehanna Bank Park at Historic Bowman Field
+22,Mercer County Waterfront Park
+23,Sun Bowl (stadium)
+24,Sun Bowl stadium
+25,SAP Center
+26,SAP Center at San Jose
+27,Memorial Stadium (Clemson)
+28,Maryland Stadium
+29,Richfield Coliseum
+30,Power Balance Pavilion
+31,Smoothie King Center
+32,Gila River Arena
+33,"BB&T Center (Sunrise, Florida)"
+34,BankAtlantic Center
+35,Municipal Stadium (Kansas City)
+36,Alexander Memorial Coliseum
+37,TD Place Arena
+38,Tom Benson Hall of Fame Stadium
+39,"Veterans Memorial Coliseum (Portland, Oregon)"
+40,TD Place Stadium
+41,Providence Park
+42,MUSC Health Stadium
+43,Toyota Park (Bridgeview)
+44,Panathinaiko Stadium
+45,La Bombonera
+46,Ostseestadion
+47,Olympiastadion (Berlin)
+48,Hartwall Arena
+49,Scotiabank Centre
+50,Belle Vue (Doncaster)
+51,"The Dell, Southampton"
+52,Olympiastadion (Munich)
+53,Galpharm Stadium
+54,"Xfinity Center (College Park, Maryland)"
+55,Comcast Center (arena)
+56,Bobby Bowden Field at Doak Campbell Stadium
+57,Rungrado 1st of May Stadium
+58,Rungrado May Day Stadium
+59,Sheffield Arena
+60,Infinite Energy Arena
+61,Wellington Regional Stadium
+62,Kyocera Dome
+63,"Former National Stadium, Singapore"
+64,Surf Stadium
+65,Seoul Olympic Stadium
+66,Pensacola Bay Center
+67,Estadio Nacional de Lima
+68,Sir Hubert Murray Stadium
+69,The Showgrounds (Sligo)
+70,Imtech Arena
+71,"Fifth Third Field (Dayton, Ohio)"
+72,"Fifth Third Field (Toledo, Ohio)"
+73,Alliance Bank Stadium
+74,Telia Parken
+75,Nymeo Field at Harry Grove Stadium
+76,Regions Park
+77,Bislett Stadium
+78,Dort Federal Credit Union Event Center
+79,Tsongas Center
+80,State Farm Center
+81,SaskTel Centre
+82,Memorial Stadium (Lincoln)
+83,Spartan Stadium (East Lansing)
+84,Schaumburg Boomers Stadium
+85,The Q Centre
+86,The Q Center
+87,UD Arena
+88,Hec Edmundson Pavilion
+89,Floyd L. Maines Veterans Memorial Arena
+90,Bon Secours Wellness Arena
+91,Santander Arena
+92,USA Hockey Arena
+93,Sandman Centre
+94,Indiana Farmers Coliseum
+95,Fairgrounds Coliseum
+96,Cox Business Center
+97,U.S. Cellular Center (Asheville)
+98,Asheville Civic Center
+99,Berglund Center
+100,Centennial Bank Stadium
+101,ASU Stadium
+102,Pratt & Whitney Stadium at Rentschler Field
+103,Four Winds Field at Coveleski Stadium
+104,Municipal Auditorium (Kansas City)
+105,Al Lang Stadium
+106,Knoxville Civic Coliseum
+107,"Wells Fargo Arena (Tempe, Arizona)"
+108,United Supermarkets Arena
+109,Hohokam Stadium
+110,Digital Domain Park
+111,Leidos Field at Ripken Stadium
+112,Broadmoor World Arena (1998)
+113,"World Arena (Colorado Springs, Colorado)"
+114,Wings Event Center
+115,IWireless Center
+116,Dozer Park
+117,Hornet Stadium (Sacramento)
+118,Hornet Stadium
+119,Ford Arena (Beaumont)
+120,Bijeli Brijeg Stadium
+121,"Civic Stadium (Eugene, Oregon)"
+122,"National Stadium, Singapore"
+123,Mercedes-Benz Arena (Stuttgart)
+124,Samen Stadium
+125,Jalisco Stadium
+126,Estadio Luis \
+127,Raymond Chabot Grant Thornton Park
+128,Niedersachsenstadion
+129,HDI-Arena
+130,Pelicans Ballpark
+131,Robert W. Plaster Stadium
+132,Lee Valley VeloPark
+133,Athletics Stadium
+134,Smith's Ballpark
+135,Neuroscience Group Field at Fox Cities Stadium
+136,FNB Field
+137,FirstEnergy Stadium
+138,Security Bank Ballpark
+139,Heritage Field at Maverick Stadium
+140,Heritage Field at Stater Bros. Stadium
+141,Clear Channel Stadium
+142,Rancho Cucamonga Epicenter
+143,"Liberty Stadium, Swansea"
+144,Kindrick Legion Field
+145,Roazhon Park
+146,EagleBank Arena
+147,Odyssey (Belfast)
+148,Charles E. Smith Center
+149,Bilino Polje Stadium
+150,Tipsport Arena (Prague)
+151,Tipsport Arena (built 1962)
+152,Barclaycard Arena (Hamburg)
+153,Pala Alpitour
+154,Ice Palace (Saint Petersburg)
+155,Jawaharlal Nehru Stadium (Delhi)
+156,Busan Asiad Stadium
+157,Belgrade Arena
+158,Stade de Suisse
+159,HBF Stadium
+160,MacHale Park
+161,Aughrim County Ground
+162,NRG Arena
+163,Stadio Marcantonio Bentegodi
+164,Estadio La Rosaleda
+165,Prince Abdullah Al Faisal Stadium
+166,Bright-Landry Hockey Center
+167,Marrara Oval
+168,Pearse Park (Longford)
+169,CenturyLink Arena
+170,Boris Paichadze Dinamo Arena
+171,Boris Paichadze Stadium
+172,Yadegar-e Emam Stadium (Tabriz)
+173,Sahand Stadium
+174,Yadegar-e-Emam Stadium (Tabriz)
+175,Stade du 5 Juillet 1962
+176,Estadio Monumental (Santiago de Chile)
+177,"National Stadium, Lagos"
+178,Atanasio Girardot Sports Complex
+179,AJ Bell Stadium
+180,The Old Den
+181,Priceline Stadium
+182,Bellevue Park
+183,Saskatoon Minor Football Field
+184,Stadion FK Partizan
+185,Rabobank IJmond Stadion
+186,Ateneo Blue Eagle Gym
+187,Denka Big Swan Stadium
+188,Eastern Michigan University Convocation Center
+189,Menora Mivtachim Arena
+190,CFE Arena
+191,Avron B. Fogelman Arena
+192,Sartain Hall (Old Trojan Arena)
+193,Omni La Costa Resort and Spa
+194,Siegel Center
+195,Mott Athletic Center
+196,Burgess-Snow Field at JSU Stadium
+197,Utz Arena
+198,University Center (Mercer University)
+199,Prescott Valley Event Center
+200,Merrell Center
+201,Cameron Hall
+202,Bill Gray's Regional Iceplex
+203,University Park Stadium
+204,Dinamo Stadium (Minsk)
+205,UTRGV Baseball Stadium
+206,Victoria Park (Hartlepool)
+207,Mandela National Stadium
+208,Penang State Stadium
+209,Central Dynamo Stadium
+210,Dynamo Stadium (Moscow)
+211,Mogadiscio Stadium
+212,Incheon Sungui Stadium
+213,Trevor Barker Oval
+214,Sydbank Park
+215,Starfire Sports Complex
+216,Cabarrus Arena
+217,Umakana Yokana Stadium
+218,Suwon Civic Stadium
+219,Stade olympique de la Pontaise
+220,Szusza Ferenc Stadium
+221,Saparmurat Turkmenbashi Olympic Stadium
+222,Manor Ground (Oxford)
+223,Iwaki Green Stadium
+224,Horncastle Arena
+225,Champion Window Field
+226,University of Cincinnati Medical Center Stadium
+227,Potter County Memorial Stadium
+228,Panaad Park and Stadium
+229,ARCO Arena (1985)
+230,U.S. Cellular Center (Cedar Rapids)
+231,West Palm Beach Auditorium
+232,National Football Stadium (Maldives)
+233,Rasmee Dhandu Stadium
+234,San Marino Stadium
+235,County Ground (Swindon)
+236,North Road (Manchester)
+237,Saab Arena
+238,Estadio Municipal da Malata
+239,Jawaharlal Nehru Stadium (Kochi)
+240,AFAS-stadion Achter de Kazerne
+241,Alashkert Stadium
+242,Staaienveld
+243,Kadrioru Stadium
+244,Kuopio Football Stadium
+245,Lahden Stadion
+246,Strokestown Road
+247,Flancare Park
+248,United Park
+249,Habib Bouakeul Stadium
+250,Tancheon Stadium
+251,Tancheon Sports Complex
+252,Estadio Gonzalo Pozo Ripalda
+253,Schwarzwald-Stadion
+254,Dreisamstadion
+255,Estadio Universitario de Caracas
+256,Stadion am Laubenweg
+257,Bridge Road (Impington)
+258,Ceres Arena
+259,Cherrywood Road
+260,Rajiv Gandhi Indoor Stadium
+261,Dongchun Gymnasium
+262,MartiniPlaza
+263,BeÅiktaÅ Milangaz Arena
+264,The Trusts Arena
+265,Blinov Sports and Concerts Complex
+266,Alexander Gomelsky Universal Sports Hall CSKA
+267,Palais des Sports de Fetes
+268,Titanium Security Arena
+269,Latrobe City Stadium
+270,"Jinnah Stadium, Gujranwala"
+271,Central Stadium (Aktobe)
+272,Terryland Park
+273,King Abdullah II Stadium
+274,Central Stadium (Almaty)
+275,Raatti Stadion
+276,Stadion Florian Kryger
+277,Ljudski vrt Stadium
+278,People's Garden Stadium
+279,Riverstage
+280,SPICE Arena
+281,SPICE Indoor Stadium
+282,Velodrom (Berlin)
+283,Kal Tire Place
+284,Grand Stade Nice
+285,Stade Saniat Rmel
+286,"National Tennis Center, Beijing"
+287,Nanjing Olympic Sports Centre
+288,BB&T Arena
+289,TD Stadium
+290,Impact Zone
+291,Rivets Stadium
+292,Road Ranger Stadium
+293,PeoplesBank Park
+294,Santander Stadium
+295,Saoud bin Abdulrahman Stadium
+296,Anzhi Arena
+297,Khazar Stadium
+298,LeSports Center
+299,Stade Albert Domec
+300,Cooper Field
+301,Sunken Diamond
+302,Broadmoor World Arena (1938)
+303,Small EWE Arena
+304,Suheim Bin Hamad Stadium
+305,Stade Jean-Bouin (Angers)
+306,Rogers K-Rock Centre
+307,North Port Oval
+308,Stroitel Stadium (Soligorsk)
+309,Stroitel Stadium
+310,Sheikh Zayed Stadium
+311,AT&T Stadium
+312,Kasaghi Marzik Stadium
+313,Spartak Stadium (Bobruisk)
+314,Tarpeda Stadium (Zhodzina)
+315,Memorial Stadium (Asheville)
+316,Al Merreikh Stadium
+317,Al-Khor SC Stadium
+318,Thupatemi Stadium
+319,New Knights Stadium
+320,Brose Arena
+321,Stadion am Bornheimer Hang
+322,Helmy Zamora Stadium
+323,Blue Wahoos Stadium
+324,Community Maritime Park
+325,William L. White Auditorium
+326,William L. White Civic Auditorium
+327,Albany Municipal Coliseum
+328,CC Amfi
+329,Toyota Stadium (Georgetown)
+330,"Festival Hall, Melbourne"
+331,Highbury Stadium (Fleetwood)
+332,Henley Field
+333,Khazar Lankaran Central Stadium
+334,Stadio Sergio Lanfranchi (original)
+335,Basket-Hall Kazan
+336,HSBC Arena
+337,Ghelamco Arena
+338,Energieteam Arena
+339,Synot Tip Arena
+340,Tenth Street Stadium
+341,Christie Park (Morecambe)
+342,Municipal Stadium of Mytilene
+343,Pori Stadium
+344,Paavo Nurmi Stadion
+345,"His Majesty the King's 80th Birthday Anniversary, 5 December 2007, Sports Complex"
+346,University Stadium (Waterloo)
+347,Vivint Smart Home Arena
+348,SKB-Bank Arena
+349,Edge Hall Road
+350,Chon Buri Stadium
+351,Lambert Field (Purdue)
+352,Jackie Robinson Stadium
+353,Otkrytiye Arena
+354,Spartak Stadium (Moscow)
+355,Arena Metallurg
+356,"BB&T Ballpark (Winston-Salem, North Carolina)"
+357,Central Stadion
+358,Roberts Stadium (soccer stadium)
+359,Williamstown Cricket Ground
+360,Olympic Fencing Gymnasium
+361,Sport toplumy (Balkanabat)
+362,Aleppo Shriners Auditorium
+363,Abbotsford Centre
+364,Kelly Automotive Park
+365,The SSE Hydro
+366,Eugene E. Stone III Stadium (Greenville)
+367,Southend Club Cricket Stadium
+368,Mercedes-Benz Arena (Berlin)
+369,Komplett Arena
+370,The O2 Arena (London)
+371,Gocheok Sky Dome
+372,Seoul Gocheok Dome Baseball Stadium
+373,Fox's Biscuits Stadium
+374,News-Herald Arena
+375,The Float@Marina Bay
+376,Jim Perry Stadium
+377,Taylor Field (Campbell University)
+378,Poirier Sport & Leisure Complex
+379,Theodoros Kolokotronis Stadium
+380,The AXIS
+381,Theatre for the Performing Arts
+382,Anteater Ballpark
+383,Alexandreio Melathron Nick Galis Hall
+384,Nick Galis Hall
+385,Coffs Harbour International Stadium
+386,Hala Jezero
+387,Stockholmsarenan
+388,Silverstein Eye Centers Arena
+389,Arena Omsk
+390,"Greenfield Stadium, Bradford"
+391,Proposed domed Brooklyn Dodgers stadium
+392,Meggetland Sports Complex
+393,Kara Ali Acar Sport Hall
+394,Brooks Field (Colorado)
+395,Cotai Arena
+396,Itaipava Arena Fonte Nova
+397,Ontario Soccer Centre
+398,Avaya Stadium
+399,San Jose Earthquakes Stadium
+400,Krylatskoye Sports Palace
+401,Larissa Neapolis Indoor Arena
+402,Estadio Nacional de Ombaka
+403,Estadio TSM Corona
+404,Community Choice Credit Union Convention Center
+405,SA Athletics Stadium
+406,Pristina City Stadium
+407,Zahir Pajaziti City Stadium
+408,City Stadium (BesianÃ«)
+409,Podujevo City Stadium
+410,Gjilan City Stadium
+411,City Stadium (Gjilan)
+412,College Grove (sports ground)
+413,Linthorpe Road
+414,National Stadium (Kaohsiung)
+415,Rodina Stadium (Khimki)
+416,The Whistler Sliding Centre
+417,MacEwan Sport and Wellness
+418,St Georges Park (Newport)
+419,Bladerunners Ice Complex
+420,Kocaeli Ice Rink
+421,Steller Field
+422,North Road (Glossop)
+423,Athletic Ground (Aberdare)
+424,St Mirren Park
+425,Ten Acres
+426,Harrison Park (Leek)
+427,Five Towns Stadium
+428,KRK Uralets
+429,Francis G. Welch Stadium
+430,Shenzhen Universiade Sports Centre
+431,World Wide Technology Soccer Park
+432,St. Louis Soccer Park
+433,B2net Stadium
+434,Polytechnic Stadium (Kremenchuk)
+435,Ayutthaya Province Stadium
+436,Stadion FK Jagodina
+437,Basketball Arena (2012 Olympics)
+438,72nd Anniversary Stadium
+439,First Direct Arena
+440,Stadionul Electrica
+441,Torku Arena
+442,County Ground (Leyland)
+443,The Sevens Stadium
+444,Palatrussardi
+445,Denny Field
+446,Hala Pinki
+447,Gateway Stadium (Ijebu Ode)
+448,Chira Nakhon Stadium
+449,Surat Thani Province Stadium
+450,Surat Thani Provincial Stadium
+451,Suphan Buri Provincial Stadium
+452,Nakhon Ratchasima Municipal Stadium
+453,Victory Park (Chorley)
+454,Chuncheon Songam Leports Town
+455,State Hockey Centre (South Australia)
+456,Helliniko Olympic Arena
+457,Estadio Carlos Tartiere (1932)
+458,Red Hall
+459,Paide ÃhisgÃ¼mnaasiumi stadium
+460,Altrad Stadium
+461,Isachsen Stadion
+462,MjÃ¸ndalen Arena
+463,West End Park (Houston)
+464,"Jaycee Park (Plainview, Texas)"
+465,Herald Park
+466,Traktor Ice Arena
+467,Sullivan Field (University of Incarnate Word)
+468,Sport toplumy (Mary)
+469,Itaipava Arena Pernambuco
+470,Druzhba Palace of Sports
+471,Jerusalem Payis Arena
+472,Arena Stadium
+473,Alaverdi City Stadium
+474,Edelman Financial Field
+475,The Dog Yard
+476,Sunshine Coast Stadium
+477,U.S. Cellular Community Park
+478,Al-Salam Stadium (Cairo)
+479,"Varsity Field (Albany, New York)"
+480,"Varsity Field (Binghamton, New York)"
+481,Huish Athletic Ground
+482,Stadio della Roma
+483,Tim Hortons Field
+484,Pan American Stadium
+485,Kasetsart University Kamphaeng Saen Campus Stadium
+486,Nong Prue Stadium
+487,Nongprue Municipality Football Field
+488,Gran Canaria Arena
+489,Palacio de Deportes de Las Palmas
+490,Schoonover Stadium
+491,Gelora Bandung Lautan Api Stadium
+492,Fifth Third Bank Stadium
+493,DnB NOR Arena
+494,Hong Kong Velodrome
+495,Hiroshima Prefectural Sports Center
+496,Children's Mercy Park
+497,Livestrong Sporting Park
+498,Hamdan Sports Complex
+499,Sport toplumy (Abadan)
+500,Polytechnic Stadium (London)
+501,Central Stadium of Jonava
+502,Ledena dvorana Pionir
+503,O'Brien Group Arena
+504,Khao Kradong Stadium
+505,Phichit Provincial Stadium
+506,Jiangwan Sports Center
+507,Hua Mark Indoor Stadium
+508,Arena Armeec
+509,Guangzhou University Town Stadium
+510,Khon Kaen Provincial Stadium
+511,Harbin International Convention and Exhibition Center Stadium
+512,Jawaharlal Nehru Stadium (Shillong)
+513,VELO Sports Center
+514,Tampereen monitoimiareena
+515,Toyota Stadium (Texas)
+516,Pat Thomas Stadium-Buddy Lowe Field
+517,Arena Montpellier
+518,Nouveau Stade Mazembe
+519,Yager Stadium at Moore Bowl
+520,Peel Park (Accrington)
+521,Broadhurst Park
+522,Melbourne Park Multi-Purpose Venue
+523,Sochi Biathlon & Ski Complex
+524,Sochi Freestyle Skiing Center and Snowboard Park
+525,Jonava indoor arena
+526,King Salman Sport City Stadium
+527,Jordan Field
+528,St. Loman's Park
+529,Cosmos Arena
+530,Mordovia Arena
+531,Saransk Stadium
+532,Mordovia-Arena
+533,Rostov Arena
+534,Bears Park
+535,Samsung Lions Ballpark
+536,Byeokje Baseball Stadium
+537,Fillmore Auditorium (Denver)
+538,Cranbrook Recreational Complex
+539,VO Chidambaram Park Stadium
+540,Thunder Castle Stadium
+541,"Jawaharlal Nehru Stadium, Coimbatore"
+542,Zayarthiri Stadium
+543,Motorpoint Arena Nottingham
+544,Rogers Place
+545,Bakcell Arena
+546,Nouveau Stade de Bordeaux
+547,Stockhorn Arena
+548,UAA Community Arena
+549,Minato Soccer Stadium
+550,Geroskipou Municipality Stadium
+551,National Indoor Sports Arena and Sir Chris Hoy Velodrome
+552,Andre Reed Stadium
+553,Gangneung Hockey Centre
+554,Yulgok Hockey Centre
+555,Vazgen Sargsyan Republican Stadium
+556,Stepanakert Republican Stadium
+557,Stepan Shahumyan Republican Stadium
+558,Royal Arena
+559,LG Champion's Park
+560,All Net Resort and Arena
+561,Ulsan Munsu Baseball Stadium
+562,Mattamy National Cycling Centre
+563,Pan American Velodrome
+564,Sloan Park
+565,Cubs Park (Mesa)
+566,Trivandrum International Stadium
+567,Goyang National Baseball Training Stadium
+568,"South Korea national baseball team Training Stadium, Goyang"
+569,Iksan National Baseball Training Stadium
+570,"South Korea national baseball team Training Stadium, Iksan"
+571,Estadio Centenario (Cuernavaca)
+572,Allentown Arena
+573,TDECU Stadium
+574,Houston Football Stadium
+575,La Cubierta
+576,Plaza de Toros de La Merced
+577,Bryant Baseball Complex
+578,Les Miller Field at Curtis Granderson Stadium
+579,Robertson Field at Satow Stadium
+580,SECU Arena
+581,Oakland Baseball Field
+582,Penobscot Ice Arena
+583,Saryarka Velodrome
+584,Ayr Ice Rink
+585,Golden 1 Center
+586,"Al-Musannah Sports City, Muscat"
+587,Rakvere Sports Hall
+588,Baluan Sholak Sports Palace
+589,Virden Regional Multi-purpose Recreation Facility
+590,Sanford Pentagon
+591,Shukura Stadium
+592,Lee R. Jackson Field
+593,Turner Stadium
+594,Bangkok Arena
+595,Ron Tonkin Field
+596,Hillsboro Ballpark
+597,K-Park Training Academy
+598,Pyeongchang Olympic Stadium
+599,Toronto Pan Am Sports Centre
+600,New Mosaic Stadium
+601,"Rajiv Gandhi Stadium, Aizawl"
+602,Lammual Stadium
+603,Stadio Sergio Lanfranchi
+604,United Stadium of Chiang Rai
+605,York Lions Stadium
+606,Glasgow National Hockey Centre
+607,Denny Sanford PREMIER Center
+608,Mercedes-Benz Stadium
+609,New Atlanta Falcons stadium
+610,New Atlanta Stadium
+611,Afghanistan Football Federation Stadium
+612,Herb Brooks National Hockey Center
+613,Steinberg Wellness Center
+614,Derby Greyhound Stadium
+615,Birsa Munda Hockey Stadium
+616,Sartain Hall
+617,Derby Arena
+618,Basket-Hall Krasnodar

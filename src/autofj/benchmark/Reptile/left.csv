@@ -1,0 +1,667 @@
+id,title
+0,Python reticulatus
+1,Agama (genus)
+2,Fox snake
+3,California kingsnake
+4,Pantherophis
+5,Python (genus)
+6,Phelsuma
+7,Rodrigues Giant Day Gecko
+8,Phelsuma madagascariensis grandis
+11,Tiny Scaled Gecko
+12,Bogert's Gecko
+13,Anotosaura
+14,Amphibolurinae
+15,Plica (genus)
+16,Earless Skink
+17,Graciliscincus shonae
+18,Fraser Island sand skink
+19,Scincopus fasciatus
+20,Tachygia
+21,Abronia taeniata
+22,Desert Plated Lizard
+23,Central Bearded Dragon
+24,Southern Alligator Lizard
+25,Bog turtle
+26,Island Night Lizard
+27,Chelonoidis
+28,Western Skink
+29,Plestiodon
+30,Great Plains Skink
+33,Gargoyle Gecko
+34,Crested gecko
+35,Ocelot Gecko
+36,Brown anole
+37,Amaral's Brazilian Gecko
+38,Fischer's Chameleon
+39,Strange-nosed Chameleon
+41,Gray Rat Snake
+42,Bermuda rock skink
+43,Kingsnake
+45,Northern Alligator Lizard
+46,Henkel's Leaf-tailed Gecko
+47,San Lucan Skink
+48,Atractaspididae
+49,Burmese Python
+50,Morenia
+51,Grass snake
+52,Thorny dragon
+53,Clasmodosaurus
+54,Jamaican boa
+55,Vipera
+57,Rhampholeon
+58,Golden Gecko
+60,Inland taipan
+61,Greek Algyroides
+62,Desert kingsnake
+63,False cobra
+64,Common krait
+65,Black-banded sea krait
+66,Marine iguana
+67,Armadillo girdled lizard
+68,Jackson's Chameleon
+69,Blue iguana
+70,Pygmy copperhead
+72,Leptodeira
+73,Sibon nebulata
+74,Sceloporus angustus
+75,Puerto Rican Boa
+76,Philippine Sailfin Lizard
+77,Red-bellied black snake
+78,Persian ratsnake
+79,Baja California rat snake
+80,Emerald tree monitor
+81,Calabar Python
+82,Aesculapian Snake
+83,Namaqua Chameleon
+84,Mona ground iguana
+85,Coachella Valley fringe-toed lizard
+86,Giant Horned Lizard
+87,Short-tailed horned lizard
+88,Flat-tail horned lizard
+89,Roundtail horned lizard
+90,Mexican Plateau horned lizard
+91,La Gomera giant lizard
+92,El Hierro giant lizard
+93,Cape dwarf chameleon
+94,Rubber Boa
+95,Eastern Blue-tongued Lizard
+96,Puerto Rican crested anole
+97,Homopus
+98,Speckled padloper tortoise
+99,Grey-banded kingsnake
+101,Desert grassland whiptail lizard
+102,Hardwicke's Bloodsucker
+103,Japalura
+104,Small-spotted Lizard
+106,Peninsula cooter
+108,Chamaeleo
+109,Saara (genus)
+110,Common slug snake
+111,Cunningham's skink
+112,Santo Stefano lizard
+113,Ratas Island Lizard
+114,Nilgiri keelback
+115,Sikkim keelback
+116,Amphiesma
+117,Blyth's reticulated snake
+118,Eutropis multifasciata
+119,Calamaria
+120,Amphiesma platyceps
+121,Liodon
+122,Dicrodon
+123,List of snakes
+124,Rat snake
+125,Rhamnophis
+126,Radiated ratsnake
+127,Rainbow water snake
+128,Rice paddy snake
+129,Siebold's water snake
+130,Oligodon
+131,Leptotyphlops affinis
+132,Black softshell turtle
+133,Ptyas mucosa
+134,Xenochrophis
+137,Oriental Leaf-toed Gecko
+138,Indo-Pacific gecko
+140,Stoliczkaia khasiensis
+148,Beddome's coral snake
+150,Leschenault's Leaf-toed Gecko
+151,Gekko
+159,Mauritius ornate day gecko
+161,Rough gecko
+163,Malayan Forest Gecko
+164,Indian Fringe-fingered Lizard
+166,Desert Monitor
+167,Yellow Monitor
+168,Asian Snake-eyed Skink
+169,Minor Snake-eyed Skink
+170,Dasia subcaerulea
+171,Rattlesnake
+172,Lipinia
+173,Scincella sikkimensis
+174,Hydrophis mammilaris
+175,Spine-bellied sea snake
+176,Hierophis
+177,Hydrophis
+179,Fiji Banded Iguana
+180,Phelsuma breviceps
+181,Pantherophis vulpina
+182,Elaphe
+183,Bothrochilus
+184,Ocellated Lizard
+185,Northern snake-necked turtle
+186,Salvadora (genus)
+189,Texas horned lizard
+190,Hognose
+191,Crotaphytus
+193,Monito gecko
+194,Madagascarophis
+195,Acrantophis
+199,Pit viper
+200,California night snake
+201,Ceram Mangrove monitor
+202,Common Garden Skink
+204,Texas garter snake
+206,Milk snake
+207,La Palma giant lizard
+208,Roque Chico de Salmor giant lizard
+209,Tenerife speckled lizard
+210,Boettger's Lizard
+212,Culebra Island Giant Anole
+213,Cochran's croaking gecko
+214,Cameroon rainforest snake
+215,Dwarf beaked snake
+216,Python timoriensis
+218,Six-lined Racerunner
+219,Arizona striped whiptail
+221,Tropidoclonion
+225,Tantilla
+226,Big bend slider
+227,Brazos water snake
+228,Trimeresurus fasciatus
+229,Daboia russelii siamensis
+230,Mud snake
+231,Japanese Rat Snake
+232,Madeiran wall lizard
+233,Common death adder
+234,Mexican black kingsnake
+235,Desert death adder
+236,Argentine Black and White Tegu
+237,Antiguan Racer
+238,Griswold's Ameiva
+239,Leiolopisma
+240,Yellow-throated Plated Lizard
+241,Collett's snake
+243,New Guinea snapping turtle
+244,Crocodylus novaeguinae
+245,Common House Gecko
+246,Sharp-mouthed lizard
+247,Round Island burrowing boa
+248,Eastern Casquehead Iguana
+249,Shield-tailed Agama
+251,Armenian Lizard
+255,Broad-headed snake
+256,Ornamental snake
+258,Rhinoceros Iguana
+259,Coelognathus helena
+260,Western swamp turtle
+261,White-lipped snake
+263,Rankinia
+264,Giant Ameiva
+266,Fiji Crested Iguana
+267,Acontias
+268,Middle American burrowing snake
+269,Many-banded tree snake
+270,Butler's garter snake
+271,Monte Cristo Arboreal Alligator Lizard
+272,Malagasy giant chameleon
+273,Northern blue-tongued skink
+274,Boyd's Forest Dragon
+276,Nelson's milksnake
+277,Nilssonia (genus)
+278,Algerian Three-Toed Skink
+279,Many-scaled Cylindrical Skink
+280,Gran Canaria Skink
+281,Western Three-toed Skink
+282,West Canary Skink
+283,Three-Toed Snake-Tooth Skink
+284,Lancelin Island skink
+285,Hamelin ctenotus
+286,Great Desert Skink
+287,Gyldenstolpe's Worm Skink
+288,Brauer's Burrowing Skink
+289,Kishinoue's Giant Skink
+290,Vesey-Fitzgerald's Burrowing Skink
+291,Allan's Lerista
+293,Banded Supple Skink
+294,Mount Cooper Striped Lerista
+295,Korat Supple Skink
+296,Pedra Branca Skink
+297,Small-Scaled Skink
+298,Limbless Skink
+299,Gardiner's Burrowing Skink
+300,Gronovi's Dwarf Burrowing Skink
+301,Kasner's Dwarf Burrowing Skink
+302,Wedge-Snouted Skink
+303,Tonga Ground Skink
+304,Adelaide pigmy blue-tongue skink
+306,Seychelles Skink
+307,Wright's Skink
+308,Lomi's Blind Legless Skink
+309,Peloponnese slow worm
+310,Jamaica Giant Galliwasp
+311,Montserrat Galliwasp
+312,Panamint Alligator Lizard
+313,Koelliker's glass lizard
+314,Chameleon
+316,Conolophus
+317,Galapagos land iguana
+318,Northern Bahamian rock iguana
+319,Acklins Ground Iguana
+320,Navassa curly-tailed lizard
+321,Martinique curly-tailed lizard
+322,Tarapaca Pacific Iguana
+323,Uroplatus fimbriatus
+324,Spineless Forest Lizard
+325,Leaf-nosed Lizard
+326,Yinnietharra rock dragon
+327,Abbott's Crested Lizard
+328,Savigny's Agama
+329,Erg Agama
+330,Zululand Dwarf Chamaeleon
+331,Setaro's Dwarf Chameleon
+332,Smith's Dwarf Chamaeleon
+333,Antsingy Leaf Chameleon
+334,Jewelled gecko
+335,Lesser Antillean Iguana
+336,Hawequa Flat Gecko
+337,Seychelles Bronze Gecko
+338,Dwarf Bronze Gecko
+339,Giant Bronze Gecko
+340,Peringuey's Leaf-toed Gecko
+341,Kuroiwa's Ground Gecko
+342,Homopholis
+343,Mount Sinai Gecko
+344,Hemidactylus
+345,Methuen's Dwarf Gecko
+346,Serpent Island Gecko
+347,Phelsuma sundbergi ladiguensis
+349,Small-scaled Leaf-toed Gecko
+350,Atlas Day Gecko
+352,Banded Toed Gecko
+353,East Canary Gecko
+354,Boettger's Wall Gecko
+355,Tenerife Gecko
+356,Gomero Wall Gecko
+357,Tarentola
+358,Algerian Wall Gecko
+359,Seychelles Sucker-tailed Gecko
+360,Flinders Ranges Worm-lizard
+361,Striped Legless Lizard
+362,Striped Tailed Delma
+363,Collared Delma
+364,Bronzeback Snake-lizard
+365,Brigalow Scaly-foot
+366,Giant Girdled Lizard
+367,McLachlan's girdled lizard
+368,Lawrence's girdled lizard
+369,Namaqua Plated Lizard
+370,Soutpansberg Flat Lizard
+371,Lang's Crag Lizard
+372,Prickly Girdled Lizard
+373,Breyer's Long-tailed Seps
+374,Eastwood's Long-tailed Seps
+375,Madagascar girdled lizard
+376,Bedriaga's Fringe-fingered Lizard
+377,Be'er Sheva Fringe-fingered Lizard
+378,Leopard Fringe-fingered Lizard
+379,Schreiber's Fringe-fingered Lizard
+380,Doumergue's Fringe-fingered Lizard
+381,Fitzinger's Algyroides
+382,Spanish Algyroides
+384,Bedriaga's Rock Lizard
+385,Blue-throated Keeled Lizard
+386,Southern Rock Lizard
+387,Soutpansberg Rock Lizard
+388,Atlantic Lizard
+389,Gran Canaria Giant Lizard
+391,Aran rock lizard
+392,Aurelio's Rock Lizard
+393,Pyrenean rock lizard
+394,Horvath's rock lizard
+395,Iberian rock lizard
+396,Darevskia
+397,Anatolian rock lizard
+398,Atlas dwarf lizard
+399,Western Green Lizard
+400,Lacertus
+401,Fraas' lizard
+402,Greek rock lizard
+403,Mosor rock lizard
+405,Sharp-snouted rock lizard
+406,Iberian emerald lizard
+407,Simon's Desert Racer
+408,Balkan green lizard
+409,Bocage's Wall Lizard
+410,Filfola Lizard
+411,Skyros Wall Lizard
+412,Lilford's Wall Lizard
+413,Dalmatian Wall Lizard
+414,Peloponnese Wall Lizard
+415,Ibiza Wall Lizard
+416,Aeolian Wall Lizard
+417,Tyrrhenian Wall Lizard
+418,Blanc's Sand Racer
+419,Large Psammodromus
+420,Sicilian Wall Lizard
+421,Martinique Giant Ameiva
+422,Saint Lucia racer
+423,Epicrates angulifer
+424,Round Island boa
+425,Adelphicos
+426,Leeward island racer
+427,Red-bellied racer
+428,Saint Croix racer
+429,Pfeffer's reed snake
+430,Saint Vincent blacksnake
+431,Horseshoe whip snake
+432,Cyprus whip snake
+433,Balkan whip snake
+434,Green whip snake
+435,Striped harlequin snake
+436,Spatula-toothed snake
+437,Fisk's house snake
+438,Yellow-bellied house snake
+439,Seychelles house snake
+441,Seychelles wolf snake
+442,Barbados racer
+443,Western false smooth snake
+444,Large-headed water snake
+445,Sakashima green snake
+446,Boonsong's keelback
+447,Kikuzato's brook snake
+448,Smith's mountain keelback
+449,Iwasaki's Snail-eater
+450,Red whip snake
+451,Two-striped garter snake
+452,Italian Aesculapian Snake
+453,European ratsnake
+454,Short-nosed snake
+455,Dunmall's snake
+456,Fiji snake
+457,Black-striped snake
+458,Crocker's sea snake
+460,Chelosania
+461,Giant tortoise
+463,Iberian worm lizard
+464,Moroccan worm lizard
+465,Waterberg Flat Lizard
+466,Broadley's Flat Lizard
+467,Cape Flat Lizard
+469,Dwarf Flat Lizard
+470,Emperor Flat Lizard
+471,Common flat lizard
+472,Lebombo flat lizard
+473,Spotted Flat Lizard
+474,Mitchell's Flat Lizard
+475,Orange throated Flat Lizard
+476,Ocellated Flat Lizard
+477,Sekukhune Flat Lizard
+478,Pungwe Flat Lizard
+479,Peach Throat Monitor
+480,Platysaurus
+481,Pseustes poecilonotus
+484,California whipsnake
+487,Limpopo Girdled Lizard
+488,East African spiny-tailed lizard
+489,Mozambique Girdled Lizard
+490,Cordylus
+491,Texas brown snake
+492,Kirtland's snake
+493,Giant Plated Lizard
+494,Alfred's Blind Skink
+495,Bothrops brazili
+496,Calliophis bivirgatus
+498,Chinese water snake
+499,Transvaal Grass Lizard
+500,Cape Grass Lizard
+501,Large-scale Grass Lizard
+502,Slowinski's corn snake
+503,Angolan girdled lizard
+504,Dwarf Karoo girdled lizard
+505,Iranian Fat Tailed Gecko
+507,Turkmenistan Eyelid Gecko
+508,Terror Skink
+509,Transvaal Dwarf Chameleon
+510,Transkei Dwarf Chameleon
+511,Robertson Dwarf Chameleon
+512,Swartberg Dwarf Chameleon
+513,White's Skink
+514,Bougainville's Skink
+515,Eastern Three-lined Skink
+516,Tasmanian Tree Skink
+517,Southern Water Skink
+518,She-oak Skink
+519,Spotted Skink
+520,Southern Grass Skink
+521,Lowland copperhead
+522,Ctenophorus maculosus
+524,Knysna dwarf chameleon
+525,Long-nosed snake
+526,Nanoparia
+527,Yellow-spotted keelback
+528,Nerodia
+529,Elseya uberima
+530,Durango mud turtle
+531,Striped Whipsnake
+533,Pacific gopher snake
+534,Dunn's spinytail lizard
+535,Lamprophis
+537,Drinker (disambiguation)
+538,Lampropeltis pyromelana
+539,Switak's banded gecko
+540,Sonoran collared lizard
+541,Northern desert horned lizard
+542,Barbados threadsnake
+544,Western terrestrial garter snake
+545,Aquatic garter snake
+546,Kimberley Rock Monitor
+549,Meller's Chameleon
+550,Lycophidion
+551,Rosette-Nosed Chameleon
+552,White-fronted water snake
+553,Northern redbelly snake
+554,Ctenophorus
+555,Angulated dwarf gecko
+556,Side-striped Chameleon
+557,Rough Chameleon
+560,Greater green snake
+561,Hispaniolan green anole
+562,Anolis
+563,Large-headed anole
+565,Teius
+566,Common Butterfly Lizard
+567,Hispaniolan Curlytail Lizard
+568,Ocellated Gecko
+569,Giant Butterfly Lizard
+571,Rainbow Whiptail
+572,Florida scrub lizard
+573,Helmeted Iguana
+574,Guatemalan Helmeted Basilisk
+575,Ringed spinytail iguana
+576,Elephant trunk snake
+577,Small-scaled burrowing asp
+578,Western glossy snake
+579,Reef Gecko
+580,Mimic glass lizard
+581,Island glass lizard
+582,Florida crowned snake
+583,Southeastern crown snake
+584,Rim rock crown snake
+585,Short-tailed snake
+586,Green water snake
+587,Brown water snake
+588,Pine woods snake
+589,Northern Caiman Lizard
+590,Desert Lidless Skink
+591,Tropidophorus
+592,Heloderma horridum charlesbogerti
+593,Epicrates chrysogaster
+594,Captain's wood snake
+595,Trachemys dorbignyi braziliensis
+596,Keel-bellied water snake
+597,Sri Lankan krait
+599,Agama mwanzae
+600,Simoedosaurus
+601,African fat-tailed gecko
+604,Baja Blue Rock Lizard
+605,Panay Monitor Lizard
+606,Eastern worm snake
+607,Turnip-tailed Gecko
+609,Amphisbaena (genus)
+611,Mertens' water monitor
+613,South-west spiny-tailed gecko
+614,Narrow-tailed Four-clawed Gecko
+615,Dubious Dtella
+616,Broad-tailed Gecko
+617,Horned wood lizard
+618,Venerable collared lizard
+619,Grimser's collared lizard
+620,Blue-spotted wood lizard
+621,Allison's Anole
+622,West Cuban Anole
+623,Neotropical Green Anole
+624,Leopard anole
+625,Dwarf Anole
+626,West Usambara Two-horned Chameleon
+627,Stripe-tailed Goanna
+628,Pygmy Mulga Goanna
+632,Clouded Monitor
+633,Dominican Ground Lizard
+634,Spencer's goanna
+635,Black-headed Monitor
+636,Sombrero Ameiva
+637,Censky's Ameiva
+638,Ameiva
+640,Desert black kingsnake
+641,Pilbara Monitor
+642,Vietnamese Leopard Gecko
+643,Lichtenfelder's Gecko
+644,Rosenberg's Monitor
+645,Yellow-headed Water Monitor
+646,Barbados anole
+647,Black-headed Dwarf Chamaeleon
+652,Striped swamp snake
+653,Dominican blind snake
+654,Fantastic Least Gecko
+655,Vincent's Least Gecko
+656,Martinique Spectacled Tegu
+657,Antilles racer
+658,Julia's ground snake
+659,Underwood's mussurana
+660,Little-scaled Least Gecko
+661,St. Lucia threadsnake
+662,Barbados Leaf-toed Gecko
+663,Barbour's tropical racer
+664,Island Least Gecko
+665,Anguilla Bank Anole
+666,Bearded Anole
+667,Brookesia dentata
+668,Saba Least Gecko
+671,Montiserrat worm snake
+672,Sphaerodactylus
+673,Leach's Anole
+674,Redonda Anole
+675,Guyana blind snake
+676,Anguis
+678,Guadeloupe blind snake
+679,Martinique's Anole
+680,St. Lucia Anole
+681,Antilles Leaf-toed Gecko
+682,Saint Lucia lancehead
+684,Beaked cape tortoise
+686,Saint Vincent's Bush Anole
+687,Bronze Anole
+688,Grenada Tree Anole
+689,Bachia
+690,Grenada worm snake
+691,Shaw's dark ground snake
+692,Banded flying snake
+693,Red-headed krait
+695,Roughneck Monitor Lizard
+696,Forest gecko
+698,Bahamian pygmy boa constrictor
+699,Gray's monitor
+700,Epicrates cenchria maurus
+701,Black-Palmed Rock Monitor
+703,Canopy Goanna
+704,Finsch's Monitor
+705,Sibon sanniola
+706,Rusty Desert Monitor
+707,King's Goanna
+708,Rennell Island Monitor
+709,Mexican horned lizard
+710,Gulf Coast horned lizard
+711,Regal horned lizard
+712,Varanus albigularis
+713,Marbled Water Monitor
+714,Champion's leaf-tailed gecko
+715,Irian Jaya Blue-tongued Skink
+717,Mitchell's water monitor
+718,Rhinoceros ratsnake
+721,Boulengerina
+728,Anomalopus
+730,Letheobia
+733,Karoo cape tortoise
+734,Four-lined Skink
+736,Cape gopher snake
+738,Weber's Sailfin Lizard
+739,Saurodactylus
+741,Marbled leaf-toed gecko
+742,Pearl river map turtle
+743,Tiger snake
+744,Spot-legged turtle
+745,Carpenter's Anole
+746,Uracentron
+747,Lycodonomorphus
+748,Middle American indigo snake
+749,Northern water snake
+750,Karoo Dwarf Chameleon
+751,Natal Midlands Dwarf Chameleon
+752,Sharp-nosed Chameleon
+753,Marshall's pygmy chameleon
+754,Bosc's Fringe-toed lizard
+756,Cryptelytrops rubeus
+757,Pararhadinaea melanogaster
+758,Coral snake
+759,Emydura
+760,Carpenter's Chameleon
+761,Spider tortoise
+764,Roatan coral snake
+765,Bogert's coral snake
+766,Elegant coral snake
+767,Oaxacan coral snake
+770,Joan Wiffen's Theropod
+771,Black-headed ground snake
+772,Red side-necked turtle
+773,Herrara's mud turtle
+774,Terre-de-Haut racer
+775,Pigmy short-horned lizard
+776,Ornithocheirus buenzeli
+777,Catesby's snail-eater
+779,Schokar's bronzeback
+782,William's mud turtle
+783,Chapinophis xanthocheilus
+786,Saproscincus
+788,Four-toed Earless Skink
+789,Lycodon
+793,Trioceros
+801,Furcifer antimena
+805,Brookesia lolontany
+806,Brookesia nasus
+811,Malpolon
+812,Iranian Rock Gecko
+814,Squamata of Colombia
+817,Arabian cobra
+818,Senegal flapshell turtle

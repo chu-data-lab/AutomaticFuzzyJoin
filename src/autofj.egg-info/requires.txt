@@ -1,0 +1,7 @@
+numpy
+pandas
+nltk
+ngram
+editdistance
+jellyfish
+spacy

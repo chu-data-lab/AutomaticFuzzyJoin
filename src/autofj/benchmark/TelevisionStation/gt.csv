@@ -1,0 +1,1153 @@
+id_l,title_l,id_r,title_r
+5,ITV (TV network),0,ITV
+13,Fox Sports Networks,1,Fox Sports Net
+17,Showtime (TV channel),2,Showtime (TV network)
+33,ITV (TV channel),3,ITV1
+41,TLC (TV channel),4,TLC (TV network)
+45,Black Entertainment Television,5,BET
+48,Spike (TV channel),6,Spike (TV network)
+50,Syfy (UK and Ireland),7,Syfy (United Kingdom)
+60,The Nashville Network,8,Heartland (TV network)
+73,Bravo (U.S. TV channel),9,Bravo (U.S. TV network)
+75,WWJT-LP,10,WEFG-LD
+79,Gold (TV channel),11,Gold (UK TV channel)
+83,MuchMusic,12,Much (TV channel)
+84,MuchMore,13,M3 (Canadian TV channel)
+86,Action (TV channel),14,Action (Canadian TV channel)
+87,Lifetime (Canada),15,Showcase Diva
+95,STAR World,16,Star World
+95,STAR World,17,StarWorld
+98,UKTV (Australia and New Zealand),18,BBC UKTV
+99,Sky1,19,Sky 1
+102,ITV Choice,20,ITV Granada (Middle East & Asia)
+116,CKWS-TV,21,CKWS-DT
+148,UTV,22,UTV (TV channel)
+154,Style Network,23,Esquire Network
+174,Teletoon (Canada),24,Teletoon
+174,Teletoon (Canada),25,Teletoon (Canadian TV channel)
+194,Sky Sports News,26,Sky Sports News HQ
+215,Sky2,27,Sky 2
+219,TV5Monde,28,TV5MONDE
+263,WPMY,29,WPNT
+264,WMMP,30,WGWG
+271,CFYK-DT,31,CFYK-TV
+287,Twin Cities Public Television,32,Twin Cities PBS
+295,TV Guide Network,33,Pop (U.S. TV network)
+295,TV Guide Network,34,TVGN
+295,TV Guide Network,35,Pop (U.S. TV channel)
+296,Flix (TV channel),36,Flix (TV network)
+307,Sun Sports,37,Fox Sports Sun
+308,MTV Jams,38,BET Jams
+309,Logo TV,39,Logo (TV channel)
+334,WTEV-TV,40,WJAX-TV
+362,TVtropolis,41,DTour
+366,The Biography Channel,42,FYI (U.S. TV channel)
+368,Twist TV,43,FYI (Canadian TV channel)
+394,Bold (TV channel),44,Cottage Life (TV channel)
+404,Speed (TV channel),45,Speed (TV network)
+418,Nicktoons (United States),46,Nicktoons (TV channel)
+419,H2 (TV channel),47,H2 (TV network)
+422,IFC (U.S. TV channel),48,IFC (U.S. TV network)
+425,Country Music Television,49,CMT (U.S. TV channel)
+427,Youtoo TV,50,Youtoo America
+428,ABC1 (UK),51,ABC1 (United Kingdom)
+456,Channel One Russia,52,Channel One (Russia)
+459,The Den (television),53,The Den (Ireland)
+466,NTV Russian TV channel,54,NTV (Russia)
+471,Bravo (UK TV channel),55,Bravo (British TV channel)
+481,Starz (TV channel),56,Starz
+481,Starz (TV channel),57,Starz (TV network)
+482,VH1 Soul,58,BET Soul
+483,CMT Pure Country,59,CMT Music
+487,CHEX-TV,60,CHEX-DT
+489,Family Channel,61,Family (TV channel)
+499,Canal Nou,62,Nou (TV channel)
+508,Nickelodeon (Australia),63,Nickelodeon (Australia and New Zealand)
+518,Vtm,64,VTM (TV channel)
+519,CHBC-DT,65,CHBC-TV
+525,Bio.,66,Bio (Australian TV channel)
+540,Vermont Public Television,67,Vermont PBS
+546,La 2 (Spain),68,La 2 (Spanish TV channel)
+555,WOWT,69,WOWT-TV
+573,CNN Airport Network,70,CNN Airport
+594,CMT (Canada),71,CMT (Canadian TV channel)
+600,AXS TV,72,HDNet
+615,KXJB-TV,73,KRDK-TV
+618,EWTN,74,EWTN Global Catholic Network
+632,VIVA (TV station),75,VIVA Germany
+635,NTD,76,NTD (TV station)
+635,NTD,77,NTD (television station)
+655,CBYT (TV),78,CBYT
+667,KWCM-TV,79,Pioneer Public TV
+672,Bid (TV channel),80,Shop at Bid
+674,Knowledge Network,81,Knowledge (TV channel)
+675,Oprah Winfrey Network (Canadian TV channel),82,Oprah Winfrey Network (Canada)
+677,History (Canadian TV channel),83,History (Canada)
+677,History (Canadian TV channel),84,History Television
+679,City Saskatchewan,85,Saskatchewan Communications Network
+692,W49AY,86,W47EI-D
+715,WVUA-CA,87,WVUA-CD
+725,The Score Television Network,88,Sportsnet 360
+741,Syfy Universal (Germany),89,Syfy (Germany)
+770,Fuse (TV channel),90,Fuse TV
+772,BBTV Channel 7,91,Channel 7 (Thailand)
+782,MediaCorp Channel 5,92,Mediacorp Channel 5
+783,MediaCorp Channel 8,93,Mediacorp Channel 8
+784,MediaCorp Channel U,94,Mediacorp Channel U
+800,Kerrang! (TV channel),95,Kerrang! TV
+812,WCFT-TV,96,WSES
+813,WJSU-TV,97,WGWW
+822,XETV-TV,98,XETV-TDT
+822,XETV-TV,99,XETV
+832,Pop (UK TV channel),100,Pop (UK and Ireland)
+832,Pop (UK TV channel),101,Pop (UK & Ireland)
+835,The Box (UK and Ireland),102,The Box (UK and Ireland TV channel)
+846,KRIV,103,KRIV (TV)
+849,WAWS,104,WFOX-TV
+852,NTV7,105,Ntv7
+871,Australia Network,106,Australia Plus
+876,WUDT-CD,107,WUDT-LD
+878,FX Movie Channel,108,Fox Movie Channel
+886,WLKY-TV,109,WLKY
+925,Vrak.TV,110,Vrak
+957,Military Channel,111,American Heroes Channel
+972,WFPA-CA,112,WFPA-CD
+986,XHDTV-TV,113,XHDTV-TDT
+1000,XHAS-TV,114,XHAS-TDT
+1001,KLST (TV),115,KLST
+1003,WMDO-CA,116,WMDO-CD
+1007,The Box (U.S.),117,The Box (U.S. TV channel)
+1018,CFER-TV,118,CFER-DT
+1020,CHAU-DT,119,CHAU-TV
+1044,Sundance Channel (United States),120,SundanceTV
+1056,Science (TV channel),121,Science (TV network)
+1057,KDFX-CA,122,KDFX-CD
+1065,WBW,123,WWAY-DT2
+1066,Ovation Channel,124,Ovation (Australian TV channel)
+1074,El Trece (Argentina),125,El Trece
+1084,KNLA-CD,126,KNLA-LP
+1085,KSFV-CA,127,KSFV-CD
+1086,KNET-CD,128,KNET-CA
+1105,XHAB-TV,129,XHAB-TDT
+1106,XEWT-TV,130,XEWT-TDT
+1107,XHTIT-TV,131,XHTIT-TDT
+1108,XHJK-TV,132,XHJK-TDT
+1109,XHBJ-TV,133,XHBJ-TDT
+1110,XHUAA-TV,134,XHUAA-TDT
+1112,WMKG-CA,135,WMKG-CD
+1121,XHTJB-TV,136,XHTJB-TDT
+1134,Nederland 1,137,NPO 1
+1154,WPTY-TV,138,WATN-TV
+1164,WOOT-LD,139,WOOT-LP
+1165,WYHB-LP,140,WYHB-CA
+1167,BiteTV,141,Makeful
+1172,MTVU,142,MtvU
+1183,WFVX-LD,143,WFVX-LP
+1187,The Player Channel,144,The Poker Channel
+1197,Nederland 3,145,NPO 3
+1216,KHTV-CD,146,KHTV-LD
+1219,La 1 (Spain),147,La 1 (Spanish TV channel)
+1225,Showcase (Canadian TV channel),148,Showcase (TV channel)
+1241,WXIN (TV),149,WXIN
+1244,WGSA (TV),150,WGSA
+1257,K26ES,151,KWYF-LD
+1259,WUHQ-LD,152,WUHQ-LP
+1292,SoHo (Australian TV channel),153,W Channel (Australia)
+1294,WFYI (TV),154,WFYI
+1296,WSJP-LD,155,WSJP-LP
+1301,WEAU,156,WEAU-TV
+1304,Al Jazeera Sports,157,BeIN Sports (MENA)
+1304,Al Jazeera Sports,158,BeIN Sports Arabia
+1330,Mun2,159,NBC Universo
+1354,Comcast Network,160,The Comcast Network
+1359,SuperSport (TV channel),161,SuperSport (South African TV channel)
+1367,Fox (UK and Ireland),162,FX (UK)
+1415,XHIJ-TV,163,XHIJ-TDT
+1416,K26KJ,164,K26KJ-D
+1422,WBME-CD,165,WMLW-CA
+1430,KOTA-TV,166,KHME
+1432,KEVN-TV,167,KOTA-TV
+1457,WGMU-CA,168,WGMU-LP
+1466,WRAP-LP,169,WRAP-CA
+1473,RTL 7,170,RTL 7 (Netherlands)
+1484,WVGN-LD,171,WVGN-LP
+1485,XHBC-TV,172,XHBC-TDT
+1502,SNN Local News,173,WSNN-LD
+1502,SNN Local News,174,SNN Local News 6
+1502,SNN Local News,175,SNN: Suncoast News Network
+1511,Hustler TV (Canada),176,Exxxtasy TV
+1556,Western Reserve Public Media,177,WNEO
+1595,Paramount Comedy (Spain),178,Paramount Comedy Spain
+1603,Nederland 2,179,NPO 2
+1609,KWVT-LD,180,KWVT-LP
+1627,Pick TV,181,Pick (TV channel)
+1629,Al Jazeera Children's Channel,182,JeemTV
+1644,KTUD-CD,183,KTUD-LD
+1648,BYU Television,184,BYUtv
+1655,ETV Marathi,185,Colors Marathi
+1674,XEW-TV,186,XEW-TDT
+1675,XHDF-TV,187,XHDF-TDT
+1678,The LifeStyle Channel,188,LifeStyle
+1681,Sky Livingit,189,Real Lives (TV channel)
+1682,XEQ-TV,190,XEQ-TDT
+1683,XHGC-TV,191,XHGC-TDT
+1684,XHTV-TV,192,XHTV-TDT
+1684,XHTV-TV,193,XHTV
+1685,XET-TV,194,XET-TDT
+1703,K11TW,195,KIIT-CA
+1707,Veronica (TV channel),196,Veronica TV
+1708,SRF zwei,197,SF zwei
+1720,Funimation Channel,198,Toku (TV network)
+1722,WZME,199,WSAH
+1740,WAPT,200,WAPT (TV)
+1743,WUFX,201,WLOO
+1758,PBS Kids Sprout,202,Sprout (TV network)
+1773,WMJF-LP,203,WMJF-CD
+1794,Channel 1 (Iran),204,IRIB TV1
+1799,W33BY,205,W33BY-D
+1800,Channel 2 (Iran),206,IRIB TV2
+1808,Galaxy (British television),207,Galaxy (UK TV channel)
+1811,KKFX-CA,208,KKFX-CD
+1819,WJJN-LD,209,WJJN-LP
+1820,W47DL-D,210,WUDL-LD
+1823,CNBC Pakistan,211,Jaag TV
+1825,SportsChannel,212,SportsChannel America
+1826,WMNT-CA,213,WMNT-CD
+1837,VH1 (UK and Ireland),214,VH1 (UK & Ireland)
+1838,XEFB-TV,215,XEFB-TDT
+1851,TV11 (Sweden),216,Kanal 11 (Sweden)
+1854,SVT Barnkanalen,217,SVTB
+1855,KSNV-DT,218,KSNV
+1858,XHIMT-TV,219,XHIMT-TDT
+1862,KLAF-LD,220,KLAF-LP
+1872,44 Adelaide,221,Channel 44 (Adelaide)
+1886,H2 (Canada),222,The Cave (TV channel)
+1887,WXAX-LP,223,WXAX-CD
+1888,WSPF-CD,224,WSPF-CA
+1898,WDVB-CD,225,WDVB-CA
+1902,K25DM,226,K18JL-D
+1915,XEJ-TV,227,XEJ-TDT
+1916,XEPM-TV,228,XEPM-TDT
+1917,XHCJH-TV,229,XHCJH-TDT
+1918,XHCJE-TV,230,XHCJE-TDT
+1919,XHJCI-TV,231,XHJCI-TDT
+1921,KILM,232,KHIZ
+1922,XHJUB-TV,233,XHJUB-TDT
+1929,WYYW-CD,234,WTSN-LD
+1933,WRIW-CD,235,WRIW-CA
+1947,KJCT,236,KGBY (TV)
+1958,Syfy Universal (France),237,Syfy (France)
+1960,WPHY-CD,238,W50DZ-D
+1962,CJPC-TV,239,CJPC-DT
+1968,KBVO (TV),240,KBVO
+1969,KBNT-CD,241,KBNT-CA
+1971,WUGA-TV,242,WGTA (TV)
+1975,Grace TV,243,Daystar Canada
+1988,ATN Channel,244,ATN Star Plus
+1992,Lifestyle Network,245,Lifestyle (Philippine TV channel)
+1997,CFTV-DT,246,CFTV-TV
+2000,VIER,247,VT4
+2012,STAR Movies,248,Star Movies
+2017,XERV-TV,249,XERV-TDT
+2018,Canal 24 Horas,250,24 Horas
+2020,GTV (disambiguation),251,GTV
+2032,KFXP,252,KVUI
+2033,Juice TV,253,Juice (TV channel)
+2040,XHTAM-TV,254,XHTAM-TDT
+2041,XHLAR-TV,255,XHLAR-TDT
+2044,WT05,256,Toledo 5
+2047,AM Network,257,Legislature broadcasters in New Zealand
+2050,WOCH-CA,258,WOCH-CD
+2060,Investigation Discovery (Latin America),259,Liv (Latin American TV channel)
+2062,HARDtv,260,Playmen TV
+2064,MHz WorldView,261,MHz Worldview
+2068,KAQY,262,KMLU (TV)
+2069,Horse Racing TV,263,TVG2
+2069,Horse Racing TV,264,HRTV (network)
+2073,Military History (TV channel),265,Military History (TV network)
+2074,Fuel TV,266,Fox Sports 2
+2077,Hallmark Movie Channel,267,Hallmark Movies & Mysteries
+2081,WEFC-TV,268,WFFP-TV
+2081,WEFC-TV,269,WTLU (TV)
+2088,WealthTV,270,AWE (TV network)
+2090,WBYD-CA,271,WBYD-CD
+2096,Pentagon Channel,272,DoD News Channel
+2096,Pentagon Channel,273,The Pentagon Channel
+2097,Living (New Zealand TV channel),274,Living Channel
+2097,Living (New Zealand TV channel),275,Living (New Zealand)
+2098,Food Television,276,Food TV
+2102,ATV (Turkey),277,Atv (Turkey)
+2107,MTV Germany,278,MTV Central
+2113,The Inspiration Network,279,INSP (TV network)
+2114,The BOX (New Zealand),280,The Box (New Zealand TV channel)
+2114,The BOX (New Zealand),281,The Box (New Zealand)
+2115,ET1 (Greece),282,ERT1
+2116,ET3 (Greece),283,ERT3
+2142,WLPC-LD,284,WLPC-CD
+2146,WRBJ (TV),285,WRBJ-TV
+2149,WBQP-CD,286,WBQP-CA
+2157,WYGA-LD,287,WYGA-CD
+2175,WFWC-CA,288,WFWC-CD
+2176,WAUG-LP,289,WAUG-LD
+2196,Headlines Today,290,India Today (TV channel)
+2206,DOC: The Documentary Channel,291,Documentary Channel (TV network)
+2206,DOC: The Documentary Channel,292,Documentary Channel (TV channel)
+2220,UCTV (University of California),293,University of California Television
+2252,WMLW-TV,294,WBME-TV
+2253,WVTX-CA,295,WVTX-CD
+2255,WBGN-CD,296,WEPA-CD
+2260,KKYK-CD,297,KLRA-LP
+2271,WAOH-LP,298,WAOH-CD
+2272,WRDM-CD,299,WRDM-CA
+2276,WWME-CA,300,WWME-CD
+2282,WUTH-CA,301,WUTH-CD
+2283,WHCT-LP,302,WHCT-LD
+2284,W44CK-D,303,W44CK
+2291,WBQT (The CW Plus),304,WWLP-DT2
+2313,WBND-LD,305,WBND-LP
+2321,KLNM-LP,306,KLNM-LD
+2323,ATN Movies OK,307,ATN Zee Cinema
+2329,WEAC-CD,308,WJXS-CA
+2330,WTZT-CD,309,WTZT-CA
+2331,XHRIO-TV,310,XHRIO-TDT
+2334,WAPK-CA,311,WAPK-CD
+2337,WKNX-TV,312,WMAK
+2372,Paikallistelevisio,313,PTV4
+2378,ITV Play (channel),314,ITV Play
+2398,Nova Television (Bulgaria),315,Nova television (Bulgaria)
+2398,Nova Television (Bulgaria),316,Nova television
+2400,WDNN-CA,317,WDNN-CD
+2404,KMSG-LD,318,KMSG-LP
+2411,KZMM-CD,319,KZMM-CA
+2412,KCWB-LP,320,KVBC-LP
+2429,Caribbean Broadcast Network,321,ZBTV
+2483,Oasis HD,322,Love Nature
+2485,Bid Plus,323,Speed Auction
+2490,WBXH-CA,324,WBXH-CD
+2493,Pershyi Natsionalnyi (Ukraine),325,Pershyi Natsionalnyi
+2494,KODF-LD,326,KODF-LP
+2505,KLVD-LD,327,KLVD-LP
+2509,KJOI-LP,328,KJOU-LP
+2513,KBBV-CD,329,KBBV-CA
+2516,KABE-CD,330,KABE-LD
+2531,JCTV,331,JUCE TV
+2553,Here!,332,Here TV
+2559,Central Florida News 13,333,News 13
+2559,Central Florida News 13,334,News 13 (Central Florida)
+2580,KMMK-LP,335,KMUM-CA
+2587,TV One (US TV network),336,TV One (U.S. TV network)
+2590,ONTV (pay TV),337,ON-TV
+2604,Jaam-e-Jam (Canada),338,Iran TV Network (Canada)
+2608,K25MM-D,339,K61GA
+2611,Nicktoons (UK and Ireland),340,Nicktoons (UK & Ireland)
+2617,WBGH-CA,341,WBGH-CD
+2620,KTVQ-DT2,342,KWBM (CW Plus)
+2624,WIAV-LP,343,WIAV-CD
+2624,WIAV-LP,344,WIAV-LD
+2641,The Arts Channel,345,Sky Arts (New Zealand)
+2643,WAKA (TV),346,WAKA
+2656,WAZS-LD,347,WAZS-LP
+2657,WJNI-LD,348,WJNI-LP
+2664,HBO (Asia),349,HBO Asia
+2673,WFRZ-LD,350,WFRZ-LP
+2674,Cinemax (Asia),351,MAX Asia
+2679,KGEC-LP,352,KGEC-LD
+2680,KBLN,353,KBLN-TV
+2688,WFME-TV,354,WNYJ-TV
+2694,Ovation (TV channel),355,Ovation (U.S. TV channel)
+2701,Disney Channel (Scandinavia),356,Disney Channel Scandinavia
+2706,Universal Channel (UK and Ireland),357,Universal Channel (UK)
+2712,KGCW,358,KGCW (TV)
+2714,WBCC,359,WEFS
+2726,KHPK-LD,360,KHPK-LP
+2750,WMKE-CA,361,WMKE-CD
+2751,STAR Chinese Channel,362,Star Chinese Channel
+2752,STAR Chinese Movies,363,Star Chinese Movies
+2754,KATA-CD,364,KATA-CA
+2761,WNCE-CD,365,WNCE-CA
+2763,5*,366,5Star
+2764,ITV HD,367,ITV1 HD
+2767,KBTR-CA,368,KBTR-CD
+2768,WMBQ-CD,369,WMBQ-CA
+2781,Nick Jr. 2,370,Nick Jr. Too
+2782,WBGT-CD,371,WBGT-CA
+2797,WRID-LP,372,WRID-LD
+2798,STAR Vijay,373,Star Vijay
+2802,WFND-LD,374,WFND-LP
+2805,WMNO-CA,375,WMNO-CD
+2808,W39CO,376,WWBK-LP
+2810,Shalom TV,377,Jewish Broadcasting Service
+2810,Shalom TV,378,JBS Jewish Broadcasting Service
+2815,KJWP,379,KJWY
+2816,KVNV,380,WJLP
+2818,WIWU-CD,381,WIWU-CA
+2820,KKEI-CA,382,KKEI-CD
+2823,WVTT-CA,383,WVTT-CD
+2824,KUGB-CD,384,KUGB-CA
+2825,KYNM-LP,385,KYNM-CD
+2828,W43BV,386,WSWY-LP
+2834,Galaxie,387,Stingray Music
+2841,Fox Sports News (Australia),388,Fox Sports News
+2842,Fuel TV Australia,389,Fuel TV (Australia)
+2844,PlayTV (Brazilian television channel),390,PlayTV (Brazil)
+2848,WZXZ-CA,391,WZXZ-CD
+2849,W23BV-D,392,W23BV
+2853,WVVH-CD,393,WVVH-CA
+2854,WBXC-CA,394,WBXC-CD
+2857,KMMA-CD,395,KMMA-CA
+2858,KMMD-CD,396,KMMD-CA
+2860,KQMM-CD,397,KQMM-CA
+2868,W48CX,398,W30CV-D
+2872,KMCA-LD,399,KMCA-LP
+2873,WJTS-CD,400,WJTS-LP
+2874,WOTH-LD,401,WOTH-CD
+2880,KELV-LD,402,KELV-LP
+2883,KTVP-LD,403,KTVP-LP
+2895,Canal+ 1,404,Canal+ (Spanish TV channel)
+2898,KUNU-LP,405,KUNU-LD
+2903,UTV News,406,UTV News (Albania)
+2905,WDMA-CA,407,WDMA-CD
+2906,KPSE-LP,408,KPSE-LD
+2906,KPSE-LP,409,KPSG-LP
+2907,W24DL-D,410,W46CR
+2912,WHDN-LD,411,WHDT-LD
+2916,WEDE-CA,412,WEDE-CD
+2918,WHAN-LP,413,WRLW-CD
+2919,WREP-LD,414,WREP-LP
+2921,Disney Channel (Central and Eastern Europe),415,Disney Channel (Europe)
+2923,K47DF,416,K22JA-D
+2923,K47DF,417,K47DF-D2
+2924,K68DJ,418,K47DF-D
+2928,KHAS-TV,419,KNHL
+2945,CBS Europa,420,Zone Europa
+2950,WSOT-LD,421,WSOT-LP
+2959,KTFV-CD,422,KTFV-CA
+2969,KBTV-CD,423,KBTV-CA
+2970,CHCO-TV,424,CHCT-TV
+2980,KISA-LD,425,KISA-LP
+2983,WIWN,426,WWAZ-TV
+2986,WCLL-CD,427,WCLL-CA
+2996,KDAO-LP,428,KDAO-CD
+2997,Palladia,429,MTV Live (TV network)
+3001,WVQS-LD,430,WVQS-LP
+3010,WDDN-LD,431,WDDN-LP
+3019,WIIC-LP,432,WIIC-LD
+3036,W29CI-D,433,W29CI
+3049,Prima family,434,Prima televize
+3050,KPHE-LD,435,KPHE-LP
+3053,W30DG-D,436,W14CU
+3057,KQBN-LP,437,KQBN-LP (defunct)
+3059,WBXJ-CA,438,WBXJ-CD
+3068,WDTJ-LD,439,WDTJ-LP
+3069,Nick Jr. (UK and Ireland),440,Nick Jr. (UK & Ireland)
+3071,National Geographic Channel (UK),441,National Geographic Channel (UK and Ireland)
+3073,WBEK-CA,442,WAGT-CD
+3073,WBEK-CA,443,WBEK-CD
+3076,Turner Classic Movies (UK & Ireland),444,Turner Classic Movies (UK and Ireland)
+3078,K18DD,445,K18DD-D
+3081,TBN Enlace USA,446,Enlace
+3084,XHREY-TV,447,XHREY-TDT
+3085,XHBR-TV,448,XHBR-TDT
+3086,XHLNA-TV,449,XHLNA-TDT
+3087,XHLAT-TV,450,XHLAT-TDT
+3088,XEFE-TV,451,XEFE-TDT
+3094,Discovery Channel (UK TV channel),452,Discovery Channel (UK and Ireland)
+3096,XHUNAM-TDT,453,XHUNAM-TV
+3098,XHMNU-TV,454,XHMNU-TDT
+3100,Face TV,455,Triangle TV
+3101,XHX-TV,456,XHX-TDT
+3102,XHWX-TV,457,XHWX-TDT
+3103,XHFN-TV,458,XHFN-TDT
+3104,XHCNL-TV,459,XHCNL-TDT
+3106,XHCH-TV,460,XHCH-TDT
+3107,XHIT-TV,461,XHIT-TDT
+3108,XHFI-TV,462,XHFI-TDT
+3109,XHAUC-TV,463,XHAUC-TDT
+3110,XHECH-TV,464,XHECH-TDT
+3111,XHCHZ-TV,465,XHCHZ-TDT
+3114,K49AY,466,KBRO-LD
+3125,W07BV / W19CI,467,W08EM-D
+3130,Music Choice International,468,Stingray Music International
+3133,XHAW-TV,469,XHAW-TDT
+3134,XHSAW-TV,470,XHSAW-TDT
+3136,KLHU-CA,471,KLHU-CD
+3140,K27EC-D,472,K27EC
+3148,WAZT-CA,473,WAZT-CD
+3151,K21CX-D,474,K21CX
+3154,SRF 1,475,SF 1
+3162,WSPY-CD,476,WLPD-CD
+3162,WSPY-CD,477,WSPY-LP
+3163,W23BW,478,W23BW-D
+3179,Eqhd,479,Smithsonian Channel (Canada)
+3186,KTEL-LP,480,KTEL-CD
+3191,WLNN-LP,481,WLNN-CD
+3192,WTBL-CD,482,WTBL-LP
+3193,KEYU,483,KEYU (TV)
+3196,Crime & Investigation Network (Europe),484,Crime & Investigation Network (UK)
+3200,KBS World (Canada),485,All TV K
+3221,K02NQ,486,KMIZ-DT2
+3222,XHILA-TV,487,XHILA-TDT
+3226,KRSC-TV,488,KRSU-TV
+3232,E4 (TV channel),489,E4 (channel)
+3252,KMTF,490,KUHM-TV
+3267,KVFW-LD,491,KVFW-LP
+3270,Spotlight (cable TV),492,Spotlight (TV channel)
+3271,KRFT-LD,493,KRFT-LP
+3272,WZGS-CA,494,WZGS-CD
+3275,WHFL-CD,495,WHFL-LP
+3278,Disney Channel (Australia),496,Disney Channel (Australia and New Zealand)
+3281,KFDF-CD,497,KFDF-LD
+3284,WVAD-LD,498,W25CS
+3285,K25FW,499,K25FW-D
+3294,WPBM-CD,500,WPBM-LP
+3295,KLHO-LP,501,KLHO-LD
+3296,KUOT-CD,502,KUOT-CA
+3297,KWEM-LP,503,KWEM-LP (defunct)
+3298,KXOK-LD,504,KXOK-LP
+3299,KTEW-LD,505,KTEW-CA
+3300,KTOU-LD,506,KTOU-LP
+3306,K43FO-D,507,K43FO
+3309,KEEN-CD,508,KEEN-CA
+3311,KCVB-CD,509,KCVB-CA
+3315,KLEG-LD,510,KLEG-CD
+3315,KLEG-LD,511,KLEG-LP
+3326,Sky News Weather Channel,512,The Weather Channel (Australia)
+3327,DD Girnar,513,DD Gujarati
+3338,XEIMT-TV,514,XEIMT-TDT
+3339,KVPX-LD,515,KVPX-LP
+3342,K41IO,516,K41IO-D
+3343,KLSV-LP,517,KLSV-LD
+3347,Tr3s,518,MTV Tres
+3350,Cartoon Network (Australia),519,Cartoon Network (Australia and New Zealand)
+3354,K17JI-D,520,K12OZ
+3355,KEJT-LP,521,KULX-CD
+3356,Boomerang (Latin American TV channel),522,Boomerang (Latin America)
+3362,KZBZ-LP,523,KTXC-LP
+3363,K08MM,524,K08MM-D
+3366,WJPW-CD,525,WJPW-CA
+3367,WWVW-LD,526,WWVW-LP
+3370,XHTVM-TV,527,XHTVM-TDT
+3371,ABC1,528,ABC (Australian TV channel)
+3373,K25NK-D,529,K58GC
+3377,Seven (UK TV channel),530,Estuary TV
+3381,KGPT-LD,531,KGPT-CD
+3382,KSMI-LD,532,KSMI-LP
+3392,W07BN-D,533,W07BN
+3394,WLLB-LP,534,WLLB-LD
+3407,Viasat Explorer,535,Viasat Explore
+3419,WWXY-LP,536,WWXY-LD
+3420,KYAV-LD,537,KYAV-LP
+3422,ReelzChannel,538,Reelz
+3424,KXLK-CA,539,KXLK-CD
+3430,KBTF-CD,540,KTFB-CA
+3431,KDTF-LD,541,KDTF-LP
+3433,Boomerang (Australian TV channel),542,Boomerang (Australia and New Zealand)
+3456,KSBT-LD,543,KSBT-LP
+3465,K54JS,544,K20JT-D
+3468,KGBS-CA,545,KGBS-CD
+3469,WBWT-LP,546,WTSJ-LP
+3473,KSDY-LD,547,KSDY 50
+3474,KNIC-CA,548,KNIC-CD
+3475,KANG-CA,549,KEUS-LD
+3475,KANG-CA,550,KEUS-CD
+3478,CCTV-6,551,China Movie Channel
+3485,SF Channel (Australia),552,SF (Australia)
+3485,SF Channel (Australia),553,Sci Fi Channel (Australia)
+3489,National Geographic Adventure (TV channel),554,Nat Geo People
+3491,BBC Knowledge (international),555,BBC Knowledge (Worldwide)
+3496,K35DG,556,K35DG-D
+3498,Disney Channel (Asia),557,Disney Channel Asia
+3502,SportSouth,558,Fox Sports Southeast
+3507,KVDF-CA,559,KVDF-CD
+3525,WSVT-CD,560,WSVT-LD
+3525,WSVT-CD,561,WSVT-CA
+3527,KAJN-CD,562,KAJN-LP
+3533,KADT-LD,563,KADT-LP
+3534,K33LN-D,564,K14KH
+3535,WVBK-CA,565,WYCX-CD
+3536,TRT 3,566,TRT Spor
+3537,KCDN-LP,567,KCDN-LD
+3539,KEUS-LP,568,KANG-LP
+3541,SBS One,569,SBS (Australian TV channel)
+3543,KGJT-LP,570,KGJT-CD
+3544,KBNS-CD,571,KBNS-LD
+3546,KSEX-CD,572,KSEX-CA
+3558,KCLG-LD,573,KCLG-CA
+3559,KCLJ-LP,574,KCLJ-CA
+3563,K14LM,575,K27LF-D
+3565,K20KF-D,576,K16EL
+3566,K17ED,577,K17ED-D
+3567,K24HH-D,578,K30DJ
+3568,K21DO,579,K21DO-D
+3569,K21JQ-D,580,K22BI
+3570,K31FD,581,K31FD-D
+3571,K33EJ,582,K33EJ-D
+3572,C More First,583,Canal+ First
+3573,C More Hits,584,Canal+ Hits
+3574,C More Action,585,Canal+ Action
+3576,C More First HD,586,Canal+ Film HD
+3577,C More Tennis,587,Canal+ Sport 2 (Scandinavia)
+3578,C More Sport,588,Canal+ Sport 1 (Scandinavia)
+3580,K20JX-D,589,K27EU
+3593,KSBO-CA,590,KSBO-CD
+3595,KKKK-CA,591,KPOM-LP
+3595,KKKK-CA,592,KPOM-CA
+3596,KCRP-CA,593,KCRP-CD
+3600,K45IE-D,594,K45IE
+3601,KQDK-CD,595,KQDK-CA
+3603,KRET-CA,596,KRET-CD
+3604,KEZT-CD,597,KEZT-CA
+3608,KHMM-CD,598,KHMM-CA
+3612,KSKJ-CD,599,KSKJ-CA
+3620,KDJT-CA,600,KDJT-CD
+3621,KSKT-CA,601,KSKT-CD
+3632,CTC (TV channel),602,STS (TV channel)
+3633,KGHB-CD,603,KGHB-CA
+3634,Islamic Republic of Iran News Network,604,IRINN
+3638,Diema Extra,605,Diema Sport
+3653,KIDZ-LD,606,KIDZ-LP
+3671,K36DB-CD,607,K36DB
+3674,Rai News24,608,Rai News
+3675,WGUD-LD,609,WGUD-LP
+3678,TV5 (Mongolia),610,TV5 Mongolia
+3688,Saudi T.V. Channel II,611,Saudi 2
+3707,TVNZ ondemand,612,TVNZ OnDemand
+3712,WNCR-LD,613,WNCR-LP
+3717,KLMV-LD,614,KLMV-LP
+3718,KNEX-LP,615,KYLX-LD
+3718,KNEX-LP,616,KYLX-LP
+3719,XHNAT-TV,617,XHNAT-TDT
+3720,KXOF-CD,618,KXOF-CA
+3722,K21GX,619,KJWY-LP
+3729,WTLU-CD,620,WLHG-CD
+3729,WTLU-CD,621,Liberty Channel: WTLU-CA
+3734,KORK-LD,622,KORK-CD
+3738,KUMY-LD,623,KUMY-LP
+3739,KOXI-LD,624,KOXI-CD
+3741,KORY-CA,625,KORY-CD
+3742,K38JK-D,626,KHWB-LD
+3742,K38JK-D,627,K59DJ
+3747,C1 Television,628,C1 Television (channel)
+3749,K39EF,629,K39EF-D
+3753,KDTL-LD,630,KDTL-LP
+3758,The Voice (Bulgaria),631,The Voice TV Bulgaria
+3759,KNEE-LD,632,KNEE-LP
+3765,KWCC-LD,633,KWCC-LP
+3766,K43GZ-D,634,K43GZ
+3768,KDYS-LP,635,KDYS-LD
+3775,K25FP-D,636,K25FP
+3777,KRLB-LD,637,KRLB-LP
+3792,KTPN-LD,638,KTPN-LP
+3812,Willow Cricket,639,Willow (TV channel)
+3827,STV (TV network),640,STV (TV channel)
+3828,Rossiya 1,641,Russia-1
+3832,KZCO-LP,642,KZCO-LD
+3834,VIJF,643,VIJFtv
+3853,MediaCorp TV12 Central,644,MediaCorp Central
+3854,MediaCorp Suria,645,Mediacorp Suria
+3865,The HAM Channel,646,StagsTV
+3870,Bio. (UK),647,The Biography Channel (UK and Ireland)
+3871,KSCZ-LP,648,KSCZ-LD
+3875,History (European TV channel),649,History (UK TV channel)
+3879,WSCP-LP,650,WSCP-CA
+3890,KXFX-CA,651,KXFX-CD
+3901,Around the Rings,652,AroundTheRings.com
+3904,TV3 Sport 1,653,TV 2 Sport (Denmark)
+3910,Mongolian National Broadcaster,654,MNB (TV channel)
+3921,WGTB-CD,655,WGTB-LP
+3925,Avago,656,Avago (TV channel)
+3926,STB (Channel),657,STB (TV channel)
+3930,Follow Me TV,658,Follow Me TV (Canada)
+3934,PTS2,659,Dimo TV
+3937,Antena 2 (Romania),660,Antena Stars
+3958,GEO News,661,Geo News
+3985,Mega (TV channel),662,Mega (Ukrainian television channel)
+3985,Mega (TV channel),663,Megasport
+3985,Mega (TV channel),664,"Mega (TV channel, Ukraine)"
+3986,Syfy Universal (Benelux),665,Syfy (Benelux)
+3987,JIM,666,Jim (TV channel)
+3988,Kutonen (TV channel),667,The Voice TV Finland
+3989,GMC TV,668,Up (TV network)
+3993,Rusiya Al-Yaum,669,RT Arabic
+4016,Historia,670,Historia (TV channel)
+4025,Sport 1,671,Sport1 (Eastern Europe)
+4025,Sport 1,672,Sport 1 (Europe)
+4028,WJCN-LP,673,WJCN-LD
+4028,WJCN-LP,674,WJCN-CA
+4031,Clan TVE,675,Clan (TV channel)
+4040,XHTRES-TV,676,XHTRES-TDT
+4051,MediaCorp HD5,677,Mediacorp HD5
+4066,Channel One (UK TV channel),678,Channel One (UK and Ireland)
+4091,The Movie Network Encore,679,Mpix
+4092,Smithsonian Networks,680,Smithsonian Channel
+4093,KXPX-LP,681,KXPX-CA
+4105,XHMNL-TV,682,XHMNL-TDT
+4118,Zapp (TV channel),683,NPO Zapp
+4118,Zapp (TV channel),684,Z@PP
+4127,XHJAL-TV,685,XHJAL-TDT
+4128,Sport1,686,Ziggo Sport Totaal
+4128,Sport1,687,Sport1 (Netherlands)
+4135,Yle Extra,688,YLE Extra
+4145,MATV (Quebec),689,Vox (TV network)
+4151,WSVF-CD,690,WHSV-DT2
+4187,K67HQ,691,KTGB-LP
+4214,Bhakti TV,692,Bhakthi TV
+4218,BBC Alba,693,BBC Alba (TV channel)
+4231,Lifestyle (TV channel),694,Lifestyle (UK TV channel)
+4231,Lifestyle (TV channel),695,Lifestyle (British TV channel)
+4254,Westlink Network,696,Westlink (Australian TV channel)
+4259,Seven HD,697,7HD
+4265,Nine HD,698,9HD
+4274,World (TV channel),699,PBS World
+4277,MEGA Cosmos (Odyssey Television Network),700,MEGA Cosmos (Canada)
+4279,WPRQ-LD,701,WPRQ-LP
+4288,K02RB-D,702,KHIZ-LD
+4288,K02RB-D,703,K39GY
+4289,K06MU,704,KZNO-LP
+4315,Discovery Science Southeast Asia,705,Discovery Science (Asia)
+4328,KLFB-LD,706,KLFB-LP
+4336,ETTV News,707,EBC News
+4344,Premiere (TV channel),708,PremiÃ¨re (TV channel)
+4346,WZTD-LD,709,WZTD-LP
+4348,WAGM-DT2,710,WAGM-DT1
+4349,WVVQ-LP,711,WUJX-LD
+4349,WVVQ-LP,712,WVVQ-LD
+4349,WVVQ-LP,713,WVVQ
+4352,AXN Asia,714,AXN (Asia)
+4360,Trackside (New Zealand),715,TAB Trackside
+4368,Russian Public Television,716,Public Television of Russia
+4373,TVU Music Television,717,TVU Music channel
+4376,WWDD-LP,718,WWDD-LD
+4382,K42FE,719,K42FE-D
+4385,WYAM-LD,720,WYAM-LP
+4416,WQXT-CA,721,WQXT-CD
+4424,Oprah Winfrey Network (U.S. TV channel),722,Oprah Winfrey Network
+4430,Klan Television,723,TV Klan
+4430,Klan Television,724,Klan TV
+4432,A1 Televizion,725,A1 Report
+4443,WYCN-LP,726,WYCN-CD
+4446,MTV3 Leffa,727,MTV Leffa
+4456,C More Sport HD,728,Canal+ Sport HD
+4477,Discovery World (Canadian TV channel),729,Discovery Velocity
+4477,Discovery World (Canadian TV channel),730,Discovery World HD
+4480,Discovery Channel (Middle East),731,Discovery Channel (Middle East and North Africa)
+4482,WBGP (The CW Plus),732,WXXV-DT3
+4484,MediaCorp Vasantham,733,Mediacorp Vasantham
+4486,KXUN-LD,734,KXUN-LP
+4489,BR-alpha,735,ARD-alpha
+4496,SRF info,736,SF info
+4523,WUVI-LD,737,WUVI-LP
+4529,TV Tsentr,738,TV Center
+4534,Zappelin,739,NPO Zappelin
+4534,Zappelin,740,Z@ppelin
+4539,WOHZ-CA,741,WOHZ-CD
+4541,KBZO-LD,742,KBZO-LP
+4543,XHY-TV,743,XHY-TDT
+4544,XHND-TV,744,XHND-TDT
+4545,RPC-TV,745,HOF-TV
+4546,TVN (Panama),746,TVN Panama
+4548,PJA-TV,747,15 ATV
+4550,ClassTV MSNBC,748,ClassTV
+4556,Kix!,749,Kix (UK and Ireland TV channel)
+4556,Kix!,750,Kix! (TV channel)
+4559,TIMM,751,TIMM (TV)
+4563,SBN Television,752,Supervision Broadcasting Network
+4577,Boomerang (Southeast Asia TV channel),753,Boomerang (Southeast Asia)
+4580,63 (TV channel),754,J2 (New Zealand)
+4582,KBTI-LP,755,KBTI-LD
+4588,BabyFirstTV,756,BabyFirst
+4592,KYUU-LD,757,KYUU-LP
+4595,KBAX-LP,758,KBAX-LD
+4613,KJCX-LP,759,KJCQ-LD
+4633,W08CK,760,WZCK-LP
+4643,KJTV-CD,761,KJTV-CA
+4651,Belarus TV,762,Belarus 24
+4656,Edge Media Television,763,Controversial TV
+4666,LaSiete,764,La Siete
+4667,Universal Sports,765,Universal Sports Network
+4669,XHGO-TV,766,XHGO-TDT
+4670,XHD-TV,767,XHD-TDT
+4671,XHFW-TV,768,XHFW-TDT
+4672,XHTPZ-TV,769,XHTPZ-TDT
+4673,XHTAO-TV,770,XHTAO-TDT
+4673,XHTAO-TV,771,XHTAO
+4674,XHVTU-TV,772,XHVTU-TDT
+4674,XHVTU-TV,773,XHVTU
+4675,CaspioNet,774,Kazakh TV
+4678,MRT Sat,775,MKTV Sat
+4688,National Geographic Channel (Australia),776,National Geographic Channel (Australia and New Zealand)
+4703,Watch (TV channel),777,W (UK TV channel)
+4709,WARZ-LD,778,WARZ-CD
+4712,Setanta Sports Australia,779,BeIN Sports (Australia)
+4715,KIVY-LD,780,KIVY-LP
+4717,KLGV-LP,781,KLGV-LD
+4719,KIBN-LP,782,KIBN-LD
+4721,9X (disambiguation),783,9X
+4758,Rossiya 24,784,Russia-24
+4766,Syria TV,785,Syrian Satellite Channel
+4767,Fox (Turkey),786,FOX (Turkey)
+4785,Nick (Pakistan),787,Nickelodeon (Pakistan)
+4791,ShowSports,788,OSN Sports
+4803,Eredivisie Live,789,Fox Sports Eredivisie
+4820,KXTQ-CA,790,KXTQ-CD
+4823,WOVA-LD,791,WTAP-DT2
+4824,Country 99 TV,792,Country TV
+4826,Modernine TV,793,Channel 9 MCOT HD
+4828,Shalom TV India,794,Shalom (TV channel)
+4829,111 Hits,795,111 (Australian TV channel)
+4829,111 Hits,796,111 Greats
+4838,31 Digital,797,31 Brisbane
+4839,XHENB-TV,798,XHENB-TDT
+4840,XEDK-TV,799,XEDK-TDT
+4846,WJOS-LD,800,WJOS-LP
+4858,TVP Warszawa,801,TVP3 Warszawa
+4864,Vision 2 Drama,802,FMN (Channel)
+4869,One (Australian TV channel),803,One HD
+4870,XHPNW-TV,804,XHPNW-TDT
+4871,XHDEH-TV,805,XHDEH-TDT
+4872,XHCDE-TV,806,XHCDE-TDT
+4873,XHGJG-TV,807,XHGJG-TDT
+4875,XHRCG-TV,808,XHRCG-TDT
+4877,XHCGA-TV,809,XHCGA-TDT
+4878,XHLEG-TV,810,XHLEG-TDT
+4879,WBXZ-LP,811,WBXZ-LD
+4880,XHGV-TV,812,XHGV-TDT
+4881,XHTLX-TV,813,XHTLX-TDT
+4882,XHUNES-TV,814,XHUNES-TDT
+4883,XHPUE-TV,815,XHPUE-TDT
+4888,Nova Sport (Czech TV),816,Nova Sport 1
+4891,WPHA-CD,817,WPHA-CA
+4892,WNAI-LP,818,WDUM-LP
+4895,STAR Jalsha,819,Star Jalsha
+4898,WIYE-LD2,820,WTAP-DT3
+4901,ABC HD (Australia),821,ABC HD (Australian TV channel)
+4908,KNMQ-LD,822,K43HW
+4916,AMI-tv,823,AMI-TV
+4933,RTR Planeta,824,RTR-Planeta
+4937,WSFG-LP,825,WSFG-LD
+4954,San Marino RTV (TV channel),826,SMtv San Marino (TV channel)
+4956,Fox Traveller,827,Fox Life India
+4961,KOMI-CD,828,KOMI-LP
+4965,KADO-LP,829,KADO-CD
+4969,Disney Channel Latin America,830,Disney Channel (Latin America)
+4974,Sky Show,831,SKY Show
+4993,Villa TV,832,VTV (Maldives)
+4995,KBTU-LP,833,KBTU-LD
+4998,MTV3 MAX,834,MTV Max
+4999,MTV3 Fakta,835,MTV Fakta
+5000,Duna World,836,Duna 2 AutonÃ³mia
+5007,Teletoon+ (Poland),837,Teletoon+
+5014,Rossiya 2,838,Russia-2
+5015,Globo News,839,GloboNews
+5016,PictureBox Movies,840,PictureBox Films
+5026,KWHS-LD,841,KWHS-LP
+5028,Action (French TV channel),842,Action (TV)
+5029,Canal Nou 24,843,Nou 24
+5030,SportTV 1,844,SPORT.TV1
+5034,KUNW-CD,845,KUNW-CA
+5039,WLLP,846,WLLP-CA
+5041,TDM Ou Mun,847,Macau TV
+5046,Lifestyle Satellite Jukebox,848,Lifestyle satellite jukebox
+5048,W44CT-D,849,W58CX
+5059,K38HE,850,K38HE-D
+5066,WOIL-LP,851,WOIL-CD
+5069,KBDT-LP,852,W48DW-D
+5078,Super Casino (TV channel),853,SuperCasino (TV channel)
+5080,Rossiya K,854,Russia-K
+5085,The Niigata Television Network 21,855,Niigata Television Network 21
+5088,SportTV 3,856,SPORT.TV3
+5096,WLMF-LD,857,WLMF-LP
+5102,WPMF-LP,858,WPMF-CD
+5106,WBWP-LD,859,WBWP-LP
+5114,WWCI-CA,860,WWCI-CD
+5118,KOHA-LD,861,KOHA-LP
+5119,WBII-CD,862,WBII-CA
+5120,KHFR-LD,863,KZTN-LD
+5120,KHFR-LD,864,KITL-LP
+5123,BBC HD Scandinavia,865,BBC HD Nordics
+5133,MTV3 Sarja,866,MTV Sarja
+5135,MTV3 Juniori,867,MTV Juniori
+5137,WHRT-LP,868,WHRT-CA
+5138,KinoTV,869,Nelonen Prime
+5141,TV Viisi,870,TV5 (Finland)
+5149,Go! (Australian TV channel),871,9Go!
+5149,Go! (Australian TV channel),872,GO! (Australian TV channel)
+5158,WDTB-LP,873,WDTB-LD
+5175,UWTV,874,University of Washington Television
+5190,M3D,875,M3 (Hungarian TV channel)
+5190,M3D,876,M3 (TV channel)
+5197,101 TV,877,NPO 101
+5198,Best 24,878,NPO Best
+5199,Cultura 24,879,NPO Cultura
+5200,Holland Doc 24,880,NPO Doc
+5201,Journaal 24,881,NPO Nieuws
+5202,Humor TV 24,882,NPO Humor TV
+5203,Politiek 24,883,NPO Politiek
+5205,TRT Anadolu,884,TRT Diyanet
+5208,Tunisie 21,885,El Wataniya 2
+5211,Glas (TV channel),886,Glas (Channel)
+5212,K50DB-D,887,K50DB
+5225,Odeon TV,888,Odeon 24
+5231,Masala TV,889,Hum Masala
+5234,Comedy Central Family (Netherlands),890,Comedy Central Family
+5239,KPFW-LD,891,KPFW-LP
+5244,KBPX-LD,892,KBPX-LP
+5247,Podhigai TV,893,DD Podhigai
+5256,NSport,894,NSport+
+5267,WOPI-CA,895,WOPI-CD
+5268,KCFT-CD,896,KCFT-LP
+5271,ESPN (UK),897,BT Sport ESPN
+5279,K16HY-D,898,K19ER
+5283,ATV (Hungary),899,ATV (Hungarian TV-channel)
+5288,"Doordarshan Kendra, Madurai",900,DD Madurai
+5292,WHDO-CD,901,WHDO-CA
+5297,Zee Tamil,902,Zee Tamizh
+5307,HBO Europe,903,HBO Central Europe
+5308,Trace Urban,904,Trace TV
+5311,National Geographic Channel (Germany),905,National Geographic Channel Germany
+5327,TLC (UK),906,TLC (UK and Ireland)
+5328,KBS1,907,KBS 1TV
+5329,Nickelodeon (Denmark),908,Nickelodeon Denmark
+5335,LRT Lituanica,909,LTV World
+5336,BandNews TV,910,BandNews
+5348,Movie Mix,911,The Big Deal (TV channel)
+5354,ENCA,912,E News channel
+5359,Disney XD Scandinavia,913,Disney XD (Scandinavia)
+5366,K04QR,914,K04QR-D
+5369,Diva Universal (Asia),915,Diva (Asia TV channel)
+5370,Syfy Universal (Asia),916,Syfy (Asia)
+5374,Bio. (South East Asia),917,FYI (South East Asia TV channel)
+5389,DWDJ-TV,918,DWRA-TV
+5395,Discovery Channel (Flanders),919,Discovery Channel Flanders
+5404,CCTV-22,920,CCTV-5+
+5405,New University Television,921,NUTV New University Television at the University of Calgary
+5408,TVi (channel),922,TVi (TV channel)
+5408,TVi (channel),923,TVI (channel)
+5412,Zappelin / Zapp 24,924,NPO Zapp Xtra
+5412,Zappelin / Zapp 24,925,Z@ppelin 24 / Familie 24
+5414,Discovery Channel (Netherlands),926,Discovery Channel Netherlands
+5434,7Two,927,7TWO
+5437,Boomerang (Eastern Europe),928,Boomerang (CEE)
+5448,Discovery TLC Asia,929,TLC (Asia)
+5451,BeTV (Asia Pacific),930,BeTV
+5454,Cartoon Network (Russia and Southeastern Europe),931,Cartoon Network (CIS and Southeastern Europe)
+5457,RHTV,932,DZRH News Television
+5460,Animal Planet Asia,933,Animal Planet (Asia)
+5483,Thanthi TV,934,NDTV Hindu
+5489,TVN (Indonesia),935,Rajawali Televisi
+5489,TVN (Indonesia),936,B-Channel
+5493,Big Magic International (Canada),937,Imagine Dil Se (Canada)
+5507,MRT 1,938,MTV 1 (Macedonia)
+5508,MRT 2,939,MRT 2 (TV channel)
+5508,MRT 2,940,MTV 2 (Macedonia)
+5510,Panda Biggs,941,Biggs (TV channel)
+5511,TVP Katowice,942,TVP3 Katowice
+5513,Vettri TV,943,Varnam TV
+5522,K25IA-D,944,KJNK-LD
+5529,W18BL-D,945,W18BL
+5530,W34DV,946,W34DV-D
+5533,W39CD,947,W39CA-D
+5533,W39CD,948,W39CA
+5537,The Hub (TV channel),949,Discovery Family
+5537,The Hub (TV channel),950,Hub Network
+5539,FX (Portugal),951,Fox Comedy (Portugal)
+5554,SAMAA TV,952,Samaa TV
+5559,MTV Classic Australia,953,MTV Classic (Australia and New Zealand)
+5572,Disney Channel (Serbia),954,Disney Channel (Balkans)
+5580,Discovery Channel (South East Asian TV channel),955,Discovery Channel (Asia)
+5586,SBS E!,956,SBS funE
+5590,Fox Movies (Middle East),957,Fox Movies (MENA)
+5591,Disney XD (Asia),958,Disney XD (Southeast Asia)
+5593,MTV Hits (Europe),959,MTV Hits (Pan-European)
+5596,Nickelodeon (Israel),960,Nickelodeon Israel
+5598,NETV,961,Focus NE
+5600,KTYG-LP,962,KWJD-LP
+5611,KTWT-LD,963,KSVT-LD
+5611,KTWT-LD,964,KTWT-LP
+5614,NE Bangla,965,Focus Bangla
+5619,KDEO-LP,966,KDEO-LD
+5628,Comedy Central Family Poland,967,Comedy Central Family (Poland)
+5639,KDHW-CD,968,KDHW-LP
+5644,Screen Red,969,RED by HBO
+5644,Screen Red,970,Screen RED
+5653,Vanessa (French Canadian TV channel),971,Vivid TV Canada (French)
+5653,Vanessa (French Canadian TV channel),972,Vanessa (TV channel)
+5679,SAHAR English TV,973,Sahar TV
+5679,SAHAR English TV,974,SAHAR TV
+5714,SportTV 2,975,SPORT.TV2
+5722,TGGC Outlet,976,Gems TV Extra
+5745,DMTV,977,Decision Makers TV
+5769,Epix (disambiguation),978,Epix (TV network)
+5772,XHI-TV,979,XHI-TDT
+5778,Eleven (TV channel),980,Eleven (Australian TV channel)
+5779,Nick Jr. (Sweden),981,Nick Jr. (Scandinavia)
+5781,TheBlaze,982,The Blaze (web site)
+5795,GEM (Australian TV channel),983,9Gem
+5797,TVOne Global (Canada),984,TVOne Canada
+5802,WRWR-LD,985,WMUB-LD
+5806,ATN Asianet,986,ATN Malayalam
+5808,Sport 1 (Russian TV channel),987,Sport-1 (Russia)
+5808,Sport 1 (Russian TV channel),988,Sport 1 (Russia)
+5810,ATN Sports,989,ATN DD Sports
+5810,ATN Sports,990,ATN Cricket
+5816,C More Hockey,991,Canal+ Hockey
+5818,TV Biznes,992,Polsat Biznes
+5825,K43HB,993,KMBD-LD
+5825,K43HB,994,K43HB-D
+5830,HBO Family Asia,995,HBO Family (Asia)
+5841,TLC Sweden,996,TLC (Sweden)
+5846,STAR World India,997,Star World India
+5849,Planet Pop (TV channel),998,Chilled TV
+5849,Planet Pop (TV channel),999,Massive R&B (TV channel)
+5855,DDishTV LLC,1000,DDishTV
+5865,MRT Sobraniski Kanal,1001,MRT Assembly Channel
+5865,MRT Sobraniski Kanal,1002,MTV 3 (Macedonia)
+5868,ABC News (Albania),1003,ABC News Albania
+5889,HBO Signature Asia,1004,HBO Signature (Asia)
+5899,National Geographic Channel (Greece),1005,National Geographic Channel Greece
+5900,Rocks TV,1006,Gemporia
+5910,Canal+ Gol (Poland),1007,Canal+ Sport 2 (Poland)
+5912,TVP Regionalna,1008,TVP3
+5925,STAR Pravah,1009,Star Pravah
+5939,Discovery Fit & Health,1010,Discovery Life
+5946,Big CBS Spark,1011,BIG CBS Spark
+5949,Carousel (channel),1012,Carousel (TV channel)
+5949,Carousel (channel),1013,Karusel
+5960,WCEA-LP,1014,WCEA-LD
+5966,AAJ TV,1015,Aaj News
+5970,KEVC-CA,1016,KEVC-CD
+5979,KNDX,1017,KNDB
+5981,Mystery TV,1018,Crime & Investigation (Canada)
+5993,Comedy Central Israel,1019,Comedy Central (Israel)
+5995,Rai Radio TV Ladina,1020,Rai Ladinia
+5999,Sky Arena,1021,SKY Arena
+6011,MOI&cie (TV channel),1022,Mlle (TV channel)
+6013,Sony Entertainment Television (UK & Ireland),1023,Sony Channel (UK and Ireland)
+6014,Disney XD (Canada),1024,Family Chrgd
+6020,Orbit Al Yawm (Canada),1025,Al-Nahar TV (Canada)
+6023,TBS (TV channel),1026,TBS (U.S. TV channel)
+6029,Semyorka (TV channel),1027,Seven TV
+6030,WYME-CA,1028,WYME-CD
+6053,The Game Channel (Philippines),1029,The Game Channel
+6056,Saudi T.V. Channel 1,1030,Al Saudiya
+6060,KAEP-LP,1031,K42DJ
+6070,ATN JUS Punjabi,1032,ATN Punjabi 5
+6071,ATN GET Punjabi,1033,ATN Punjabi Plus
+6071,ATN GET Punjabi,1034,ATN Punjjabi TV
+6076,Dream 1 (Canada),1035,OSN Ya Hala International (Canada)
+6079,Glitz*,1036,Glitz (TV channel)
+6079,Glitz*,1037,Glitz* (TV channel)
+6088,Comcast SportsNet Houston,1038,Root Sports Southwest
+6089,Sarthak TV,1039,Ollywood TV
+6093,DWIM-TV,1040,Infomax TV
+6097,Disney Junior (English Canada),1041,Family Jr.
+6097,Disney Junior (English Canada),1042,Disney Junior (Canadian English TV channel)
+6100,Channel 9 (Bangladesh),1043,Channel 9 Bangladesh
+6115,C More Series,1044,Canal+ Series
+6116,C More Emotion,1045,Canal+ Emotion
+6120,ETV Gujarati,1046,Colors Gujarati
+6122,ABC 4 Kids,1047,ABC Kids (Australia)
+6124,Disney Channel Saturday Mornings,1048,Toonin' Saturdays
+6129,XHBZC-TV,1049,XHBZC-TDT
+6130,XHTTG-TV,1050,Canal 10 Chiapas
+6131,XHAMO-TV,1051,XHAMO-TDT
+6132,XHCMO-TV,1052,XHCMO-TDT
+6133,XHTPG-TV,1053,XHTPG-TDT
+6134,XHSLS-TV,1054,XHSLS-TDT
+6135,XHST-TV,1055,XHST-TDT
+6136,KTJA-LP,1056,KTJA-CA
+6145,XHSDD-TV,1057,XHSDD-TDT
+6147,XHMH-TV,1058,XHMH-TDT
+6153,Star Jalsha awards,1059,Star jalsha awards
+6159,Rai Nettuno Sat 1,1060,UniNettuno University TV
+6163,MTV Vietnam,1061,MTV (Vietnam)
+6173,NBC Sports Network,1062,NBCSN
+6175,CTV MyLife,1063,CTV Classic
+6176,FX Canada,1064,FX (Canada)
+6177,Semillitas (channel),1065,Semillitas
+6186,SBS ESPN,1066,SBS Sports
+6187,More Than Movies,1067,Men&Movies
+6209,TV4ME,1068,4ME
+6216,PBS America,1069,PBS UK
+6232,ABS-CBN Dumaguete (DYMA-TV),1070,DYMA-TV
+6233,ABS-CBN Tacloban (DYAB-TV),1071,DYAB-TV
+6250,Media One TV,1072,MediaOne Channel
+6258,PuthiyaThalaimurai TV,1073,Puthiya Thalaimurai TV
+6262,TV8 (Turkey),1074,Tv8 (Turkey)
+6274,Futura (TV channel),1075,Futura (tv channel)
+6291,DWAS-TV (GMA),1076,DWAS-TV
+6298,WPSJ-CD,1077,WPSJ-LD
+6299,MGM Channel (Europe),1078,MGM Channel (Netherlands)
+6306,Alarab News Channel,1079,Al-Arab News Channel
+6308,KAGS-LD,1080,KAGS-TV
+6309,Canal+ Family,1081,Canal + Family
+6310,BravaNL,1082,Brava (TV channel)
+6316,Fox Life (Netherlands),1083,FOXlife (Netherlands)
+6320,Sonic (TV channel),1084,Sonic-Nickelodeon
+6327,Moskva 24,1085,Moscow 24 (TV channel)
+6327,Moskva 24,1086,Moscow 24
+6328,"Sport (Russian TV channel, 2011)",1087,Sport 2 (Russian TV channel)
+6347,Explora,1088,Ici Explora
+6355,GiGa TV,1089,Giga TV
+6359,VOX (Norwegian TV channel),1090,Vox (Norwegian TV channel)
+6366,Film1 Family,1091,Film1 Comedy & Kids
+6368,Film1 Series,1092,Film1 Spotlight
+6378,ChoiceTV,1093,Choice TV
+6385,Transilvania LIVE,1094,Look Plus
+6391,Revolt (TV channel),1095,Revolt (TV network)
+6391,Revolt (TV channel),1096,Revolt (network)
+6394,Aspire (TV network),1097,ASPiRE (TV network)
+6395,El Rey (network),1098,El Rey Network
+6407,KCWT-CA,1099,KCWT-CD
+6410,Kidz/Animez,1100,Kidz TV
+6411,Disney XD (Netherlands & Flanders),1101,Disney XD (Netherlands and Flanders)
+6412,WYOW (TV),1102,WYOW
+6417,KNPN-LD,1103,K26LV-D
+6418,Extra (TV channel),1104,Extra (Australian TV channel)
+6431,Lite TV,1105,Stingray Lite TV
+6447,Mostanad (TV channel),1106,IRIB Mostanad
+6449,Varzesh,1107,IRIB Varzesh
+6449,Varzesh,1108,Varzesh (TV channel)
+6450,Namayesh (TV channel),1109,IRIB Namayesh
+6451,Bazar (TV channel),1110,IRIB Bazaar
+6451,Bazar (TV channel),1111,Baazaar (TV channel)
+6452,Shoma (TV channel),1112,IRIB Shoma
+6454,BeIN Sport,1113,BeIN Sports
+6463,TVNZ Kidzone24,1114,TVNZ Kidzone
+6464,Star Gold,1115,STAR Gold
+6467,National Geographic Channel (India),1116,National Geographic Channel India
+6468,Star Plus (United Kingdom & Ireland),1117,Star Plus (UK and Ireland)
+6470,Channel A (TV channel),1118,Channel A (Korea)
+6471,STAR World Philippines,1119,Star World Philippines
+6472,KBJO-LD,1120,K16KF-D
+6474,KBS2,1121,KBS 2TV
+6476,Weather Information Network (TV channel),1122,Weather Information Network
+6476,Weather Information Network (TV channel),1123,Weather Information Network (TV Channel)
+6477,TVP Bydgoszcz,1124,TVP3 Bydgoszcz
+6478,TVP Kielce,1125,TVP3 Kielce
+6480,TVP Lublin,1126,TVP3 Lublin
+6481,TVP Olsztyn,1127,TVP3 Olsztyn
+6482,TVP Opole,1128,TVP3 Opole
+6483,TVP Szczecin,1129,TVP3 Szczecin
+6485,Carlton Sports Network,1130,Carlton Sports Network (CSN)
+6489,Primetime (TV),1131,Primetime (TV channel)
+6505,IndiePlex (TV channel),1132,IndiePlex
+6506,RetroPlex (TV channel),1133,RetroPlex
+6523,MTV Sports (Sri Lanka),1134,TV One (Sri Lanka)
+6528,Syria News Channel,1135,Syrian News Channel
+6548,National Greek TV,1136,New Greek TV
+6552,MTV Classic Poland,1137,MTV Classic (Poland)
+6565,WMWC (TV),1138,WMWC-TV
+6609,CFHG-DT,1139,CFHD-DT
+6621,FOX (Balkans),1140,Fox (Balkans)
+6643,Metro One,1141,Metro1 News
+6648,City TV (Birmingham),1142,City8
+6661,Studio 23 Koronadal (DXAR-TV),1143,ABS-CBN Sports and Action Koronadal (DXAR-TV)
+6679,W38BQ,1144,W17DJ-D
+6682,Tongyang Broadcasting,1145,Tongyang Broadcasting Company
+6687,Blink Cinema,1146,My Movie Channel
+6714,KSBS-LD,1147,KSBS-CD
+6726,MTV3 Komedia,1148,MTV Komedia
+6727,MTV3 Fakta XL,1149,MTV Fakta XL
+6742,Vanessa (English Canadian TV channel),1150,Vivid TV Canada (English)
+6747,WEPT-CA,1151,WEPT-CD

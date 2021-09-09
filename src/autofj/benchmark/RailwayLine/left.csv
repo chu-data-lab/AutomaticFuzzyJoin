@@ -1,0 +1,2190 @@
+id,title
+0,London Post Office Railway
+1,Waterloo & City line
+2,Tandy Center Subway
+3,Central line
+4,Metropolitan line
+5,Thameslink
+6,Bakerloo line
+7,Circle line (London Underground)
+8,East London Line
+9,District line
+10,Hammersmith & City line
+11,Jubilee line
+12,Northern line
+13,Victoria line
+14,Piccadilly line
+15,High Speed 1
+16,KLIA Ekspres
+17,Orlyval
+18,KL Monorail
+19,Cairngorm Mountain Railway
+20,"Romney, Hythe and Dymchurch Railway"
+21,Scarborough RT
+22,RijnGouweLijn
+23,West Coast Main Line
+24,Midland Main Line
+25,Portland Streetcar
+26,Northern City Line
+27,Snowdon Mountain Railway
+28,Hejaz Railway
+29,Jungfrau railway
+30,Wengernalp railway
+31,Osaka Loop Line
+32,Taiwan High Speed Rail
+33,Crossrail
+34,Hankyu Kyoto Main Line
+35,Settle-Carlisle Line
+36,North London Line
+37,Karasuma Line
+38,Konkan Railway
+39,City Circle
+40,Island Line (MTR)
+41,Tsuen Wan Line
+42,Newark Light Rail
+43,Epping to Chatswood railway line
+44,Staten Island Railway
+45,Red Line (MBTA)
+46,42nd Street Shuttle
+47,Eritrean Railway
+48,Gyeongbu Line
+49,Gyeongin Line
+50,Honam Line
+51,Jeolla Line
+52,Setesdal Line
+53,Northeast Corridor
+54,Inner South London Line
+55,Kwun Tong Line
+56,Tyne and Wear Metro
+57,Dublin Area Rapid Transit
+58,Yamanote Line
+59,Yamatoji Line
+60,Manitou and Pike's Peak Railway
+61,Tokyo Metro Ginza Line
+62,Tokyo Waterfront Area Rapid Transit Rinkai Line
+63,Betuweroute
+64,Hanwa Line
+65,Tokyo Metro Chiyoda Line
+66,Biwako Line
+67,Hakata-Minami Line
+68,Kyushu Shinkansen
+69,Yurikamome
+70,BMT Brighton Line
+71,North East MRT Line
+72,North South MRT Line
+73,East West MRT Line
+74,Green Line (MBTA)
+75,PATCO Speedline
+76,Hiawatha Line
+77,East Coast Main Line
+78,Minatomirai Line
+79,Orange Line (MBTA)
+80,JTA Skyway
+81,Independent Subway System
+82,Tseung Kwan O Line
+83,"Island Line, Isle of Wight"
+84,Interborough Rapid Transit Company
+85,Carmelit
+86,Brooklyn Rapid Transit Company
+87,Hope Valley Line
+88,Hokuriku Main Line
+89,Circle MRT Line
+90,Aoimori Railway Line
+91,Chungbuk Line
+92,Jungang Line
+93,Gyeongbuk Line
+94,Gyeongchun Line
+95,Gyeongwon Line
+96,Yellow Line (CTA)
+97,Red Line (CTA)
+98,Red Line (Dallas Area Rapid Transit)
+99,Orange Line (CTA)
+100,Blue Line (Dallas Area Rapid Transit)
+101,Green Line (Dallas Area Rapid Transit)
+102,Trinity Railway Express
+103,Blue Line (CTA)
+104,Brown Line (CTA)
+105,Green Line (CTA)
+106,Purple Line (CTA)
+107,Blue Line (MBTA)
+108,Expo Line (TransLink)
+109,Millennium Line
+110,Canada Line
+111,Hokuriku Shinkansen
+112,Donghae Nambu Line
+113,Janghang Line
+114,Daegu Line
+115,Gyeongui Line
+116,Suin Line
+117,Kagoshima Main Line
+118,Tung Chung Line
+119,Rimutaka Incline
+120,Polar Bear Express
+121,Norristown High Speed Line
+122,Gospel Oak to Barking Line
+123,JR Kyoto Line
+124,Second Avenue Subway
+125,Blue Line (Washington Metro)
+126,Orange Line (Washington Metro)
+127,Red Line (Washington Metro)
+128,Green Line (Washington Metro)
+129,Yellow Line (Washington Metro)
+130,Tri-Rail
+131,Willamette Shore Trolley
+132,Great Eastern Main Line
+133,Great Western Main Line
+134,Sheppard line
+135,U1 (Berlin U-Bahn)
+136,U5 (Berlin U-Bahn)
+137,U6 (Berlin U-Bahn)
+138,Tokyo Metro Hibiya Line
+139,North Clyde Line
+140,Argyle Line
+141,Iida Line
+142,"London, Tilbury and Southend Railway"
+143,Schynige Platte railway
+144,KLIA Transit
+145,Bernese Oberland railway
+146,Nambu Line
+147,Northstar Line
+148,Fukuchiyama Line
+149,Como-Harriet Streetcar Line
+150,West Rail Line
+151,Buffalo Metro Rail
+152,Seattle Center Monorail
+153,Yokosuka Line
+154,Seoul Subway Line 5
+155,Punggol LRT Line
+156,Akita Shinkansen
+157,Yamagata Shinkansen
+158,Marzilibahn funicular
+159,Ventura County Line
+160,San Bernardino Line
+161,Tama Toshi Monorail Line
+162,Exhibition railway line
+163,Ferny Grove railway line
+164,"Airport railway line, Brisbane"
+165,Doomben railway line
+166,Shorncliffe railway line
+167,Itsukaichi Line
+168,Caboolture railway line
+169,Ayrshire Coast Line
+170,Florida East Coast Railway
+171,Katamachi Line
+172,Osaka Higashi Line
+173,Skitube Alpine Railway
+174,Cleveland railway line
+175,Tokyo Metro Marunouchi Line
+176,Broad Street Line
+177,Central Corridor (Minnesota)
+178,Gyeongjeon Line
+179,Toden Arakawa Line
+180,Hankyu Takarazuka Main Line
+181,Utsunomiya Line
+182,Bergen Line
+183,Nickey Line
+184,Snaefell Mountain Railway
+185,Waterfront Streetcar
+186,Bothnia Line
+187,Pascack Valley Line
+188,"Line 1, Beijing Subway"
+189,"Line 5, Beijing Subway"
+190,"Batong Line, Beijing Subway"
+191,"Line 2, Beijing Subway"
+192,Northeast Corridor Line
+193,Tsukuba Express
+194,AirTrain Newark
+195,AirTrain JFK
+196,"Line 10, Beijing Subway"
+197,Blue and Green Lines (Cleveland)
+198,Red Line (KMRT)
+199,Orange Line (KMRT)
+200,Kansai Main Line
+201,Florida high speed rail
+202,East Rail Line
+203,Ma On Shan Line
+204,Main Line (NJ Transit)
+205,Seoul Subway Line 1
+206,Forchbahn
+207,S7 (ZVV)
+208,S29 (ZVV)
+209,Tokyo Metro Namboku Line
+210,Seetalbahn
+211,BMT West End Line
+212,Airport Express (MTR)
+213,Rauma Line
+214,Marmaray
+215,Eastern Suburbs railway line
+216,Toei Asakusa Line
+217,Somerset and Dorset Joint Railway
+218,Robin Hood Line
+219,West London Line
+220,Bukit Panjang LRT Line
+221,Pichi Richi Railway Preservation Society
+222,West Highland Line
+223,LGV Nord
+224,O-Bahn Busway
+225,Hull and Barnsley Railway
+226,Sengkang LRT Line
+227,Volk's Electric Railway
+228,Midland and Great Northern Joint Railway
+229,Seibu Tamagawa Line
+230,Bergen County Line
+231,Matterhorn Gotthard Bahn
+232,BVZ Zermatt-Bahn
+233,Cotswold Line
+234,Caldervale Line
+235,Huddersfield Line
+236,Hallam Line
+237,Penistone Line
+238,Wakefield Line
+239,Dearne Valley Line
+240,Harrogate Line
+241,Wharfedale Line
+242,Airedale Line
+243,Keio Inokashira Line
+244,Heartland Flyer
+245,Seoul Subway Line 2
+246,Seoul Subway Line 3
+247,Seoul Subway Line 4
+248,Seoul Subway Line 6
+249,Seoul Subway Line 7
+250,Seoul Subway Line 8
+251,Bundang Line
+252,"Line 13, Beijing Subway"
+253,Dresden Funicular Railway
+254,Green Line (Montreal Metro)
+255,Gladstone Branch
+256,Line F (Buenos Aires Metro)
+257,Line A (Buenos Aires Metro)
+258,Line C (Buenos Aires Metro)
+259,Line D (Buenos Aires Metro)
+260,Line B (Buenos Aires Metro)
+261,Line H (Buenos Aires Metro)
+262,Line E (Buenos Aires Metro)
+263,Morristown Line
+264,North Jersey Coast Line
+265,Princeton Branch
+266,New York Tunnel Extension
+267,Yellow Line (Montreal Metro)
+268,Orange Line (Montreal Metro)
+269,Blue Line (Montreal Metro)
+270,Lakeshore West line
+271,Milton line
+272,Kitchener line
+273,Richmond Hill line
+274,Barrie line
+275,Stouffville line
+276,Lakeshore East line
+277,Shore Line East
+278,"Main North railway line, New South Wales"
+279,Northern Branch
+280,Go-To card
+281,Xochimilco Light Rail
+282,River Subdivision (CSX Transportation)
+283,Highland Main Line
+284,Conwy Valley Line
+285,Lymington Branch Line
+286,South Shore Line (NICTD)
+287,Musashino Line
+288,Seibu Ikebukuro Line
+289,Chiltern Main Line
+290,North Wales Coast Line
+291,Wessex Main Line
+292,West of England Main Line
+293,Oxted Line
+294,South Western Main Line
+295,TGM
+296,M-Bahn
+297,Arlanda Express
+298,Seibu Chichibu Line
+299,TECO Line Streetcar System
+300,IRT Flushing Line
+301,Nagasaki Main Line
+302,IND Eighth Avenue Line
+303,Cross-City Line
+304,BMT Canarsie Line
+305,Las Vegas Monorail
+306,Yilan Line
+307,Taichung Line
+308,IND Concourse Line
+309,Kintetsu Namba Line
+310,IRT Lexington Avenue Line
+311,Marshlink Line
+312,BMT Jamaica Line
+313,IND Queens Boulevard Line
+314,Golden Valley Line
+315,"Atlantic Coast Line, Cornwall"
+316,Maritime Line
+317,BMT Broadway Line
+318,Looe Valley Line
+319,Heart of Wessex Line
+320,St Ives Bay Line
+321,Ring Rail Line
+322,Tarka Line
+323,Tamar Valley Line
+324,Bittern Line
+325,East Suffolk Line
+326,Wherry Lines
+327,Gainsborough Line
+328,North-Link Line
+329,South-Link Line
+330,Pingtung Line
+331,Kyle of Lochalsh Line
+332,Cambrian Line
+333,Avocet Line
+334,Riviera Line
+335,Chase Line
+336,BMT Myrtle Avenue Line
+337,F Market & Wharves
+338,"Liverpool, Crosby and Southport Railway"
+339,Agatsuma Line
+340,IND Culver Line
+341,IND Sixth Avenue Line
+342,BMT Nassau Street Line
+343,IND Crosstown Line
+344,63rd Street Line
+345,Archer Avenue Line
+346,Western Railway Corridor
+347,Hankai Uemachi Line
+348,N Judah
+349,L Taraval
+350,M Ocean View
+351,K Ingleside
+352,J Church
+353,S Castro Shuttle
+354,Tattenham Corner Line
+355,Hayes Line
+356,Brighton Main Line
+357,Third Street Light Rail Project
+358,Central Subway
+359,Esk Valley Line
+360,Monte Generoso railway
+361,IRT Dyre Avenue Line
+362,Corcovado Rack Railway
+363,Drachenfels Railway
+364,Beenleigh railway line
+365,Gold Coast railway line
+366,Marston Vale Line
+367,East Coastway Line
+368,West Coastway Line
+369,Market Street Subway
+370,Bexleyheath Line
+371,North Kent Line
+372,Welsh Marches Line
+373,Heart of Wales Line
+374,Dartford Loop Line
+375,Harbour Line (Mumbai Suburban Railway)
+376,Pilatus railway
+377,Catford Loop Line
+378,Montserrat Rack Railway
+379,Kansai Airport Line
+380,IRT Lenox Avenue Line
+381,Mont Blanc Tramway
+382,Chemin de fer du Montenvers
+383,91 Line
+384,Orange County Line
+385,South Island Line
+386,West Island Line
+387,Antelope Valley Line
+388,Cumbrian Coast Line
+389,Armadale railway line
+390,Fremantle railway line
+391,Joondalup railway line
+392,HSL-Zuid
+393,Pontefract Line
+394,Raritan Valley Line
+395,Greenford Branch Line
+396,Portsmouth Direct Line
+397,Arun Valley Line
+398,BMT Sea Beach Line
+399,SEPTA Routes 101 and 102
+400,Kesennuma Line
+401,Kawagoe Line
+402,Takasaki Line
+403,BMT Franklin Avenue Line
+404,"Liverpool, St Helens and South Lancashire Railway"
+405,Dovre Line
+406,Cross Country Route
+407,"Liverpool, Ormskirk and Preston Railway"
+408,"Liverpool, Southport and Preston Junction Railway"
+409,Liverpool and Bury Railway
+410,Woodhead Line
+411,Grand Chord
+412,IRT White Plains Road Line
+413,Senseki Line
+414,BMT Astoria Line
+415,Medway Valley Line
+416,Abbey Line
+417,Windermere Branch Line
+418,Furness Line
+419,Waverley Line
+420,IND World's Fair Line
+421,Aonami Line
+422,Morecambe Branch Line
+423,Ribble Valley Line
+424,Lea Valley Lines
+425,Ivanhoe Line
+426,"South Coast railway line, New South Wales"
+427,Ishinomaki Line
+428,Rikuu East Line
+429,510 Spadina
+430,Senzan Line
+431,Sutton and Mole Valley Lines
+432,Fen Line
+433,Severn Beach Line
+434,Caterham Line
+435,Far North Line
+436,Chatham Main Line
+437,North Downs Line
+438,Sheerness Line
+439,Nordland Line
+440,MAX Blue Line
+441,MAX Red Line
+442,Durham Coast Line
+443,Hastings Line
+444,Derwent Valley Line
+445,Expo Express
+446,Whifflet Line
+447,KTM Komuter
+448,West Anglia Main Line
+449,Kent Coast Line
+450,Felixstowe Branch Line
+451,MAX Yellow Line
+452,Alton Line
+453,Romford to Upminster Line
+454,Braintree Branch Line
+455,Disneyland Resort Line
+456,North Island Main Trunk
+457,Kowloon Southern Link
+458,O-Train
+459,Atlantic City Line
+460,Breckland Line
+461,Negishi Line
+462,Atlantic Avenue Elevated
+463,Inverclyde Line
+464,IND Fulton Street Line
+465,509 Harbourfront
+466,Lowell Line
+467,Busan Metro Line 1
+468,Busan Metro Line 2
+469,Busan Metro Line 3
+470,St Helens and Runcorn Gap Railway
+471,Grand Junction Railroad and Depot Company
+472,Hanshin Namba Line
+473,Harlem Line
+474,Daegu Metro Line 1
+475,Southern Sydney Freight Line
+476,Union Pearson Express
+477,Eastern Railway (Western Australia)
+478,Northampton Loop Line
+479,Hounslow Loop Line
+480,"Airport railway line, Sydney"
+481,Fairmount Line
+482,Indigo Line
+483,Waterloo to Reading Line
+484,BNSF Railway Line
+485,Central Massachusetts Railroad
+486,Birmingham to Peterborough Line
+487,Keihan Katano Line
+488,Hanshin Main Line
+489,512 St. Clair
+490,Framingham/Worcester Line
+491,Hankyu Arashiyama Line
+492,Fitchburg Line
+493,Cape Cod Railroad
+494,Cape Cod Central Railroad
+495,North Central Service
+496,Milwaukee District/North Line
+497,Milwaukee District/West Line
+498,Heritage Corridor
+499,SouthWest Service
+500,Rock Island District
+501,Metra Electric District
+502,SouthEast Service
+503,LINK Train
+504,Atlantic Branch
+505,Manila Metro Rail Transit System
+506,Spikkestad Line
+507,New Haven Line
+508,Merthyr Line
+509,Rhondda Line
+510,Vestfold Line
+511,Incheon Subway Line 1
+512,Cardiff City Line
+513,Maesteg Line
+514,Mandurah railway line
+515,Coryton Line
+516,Butetown Branch Line
+517,Rhymney Line
+518,Vale of Glamorgan Line
+519,Samjhauta Express
+520,Orange Line (Los Angeles Metro)
+521,Wolverhampton to Shrewsbury Line
+522,Sendai Subway Namboku Line
+523,Kalamunda Zig Zag
+524,Keisei Main Line
+525,Gala-Yuzawa Line
+526,Sokolnicheskaya Line
+527,Zamoskvoretskaya Line
+528,BMT Fourth Avenue Line
+529,Milan Metro Line 1
+530,Milan Metro Line 2
+531,Milan Metro Line 3
+532,Deux-Montagnes Line (AMT)
+533,Mont-Saint-Hilaire Line (AMT)
+534,Candiac Line (AMT)
+535,Sheffield and Rotherham Railway
+536,Melba Line
+537,Filyovskaya Line
+538,Koltsevaya Line
+539,Washington Street Elevated
+540,Gloucester to Newport Line
+541,IRT Nostrand Avenue Line
+542,Varsity Line
+543,Atlantic City and Shore Railroad
+544,IRT Jerome Avenue Line
+545,IRT Pelham Line
+546,Donghae Bukbu Line
+547,Schafberg Railway
+548,Yeongdong Line
+549,Gwangju Subway Line 1
+550,Chessington Branch Line
+551,501 Queen
+552,Limavady Railway
+553,Charlestown Elevated
+554,Central Link
+555,M1 (Copenhagen)
+556,M2 (Copenhagen)
+557,R5 (SEPTA)
+558,Fife Circle Line
+559,Beach Pneumatic Transit
+560,Paisley Canal Line
+561,Tokyo Metro Fukutoshin Line
+562,Port Island Line
+563,511 Bathurst
+564,504 King
+565,508 Lake Shore
+566,Roslagsbanan
+567,Vancouver Downtown Historic Railway
+568,"Line 1, Shanghai Metro"
+569,"Line 2, Shanghai Metro"
+570,"Line 5, Shanghai Metro"
+571,"Line 3, Shanghai Metro"
+572,"Line 4, Shanghai Metro"
+573,Aberdeen to Inverness Line
+574,Motherwell to Cumbernauld Line
+575,Cumbernauld Line
+576,Maryhill Line
+577,Cathcart Circle Lines
+578,Croy Line
+579,Glasgow to Edinburgh via Falkirk Line
+580,North Berwick Line
+581,St. Charles Air Line
+582,Keisei Narita Airport Line
+583,Ely to Peterborough Line
+584,Ipswich to Ely Line
+585,Great Orme Tramway
+586,Trenton Line (SEPTA)
+587,Airport Line (SEPTA)
+588,Wilmington/Newark Line
+589,Inland Line
+590,Schuylkill Valley Metro
+591,Hertford Loop Line
+592,Bantan Line
+593,SEPTA Main Line
+594,Upper Darling Range Railway
+595,Toei Mita Line
+596,Toei Shinjuku Line
+597,Bergische Museumsbahnen
+598,Old Pueblo Trolley
+599,River Rail Streetcar
+600,Hudson Line (Metro-North)
+601,New Canaan Branch
+602,Danbury Branch
+603,Danbury and Norwalk Railroad
+604,Port Jervis Line
+605,Waterbury Branch
+606,Manchester to Preston Line
+607,Liverpool to Manchester Lines
+608,Charlotte Trolley
+609,Suburban Transit Access Route
+610,Shrewsbury to Chester Line
+611,Stuttgart Rack Railway
+612,Eastleigh to Fareham line
+613,Grorud Line
+614,Styal Line
+615,Holmenkollen Line
+616,Furuset Line
+617,Saitama Rapid Railway Line
+618,South Eastern Main Line
+619,South Wales Main Line
+620,Seoul Subway Line 9
+621,Sinbundang Line
+622,SEPTA Route 15
+623,Clifton Rocks Railway
+624,Bishops Waltham branch
+625,Eastleigh to Romsey Line
+626,Sheffield to Lincoln Line
+627,Kelana Jaya Line
+628,Kaluzhsko-Rizhskaya Line
+629,Sognsvann Line
+630,Lambertseter Line
+631,Ring Line (Oslo)
+632,Tees Valley Line
+633,Tagansko-Krasnopresnenskaya Line
+634,Doncaster to Lincoln Line
+635,Barton Line
+636,Kalininskaya Line
+637,Ebbw Valley Railway
+638,Serpukhovsko-Timiryazevskaya Line
+639,Crouch Valley Line
+640,Shenfield to Southend Line
+641,Mayflower Line
+642,Lyublinsko-Dmitrovskaya Line
+643,West Wales Lines
+644,MAX Green Line
+645,MAX Orange Line
+646,Kakhovskaya Line
+647,Sunshine Coast Line
+648,Franklin Line
+649,Northern Line (Merseyrail)
+650,Wirral Line
+651,Epsom Downs Branch
+652,Seibu Shinjuku Line
+653,West Lancashire Railway
+654,Eastern Goldfields Railway
+655,Mundaring Weir Branch Railway
+656,North Liverpool Extension Line
+657,Canada Dock Branch
+658,Borderlands Line
+659,North Mersey Branch
+660,LGV Est
+661,Manchester and Southport Railway
+662,Twin Cities 400
+663,Lehigh Line (Conrail)
+664,Ligne de Cerdagne
+665,Blue Train (South Africa)
+666,Daegu Metro Line 2
+667,Sviatoshynsko-Brovarska Line
+668,Glenreagh Mountain Railway
+669,Lackawanna Cut-Off
+670,Liverpool to Wigan Line
+671,Outer Harbor railway line
+672,Gawler Central railway line
+673,Grange railway line
+674,Noarlunga Centre railway line
+675,Belair railway line
+676,Tonsley railway line
+677,Chemin de Fer de La Mure
+678,St. Charles Streetcar Line
+679,Poacher Line
+680,Peterborough to Lincoln Line
+681,South Brooklyn Railway
+682,Cambridge Line
+683,Nottingham to Grantham Line
+684,Coventry to Nuneaton Line
+685,New Mexico Rail Runner Express
+686,Yorkshire Coast Line
+687,Lansalson branch line
+688,Salsette-Trombay Railway
+689,Buxton Line
+690,Orange Line (Dallas Area Rapid Transit)
+691,Butovskaya Line
+692,Nottingham to Lincoln Line
+693,Gardermoen Line
+694,"Chicago, St. Paul, Minneapolis and Omaha Railway"
+695,Capital Red Rose Corridor
+696,CDGVAL
+697,Ofoten Line
+698,Kongsvinger Line
+699,Arendal Line
+700,Trunk Line
+701,Stockport to Stalybridge Line
+702,Bratsberg Line
+703,Northwestern Pacific Railroad
+704,Monongahela Incline
+705,Glossop Line
+706,Green Line (Luas)
+707,Red Line (Cleveland)
+708,RER A
+709,RER B
+710,RER C
+711,RER D
+712,RER E
+713,Purple Line (Maryland)
+714,Birmingham to Worcester via Kidderminster Line
+715,Baltimore Metro Subway
+716,Red Line (Baltimore)
+717,Green Line (Baltimore)
+718,East Lancashire Line
+719,Drammen Line
+720,Lyon Metro Line A
+721,Lyon Metro Line B
+722,Lyon Metro Line C
+723,Lyon Metro Line D
+724,Uetsu Main Line
+725,Cherwell Valley Line
+726,Oxford to Bicester Line
+727,Princes Risborough to Aylesbury Line
+728,Leamington to Stratford Line
+729,London to Aylesbury Line
+730,Red Line (Delhi Metro)
+731,Yellow Line (Delhi Metro)
+732,Blue Line (Delhi Metro)
+733,C Line (RTD)
+734,D Line (RTD)
+735,Main South Line
+736,Port Chalmers Branch
+737,Narita Line
+738,Shibayama Railway
+739,E Line (RTD)
+740,Methven Branch
+741,Edinburgh to Bathgate Line
+742,Metro Monorail
+743,Catlins River Branch
+744,F Line (RTD)
+745,G Line (RTD)
+746,H Line (RTD)
+747,"Kingston Branch, New Zealand"
+748,Sagami Line
+749,LGV Sud-Est
+750,LGV Atlantique
+751,Shin-Keisei Line
+752,Edinburgh to Dunblane Line
+753,Saltivska Line
+754,Oleksiivska Line
+755,Dargaville Branch
+756,7 Subway Extension
+757,"Hythe Pier, Railway and Ferry"
+758,Glasgow South Western Line
+759,Finsbury railway line
+760,SEPTA Route 11
+761,SEPTA Route 13
+762,North Auckland Line
+763,SEPTA Route 34
+764,SEPTA Route 36
+765,Chicago Rapid Transit Company
+766,Numedal Line
+767,Arbatsko-Pokrovskaya Line
+768,SEPTA Route 10
+769,Keisei Higashi-Narita Line
+770,Watford DC Line
+771,Westside Express Service
+772,Southwest Corridor (Minnesota)
+773,Silver Line (Washington Metro)
+774,Sprinter (North County Transit District)
+775,Blue Line (TRAX)
+776,University Line (TRAX)
+777,Bromley North Line
+778,Gotthard railway
+779,Maidstone Line
+780,Ormskirk Branch Line
+781,Ashford to Ramsgate (via Canterbury West) Line
+782,Rigi Railways
+783,"North Coast railway line, New South Wales"
+784,Pink Line (CTA)
+785,Shipyard Railway
+786,Far Rockaway Branch
+787,Grenaabanen
+788,HSL 1
+789,HSL 2
+790,Astram Line
+791,Stourbridge Town Branch Line
+792,HSL 3
+793,HSL 4
+794,Chichibu Main Line
+795,Washington Park and Zoo Railway
+796,Manchester to Southport Line
+797,Old Colony and Newport Scenic Railway
+798,Mid-Cheshire Line
+799,506 Carlton
+800,Sabah State Railway
+801,Mariazell Railway
+802,Port Washington Branch
+803,Babylon Railroad
+804,Kashmir Railway
+805,EverLine Rapid Transit System
+806,Repentigny-Mascouche Line (AMT)
+807,Gornergratbahn
+808,Sha Tin to Central Link
+809,Budapest Cog-wheel Railway
+810,Tsurumi Line
+811,Tacoma Link
+812,Jurong Region MRT Line
+813,Edinburgh Airport Rail Link
+814,Blackpool Branch Lines
+815,Oakham to Kettering Line
+816,Edinburgh to Aberdeen Line
+817,Kirnitzschtal Tramway
+818,DART Underground
+819,Transandine Railway
+820,Downtown Relief Line
+821,Southport and Cheshire Lines Extension Railway
+822,Henley Branch Line
+823,Portishead Railway
+824,505 Dundas
+825,Keisei Oshiage Line
+826,Great Northern Route
+827,Nippori-Toneri Liner
+828,"Western Line, Tasmania"
+829,Glasgow to Edinburgh via Carstairs Line
+830,Coast Line (Denmark)
+831,Kitakami Line
+832,Funicular dos Guindais
+833,Manila Light Rail Transit System Line 2
+834,Wawa and Concordville Railroad
+835,Ferrocarril de Antofagasta a Bolivia
+836,Port Jefferson Branch
+837,Onehunga Branch
+838,T Third Street
+839,Yosan Line
+840,Nambour and Gympie North railway line
+841,AREX
+842,Crewe to Derby Line
+843,Redhill to Tonbridge Line
+844,Odderbanen
+845,Crewe to Manchester Line
+846,Valdres Line
+847,Gribskovbanen
+848,Metropolitan Goods railway line
+849,Stafford to Manchester Line
+850,Platte Valley Trolley
+851,Yokohama Line
+852,Marlow Branch Line
+853,"Midland Line, New Zealand"
+854,Kosei Line
+855,Koumi Line
+856,Slough to Windsor & Eton Line
+857,"South Coast railway line, Queensland"
+858,Maroochydore railway line
+859,Greenbush Line
+860,Crossrail 2
+861,Iron Ore Line
+862,Staines to Windsor Line
+863,Otago Central Railway
+864,Old Colony Lines (MBTA)
+865,Needham Line
+866,Haverhill Line
+867,Newburyport/Rockport Line
+868,Birkenhead Dock Branch
+869,Walsall to Wolverhampton Line
+870,Sakurajima Line
+871,Skagensbanen
+872,MARTA rail stations
+873,Fichtelberg Railway
+874,Old Voss Line
+875,502 Downtowner
+876,503 Kingston Rd
+877,Providence/Stoughton Line
+878,Oyster Bay Branch
+879,Babylon Branch
+880,Montauk Branch
+881,Ronkonkoma Branch
+882,Long Beach Branch
+883,West Hempstead Branch
+884,Hempstead Branch
+885,Wairarapa Line
+886,Leeds-Northallerton Railway
+887,Melbourne Line
+888,Rikuu West Line
+889,Jerusalem Light Rail
+890,Kishigawa Line
+891,Roxburgh Branch
+892,Eyreton Branch
+893,Tazawako Line
+894,Edinburgh Suburban and Southside Junction Railway
+895,Great Central Main Line
+896,"Oxford Branch, New Zealand"
+897,Little River Branch
+898,Whitecliffs Branch
+899,Te Aro Extension
+900,Sandown railway line
+901,Kinnekulle Line
+902,IND Rockaway Line
+903,"Main North Line, New Zealand"
+904,La Trochita
+905,Elgin and Belvidere Electric Company
+906,Picc-Vic tunnel
+907,Stadtbahn Glattal
+908,Southern Fuegian Railway
+909,Metro Area Express
+910,Nankai Main Line
+911,Carnarvonshire Railway
+912,Hakodate Main Line
+913,Osaka Monorail Main Line
+914,Nankai Airport Line
+915,York to Scarborough Line
+916,Trent Valley Line
+917,E Embarcadero
+918,Red Rock Corridor
+919,New Guildford Line
+920,Exmouth Junction
+921,Crystal Palace and South London Junction Railway
+922,Inland Railway
+923,Ban'etsu West Line
+924,Olive Mount chord
+925,Birmingham to Stratford Line
+926,Geibi Line
+927,Abukuma Express Line
+928,Aterazawa Line
+929,Polybahn funicular
+930,Harcourt Street railway line
+931,Blue Line (Yokohama)
+932,Sagami Railway Main Line
+933,Sagami Railway Izumino Line
+934,JR Kobe Line
+935,Gmunden Tramway
+936,Airport Rail Link (Bangkok)
+937,Batu Caves-Port Klang Route
+938,Ferrovia Cumana
+939,Mikuni Awara Line
+940,The Loop (CTA)
+941,Chertsey Branch Line
+942,Greenwich Park Branch Line
+943,Worting Junction
+944,Kirkby Branch Line
+945,"Main Southern railway line, New South Wales"
+946,"Main Western railway line, New South Wales"
+947,Thamshavn Line
+948,Rush Line Corridor
+949,Kabe Line
+950,Yamagata Railway Flower Nagai Line
+951,Derwent Valley Railway (Tasmania)
+952,Halton Curve
+953,North-West T-way
+954,"Didcot, Newbury and Southampton Railway"
+955,Yonesaka Line
+956,Regional Connector Transit Corridor
+957,Wee Georgie Wood Railway
+958,Lambourn Valley Railway
+959,Marble Bar Railway
+960,"South Western Railway, Western Australia"
+961,Ascot to Guildford Line
+962,East Coast Main Trunk Railway
+963,Askern Branch Line
+964,Taebaek Line
+965,Iwate Galaxy Railway Line
+966,Trenton Subdivision
+967,Philadelphia Subdivision
+968,Harrisburg Line
+969,Brunswick Line
+970,Camden Line
+971,Rockaway Valley Railroad
+972,Fairmount and Veblen Railway
+973,Montreal Subdivision (CSX)
+974,Lurgan Branch
+975,Sunbury Line
+976,Conemaugh Line
+977,Dudding Hill Line
+978,Greenwich Line
+979,Port Perry Branch
+980,Asker Line
+981,Bridgewater railway line
+982,Metro Light Rail (Phoenix)
+983,Imazatosuji Line
+984,"South West railway line, Sydney"
+985,Common Tunnel
+986,Sagano Line
+987,Grimstad Line
+988,Cronulla railway line
+989,Richmond railway line
+990,Rjukan Line
+991,Tinnoset Line
+992,Suffolk Traction Company
+993,Fort Wayne Line
+994,Delaware Extension
+995,Main Line (Long Island Rail Road)
+996,Bay Ridge Branch
+997,Cedarhurst Cut-off
+998,Kashima Railway Line
+999,Suryeo Line
+1000,Galveston Island Trolley
+1001,Changi Airport Skytrain
+1002,North Island Line
+1003,Chester to Manchester Line
+1004,Lochaber Narrow Gauge Railway
+1005,Ellesmere Port to Warrington Line
+1006,Red Line (Pittsburgh)
+1007,Henbury Loop Line
+1008,Randsfjorden Line
+1009,Namsos Line
+1010,Oslo Port Line
+1011,Hisatsu Line
+1012,Henley Beach railway line
+1013,Northfield railway line
+1014,Singsaker Line
+1015,Elgeseter Line
+1016,Ila Line
+1017,Lade Line
+1018,Aberdeen Crossrail
+1019,Sag Harbor Branch
+1020,Devon and Somerset Railway
+1021,Berlin Stadtbahn
+1022,Berlin Ringbahn
+1023,Shin'etsu Main Line
+1024,Southern Hempstead Branch
+1025,Manhattan Beach Branch
+1026,Montmartre funicular
+1027,DFW Skylink
+1028,Giessbachbahn funicular
+1029,Main Suburban railway line
+1030,Reichenbachfall railway
+1031,Whitestone Branch
+1032,New Athos Cave Railway
+1033,Tamsui Line (TRA)
+1034,Funiculaire de Pau
+1035,Funiculaire de Saint-Hilaire du Touvet
+1036,Rockaway Beach Branch
+1037,Downtown MRT Line
+1038,Corridor (Via Rail)
+1039,West Rhine Railway
+1040,Hankyu Senri Line
+1041,Chitose Line
+1042,Nemuro Main Line
+1043,Sekihoku Main Line
+1044,U4 (Frankfurt U-Bahn)
+1045,A Division (New York City Subway)
+1046,B Division (New York City Subway)
+1047,Hakubi Line
+1048,Lower Elbe Railway
+1049,Nagareyama Line
+1050,Wadamisaki Line
+1051,Sanyo Electric Railway Main Line
+1052,South Lake Union Streetcar
+1053,Meitetsu Nagoya Main Line
+1054,Arlberg railway
+1055,Iwaizumi Line
+1056,San'in Main Line
+1057,Kisei Main Line
+1058,Funicular de Vallvidrera
+1059,Wakayama Line
+1060,Sakurai Line
+1061,Kominato Line
+1062,Kururi Line
+1063,Canal Street Streetcar Line
+1064,KTM Intercity
+1065,Shintetsu Ao Line
+1066,Kakogawa Line
+1067,Penang Hill Railway
+1068,Muroran Main Line
+1069,Hidaka Main Line
+1070,Fallowfield Loop railway line
+1071,Higashiyama Line
+1072,Tsurumai Line
+1073,Kapiti Line
+1074,Hutt Valley Line
+1075,Melling Branch
+1076,Hakozaki Line
+1077,Nanakuma Line
+1078,Ibusuki Makurazaki Line
+1079,Aerotrain (KLIA)
+1080,Silom Line
+1081,Sukhumvit Line
+1082,West Chester Railroad
+1083,Penn Line (MARC)
+1084,Sulitjelma Line
+1085,Rail transport in Thailand
+1086,Monkey Park Monorail Line
+1087,Johnsonville Branch
+1088,Hardanger Line
+1089,Cornish Main Line
+1090,Bottineau Boulevard Transitway
+1091,Birmingham to Worcester via Bromsgrove Line
+1092,Polar Line
+1093,Echigo Line
+1094,Hakushin Line
+1095,Yahiko Line
+1096,Karatsu Line
+1097,Obama Line
+1098,Dunderland Line
+1099,Arlanda Line
+1100,Central Line (Sweden)
+1101,Line A (Rome Metro)
+1102,Gotemba Line
+1103,Oresund Line
+1104,Continental Line
+1105,Holmfirth Branch Line
+1106,Hirtshalsbanen
+1107,London Crosslink
+1108,Meitetsu Komaki Line
+1109,Seaford Branch Line
+1110,Meitetsu Toyokawa Line
+1111,Chingford Branch Line
+1112,Hampton Court Branch Line
+1113,Kintetsu Utsube Line
+1114,Knoxville Incline
+1115,Meran Tramway
+1116,Bolzano Tramway
+1117,Taufers Railway
+1118,Mendel Funicular
+1119,Putrajaya Monorail
+1120,"Newcastle railway line, New South Wales"
+1121,Rittnerbahn
+1122,Gardena Ronda Express funicular
+1123,Meitetsu Hiromi Line
+1124,Meitetsu Inuyama Line
+1125,Meitetsu Tokoname Line
+1126,Luanda Railway
+1127,Meitetsu Toyota Line
+1128,Meitetsu Kakamigahara Line
+1129,Trans-Dublin
+1130,Kingston Loop Line
+1131,Basingstoke and Alton Light Railway
+1132,Bethpage Branch
+1133,Nichinan Line
+1134,Rantarata
+1135,Tadami Line
+1136,Oga Line
+1137,Shinonoi Line
+1138,Shepperton Branch Line
+1139,Split Suburban Railway
+1140,Misumi Line
+1141,Hitahikosan Line
+1142,Sasaguri Line
+1143,Kashii Line
+1144,Don Mills LRT
+1145,Sheppard East LRT
+1146,Scarborough Malvern LRT
+1147,Jane LRT
+1148,Etobicoke-Finch West LRT
+1149,Waterfront West LRT
+1150,Podilsko-Vyhurivska Line
+1151,Greytown Branch
+1152,GO-ALRT
+1153,Flying Dutchman Funicular
+1154,Meitetsu Mikawa Line
+1155,Northport Branch
+1156,Rail transport in Vatican City
+1157,Airport Transit System
+1158,East Rhine Railway
+1159,Exe Valley Railway
+1160,Taunus Railway
+1161,High Speed 2
+1162,Cuckoo Line
+1163,Main Railway
+1164,Ligne du Haut-Bugey
+1165,Ferrocarril Rosario y Puerto Belgrano
+1166,Ferrocarril General Roca
+1167,Ferrocarril General Urquiza
+1168,Prussian Eastern Railway
+1169,Ferrocarril General Manuel Belgrano
+1170,Ferrocarril Domingo Faustino Sarmiento
+1171,SEPTA Route 23
+1172,Fils Valley Railway
+1173,Keisei Kanamachi Line
+1174,Lackawanna Old Road
+1175,Beacon Line
+1176,CFL Line 50
+1177,Buenos Aires and Pacific Railway
+1178,Buenos Aires Midland Railway
+1179,Buenos Aires Western Railway
+1180,Central Argentine Railway
+1181,Santa Fe Western Railway
+1182,Coventry to Leamington Line
+1183,Fredericksburg Line
+1184,Cogload Junction
+1185,Argentine Great Western Railway
+1186,Ferrocarril Andino
+1187,Kashima Line
+1188,Buenos Aires and Rosario Railway
+1189,Inter-terminal train (George Bush Intercontinental Airport)
+1190,TerminaLink
+1191,Mito Line
+1192,Meitetsu Nishio Line
+1193,Strawberry Line (Miniature Railway)
+1194,Tokushima Line
+1195,Takayama Main Line
+1196,Dosan Line
+1197,The Plane Train
+1198,Buenos Aires and Ensenada Port Railway
+1199,Denver International Airport Automated Guideway Transit System
+1200,Leicester to Burton upon Trent Line
+1201,Central Chubut Railway
+1202,Buenos Aires Northern Railway
+1203,Aichi Loop Line
+1204,Rokua railway
+1205,"Line 6, Shanghai Metro"
+1206,"Line 8, Shanghai Metro"
+1207,"Line 9, Shanghai Metro"
+1208,Isumi Line
+1209,ExpressTram
+1210,Croxley Rail Link
+1211,Exeter to Plymouth railway of the LSWR
+1212,Camp Hill Line
+1213,Aizu Railway Aizu Line
+1214,Gracefield Branch
+1215,Osaka Monorail Saito Line
+1216,Bennett Brook Railway
+1217,Bradford and Foster Brook Railway
+1218,Katsuyama Eiheiji Line
+1219,CEVA rail
+1220,Hundred of Hoo Railway
+1221,Dun Mountain Railway
+1222,High-speed rail in Australia
+1223,Tide Light Rail
+1224,York to Beverley Line
+1225,Yamaguchi Line
+1226,Manassas Line
+1227,Gyeongbu High Speed Railway
+1228,Honam High Speed Railway
+1229,Keihan Ishiyama Sakamoto Line
+1230,Maizuru Line
+1231,Miyafuku Line
+1232,Miyazu Line
+1233,Cleator and Workington Junction Railway
+1234,"California, Shasta and Eastern Railway"
+1235,Heathrow Airtrack
+1236,Argentine North Western Railway
+1237,Tsugaru Railway
+1238,Mooka Railway Mooka Line
+1239,Minato Line
+1240,Hokuetsu Express Hokuhoku Line
+1241,Fujikyuko Line
+1242,Gakunan Railway Line
+1243,Shinano Railway Line
+1244,Tarumi Railway Tarumi Line
+1245,Nagaragawa Railway Etsumi-Nan Line
+1246,Ueda Electric Railway Bessho Line
+1247,Minamiaso Railway Takamori Line
+1248,Shimabara Railway Line
+1249,Miki Railway Miki Line
+1250,Wakasa Railway Wakasa Line
+1251,Mizuma Railway Mizuma Line
+1252,Eizan Electric Railway
+1253,Nanao Line
+1254,Rokko Cable Line
+1255,Kosaka Smelting & Refining Kosaka Line
+1256,Hachinohe Rinkai Railway Line
+1257,Akita Rinkai Railway Line
+1258,East Argentine Railway
+1259,North/Red Line Extension (METRORail)
+1260,Downs Light Railway
+1261,Marsden Point Branch
+1262,Argentine North Eastern Railway
+1263,Green Line (Yokohama)
+1264,Southeast/Purple Line (METRORail)
+1265,Nelson Section
+1266,Mexico City Metro Line 5
+1267,Mexico City Metro Line 1
+1268,Sinansan Line
+1269,Reading to Basingstoke Line
+1270,LYNX Red Line
+1271,LYNX Silver Line
+1272,Center City Corridor (LYNX)
+1273,West Corridor (LYNX)
+1274,Norfolk Orbital Railway
+1275,Hendon railway line
+1276,Northlander
+1277,Ferrocarril Central Norte
+1278,Northern Link (MTR)
+1279,Ferrocarril Argentino del Norte
+1280,Ferrocarril Central de Buenos Aires
+1281,Mexico City Metro Line 2
+1282,Mexico City Metro Line 3
+1283,South Side Elevated Railroad
+1284,Brevik Line
+1285,Lilleaker Line
+1286,Follo Line
+1287,Solbergfoss Line
+1288,Skreia Line
+1289,Zillertal Railway
+1290,"Macclesfield, Bollington and Marple Railway"
+1291,Gantoku Line
+1292,Saudi Landbridge Project
+1293,McCarran International Airport Automated People Movers
+1294,AeroTrain (Washington Dulles International Airport)
+1295,Taita Line
+1296,Otavi Mining and Railway Company
+1297,Chemins de fer du Jura
+1298,Horten Line
+1299,Lier Line
+1300,Sperillen Line
+1301,Vestmarka Line
+1302,Sagene Ring
+1303,Thomson MRT Line
+1304,Ferrocarril Provincial de Buenos Aires
+1305,Ferrocarril Provincial de Santa Fe
+1306,Lake Street Elevated Railroad
+1307,Wildcat Branch
+1308,Minobu Line
+1309,PreMetro E2 (Buenos Aires)
+1310,Grande Ceinture line
+1311,Hafslund Line
+1312,Satellite Transit System
+1313,Blue Line (San Diego Trolley)
+1314,Orange Line (San Diego Trolley)
+1315,Green Line (San Diego Trolley)
+1316,Northern Lights Express
+1317,Sagano Scenic Railway
+1318,Hertford East Branch Line
+1319,Banbury and Cheltenham Direct Railway
+1320,Silverton Tramway
+1321,Bakerloo line extension to Camberwell
+1322,"North West railway line, Sydney"
+1323,Lyttelton Line
+1324,Manukau Branch
+1325,Incheon Subway Line 2
+1326,Dan Patch Corridor
+1327,"Line 7, Shanghai Metro"
+1328,"Line 10, Shanghai Metro"
+1329,"Line 11, Shanghai Metro"
+1330,Victor Harbor railway line
+1331,Rail Baltica
+1332,Bordeaux Tramway Line A
+1333,Crenshaw/LAX Transit Corridor
+1334,South Wind (train)
+1335,Birkenhead Railway
+1336,Red Line (TRAX)
+1337,Yodo Line
+1338,Esashi Line
+1339,Meitetsu Bisai Line
+1340,Sangi Railway Hokusei Line
+1341,Southern Line (Cape Town)
+1342,Gulf Wind
+1343,Suigun Line
+1344,Dill Railway
+1345,Ringerike Line
+1346,Cuyahoga Valley Scenic Railroad
+1347,Seibu Haijima Line
+1348,Green Line (TRAX)
+1349,Berlin Northern Railway
+1350,"Airport Express, Beijing Subway"
+1351,Meitetsu Seto Line
+1352,"Line 4, Beijing Subway"
+1353,"Line 9, Beijing Subway"
+1354,"Line 7, Beijing Subway"
+1355,"Line 14, Beijing Subway"
+1356,"Line 8, Beijing Subway"
+1357,Meitetsu Tsushima Line
+1358,"Line 6, Beijing Subway"
+1359,Bordeaux Tramway Line B
+1360,Bordeaux Tramway Line C
+1361,"Fangshan Line, Beijing Subway"
+1362,"Daxing Line, Beijing Subway"
+1363,"Yizhuang Line, Beijing Subway"
+1364,TEDA Modern Guided Rail Tram
+1365,ATL Skytrain
+1366,Sunbeam (passenger train)
+1367,Sanyo Electric Railway Aboshi Line
+1368,Taketoyo Line
+1369,Western FastRail
+1370,Kinuura Rinkai Railway Handa Line
+1371,Kinuura Rinkai Railway Hekinan Line
+1372,Fukuen Line
+1373,Line 2 (Budapest Metro)
+1374,Line 3 (Budapest Metro)
+1375,Line 1 (Budapest Metro)
+1376,Line 4 (Budapest Metro)
+1377,Onoda Line
+1378,Ube Line
+1379,Kishin Line
+1380,Kibi Line
+1381,Inbi Line
+1382,MRT Orange Line
+1383,MRT Purple Line
+1384,MRT Yellow Line
+1385,MRT Brown Line
+1386,MRT Pink Line
+1387,Tsuyama Line
+1388,Line C (Rome Metro)
+1389,Formartine and Buchan Railway
+1390,Main Line Through Upper Norrland
+1391,Ekeberg Line
+1392,Petit train d'Artouste
+1393,Hokuriku Railroad Asanogawa Line
+1394,Hokuriku Railroad Ishikawa Line
+1395,Honshi-Bisan Line
+1396,Annandale (Pacific Electric)
+1397,Petit train de la Rhune
+1398,South Pasadena Local (Pacific Electric)
+1399,Lamanda Park (Pacific Electric)
+1400,North Lake (Pacific Electric)
+1401,Uchiko Line
+1402,"Line S2, Beijing Suburban Railway"
+1403,Vippetangen Line
+1404,East Washington (Pacific Electric)
+1405,Glendale-Burbank (Pacific Electric)
+1406,Tosa Kuroshio Railway Nakamura Line
+1407,Tosa Kuroshio Railway Sukumo Line
+1408,Kochelsee Railway
+1409,Tosa Kuroshio Railway Asa Line
+1410,Leeds to Morecambe Line
+1411,Tsugaru Line
+1412,"Whitehaven, Cleator and Egremont Railway"
+1413,Mount Pleasant railway line
+1414,Railway stations in Iran
+1415,Voss Line
+1416,Etsumi-Hoku Line
+1417,Keihan Nakanoshima Line
+1418,Benwick Goods Railway
+1419,Glasgow to Aberdeen Line
+1420,Portland railway line
+1421,Briskeby Line
+1422,Metropolitan West Side Elevated Railroad
+1423,Cincinnati Airport People Mover
+1424,Frankfurt City Link Line
+1425,Line 1 (Naples metro)
+1426,Line 6 (Naples metro)
+1427,Pasadena via Oak Knoll (Pacific Electric)
+1428,Sierra Madre (Pacific Electric)
+1429,San Fernando (Pacific Electric)
+1430,"Line 15, Beijing Subway"
+1431,Pasadena Short Line (Pacific Electric)
+1432,Seibu Toshima Line
+1433,Red Line (St. Louis MetroLink)
+1434,Blue Line (St. Louis MetroLink)
+1435,Seibu Sayama Line
+1436,Seibu Seibu-en Line
+1437,Flekkefjord Line
+1438,Honolulu High-Capacity Transit Corridor Project
+1439,Castle Shannon Incline
+1440,Wangerooge Island Railway
+1441,Chard Branch Line
+1442,Beaudesert railway line
+1443,Bullo Pill Railway
+1444,Showground Central railway line
+1445,Palatine Maximilian Railway
+1446,Rishworth Branch
+1447,Mangfall Valley Railway
+1448,Churnet Valley Line
+1449,Seibu Tamako Line
+1450,Seibu Kokubunji Line
+1451,Spiegelau Forest Railway
+1452,Cairo Metro Line 1
+1453,Guangfo Metro
+1454,Majorca rail network
+1455,Tees Valley Metro
+1456,Eyre Peninsula Railway
+1457,Main-Lahn Railway
+1458,Martinborough Branch
+1459,Railway stations on the Eyre Peninsula
+1460,Kelani Valley Line
+1461,Meitetsu Airport Line
+1462,"Line 12, Shanghai Metro"
+1463,"Line 13, Shanghai Metro"
+1464,Line B (Rome Metro)
+1465,"Changping Line, Beijing Subway"
+1466,"Western Suburban Line, Beijing Subway"
+1467,Ansan Line
+1468,Gelmerbahn
+1469,"Christchurch railway station, Dublin"
+1470,Bickington Steam Railway
+1471,East End/Green Line (METRORail)
+1472,Creedmoor Branch
+1473,Svendborgbanen
+1474,SRT Dark Red Line
+1475,SRT Light Red Line
+1476,Cairo Metro Line 2
+1477,Cairo Metro Line 3
+1478,Rotorua Branch
+1479,Noto Railway Noto Line
+1480,Himi Line
+1481,Sakai Line
+1482,Kisuki Line
+1483,Fort Pitt Incline
+1484,Mount Oliver Incline
+1485,Nunnery Hill Incline
+1486,"Line 1, Guangzhou Metro"
+1487,"Line 2, Guangzhou Metro"
+1488,"Line 3, Guangzhou Metro"
+1489,"Line 4, Guangzhou Metro"
+1490,Greenline (Pennsylvania)
+1491,Miller's line
+1492,Tunnel Railway
+1493,Frogner Line
+1494,Haramain High Speed Rail Project
+1495,Western railway elevated corridor
+1496,Zavodskaya line
+1497,Railway electrification in Iran
+1498,Volchansk tram system
+1499,Silver Line (Los Angeles Metro)
+1500,Tovarnaya line
+1501,Sernftal railway
+1502,Ozerki line
+1503,Nidd Valley Light Railway
+1504,Sinsen Line
+1505,Vika Line
+1506,Gamlebyen Line
+1507,Primorskaya Line
+1508,Thumer Netz
+1509,Northern Sydney Freight Corridor
+1510,Ammergau Railway
+1511,Circumflegrea railway line
+1512,Hamersley & Robe River railway
+1513,Barcelona orbital line
+1514,Branch MRT Line
+1515,PHX Sky Train
+1516,"Line 14, Shanghai Metro"
+1517,"Line 15, Shanghai Metro"
+1518,"Line 16, Shanghai Metro (old)"
+1519,"Line 17, Shanghai Metro (old)"
+1520,"Line 18, Shanghai Metro"
+1521,"Line 19, Shanghai Metro"
+1522,"Line 20, Shanghai Metro"
+1523,"Line 16, Shanghai Metro"
+1524,Main-Neckar Railway
+1525,Neckar Valley Railway
+1526,Wiese Valley Railway
+1527,Tauber Valley Railway
+1528,Rhine Railway (Baden)
+1529,Murg Valley Railway
+1530,Odenwald Railway (Hesse)
+1531,Alb Valley Railway
+1532,Franconian Forest Railway
+1533,Danube Valley Railway (Bavaria)
+1534,Central Funicular
+1535,Rhine-Main Railway
+1536,Paar Valley Railway
+1537,Upper Rhine Railway
+1538,Brenz Railway
+1539,Niesenbahn
+1540,Reisszug
+1541,Stony Brook Railroad
+1542,Festungsbahn (Salzburg)
+1543,Franconia Railway
+1544,First Hill Streetcar
+1545,"Line 5, Guangzhou Metro"
+1546,Nordfyenske Jernbane
+1547,Rumoi Main Line
+1548,Enz Valley Railway
+1549,Delhi Airport Metro Express
+1550,Nordvestfyenske Jernbane
+1551,Meitetsu Hashima Line
+1552,Meitetsu Takehana Line
+1553,Meitetsu Chita New Line
+1554,St. Clair Incline
+1555,Waldenburg railway
+1556,Marsh Railway
+1557,Ammersee Railway
+1558,Mugi Line
+1559,Naruto Line
+1560,Taunton metro rail
+1561,Ban'etsu East Line
+1562,S15 (ZVV)
+1563,S9 (ZVV)
+1564,S14 (ZVV)
+1565,South Coast Rail
+1566,Kinleith Branch
+1567,S13 (ZVV)
+1568,S40 (ZVV)
+1569,S8 (ZVV)
+1570,S12 (ZVV)
+1571,S6 (ZVV)
+1572,S16 (ZVV)
+1573,S3 (ZVV)
+1574,Thames Branch
+1575,S2 (ZVV)
+1576,Waiuku and Mission Bush Branches
+1577,Newcastle and Carlisle Railway
+1578,Midland and South Western Junction Railway
+1579,Karasuyama Line
+1580,Red Line (Tel Aviv Light Rail)
+1581,Blue Line (Sacramento RT)
+1582,Gold Line (Sacramento RT)
+1583,Upland-San Bernardino (Pacific Electric)
+1584,Westgate (Pacific Electric)
+1585,Balboa (Pacific Electric)
+1586,Sawtelle (Pacific Electric)
+1587,Sherman (Pacific Electric)
+1588,Owensmouth (Pacific Electric)
+1589,Goldsworthy railway
+1590,S33 (ZVV)
+1591,Ross and Monmouth Railway
+1592,Kamaishi Line
+1593,Downtown Dubai Tramway
+1594,Ampang Line
+1595,Goonyella railway line
+1596,Al Sufouh Tramway
+1597,Forest of Dean Central Railway
+1598,Wigan Junction Railways
+1599,Luobao Line
+1600,Longhua Line
+1601,"Line 1, Tianjin Metro"
+1602,Central Swabian Railway
+1603,Sugar House Streetcar
+1604,Cambridge Branch
+1605,Bankura Damodar Railway
+1606,A-train (Denton County Transportation Authority)
+1607,Blackwater railway system
+1608,Maybrook Line
+1609,Pelion railway
+1610,Evergreen Branch
+1611,Fukui Railway Fukubu Line
+1612,Piraeus-Perama light railway
+1613,"South Line, Chennai Suburban"
+1614,"South West Line, Chennai Suburban"
+1615,Ui LRT
+1616,Gyooe Line
+1617,U Line
+1618,Hanawa Line
+1619,Hachinohe Line
+1620,Violet Line (Delhi Metro)
+1621,"Line 9, Tianjin Metro"
+1622,"Line 1, Nanjing Metro"
+1623,Dresden park railway
+1624,Fox Chase Rapid Transit Line
+1625,Cotton Belt Rail Line
+1626,Meadowlands Rail Line
+1627,Green Line (Delhi Metro)
+1628,"West North Line, Chennai Suburban"
+1629,"West Line, Chennai Suburban"
+1630,"West South Line, Chennai Suburban"
+1631,"North Line, Chennai Suburban"
+1632,Izuhakone Railway Sunzu Line
+1633,Ramona Branch
+1634,Jinshan Railway
+1635,Bushwick Branch
+1636,Milan Passante railway
+1637,"Line 3, Tianjin Metro"
+1638,Milan Metro Line 5
+1639,"Line 2, Tianjin Metro"
+1640,Delmar Loop Trolley
+1641,Whittier (Pacific Electric)
+1642,Daniel Boone Corridor
+1643,MetroNorth Corridor
+1644,MetroSouth Corridor
+1645,NorthSide Corridor
+1646,SouthSide Corridor
+1647,NorthWest Connector
+1648,Keisei Chihara Line
+1649,Chiaia Funicular
+1650,Chili Line
+1651,Madison County Corridors
+1652,St. Charles Corridor
+1653,Otley and Ilkley Joint Railway
+1654,Rochester Rail Link
+1655,Mergellina Funicular
+1656,St. Louis Commuter Rail
+1657,St. Charles City Streetcar
+1658,Orange Blossom Express
+1659,Inchicore railway station
+1660,Montesanto Funicular
+1661,City Airport Train
+1662,Werra Railway
+1663,Red Line (MARTA)
+1664,Gold Line (MARTA)
+1665,Blue Line (MARTA)
+1666,Porrettana railway
+1667,S1 (Rhine-Main S-Bahn)
+1668,MIA Mover
+1669,Green Line (MARTA)
+1670,Dream Catcher Express
+1671,Zhujiang New Town Automated People Mover System
+1672,"South Line, Tasmania"
+1673,Bell Bay Line
+1674,Namboku Line (Sapporo)
+1675,"Heartland Light Rail System (Kansas City, Missouri)"
+1676,Brenner Railway
+1677,Mexico City Metro Line 9
+1678,Michigan Line
+1679,Line 1 (Metro Bilbao)
+1680,Lower Inn Valley Railway
+1681,New Lower Inn Valley railway
+1682,Petit train de banlieue
+1683,Belgian railway line 161
+1684,Belgian railway line 26
+1685,Belgian railway line 124
+1686,Belgian railway line 96
+1687,Belgian railway line 50
+1688,Belgian railway line 36
+1689,Belgian railway line 25
+1690,Montclair-Boonton Line
+1691,Saal Railway
+1692,Frankfurt Airport loop
+1693,Kinzig Valley Railway (Hesse)
+1694,Hainan Eastern Ring High-Speed Railway
+1695,S2 (Rhine-Main S-Bahn)
+1696,S3 (Rhine-Main S-Bahn)
+1697,S4 (Rhine-Main S-Bahn)
+1698,S5 (Rhine-Main S-Bahn)
+1699,S6 (Rhine-Main S-Bahn)
+1700,S7 (Rhine-Main S-Bahn)
+1701,S8 (Rhine-Main S-Bahn)
+1702,S9 (Rhine-Main S-Bahn)
+1703,Cologne Airport loop
+1704,"Line 2, Nanjing Metro"
+1705,Huntington Railroad
+1706,Northwestern Elevated Railroad
+1707,Line 1 (Almaty)
+1708,Busan Metro Line 4
+1709,Nantenbach Curve
+1710,Frankfurt City Tunnel
+1711,MRT Blue Line
+1712,Line 1 (Mumbai Metro)
+1713,Green Line (Namma Metro)
+1714,Purple Line (Namma Metro)
+1715,Northport Traction Company
+1716,W Line (RTD)
+1717,MRT Grey Line
+1718,MRT Light Blue Line
+1719,Magdeburg-Leipzig railway
+1720,Rodgau Railway
+1721,Brown Line (Pittsburgh)
+1722,La Habra-Yorba Linda (Pacific Electric)
+1723,Fullerton (Pacific Electric)
+1724,Redondo Beach via Gardena (Pacific Electric)
+1725,San Pedro via Dominguez (Pacific Electric)
+1726,Santa Ana (Pacific Electric)
+1727,San Pedro via Gardena (Pacific Electric)
+1728,Kotoden Nagao Line
+1729,Beverly Hills (Pacific Electric)
+1730,Hawthorne-El Segundo (Pacific Electric)
+1731,Long Beach (Pacific Electric)
+1732,East Corridor (RTD)
+1733,Hanoverian Southern Railway
+1734,Sieg Railway
+1735,CBD Relief Line
+1736,Hildesheim loop
+1737,Weddel loop
+1738,Central Corridor (Union Pacific Railroad)
+1739,Line 2 (Metro Bilbao)
+1740,"Line 10, Nanjing Metro"
+1741,Berlin-Blankenheim railway
+1742,Wannsee Railway
+1743,Anhalt Suburban Line
+1744,River Subdivision (Canadian Pacific Railway)
+1745,Wayzata Subdivision
+1746,Hinckley Subdivision
+1747,Berlin outer ring
+1748,Chicago Subdivision
+1749,Seville Metro line 1
+1750,Western Railway (Austria)
+1751,Southern Railway (Austria)
+1752,Birmingham West Suburban Railway
+1753,Seville Metro line 2
+1754,Hamburg-Altona link line
+1755,"Line 16, Beijing Subway"
+1756,Line 1 (Metrovalencia)
+1757,"Line 8, Guangzhou Metro"
+1758,"Line 6, Guangzhou Metro"
+1759,TCDD District 1
+1760,Cape Flats Line
+1761,Eastern Corridor Commuter Rail
+1762,Kronberg Railway
+1763,Limes Railway
+1764,Emirates Air Line (cable car)
+1765,Kenwood branch (CTA)
+1766,Soden Railway
+1767,Central Line (Cape Town)
+1768,Northern Line (Cape Town)
+1769,Frankfurt-Hanau Railway
+1770,Selby Diversion
+1771,First Coast Commuter Rail
+1772,Warminster Line
+1773,West Trenton Line (SEPTA)
+1774,Lansdale/Doylestown Line
+1775,Media/Elwyn Line
+1776,Paoli/Thorndale Line
+1777,Cynwyd Line
+1778,Manayunk/Norristown Line
+1779,Fox Chase Line
+1780,R7 (SEPTA)
+1781,Chestnut Hill East Line
+1782,Hervey Bay railway line
+1783,Sierra Vista (Pacific Electric)
+1784,Chestnut Hill West Line
+1785,Furka Cogwheel Steam Railway
+1786,Yellow Line (Baltimore)
+1787,Shalun Line
+1788,Bexhill West Branch Line
+1789,Electric Train Service
+1790,Metropolitan Main Line (CTA)
+1791,Ries Railway
+1792,Bellevue funicular
+1793,Belleville funicular tramway
+1794,TCDD District 3
+1795,West Coast Line (Sweden)
+1796,Westside Subway Extension
+1797,Bohus Line
+1798,Gold Line Foothill Extension
+1799,J (Los Angeles Railway)
+1800,P (Los Angeles Railway)
+1801,R (Los Angeles Railway)
+1802,V (Los Angeles Railway)
+1803,S (Los Angeles Railway)
+1804,5 (Los Angeles Railway)
+1805,7 (Los Angeles Railway)
+1806,8 (Los Angeles Railway)
+1807,9 (Los Angeles Railway)
+1808,F (Los Angeles Railway)
+1809,N (Los Angeles Railway)
+1810,W (Los Angeles Railway)
+1811,D (Los Angeles Railway)
+1812,3 (Los Angeles Railway)
+1813,Carl's Railway
+1814,Incheon Airport Maglev
+1815,Hershey Electric Railway
+1816,Nishitetsu Amagi Line
+1817,10 (Los Angeles Railway)
+1818,Tramway du Cap-Ferret
+1819,Septemvri-Dobrinishte narrow gauge line
+1820,Friedrichroda Railway
+1821,North South Railway (Saudi Arabia)
+1822,Chesham branch
+1823,Magdeburg-Wittenberge railway
+1824,Kei Rail
+1825,"Line 9, Guangzhou Metro"
+1826,"Line 7, Guangzhou Metro"
+1827,Lower Left Rhine Railway
+1828,Cross River Rail
+1829,Pinjarra to Narrogin railway
+1830,Ruhr Valley Railway
+1831,Oatlands Railway
+1832,Mount Newman railway
+1833,Fortescue railway
+1834,Central Corridor Rail Line
+1835,Nairobi airport rail link
+1836,Bangalore high-speed rail link
+1837,Hamburg City S-Bahn
+1838,Suseo High Speed Railway
+1839,Alster Valley Railway
+1840,Ocean Electric Railway
+1841,Harburg S-Bahn
+1842,London Necropolis Railway
+1843,Casablanca tramway
+1844,Mount Maunganui Branch
+1845,St Edwards Hospital tramway
+1846,Longgang Line
+1847,Shekou Line
+1848,Waupaca Electric Light and Railway Company
+1849,Lahn Valley Railway
+1850,Merrill Railway & Lighting Co.
+1851,Hindenburg Bridge
+1852,Nahe Valley Railway
+1853,"Line 3, Beijing Subway"
+1854,"Line 12, Beijing Subway"
+1855,Sutton Loop Line
+1856,Kotoden Kotohira Line
+1857,Kotoden Shido Line
+1858,Faversham miniature railway
+1859,TerraSur
+1860,Leeds New Line
+1861,"Line 1, Chengdu Metro"
+1862,Line 7 (CPTM)
+1863,Salzburg-Tyrol Railway
+1864,Line 8 (CPTM)
+1865,Tauern Railway
+1866,Livoberezhna Line
+1867,Blue Line (Taoyuan MRT)
+1868,Gateway Project
+1869,Schlossbergbahn (Freiburg)
+1870,Kurenivsko-Chervonoarmiyska Line
+1871,Syretsko-Pecherska Line
+1872,Buenos Aires Great Southern Railway
+1873,Mid-Kent Line
+1874,Yokohama Minatomirai Railway Kodomonokuni Line
+1875,Shotts Line
+1876,Nagahori Tsurumi-ryokuchi Line
+1877,Sennichimae Line
+1878,Sakaisuji Line
+1879,Yotsubashi Line
+1880,Tanimachi Line
+1881,Reading to Taunton line
+1882,Exeter to Plymouth Line
+1883,Bristol to Exeter Line
+1884,EBART
+1885,U1 (Frankfurt U-Bahn)
+1886,U2 (Frankfurt U-Bahn)
+1887,U3 (Frankfurt U-Bahn)
+1888,U5 (Frankfurt U-Bahn)
+1889,Huanzhong Line
+1890,U6 (Frankfurt U-Bahn)
+1891,U7 (Frankfurt U-Bahn)
+1892,U8 (Frankfurt U-Bahn)
+1893,Liujia Line
+1894,Tsarskoye Selo Railway
+1895,Hardt Railway
+1896,Natal Railway Company
+1897,Kraich Valley Railway
+1898,Katzbach Railway
+1899,B Line (RTD)
+1900,Ausserfern Railway
+1901,High Plateau line
+1902,Ordsall Chord
+1903,Bruchsal Rollenberg junction
+1904,Line 9 (CPTM)
+1905,Line 10 (CPTM)
+1906,Line 11 (CPTM)
+1907,Line 12 (CPTM)
+1908,Haden railway line
+1909,Proston railway line
+1910,Windera railway line
+1911,Tarong railway line
+1912,Line 14 (CPTM)
+1913,Line 13 (CPTM)
+1914,Dajarra and Selwyn railway lines
+1915,Rhein-Express
+1916,F Street and H Street Loop (Bakersfield and Kern Electric)
+1917,South Chester Line (Bakersfield and Kern Electric)
+1918,North Chester Line (Bakersfield and Kern Electric)
+1919,West 19th Street Line (Bakersfield and Kern Electric)
+1920,Santa Fe and Southern Pacific Line (Bakersfield and Kern Electric)
+1921,Hurontario-Main LRT
+1922,NRW-Express
+1923,Koralm Railway
+1924,Auckland city centre rail tunnel
+1925,CSX Plymouth Subdivision
+1926,Kolkata Metro Line 1
+1927,Kolkata Metro Line 2
+1928,Belgian railway line 37
+1929,Belgian railway line 162
+1930,Belgian railway line 50A
+1931,Belgian railway line 59
+1932,Belgian railway line 75
+1933,Belgian railway line 94
+1934,Belgian railway line 125
+1935,Belgian railway line 130
+1936,Belgian railway line 130A
+1937,Silver Line (San Diego Trolley)
+1938,Orange Line (Jaipur Metro)
+1939,Green Line (Jaipur Metro)
+1940,Belgian railway line 15
+1941,M2 (Istanbul Metro)
+1942,Rhein-Sieg-Express
+1943,M4 (Istanbul Metro)
+1944,"Line 1, Chongqing Rail Transit"
+1945,"Line 2, Chongqing Rail Transit"
+1946,"Line 3, Chongqing Rail Transit"
+1947,"Line 6, Chongqing Rail Transit"
+1948,Deister Railway
+1949,Metropolitan and Great Central Joint Railway
+1950,Line A (EuskoTran)
+1951,Eifel Railway
+1952,Rigiblick funicular
+1953,Rhein-Erft-Express
+1954,"Yanfang Line, Beijing Subway"
+1955,Special Event Line (San Diego Trolley)
+1956,Toyohashi Railroad Atsumi Line
+1957,Dolderbahn
+1958,Gold Line (RTD)
+1959,Wupper-Express
+1960,"Line 6, Shenzhen Metro"
+1961,"Line 7, Shenzhen Metro"
+1962,Furusato Ginga Line
+1963,Chongnyon Ichon Line
+1964,Milan Metro Line 4
+1965,Parsenn Bahn
+1966,Third Interchange Contour
+1967,Johore Wooden Railway
+1968,Muar State Railway
+1969,Gurtenbahn funicular
+1970,Western Line (Mumbai Suburban Railway)
+1971,Central Line (Mumbai Suburban Railway)
+1972,Monmouth Railway
+1973,Tehran Metro Line 1
+1974,Tehran Metro Line 2
+1975,Tehran Metro Line 3
+1976,Tehran Metro Line 4
+1977,Tehran Metro Line 5
+1978,"Dumfries, Lochmaben and Lockerbie Railway"
+1979,White Line (Long Island Rail Road)
+1980,Thames Hub
+1981,Crystal Palace Line
+1982,Sahibganj Loop
+1983,Constantine tramway
+1984,Mainz rail bypass
+1985,U9 (Frankfurt U-Bahn)
+1986,Belmont Tramway
+1987,S24 (ZVV)
+1988,S41 (ZVV)
+1989,S22 (ZVV)
+1990,S35 (ZVV)
+1991,S30 (ZVV)
+1992,"Airport Line, Shenzhen Metro"
+1993,Pittsburgh Line
+1994,Ravenswood Branch
+1995,Wriezen Railway
+1996,Queens Quay East light rail line
+1997,Norwich and Westerly Railway
+1998,Wilkes-Barre and Hazleton Railway
+1999,Coley Branch Line
+2000,Rheinfall railway
+2001,"Line 1, Wuhan Metro"
+2002,Paengma Line
+2003,Pyongbuk Line
+2004,Tasado Line
+2005,Songnim Line
+2006,Unnyul Line
+2007,Changyon Line
+2008,Ongjin Line
+2009,Pup'o Line
+2010,Ryonggang Line
+2011,Taean Line
+2012,Northern Line (Sri Lanka)
+2013,Mittenwald Railway
+2014,Changjin Line
+2015,Toksong Line
+2016,Manp'o Line
+2017,Unsan Line
+2018,Kanggye Line
+2019,Pukpu Line
+2020,Paengmu Line
+2021,Hambuk Line
+2022,Musan Line
+2023,Hoeam Line
+2024,Cross Gates to Wetherby Line
+2025,Mannar Line
+2026,Batticaloa Line
+2027,Trincomalee Line
+2028,Main Line (Sri Lanka)
+2029,Harrogate to Church Fenton Line
+2030,Lycabettus Funicular
+2031,Erft Railway
+2032,Llangurig branch
+2033,Newtown and Machynlleth Railway
+2034,West Dalarna Line
+2035,Lalgola and Gede branch lines
+2036,Meilin Line
+2037,Nibelungen Railway
+2038,Sealdah South lines
+2039,Vogelsberg Railway
+2040,Tua line
+2041,Line 1 (Mumbai Monorail)
+2042,University of the Philippines Diliman Automated Guideway Transit System
+2043,Upper Ruhr Valley Railway
+2044,Devon Valley Railway
+2045,Historic Downtown Los Angeles Streetcar
+2046,Pinnaroo railway line
+2047,"Line 2, Wuhan Metro"
+2048,"Line 1, Suzhou Rail Transit"
+2049,Marecka Kolej Dojazdowa
+2050,Monte San Salvatore funicular
+2051,Madhupur Giridih Rail Line
+2052,B-Line (Hamilton)
+2053,Freiburg freight bypass railway
+2054,Sun Link
+2055,Geumgangsan Line
+2056,Aarhus Letbane
+2057,Lumding Agartala Rail Line
+2058,IRT New Lots Line
+2059,IRT Eastern Parkway Line
+2060,The Maharaja Railways of India
+2061,Main Street Line (MATA Trolley)
+2062,Riverfront Loop (MATA Trolley)
+2063,Madison Avenue Line (MATA Trolley)
+2064,Green Line (Sacramento RT)
+2065,"Line 2, Chengdu Metro"
+2066,Yokohama Dreamland Monorail
+2067,Bulimba Branch railway line
+2068,"Line 2, Suzhou Rail Transit"
+2069,Wooloongabba Branch railway line
+2070,"Line 3, Suzhou Rail Transit"
+2071,"Line 4, Suzhou Rail Transit"
+2072,"Line 5, Suzhou Rail Transit"
+2073,"Line 8, Suzhou Rail Transit"
+2074,Coastal Line (Sri Lanka)
+2075,"Line R2, Beijing Subway"
+2076,"Line R1, Beijing Subway"
+2077,"Line R3, Beijing Subway"
+2078,"Line 11, Beijing Subway"
+2079,Main-Sieg-Express
+2080,Kozhukhovskaya Line
+2081,"Line 6, Kunming Rail Transit"
+2082,North Side Main Line
+2083,Cherry Street streetcar line
+2084,Astoria Riverfront Trolley
+2085,Upper Rhine Railway Company
+2086,Adriatic railway
+2087,Assensbanen
+2088,"Line 4, Wuhan Metro"
+2089,Bairabi Sairang Railway
+2090,Southwest Rail Corridor
+2091,Valmorea railway
+2092,Apsheronsk narrow-gauge railway
+2093,Alapayevsk narrow-gauge railway
+2094,Kudemskaya narrow-gauge railway
+2095,Rea Vaya
+2096,Lavistown Loop Line
+2097,M6 (Istanbul Metro)
+2098,South Side Elevated
+2099,Braunwaldbahn
+2100,Line 2 (Athens Metro)
+2101,Line 3 (Athens Metro)
+2102,Line 4 (Athens Metro)
+2103,Line 1 (Athens Metro)
+2104,Canungra railway line
+2105,FR1 (Lazio regional railways)
+2106,"Line 11, Guangzhou Metro"
+2107,"Line 13, Guangzhou Metro"
+2108,"Line 14, Guangzhou Metro"
+2109,"Line 21, Guangzhou Metro"
+2110,FR5 (Lazio regional railways)
+2111,Mendrisio electric tramway
+2112,Hall Farm Curve
+2113,"Line 2, Xi'an Metro"
+2114,"Line 3, Dalian Metro"
+2115,"Line 1, Shenyang Metro"
+2116,"Line 2, Shenyang Metro"
+2117,"Line 3, Changchun Light Rail Transit"
+2118,"Line 4, Changchun Light Rail Transit"
+2119,Oxford and Rugby Railway
+2120,Birmingham and Oxford Junction Railway
+2121,Trans-Harbour Line (Mumbai Suburban Railway)
+2122,FR3 (Lazio regional railways)
+2123,Ritom funicular
+2124,FR7 (Lazio regional railways)
+2125,FR8 (Lazio regional railways)
+2126,FR6 (Lazio regional railways)
+2127,FR2 (Lazio regional railways)
+2128,FR4 (Lazio regional railways)
+2129,Line S1 (Milan suburban railway service)
+2130,Sassari-Tempio-Palau railway
+2131,Line S2 (Milan suburban railway service)
+2132,Line S3 (Milan suburban railway service)
+2133,Line S4 (Milan suburban railway service)
+2134,Line S5 (Milan suburban railway service)
+2135,Line S6 (Milan suburban railway service)
+2136,Line S8 (Milan suburban railway service)
+2137,Line S11 (Milan suburban railway service)
+2138,Line S13 (Milan suburban railway service)
+2139,Montrealer (train)
+2140,Line S9 (Milan suburban railway service)
+2141,South Norfolk Railway
+2142,Montevergine funicular
+2143,"Line 1, Hangzhou Metro"
+2144,A-Line (Hamilton)
+2145,Narkatiaganj-Bikhnathori line
+2146,Red Ahead (CTA)
+2147,Lake Constance Belt Railway
+2148,Pishchalskoye peat narrow gauge railway
+2149,Gorokhovskoe peat narrow gauge railway
+2150,Altsevo peat narrow gauge railway
+2151,Trenton Cutoff
+2152,State Street Subway
+2153,Riffelalptram
+2154,Beijing Maglev Train
+2155,Hainan Western Ring High-Speed Railway
+2156,Satpura narrow gauge lines
+2157,Hainan Western Ring Railway
+2158,Confederation Line
+2159,Lake Thun railway line
+2160,Flambeau 400
+2161,Kangwon Line
+2162,Kumgangsan Chongnyon Line
+2163,Pyongna Line
+2164,"Line 2, Hangzhou Metro"
+2165,Djursholmsbanan
+2166,Lake Street Elevated
+2167,Cross Island MRT Line
+2168,Texas Central Railway
+2169,Venice Short Line
+2170,Douglas Branch
+2171,Vorarlberg Railway
+2172,Cape Cod and Hyannis Railroad
+2173,Edmonton LRT Metro Line
+2174,Circular Line (KMRT)
+2175,High Speed 2 Phase Two
+2176,Beaudesert Shire Tramway
+2177,Narrow gauge railway of Caprolactam factory
+2178,Manduadih-Madho Singh-Allahabad
+2179,Portland Street Railway Company
+2180,Srinagar-Kargil-Leh railway
+2181,Isar Valley Railway
+2182,Lette railway line
+2183,Balranald railway line
+2184,Sihltal railway line
+2185,Uetliberg railway line
+2186,Munich South Ring
+2187,Kerzhenets peat narrow gauge railway
+2188,Munich North Ring

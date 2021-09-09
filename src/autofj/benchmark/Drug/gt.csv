@@ -1,0 +1,158 @@
+id_l,title_l,id_r,title_r
+4,BCG vaccine,0,Bacillus Calmette-GuÃ©rin
+10,Dimethyltryptamine,1,"N,N-Dimethyltryptamine"
+30,Scopolamine,2,Hyoscine hydrobromide
+46,Valproic acid,3,Valproate
+161,Interferon beta-1a,4,Interferon beta 1a
+180,Androstenedione,5,4-Androstenedione
+224,Oxycodone/aspirin,6,Percodan
+342,5-MeO-AMT,7,5-MeO-aMT
+437,Live attenuated influenza vaccine,8,FluMist
+530,Tenofovir,9,Tenofovir disoproxil
+563,Ursodiol,10,Ursodeoxycholic acid
+565,Mepacrine,11,Quinacrine
+628,Glycopyrronium bromide,12,Glycopyrrolate
+664,Neosporin,13,Neomycin/polymyxin B/bacitracin
+699,Glycyrrhetinic acid,14,Enoxolone
+752,Butylscopolamine,15,Hyoscine butylbromide
+761,Paromomycin,16,Paromomycin sulfate
+809,Polysporin,17,Bacitracin/polymyxin B
+831,Ethinyl estradiol,18,Ethinylestradiol
+889,Actinomycin,19,Dactinomycin
+904,Interferon beta-1b,20,Interferon beta 1b
+912,Methandrostenolone,21,Metandienone
+994,Cafergot,22,Caffeine/ergotamine
+1009,Roxatidine,23,Roxatidine acetate
+1016,HPV vaccine,24,HPV vaccines
+1050,Atenolol/chlorthalidone,25,Tenoretic
+1051,Sodium oxybate,26,Xyrem
+1114,CroFab,27,Crotalidae polyvalent immune fab
+1274,Hydroxyamfetamine,28,4-Hydroxyamphetamine
+1377,Librax,29,Chlordiazepoxide/clidinium bromide
+1386,Arbidol,30,Umifenovir
+1428,Emtricitabine/tenofovir/efavirenz,31,Efavirenz/emtricitabine/tenofovir
+1435,MLD-41,32,N1-Methyl-lysergic acid diethylamide
+1439,DAM-57,33,Dimethyllysergamide
+1580,Gestonorone,34,Gestonorone caproate
+1735,Zostavax,35,Zoster vaccine
+1786,Pioglitazone/metformin,36,Politor
+1904,Dantron,37,"1,8-Dihydroxyanthraquinone"
+1915,Levonordefrin,38,Corbadrine
+1999,17-Hydroxyprogesterone caproate,39,Hydroxyprogesterone caproate
+2027,Mestranol/norethynodrel,40,Mestranol/noretynodrel
+2051,Etilamfetamine,41,Ethylamphetamine
+2114,Growth hormone releasing hexapeptide,42,GHRP-6
+2151,Abiraterone,43,Abiraterone acetate
+2252,Fenyramidol,44,Phenyramidol
+2260,Digoxin Immune Fab,45,Digoxin immune fab
+2536,Senna glycoside,46,Senna glycosides
+2586,Norboletone,47,Norbolethone
+2622,Artesunate/amodiaquine,48,ASAQ
+2649,Metofoline,49,Methopholine
+2676,Beta-Methylfentanyl,50,Betamethylfentanyl
+2718,MN 18,51,MN-18
+2753,4-Fluoromethamphetamine,52,4-Fluoro-N-methylamphetamine
+2763,Interferon alfa-2b,53,Interferon alfa 2b
+2863,GW 501516,54,GW501516
+2940,1-(4-Nitrophenylethyl)piperidylidene-2-(4-chlorophenyl)sulfonamide,55,W-18
+2977,Humulin,56,Regular insulin
+3006,C-8813,57,Thiobromadol
+3038,L-DOPS,58,Droxidopa
+3113,Thiambutenes,59,Thiambutene
+3122,Enzalutamide,60,MDV3100
+3185,Pericyazine,61,Periciazine
+3277,"SB-242,084",62,SB-242084
+3359,Stalevo,63,Carbidopa/levodopa/entacapone
+3392,Dihydroxialumini sodium carbonate,64,Carbaldrate
+3403,Dioctyl sodium sulfosuccinate,65,Docusate
+3454,TC-5619,66,Bradanicline
+3481,"EMD-386,088",67,EMD-386088
+3482,"SB-258,585",68,SB-258585
+3483,"SB-399,885",69,SB-399885
+3484,"SB-357,134",70,SB-357134
+3492,Afutuzumab,71,Obinutuzumab
+3541,4-Bromo-N-methylcathinone,72,4-Bromomethcathinone
+3552,"SB-271,046",73,SB-271046
+3595,CBLB502,74,Entolimod
+3633,"A-372,159",75,A-372159
+3635,"SB-699,551",76,SB-699551
+3692,"RS-127,445",77,RS-127445
+3693,"SB-204,741",78,SB-204741
+3694,"RS-102,221",79,RS-102221
+3713,"CP-94,253",80,CP-94253
+3720,Sulcotidil,81,Suloctidil
+3773,Insulin therapy,82,Insulin (medication)
+3821,Ro04-6790,83,Ro 04-6790
+3830,"SB-216,641",84,SB-216641
+3835,"SB-269,970",85,SB-269970
+3889,Torezolid,86,Tedizolid
+3913,SEP-225289,87,Dasotraline
+3918,Alpharadin,88,Radium-223
+3918,Alpharadin,89,Radium-223 chloride
+3921,"5,6-Methylenedioxy-N-methyl-2-aminoindane",90,MDMAI
+3960,Pivalylbenzhydrazine,91,Pivhydrazine
+3974,MMDMA,92,MMDMA (drug)
+4013,Salvinorin B methoxymethyl ether,93,2-Methoxymethyl salvinorin B
+4014,Isofagomine tartrate,94,Afegostat
+4044,"SB-215,505",95,SB-215505
+4045,SR-48692,96,Meclinertant
+4047,"GR-127,935",97,GR-127935
+4081,Methylenedioxymethylphenethylamine,98,Homarylamine
+4096,Bromadol,99,BDPC
+4103,Norethindrone enanthate,100,Norethisterone enanthate
+4114,"CP-809,101",101,CP-809101
+4152,5-(2-Aminopropyl)indole,102,5-IT
+4154,Chromium polynicotinate,103,Chromium(III) nicotinate
+4215,BMS-945429,104,Clazakizumab
+4223,Afobazole,105,Fabomotizole
+4264,Toplexil,106,Oxomemazine/guaifenesin
+4288,Lucinactant,107,Surfaxin
+4347,Lu AE58054,108,Idalopirdine
+4368,Asasantin,109,Acetylsalicylic acid/dipyridamole
+4451,Loxtidine,110,Lavoltidine
+4475,PCPr,111,Phencyclamine
+4484,Erbulozole,112,Erbuzole
+4507,Emoxypine,113,6-Methyl-2-ethyl-3-hydroxypyridine
+4551,"LY-293,284",114,LY-293284
+4588,Ro5-2904,115,Triflunordazepam
+4597,"S-14,671",116,S-14671
+4611,AEZS-108,117,Zoptarelin doxorubicin
+4658,Meclozine,118,Meclizine
+4662,"CP-93,129",119,CP-93129
+4687,2C-TFM-NBOMe,120,25TFM-NBOMe
+4688,2C-C-NBOMe,121,25C-NBOMe
+4703,Thiopropamine,122,1-(Thiophen-2-yl)-2-aminopropane
+4713,TM-38837,123,TM38837
+4727,Beyaz (drug),124,Ethinyl estradiol/drospirenone/levomefolic acid
+4735,Carfenazine,125,Carphenazine
+4736,4-Hydroxycyclophosphamide,126,Perfosfamide
+4746,"Org 12,962",127,Org 12962
+4748,Festinavir,128,Censavudine
+4780,Omecamtiv mecarbil,129,Omecamtiv Mecarbil (CK-1827452)
+4926,"SB-258,719",130,SB-258719
+4927,"GR-113,808",131,GR-113808
+4931,"LY-310,762",132,LY-310762
+4932,"SB-204,070",133,SB-204070
+4933,"CJ-033,466",134,CJ-033466
+4934,"SB-206,553",135,SB-206553
+4935,"CP-135,807",136,CP-135807
+4984,Lumacaftor,137,VX-809
+4990,Tenofovir alafenamide fumarate,138,Tenofovir alafenamide
+4990,Tenofovir alafenamide fumarate,139,GS 7340
+4997,Sofosbuvir,140,PSI-7977
+4998,BA058,141,Abaloparatide
+5017,Ana773,142,RG7795
+5017,Ana773,143,ANA773
+5031,C16 (PKR inhibitor),144,C16 (drug)
+5052,LCZ696,145,Valsartan/sacubitril
+5224,AKB48 (drug),146,APINACA
+5249,TAS-102,147,Trifluridine/tipiracil
+5262,GLYX-13,148,Rapastinel
+5273,SDB-001,149,APICA (synthetic cannabinoid drug)
+5332,PRT064445,150,Andexanet alfa
+5333,Mk-1439,151,Doravirine
+5334,GS-5885,152,Ledipasvir
+5336,Bi 207127,153,Deleobuvir
+5344,PB-22,154,QUPIC
+5345,BB-22 (drug),155,QUCHIC
+5348,GFT505,156,Elafibranor

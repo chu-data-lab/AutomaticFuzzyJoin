@@ -1,0 +1,929 @@
+id,title
+0,Boston Celtics
+1,Brooklyn Nets
+2,New York Knicks
+3,Orlando Magic
+4,Miami Heat
+5,Philadelphia 76ers
+6,Washington Wizards
+7,Atlanta Hawks
+8,New Orleans Hornets
+9,Cleveland Cavaliers
+10,Chicago Bulls
+11,Detroit Pistons
+12,Indiana Pacers
+13,Milwaukee Bucks
+14,Toronto Raptors
+15,Dallas Mavericks
+16,Denver Nuggets
+17,Houston Rockets
+18,Memphis Grizzlies
+19,Minnesota Timberwolves
+20,Utah Jazz
+21,Los Angeles Clippers
+22,Golden State Warriors
+23,San Antonio Spurs
+24,Los Angeles Lakers
+25,Phoenix Suns
+26,Sacramento Kings
+27,Portland Trail Blazers
+28,Criollos de Caguas (basketball)
+29,Washington Caps
+30,Charlotte Bobcats
+31,Anaheim Amigos
+32,Utah Stars
+33,San Diego Sails
+34,Harlem Globetrotters
+35,Dallas Chaparrals
+36,Leones de Ponce (basketball)
+37,Dakota Wizards
+38,Cangrejeros de Santurce (basketball)
+39,Spirits of St. Louis
+40,Kentucky Colonels
+41,Washington Generals
+42,Vancouver Grizzlies
+43,Yakima Sun Kings
+44,Rockford Lightning
+45,Sioux Falls Skyforce
+46,Sheffield Sharks
+47,Maccabi Tel Aviv B.C.
+48,Fortitudo Pallacanestro Bologna
+49,Virtus Pallacanestro Bologna
+50,Buffalo Braves
+51,Piratas de Quebradillas
+52,New Orleans Buccaneers
+53,Memphis Sounds
+54,Philadelphia Sphas
+55,Virginia Squires
+56,Miami Floridians
+57,Oklahoma Storm
+58,Polonia Warbud Warszawa
+59,Asseco Prokom Gdynia
+60,Start Lublin
+61,Fayetteville Patriots
+62,Huntsville Flight
+63,Florida Flame
+64,Roanoke Dazzle
+65,Greenville Groove
+66,Mobile Revelers
+67,Anderson Packers
+68,Chicago Stags
+69,Providence Steamrollers
+70,Cleveland Rebels
+71,Detroit Falcons (basketball)
+72,Indianapolis Olympians
+73,Indianapolis Jets
+74,Pittsburgh Ironmen
+75,Washington Capitols
+76,Sheboygan Red Skins
+77,Toronto Huskies
+78,Waterloo Hawks
+79,Maratonistas de Coamo
+80,Mets de Guaynabo (basketball)
+81,Carolina Cougars
+82,Shanghai Sharks
+83,Pittsburgh Condors
+84,Sydney Kings
+85,Hunter Pirates
+86,Newcastle Falcons (basketball)
+87,Canberra Cannons
+88,Townsville Crocodiles
+89,Victoria Libertas Pesaro
+90,Plymouth Raiders
+91,Anadolu Efes S.K.
+92,Philadelphia Tapers
+93,Houston Mavericks
+94,Birmingham Bullets
+95,Oakland Oaks (ABA)
+96,Melbourne Tigers
+97,Albany Patroons
+98,London Towers
+99,Liaoning Dinosaurs
+100,Beijing Ducks
+101,Xinjiang Flying Tigers
+102,Jilin Northeast Tigers
+103,Shandong Lions
+104,Jiangsu Dragons
+105,Guangdong Southern Tigers
+106,Fujian Xunxing
+107,Saski Baskonia
+108,Savannah Spirits
+109,BC Lietuvos rytas
+110,Arkansas RimRockers
+111,Newcastle Eagles
+112,Fort Wayne Fury
+113,Brisbane Bullets
+114,ASVEL Basket
+115,Limoges CSP
+116,Perth Wildcats
+117,P.A.O.K. B.C.
+118,Panellinios B.C.
+119,London United
+120,Ulriken Eagles
+121,Mens Sana Basket
+122,Los Angeles Aftershock
+123,Fort Worth Flyers
+124,Tulsa 66ers
+125,Austin Toros
+126,New Mexico Thunderbirds
+127,Leicester Riders
+128,ASK Riga
+129,Capitanes de Arecibo
+130,KK Union Olimpija
+131,Astoria Bydgoszcz
+132,Adelaide 36ers
+133,Hapoel Tel Aviv B.C.
+134,Indiana Alley Cats
+135,KK Zadar
+136,Cairns Taipans
+137,Surrey Heat
+138,West Adelaide Bearcats
+139,Dongguan Leopards
+140,Pittsburgh Xplosion
+141,New Zealand Breakers
+142,Sydney Spirit
+143,CB Estudiantes
+144,Real Madrid Baloncesto
+145,BC Sakalai
+146,Pallacanestro Varese
+147,South Dragons
+148,A. Le Coq
+149,Joventut Badalona
+150,Pallacanestro Treviso
+151,SLUC Nancy Basket
+152,FC Barcelona-Institut Guttmann
+153,Hapoel Jerusalem B.C.
+154,Brighton Bears
+155,KK Cibona
+156,1990 Philippines men's Asian Games basketball team
+157,Manchester Giants
+158,St. Louis Bombers (NBA)
+159,Pallacanestro Reggiana
+160,Bakersfield Jam
+161,Tanduay Rhum Masters
+162,Canterbury Rams
+163,Canberra Capitals
+164,Dandenong Rangers
+165,Wellington Saints
+166,Auckland Pirates
+167,OceanaGold Nuggets
+168,Nelson Giants
+169,Taranaki Mountainairs
+170,Hawke's Bay Hawks
+171,Manawatu Jets
+172,CB Gran Canaria
+173,CB Granada
+174,CB Sevilla
+175,Baloncesto Fuenlabrada
+176,CB Lucentum Alicante
+177,Valencia BC
+178,Colorado 14ers
+179,Northeast Pennsylvania Breakers
+180,Adelaide Lightning
+181,Torpan Pojat
+182,Espoon Honka
+183,London Lions (basketball)
+184,SoCal Legends
+185,Minot SkyRockets
+186,PBC CSKA Moscow
+187,Canberra Gunners
+188,Ballarat Miners
+189,Rain or Shine Elasto Painters
+190,Albury Wodonga Bandits
+191,Waikato Pistons
+192,Bendigo Braves
+193,Philippine Centennial Team
+194,Frankston Blues
+195,Alba Berlin
+196,Brooklyn Kings
+197,Los Angeles D-Fenders
+198,KK Split
+199,Bilbao Basket
+200,Tenerife CB
+201,Barreteros de Zacatecas
+202,Euroins Cherno More
+203,BC Dinamo Tbilisi
+204,Singapore Slingers
+205,Chorale Roanne Basket
+206,Cholet Basket
+207,JDA Dijon Basket
+208,JL Bourg-en-Bresse
+209,STB Le Havre
+210,Le Mans Sarthe Basket
+211,Kansas Cagerz
+212,CB Murcia
+213,Butte Daredevils
+214,Great Falls Explorers
+215,AZS Koszalin
+216,Raleigh Cougars
+217,KK Partizan
+218,Dodge City Legend
+219,KK Crvena zvezda
+220,Anaheim Arsenal
+221,Pallalcesto Amatori Udine
+222,S.S. Felice Scandone
+223,Pallacanestro Virtus Roma
+224,Worcester Wolves
+225,KK Vojvodina
+226,Illawarra Hawks
+227,La Crosse Catbirds
+228,Fargo-Moorhead Beez
+229,Black Hills Posse
+230,Miami Majesty
+231,Rapid City Thrillers
+232,Nebraska Cranes
+233,Long Island PrimeTime
+234,Pennsylvania ValleyDawgs
+235,Olympiacos B.C.
+236,Louisville Catbirds
+237,Harlem Wizards
+238,CB Valladolid
+239,Soles de Mexicali
+240,Northern Cement basketball team
+241,Maroussi B.C.
+242,Dumbarton Dodgers Basketball Club
+243,South East Melbourne Magic
+244,Batangas Blades
+245,Laguna Lakers
+246,Manila Metrostars
+247,Nueva Ecija Patriots
+248,Hobart Devils
+249,C.F. Os Belenenses (basketball)
+250,Barreirense Basket
+251,F.C. Porto (basketball)
+252,Ovarense Basquetebol
+253,Oliveirense Basquetebol
+254,CAB Madeira
+255,C.A. Queluz
+256,Telekom Baskets Bonn
+257,Bayer Giants Leverkusen
+258,Skyliners Frankfurt
+259,Neckar Riesen Ludwigsburg
+260,Webmoebel Baskets
+261,EWE Baskets Oldenburg
+262,TBB Trier
+263,Ratiopharm Ulm
+264,Teramo Basket
+265,Pallacanestro Biella
+266,Basket Livorno
+267,Utah Eagles
+268,Panathinaikos B.C.
+269,Vancouver Dragons
+270,Fuerza Regia
+271,Quimsa
+272,Ciclista Juninense
+273,Regatas Corrientes
+274,Juventud Sionista
+275,Quilmes de Mar del Plata
+276,Gimnasia y Esgrima de Comodoro Rivadavia
+277,Obras Sanitarias
+278,KK Novi Sad
+279,PBC Ural Great Perm
+280,BC UNICS
+281,Troon Tornadoes
+282,Keravnos B.C.
+283,BC Kalev/Cramo
+284,North Melbourne Giants
+285,BC Dynamo Moscow
+286,Waverley Falcons
+287,Taiwan Beer (basketball)
+288,Thames Valley Tigers
+289,Guildford Kings
+290,Derby Storm
+291,PBC CSKA Sofia
+292,BC Levski Sofia
+293,Milwaukee Does
+294,Seoul Samsung Thunders
+295,Bree BBC
+296,Victoria Titans
+297,Southern Melbourne Saints
+298,Sydney Supersonics
+299,Jackson Wildcats
+300,Worthing Thunder
+301,Utah Flash
+302,Solent Stars
+303,Coventry Crusaders
+304,Reading Rockets
+305,West Hertfordshire Warriors
+306,Tees Valley Mohawks
+307,Manchester Magic
+308,Hackney White Heat
+309,Leicester Warriors
+310,Oyak Renault
+311,Basket Napoli
+312,Olongapo Volunteers
+313,Pussihukat
+314,Aris B.C.
+315,HKK Zrinjski Mostar
+316,Homenetmen Beirut B.C.
+317,Taiwan Mobile Clouded Leopards
+318,Delaware Stars
+319,Wisconsin Flyers
+320,Rio Grande Valley Vipers
+321,Orlandina Basket
+322,Geelong Supercats
+323,Solna Vikings
+324,Pentland Tigers Basketball Club
+325,BC Khimki
+326,Hapoel Galil Elyon
+327,Gold Coast Blaze
+328,Iowa Energy
+329,Glenelg Tigers (NBL)
+330,Niigata Albirex BB
+331,Negros Slashers
+332,San Juan Knights
+333,Birmingham Athletics
+334,South Adelaide Basketball Club
+335,BC Azovmash
+336,Glasgow Rocks
+337,Sutor Basket Montegranaro
+338,PBC Lokomotiv Kuban
+339,Fort Wayne Mad Ants
+340,New Jersey Meteors
+341,Birmingham Panthers
+342,HKK Grude
+343,Fajardo Cariduros
+344,Bristol Academy Flyers
+345,Taunton Tigers
+346,Derby Trailblazers
+347,Bristol Storm
+348,London Capital
+349,Trabzonspor Basketball
+350,Olympias Patras B.C.
+351,Mexico City Aztecas
+352,Sporting B.C.
+353,Iligan Crusaders
+354,USC Heidelberg
+355,Changwon LG Sakers
+356,Kingston Wildcats
+357,Galatasaray Medical Park (men's basketball)
+358,Quezon-Villa Anita
+359,G.S. Olympia Larissa B.C.
+360,Chicago Hustle
+361,BC Spartak Saint Petersburg
+362,Brighton Cougars
+363,Saitama Broncos
+364,BC Oostende
+365,Mersey Tigers
+366,Cheshire Phoenix
+367,Cherkaski Mavpy
+368,KK Mega Vizura
+369,Perth Lynx
+370,Ironi Ashkelon
+371,Nuova AMG Sebastiani Basket Napoli
+372,Hekmeh BC
+373,KD Slovan
+374,BC Enisey
+375,BC Krka
+376,Roseto Sharks
+377,Viola Reggio Calabria
+378,Oshkosh All-Stars
+379,Dinamo Basket Sassari
+380,S.L. Benfica (basketball)
+381,Basket Club Ferrara
+382,Pistoia Basket 2000
+383,Basket Rimini Crabs
+384,A.S. Junior Pallacanestro Casale
+385,Aurora Basket Jesi
+386,Pallacanestro Pavia
+387,Juvecaserta Basket
+388,Societa Veroli Basket
+389,Guerino Vanoli Basket
+390,A.E.L. 1964 B.C.
+391,Boroughmuir Blaze
+392,Saint John Mill Rats
+393,Bnei Herzliya
+394,Olympique Antibes
+395,Banvit B.K.
+396,TED Ankara Kolejliler
+397,Goldfields Giants
+398,Maccabi Rishon LeZion (basketball)
+399,Montevideo Basket Ball Club
+400,Lappeenrannan NMKY
+401,Star of the Sea (basketball)
+402,UCC Demons
+403,Bulleen Boomers
+404,BC Kyiv
+405,BK Ventspils
+406,BC Triumph Lyubertsy
+407,Allianz Swans Gmunden
+408,Antwerp Giants
+409,Fribourg Olympic
+410,Spirou Charleroi
+411,GasTerra Flames
+412,Panionios B.C.
+413,Rethymno Aegean B.C.
+414,CSK VVS Samara
+415,Universitet Yugra Surgut
+416,Plymouth Marjon Cannons
+417,Kolossos Rodou B.C.
+418,Egaleo B.C.
+419,KK AMAK SP
+420,Makedonikos B.C.
+421,BC Dnipro
+422,BC Odessa
+423,BC Khimik
+424,Energy Invest Rustavi
+425,KK Zagreb
+426,Belfius Mons-Hainaut
+427,KK Cedevita
+428,Ironi Nahariya
+429,KK Igokea
+430,Bakken Bears
+431,Quad City Thunder
+432,CB L'Hospitalet
+433,Cantabria Baloncesto
+434,Basket Zaragoza 2002
+435,CB 1939 Canarias
+436,CB Ciudad de Huelva
+437,CB Inca
+438,CB Atapuerca
+439,Club Melilla Baloncesto
+440,UB La Palma
+441,CB Villa de Los Barrios
+442,UCD Marian
+443,Southampton Trailblazers
+444,BC Lietkabelis
+445,Kapfenberg Bulls
+446,Shoalhaven Tigers
+447,Sundsvall Dragons
+448,Mahram Tehran BC
+449,BC Dynamo Saint Petersburg
+450,Mitteldeutscher BC
+451,AEL Limassol (basketball)
+452,South West Slammers
+453,Columbus Horizon
+454,Iraklis Thessaloniki B.C.
+455,Kaveh Tehran BC
+456,Zob Ahan Isfahan BC
+457,Petrochimi Bandar Imam BC
+458,Ararat Tehran BC
+459,Azad University Tehran BC
+460,BEEM Mazandaran Cultural and Sport Club
+461,Heyat Basketball Shahrekord BC
+462,Shahrdari Gorgan BC
+463,Near East B.C.
+464,Peristeri B.C.
+465,Apollon Patras B.C.
+466,Reno Bighorns
+467,Ilysiakos B.C.
+468,M.E.N.T. B.C.
+469,Townsville Fire
+470,Erie BayHawks
+471,Amyntas Dafnis B.C.
+472,Xanthi BC
+473,Paleo Faliro B.C.
+474,Chalkida BC
+475,Kavala B.C.
+476,Sporting Al Riyadi Beirut
+477,ICBS BC
+478,Seattle SuperSonics
+479,Busan KT Sonicboom
+480,Perth Redbacks
+481,Ionikos Lamias B.C.
+482,Pagrati B.C.
+483,USK Praha
+484,BC Brno
+485,Toros de Los Dos Laredos
+486,Science City Jena
+487,Harbour Centre Batang Pier
+488,KK Alkar
+489,Cardiff Celts
+490,Trikala B.C.
+491,Hapoel Holon
+492,Milton Keynes College Lions basketball academy
+493,APOEL B.C.
+494,KK Sloga
+495,Irakleio B.C.
+496,CB Vic
+497,CB Illescas
+498,Hebraica y Macabi
+499,Wonju Dongbu Promy
+500,Seoul SK Knights
+501,BC Strumica 2005
+502,Incheon ET Land Elephants
+503,Anyang KGC
+504,Jeonju KCC Egis
+505,Goyang Orions
+506,Gigantes de Carolina (basketball)
+507,K.A.O.D. B.C.
+508,SCAA Basketball
+509,Oklahoma City Thunder
+510,Maccabi Haifa B.C.
+511,KK Strumica
+512,BC Spartak Pleven
+513,Galatasaray SK (women's basketball)
+514,Pittsburgh Piranhas
+515,Elitzur Kiryat Ata
+516,Hapoel Gilboa Galil
+517,Habik'a B.C.
+518,Ironi Ramat Gan
+519,Medway Park Crusaders
+520,Ionikos N.F. B.C.
+521,Ionikos Nikaias B.C.
+522,BC Donetsk
+523,Svendborg Rabbits
+524,KK Borac Banja Luka
+525,CSU Sibiu
+526,BC Politekhnika-Halychyna
+527,Galatasaray SK (wheelchair basketball)
+528,Korihait
+529,Reyer Venezia Mestre
+530,Kataja Basket Club
+531,BC Rilski Sportist
+532,KK Vardar
+533,TTT Riga
+534,BK Gulbenes Buki
+535,BK Valmiera
+536,Qingdao DoubleStar
+537,Levanga Hokkaido
+538,Louleh a.s Shiraz BC
+539,KK Radnik Bijeljina
+540,BC Yambol
+541,Cobra Energy Drink Iron Men
+542,Toyota-Otis Sparks
+543,KK Livno
+544,Magnolia Purewater Wizards
+545,Pharex Naproxen Sodium Bidang Generix
+546,BC Sliven
+547,Papagou B.C.
+548,Phoenix Hagen
+549,Saba Battery Tehran BC
+550,Tianjin Ronggang
+551,Zhejiang Lions
+552,Bashkimi Prizren
+553,BC Rakvere Tarvas
+554,Urunday Universitario
+555,WBC Spartak Moscow Region
+556,BC Avtodor Saratov
+557,Debreceni Vadkakasok
+558,Al-Ahly (Benghazi) Men's Basketball Team
+559,UniCEUB/BRB
+560,Maine Red Claws
+561,Mail and More Comets
+562,KK Angeli
+563,B.C. Partizani Tirana
+564,Bendigo Spirit
+565,Maccabi Ashdod B.C.
+566,Minnesota Fillies
+567,Gymnastikos S. Larissas
+568,Sport in Kosovo
+569,Springfield Armor
+570,Ulsan Mobis Phoebus
+571,WBC Spartak Noginsk
+572,BBV Hagen
+573,Ryukyu Golden Kings
+574,CSM Satu Mare (basketball)
+575,Flamengo Basketball
+576,Apollon Limassol BC
+577,Sigal Prishtina
+578,Omonia BC
+579,Texas Legends
+580,Misamis Oriental Meteors
+581,CB Prat
+582,CB Clavijo
+583,Basket Navarra Club
+584,CB Tarragona
+585,CB Tartessos
+586,CB Plasencia
+587,Club Ourense Baloncesto
+588,CB Villa de Valdemoro
+589,KK Pelister
+590,Obradoiro CAB
+591,KK Feni Industries
+592,Paris-Levallois Basket
+593,BC Budivelnyk
+594,Champville SC
+595,Al Mouttahed Tripoli
+596,Tadamon Zouk
+597,08 Stockholm Human Rights
+598,Shamrock Rovers Hoops
+599,Uppsala Basket
+600,Gothia Basket
+601,CB Avenida
+602,Bintulu Rainbow BC
+603,Perak YSL Farmcochem BC
+604,SCM CSU Craiova
+605,CS Otopeni (basketball)
+606,CS Energia Rovinari
+607,CSM Oradea (basketball)
+608,BC Gladiator Cluj-Napoca
+609,Heyat Basketball Langaroud BC
+610,KD Hopsi Polzela
+611,AirAsia Philippine Patriots
+612,Brunei Barracudas
+613,Northfleet Basketball Academy
+614,Hapoel Afula
+615,Satria Muda BritAma Jakarta
+616,Kauhajoen Karhu
+617,Chang Thailand Slammers
+618,BC Krasnye Krylia
+619,Elitzur Yavne B.C.
+620,Elitzur Ramla B.C.
+621,Hoops Club
+622,Hapoel Eilat B.C.
+623,Link Tochigi Brex
+624,Essex Pirates
+625,Hakuoh University women's basketball
+626,Maccabi Raanana
+627,KK Mladost Omoljica
+628,AEK Larnaca B.C.
+629,Brixton TopCats
+630,Plymouth Marjon
+631,Durham Wildcats
+632,Logan Thunder
+633,Essex Leopards
+634,Tapiolan Honka
+635,Southland Sharks
+636,Bornova Belediye
+637,Zain Club
+638,Applied Science University (basketball team)
+639,Aramex (Jordan)
+640,Orthodox (Jordan)
+641,Stade Nabeulien
+642,Ezzahra Sport Rades
+643,Panathinaikos women's basketball
+644,Barak Netanya
+645,Maccabi Bnot Ashdod
+646,KK Bor
+647,Mansfield Giants
+648,Landstede Basketbal
+649,DCU Saints
+650,Ros Casares Valencia
+651,AddMix Transformers
+652,Cossack Blue Spirits
+653,Fern-C
+654,Excel Roof 25ers
+655,Big Chill Super Chargers
+656,Pharex B-Complex
+657,Sony Athinaikos Athens
+658,Ikaros Kallitheas B.C.
+659,Union Carquefou-Sainte Luce Basket
+660,Central Coast Crusaders
+661,Tokyo Apache
+662,Joinville Basquete Associados
+663,Franca Basquetebol Clube
+664,KK Metalac Valjevo
+665,UMMC Ekaterinburg
+666,Caciques de Humacao
+667,FC Bayern Munich (basketball)
+668,OKK Beograd
+669,KK Proleter Zrenjanin
+670,BBC Bayreuth
+671,BC Astana
+672,Rosa Radom
+673,Harbour Heat
+674,KK Korab
+675,Optima Gent
+676,Hapoel Be'eri B.C.
+677,Halcones UV Xalapa
+678,New Basket Brindisi
+679,Falco KC Szombathely
+680,CDB Amistad y Deporte
+681,Oviedo CB
+682,Maccabi Kiryat Gat B.C.
+683,Trefl Sopot
+684,ASK KS Siarka Tarnobrzeg
+685,Ferrol CB
+686,Palencia Baloncesto
+687,Boca Juniors (basketball)
+688,Dell Aspac Jakarta
+689,Leeds Carnegie (basketball)
+690,Pelita Jaya Esia
+691,Byblos Club
+692,KK Crnokosa
+693,KK Superfund
+694,BC Andorra
+695,BC Nizhny Novgorod
+696,Szolnoki Olaj KK
+697,City of Edinburgh Kings
+698,Al Wahda Damascus Mens Basketball Team
+699,Shropshire Warriors
+700,Poitiers Basket 86
+701,Gallitos de Isabela
+702,Nuvo CLS Knights
+703,UMFB Basketball
+704,Yongin Samsung Life Blue Minx
+705,Malbas
+706,Middlesbrough Lions
+707,Adanaspor Basketbol
+708,CB Guadalajara
+709,AD Torreforta
+710,Iraurgi SB
+711,CB Sant Josep
+712,Towzin Electric Kashan BC
+713,Rapla KK
+714,Akita Northern Happinets
+715,Muba Hangtuah Indonesia Muda Sumatera Selatan
+716,Stadium Jakarta
+717,Black Water Elite
+718,CB Santurtzi SK
+719,KK Sonik-Puntamika
+720,Maine Lumberjacks
+721,Perlas (basketball club)
+722,Juventus (basketball club)
+723,BC Prienai
+724,Palanga Triobet
+725,Elitzur Ramla (women's basketball)
+726,ASPTT Arras
+727,KK Zdravlje
+728,Aix Maurienne Savoie Basket
+729,New York Athletic Club men's basketball team
+730,Scaligera Basket Verona
+731,Lugano Tigers
+732,Saint Petersburg Lions
+733,RnW Pacific Pipes Steelmasters
+734,Cebuana Lhuillier Gems
+735,Dalkia
+736,Pioneros de Quintana Roo
+737,Mineros de Fresnillo
+738,Leones Regios de Monterrey
+739,Caktus de Saltillo
+740,Madereros de Durango
+741,Hapoel Haifa B.C.
+742,Hapoel Gvat/Yagur B.C.
+743,Capitalinos de San Juan
+744,Guerreros de Apodaca
+745,Araberri BC
+746,CB Zaragoza
+747,YCO Shine Masters
+748,Askatuak SBT
+749,YCO Painters
+750,Ysmael Steel Admirals
+751,Crispa 400
+752,San Miguel Beermen (ABL)
+753,Canton Charge
+754,Cuxhaven Bascats
+755,CD Estela
+756,Chicago Muscle
+757,Unione Cestistica Casalpusterlengo
+758,Tuzos UAZ Cemozac
+759,KK Vizura
+760,CB Las Rozas
+761,BV Chemnitz 99
+762,Oshawa Power
+763,London Lightning
+764,Moncton Miracles
+765,Al-Fida Club Saida
+766,Lemvig Basket
+767,KK Parklji Ljubljana
+768,BC Sukhumi
+769,Basket Burgos 2002
+770,Triple-V Foodmasters
+771,ADB Pas
+772,AB Pacense
+773,Stag Pale Pilseners
+774,BC Alytus
+775,KK Maribor
+776,CB Ciudad de Burgos
+777,PUS-Basket
+778,Sydney Uni Flames
+779,AD Universidad de Oviedo (basketball)
+780,Real Canoe NC (basketball)
+781,BC Armia
+782,KK Dubrovnik
+783,KK Jolly Jadranska Banka
+784,KK Kvarner 2010
+785,KK Zabok
+786,KK Zrinjevac
+787,Astana Tigers
+788,KK Gorica
+789,KK Trogir
+790,BC Statyba
+791,CB Salamanca
+792,CB OAR Ferrol
+793,ETHA Engomis
+794,Samsun B.K.
+795,BC Tsmoki-Minsk
+796,KK Mornar Bar
+797,Club Sportivo Independiente
+798,PBC Tirana (women)
+799,Saigon Heat
+800,Jalaa FC
+801,Al-Ittihad Jeddah (basketball)
+802,Al-Fateh (basketball)
+803,Al-Hilal (basketball)
+804,Al-Ahli Jeddah (basketball)
+805,"Al-Ansar (Saudi Arabia, basketball)"
+806,Ohud Medina (basketball)
+807,"Al-Arabi (Saudi Arabia, basketball club)"
+808,Indonesia Warriors
+809,CB Islas Canarias
+810,KK Smederevo 1953
+811,Porta XI CBF
+812,UNIQA Euroleasing Sopron
+813,Clermont UC
+814,AS Vicenza
+815,CD Huelva Baloncesto
+816,Al Rayyan Basketball Team
+817,Al Sadd Basketball Team
+818,Bangkok Cobras
+819,Erdemirspor
+820,Real Madrid Baloncesto B
+821,University of Johannesburg men's basketball
+822,WBC Slavia Sofia
+823,KK Atlas
+824,Leuven Bears
+825,Nadezhda Orenburg
+826,Barsy Atyrau
+827,Bradford Dragons
+828,Miyazaki Shining Suns
+829,Uni Girona CB
+830,Al-Ittihad Alexandria
+831,UST Growling Tigers men's basketball
+832,Zamalek (basketball club)
+833,Gezira (basketball club)
+834,ASDG Comense 1872
+835,BC Namur-Capitale
+836,Taranto Cras Basket
+837,Dynamo Kursk
+838,Horizont Minsk
+839,CJM Bourges Basket
+840,Boracay Rum Waves
+841,CD Zamarat
+842,CB Puig d'en Valls
+843,USO Mondeville
+844,CDB Zaragoza
+845,Basket Lattes
+846,Joventut Mariana CB
+847,Saarlouis Royals
+848,Libertas Trogylos Basket
+849,KK Kumanovo
+850,University of Illinois Wheelchair Basketball
+851,Nottingham Hoods
+852,KK Torus
+853,MC Oran (basketball)
+854,KK Crikvenica
+855,BC Ural Yekaterinburg
+856,Pallacanestro Petrarca Padova
+857,Los Santos Reales de San Luis
+858,Hutt Valley Lakers
+859,Toronto Tornados
+860,Santa Cruz Warriors
+861,Pakistan Army basketball team
+862,East London Royals
+863,Boulazac Basket Dordogne
+864,BK Skonto
+865,Akron Firestone Non-Skids
+866,KK Spartak Subotica
+867,Panelefsiniakos B.C.
+868,Cocodrilos de Caracas
+869,Okapi Aalstar
+870,Windsor Express
+871,Kuwait SC (basketball)
+872,Duhok SC (basketball)
+873,Yelwa Hawks Bauchi
+874,Namika Lahti
+875,Stade Olympique Maritime Boulonnais
+876,KK Brod
+877,KK Jagodina
+878,BC Alita
+879,Basket Parma
+880,BC Savanoris
+881,Liga Sorocabana de Basquete
+882,ESB Villeneuve-d'Ascq
+883,Australian Institute of Sport (WNBL team)
+884,Amchit Club
+885,SC Rasta Vechta
+886,ETB Wohnbau Baskets
+887,CEBA Guadalajara
+888,Celta de Vigo Baloncesto
+889,Pays d'Aix Basket 13
+890,Beitar Jerusalem B.C.
+891,BC MIA Academy
+892,BC Lokomotiv Sofia
+893,BK Brno
+894,Centro de Treinamento Arremessando para o Futuro
+895,BC CSKA Kyiv
+896,SG Braunschweig
+897,FEU Tamaraws men's basketball
+898,Cagayan Rising Suns
+899,Olimpia Grodno
+900,Chevakata Vologda
+901,WBC Dunav Ruse
+902,Hemel Storm
+903,Club Alianza Viedma
+904,Westminster Warriors
+905,Al-Ahli Sarba BC
+906,Stade Clermontois BF
+907,Derbyshire Arrows
+908,Pirates Basketball Club
+909,CB Conquero
+910,BC Tallinna Kalev
+911,BC Chernomorets
+912,BK NH Ostrava
+913,Filathlitikos B.C.
+914,BK JIP Pardubice
+915,KK Teodo Tivat
+916,Club Baloncesto Ciudad de Algeciras
+917,Super City Rangers
+918,Pacific Caesar
+919,PVSK Panthers
+920,CB Granollers
+921,KK Ulcinj
+922,Techmash Qazvin BC
+923,Primeiro de Agosto Basketball
+924,CSKA Samara
+925,Gruppo Sportivo FIAT
+926,Unicar Cesena
+927,Brampton A's

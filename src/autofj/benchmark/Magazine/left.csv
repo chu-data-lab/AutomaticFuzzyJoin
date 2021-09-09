@@ -1,0 +1,4006 @@
+id,title
+0,Mad (magazine)
+1,National Lampoon (magazine)
+2,Punch (magazine)
+3,Playboy
+4,Rolling Stone
+5,Scientific American
+6,The New Yorker
+7,Time (magazine)
+8,White Dwarf (magazine)
+9,Phrack
+10,New Scientist
+11,Dragon (magazine)
+12,2600: The Hacker Quarterly
+13,Fifth Estate (periodical)
+14,The Spectator
+15,Factsheet Five
+16,Wired (magazine)
+17,Heavy Metal (magazine)
+18,The Raven (journal)
+19,Tiger Beat
+20,The Ring (magazine)
+21,Dungeon (magazine)
+22,Vea
+23,Smithsonian (magazine)
+24,Right On!
+25,Cosmopolitan (magazine)
+26,Sports Illustrated
+27,The Atlantic
+28,Penthouse (magazine)
+29,Commodore User
+30,If (magazine)
+31,NME
+32,C't
+33,Fortune (magazine)
+34,Dr. Dobb's Journal
+35,Monato
+36,Skeptical Inquirer
+37,Texas Monthly
+38,Life (magazine)
+39,TV Guide
+40,The Times Literary Supplement
+41,The Weekly Standard
+42,Commentary (magazine)
+43,Amstrad Action
+44,Black Mask (magazine)
+45,Weird Tales
+46,Der Spiegel
+47,Macworld
+48,Newsweek
+49,The Beezer
+50,National Review
+51,India Today
+52,Cigar Aficionado
+53,Airliners (magazine)
+54,Weekly World News
+55,National Geographic (magazine)
+56,Lingua Franca (magazine)
+57,Linux Journal
+58,Maxim (magazine)
+59,Esquire (magazine)
+60,Harrowsmith Country Life
+61,Awake!
+62,The Watchtower
+63,The American Prospect
+64,Hustler
+65,Amazing Stories
+66,The Comics Journal
+67,The New Republic
+68,FHM
+69,Red Herring (magazine)
+70,MacLife
+71,Consumer Reports
+72,Vanity Fair (magazine)
+73,Communications of the ACM
+74,Svet kompjutera
+75,High Society (magazine)
+76,Forbes
+77,Harper's Magazine
+78,The New York Review of Books
+79,Granta
+80,Maclean's
+81,The American Spectator
+82,The Southern Review
+83,George (magazine)
+84,Soldier of Fortune (magazine)
+85,The Progressive
+86,In These Times
+87,Datenschleuder
+88,Monthly Review
+89,Game Developer (magazine)
+90,The Bulletin
+91,Washington Monthly
+92,Searchlight (magazine)
+93,Harper's Bazaar
+94,Whole Earth Review
+95,Reason (magazine)
+96,Linn's Stamp News
+97,Kerrang!
+98,Playgirl
+99,Asimov's Science Fiction
+100,W (magazine)
+101,Vogue (magazine)
+102,The Amazing Pudding
+103,Next Magazine
+104,Far Eastern Economic Review
+105,East Week
+106,Formosa Magazine
+107,British Birds (magazine)
+108,Men's Health (magazine)
+109,Seventeen (magazine)
+110,Doctor Who Magazine
+111,Urban Male Magazine
+112,Toro (magazine)
+113,Toronto Life
+114,Out (magazine)
+115,Columbia Journalism Review
+116,National Enquirer
+117,The Games Machine
+118,Socialist Standard
+119,Ebony (magazine)
+120,Ladies' Home Journal
+121,The Bookman (New York)
+122,New Statesman
+123,Collier's
+124,Radio Times
+125,The Magazine of Fantasy & Science Fiction
+126,Argosy (magazine)
+127,Kontakto
+128,Harper's Weekly
+129,CounterPunch
+130,Professional Football Researchers Association
+131,Sporting News
+132,Tribune (magazine)
+133,Photoplay
+134,Crazy Magazine
+135,Sick (magazine)
+136,Cracked (magazine)
+137,London Review of Books
+138,Princeton Tiger Magazine
+139,Left Turn
+140,The Georgia Straight
+141,Prospect (magazine)
+142,Melody Maker
+143,Caijing
+144,Reader's Digest
+145,Barazoku
+146,G-men (magazine)
+147,Mother Jones (magazine)
+148,Blue (magazine)
+149,Maximumrocknroll
+150,Escort (magazine)
+151,Liberty (1987)
+152,Discover (magazine)
+153,Fortean Times
+154,Amateur Photographer
+155,Alpinist (magazine)
+156,Salient (magazine)
+157,Linux Magazine
+158,People (magazine)
+159,The Saturday Evening Post
+160,Q magazine
+161,Sky & Telescope
+162,Game Informer
+163,The American Conservative
+164,Omni (magazine)
+165,Maximum PC
+166,Entertainment Weekly
+167,Partisan Review
+168,Red Issue
+169,EE Times
+170,GQ
+171,Vanidades
+172,Phoenix Magazine
+173,Les Inrockuptibles
+174,The Crisis
+175,The Harvard Lampoon
+176,Interzone (magazine)
+177,Cogito (magazine)
+178,Il Vernacoliere
+179,New Civil Engineer
+180,The Big Issue
+181,The Tablet
+182,RUN (magazine)
+183,.net (magazine)
+184,Spin (magazine)
+185,High Times
+186,Ellery Queen's Mystery Magazine
+187,Popular Mechanics
+188,Ensign (LDS magazine)
+189,Relief Society Magazine
+190,Curve (magazine)
+191,PC Gamer
+192,Alfred Hitchcock's Mystery Magazine
+193,Foreign Policy
+194,Baseball America
+195,Super PLAY
+196,Autoweek
+197,Spy (magazine)
+198,This England
+199,City Journal (New York)
+200,Juxtapoz
+201,Pelit
+202,The Christian Century
+203,Le Nouvel Observateur
+204,The Advocate
+205,Brum Beat
+206,HUMO
+207,Stanford Chaparral
+208,Comics Buyer's Guide
+209,The Scots Magazine
+210,Modern Screen
+211,Alternative Press
+212,Ramparts (magazine)
+213,Utne Reader
+214,Cat Fancy (magazine)
+215,Baseball Digest
+216,Human Events
+217,Sassy (magazine)
+218,The New Criterion
+219,King (magazine)
+220,ANSWER Me!
+221,Christianity Today
+222,Arthur (magazine)
+223,Down Beat
+224,Skeptic (U.S. magazine)
+225,Vice (magazine)
+226,Pyramid (magazine)
+227,New York (magazine)
+228,Soap Opera Digest
+229,Soap Opera Weekly
+230,Amiga Power
+231,Modern Age (periodical)
+232,Ms. (magazine)
+233,Interior Design
+234,Heeb
+235,Blast (magazine)
+236,Aviation Week & Space Technology
+237,Jane's Defence Weekly
+238,Your Sinclair
+239,F1 Racing
+240,Redbook
+241,Emigre (magazine)
+242,Sleazenation
+243,GameStar
+244,Tricycle: The Buddhist Review
+245,High Fidelity (magazine)
+246,The Hollywood Reporter
+247,MB (magazine)
+248,Saturday Night (magazine)
+249,Motor Trend
+250,Jane (magazine)
+251,Amazing Heroes
+252,Painkiller (magazine)
+253,Tel Quel
+254,Transition (literary journal)
+255,Popular Science
+256,Nintendo Power
+257,Globe (tabloid)
+258,New Internationalist
+259,True West Magazine
+260,The Strand Magazine
+261,Edinburgh Review
+262,Shadis
+263,Australian Women's Weekly
+264,Zyzzyva (magazine)
+265,Gay Times
+266,Creem
+267,Model Railroader
+268,Sports Illustrated Swimsuit Issue
+269,Railroad Model Craftsman
+270,Playbill
+271,The Baffler
+272,Canta (magazine)
+273,Bitch (magazine)
+274,Honolulu (magazine)
+275,Air International
+276,Wirtschaftswoche
+277,International Times
+278,This (Canadian magazine)
+279,Modern Drummer
+280,Room (magazine)
+281,Lucire
+282,Weird NJ
+283,PC World
+284,Electronic Gaming Monthly
+285,Empire (film magazine)
+286,Teen Beat
+287,Tikkun (magazine)
+288,Protoculture Addicts
+289,On Our Backs
+290,Chickadee (magazine)
+291,Animerica
+292,Stuff (magazine)
+293,Sight & Sound
+294,Inked (magazine)
+295,Bloomberg Businessweek
+296,Mayfair (magazine)
+297,Dreamwatch
+298,Saturday Night Magazine (U.S.)
+299,Academic Ranking of World Universities
+300,Wipers Times
+301,Fangoria
+302,ChartAttack
+303,Exclaim!
+304,The Blood-Horse
+305,Credenda/Agenda
+306,Shift (magazine)
+307,Vibe (magazine)
+308,Total Film
+309,Super Play
+310,CoEvolution Quarterly
+311,Car and Driver
+312,Game Players
+313,Quarterly Essay
+314,InQuest Gamer
+315,Wizard (magazine)
+316,Razzle (magazine)
+317,Computer Gaming World
+318,De Tijd
+319,Panorama (Italian magazine)
+320,D Magazine
+321,Games (magazine)
+322,Chatelaine (magazine)
+323,Martha Stewart Living
+324,PC Zone
+325,Animerica Extra
+326,Oz (magazine)
+327,Country Life (magazine)
+328,Railnews
+329,Stern (magazine)
+330,The Paris Review
+331,Now (newspaper)
+332,Filmfare
+333,The Chap
+334,Science News
+335,Us Weekly
+336,GMR (magazine)
+337,Compute!
+338,Moves (magazine)
+339,The Walrus
+340,Poetry (magazine)
+341,Good Housekeeping
+342,Autocar
+343,American Renaissance (magazine)
+344,The Wire (magazine)
+345,The Century Magazine
+346,Smash Hits
+347,Punk (magazine)
+348,Picture Post
+349,Emerald City (magazine)
+350,Saturday Review (U.S. magazine)
+351,Sports Illustrated for Women
+352,Dragon Magazine (Fujimi Shobo)
+353,Sinclair User
+354,Crash (magazine)
+355,SFX (magazine)
+356,PC PowerPlay
+357,Mangajin
+358,Jewish Currents
+359,Town & Country (magazine)
+360,Punk Planet
+361,Modern Electrics
+362,PC Format
+363,The Freeman
+364,Dwell (magazine)
+365,Zzap!64
+366,GamePro
+367,Famitsu
+368,Blender (magazine)
+369,Other Worlds (magazine)
+370,Index Magazine
+371,World (magazine)
+372,Confidential (magazine)
+373,Metal Hammer
+374,Road & Track
+375,Automobile Magazine
+376,Sports Car International
+377,Total Guitar
+378,Rip It Up (magazine)
+379,Money (magazine)
+380,Mergers & Acquisitions
+381,The New American
+382,Moment (magazine)
+383,The New Leader
+384,The List (magazine)
+385,Canadian Business
+386,Hot Press
+387,Ralph (magazine)
+388,Ash-Shiraa
+389,Giant Robot (magazine)
+390,The Minnesota Review
+391,Edge (magazine)
+392,Publishers Weekly
+393,Arena (magazine)
+394,Technology Review
+395,Your Computer (Australian magazine)
+396,Yankee (magazine)
+397,Canadian Geographic
+398,The National Interest
+399,The Public Interest
+400,Governing (magazine)
+401,Ogoniok
+402,Barron's (newspaper)
+403,SmartMoney
+404,Club International
+405,France Football
+406,Heat (magazine)
+407,Psychology Today
+408,Hana to Yume
+409,Nintendo Comics System
+410,L'Express (France)
+411,Famous Monsters of Filmland
+412,Computer and Video Games
+413,The One (magazine)
+414,Zero (video game magazine)
+415,ST Action
+416,Loaded (magazine)
+417,Southern Literary Messenger
+418,Lesbian Connection
+419,Interview (magazine)
+420,Duzhe
+421,Geist (magazine)
+422,Carn
+423,Fakty i Kommentarii
+424,The Idler (1993)
+425,First Things
+426,Linux Format
+427,Twilight Zone literature
+428,Kiplinger's Personal Finance
+429,TVTimes
+430,NLO (Russian magazine)
+431,Veja (magazine)
+432,Hotdog Magazine
+433,Paris Match
+434,Brave Words & Bloody Knuckles
+435,Nakayoshi
+436,Attitude (magazine)
+437,Storm Track (magazine)
+438,Next Generation (magazine)
+439,American Cinematographer
+440,Cinefex
+441,PC Magazine
+442,The Body Politic (magazine)
+443,Slitz
+444,Bright Lights Film Journal
+445,Garo (magazine)
+446,Biblical Archaeology Review
+447,Socialist Review
+448,McCall's
+449,Shojo Beat
+450,Boys' Life
+451,Physics World
+452,Practical Anarchy
+453,The Sideboard
+454,Playboy (Brazil)
+455,Digit (magazine)
+456,MoneySense
+457,Mother Earth News
+458,Grit (newspaper)
+459,The Lutheran
+460,No Depression (magazine)
+461,Fugues (magazine)
+462,Siren (magazine)
+463,Perfect 10 (magazine)
+464,COM (manga magazine)
+465,Grand Street (magazine)
+466,Free Software Magazine
+467,Nerve (magazine)
+468,Nylon (magazine)
+469,Bust (magazine)
+470,Choice magazine
+471,The Skeptic (UK magazine)
+472,"O, The Oprah Magazine"
+473,Afternoon (magazine)
+474,CPC Attack
+475,Military Heritage
+476,Family Circle
+477,Wallpaper (magazine)
+478,Western Standard
+479,Multinational Monitor
+480,Mechanix Illustrated
+481,Anarchy (magazine)
+482,Trains (magazine)
+483,New Society
+484,Atomic (magazine)
+485,Ptolemaic Terrascope
+486,Highlights for Children
+487,The Dial
+488,XXL (magazine)
+489,Juggs
+490,Marie Claire
+491,Computer Shopper (UK magazine)
+492,Ultra Jump
+493,Editor & Publisher
+494,NGC Magazine
+495,What's on TV
+496,Disney Adventures
+497,The Business (magazine)
+498,Library Journal
+499,Mademoiselle (magazine)
+500,Mixmag
+501,Comics Scene
+502,Cleveland Magazine
+503,TV Week
+504,Guitar World
+505,Christian Order
+506,Frontiers (magazine)
+507,Electronics (magazine)
+508,Western Horseman
+509,Mother Earth (magazine)
+510,Zoo Weekly
+511,Ribon
+512,Alula (magazine)
+513,Birding World
+514,Gargoyle Humor Magazine
+515,Restaurant (magazine)
+516,Feral Tribune
+517,Blueboy (magazine)
+518,The Egoist (periodical)
+519,Dirt Rag
+520,Essence (magazine)
+521,ESPN The Magazine
+522,Football Digest
+523,The Rainbow (magazine)
+524,The Gardeners' Chronicle
+525,The American Mercury
+526,Computer Games Magazine
+527,Hot Rod (magazine)
+528,URB (magazine)
+529,PC Pro
+530,InfoWorld
+531,Overland (magazine)
+532,Cashbox (magazine)
+533,Harvard Business Review
+534,Corsaren
+535,Weekly Reader
+536,Pro Wrestling Illustrated
+537,Weekly Young Jump
+538,Writer's Digest
+539,Anything That Moves
+540,X360
+541,Pennsylvania Punch Bowl
+542,Le Charivari
+543,Modern Railways
+544,Computerworld
+545,Sounds (magazine)
+546,Russian Life
+547,YM (magazine)
+548,Hairstyles
+549,Shivers (magazine)
+550,Maisonneuve (magazine)
+551,Peace News
+552,COMPUTE!'s Gazette
+553,Urbe Bikini
+554,Hyper (magazine)
+555,Car Craft
+556,The Literary Digest
+557,Popular Hot Rodding
+558,SLAM Magazine
+559,Bi Community News
+560,Wprost
+561,National Journal
+562,Caretas
+563,The Believer (magazine)
+564,OK!
+565,Titanic (magazine)
+566,Star (magazine)
+567,National Examiner
+568,Sun (supermarket tabloid)
+569,IEEE Spectrum
+570,MacUser
+571,The New York Times Magazine
+572,Architectural Digest
+573,DC-UK
+574,Creative Computing
+575,Custom PC
+576,The Yale Record
+577,Broadside (magazine)
+578,The Railway Magazine
+579,Asian Babes
+580,Farmers' Almanac
+581,Dengeki Comic Gao!
+582,Dengeki hp
+583,Dengeki Daioh
+584,Wine Spectator
+585,Retro Gamer
+586,My Weekly
+587,BRW (magazine)
+588,Mojo (magazine)
+589,XLR8R
+590,Radio & Records
+591,School Library Journal
+592,Natural History (magazine)
+593,Gourmet (magazine)
+594,Jet (magazine)
+595,The Occidental Quarterly
+596,Cookie (manga magazine)
+597,Yuri Shimai
+598,Uncut (magazine)
+599,The Listener (magazine)
+600,Field & Stream
+601,Parade (magazine)
+602,Novy Mir
+603,Vreme
+604,Mountain Biking UK
+605,Brown Journal of World Affairs
+606,Rue Morgue (magazine)
+607,Callaloo (journal)
+608,EWeek
+609,Info Exame
+610,New Moon (magazine)
+611,Starlog
+612,KoreAm
+613,Airliner World
+614,Help! (magazine)
+615,Big Comic Spirits
+616,Robb Report
+617,Nickelodeon Magazine
+618,Who Put the Bomp
+619,Polityka
+620,Sports Weekly
+621,Geographical (magazine)
+622,Flare (magazine)
+623,Thrasher (magazine)
+624,The Thriving Cult of Greed and Power
+625,The Sun (magazine)
+626,Islamica Magazine
+627,Magic (magazine)
+628,Literary Review
+629,New Zealand Listener
+630,Country Living
+631,Virus Bulletin
+632,Premiere (magazine)
+633,Locus (magazine)
+634,Runner's World
+635,Big Blue Disk
+636,Quarterly Review
+637,Information World Review
+638,Equus (magazine)
+639,New Politics (magazine)
+640,Official Xbox Magazine
+641,Ray Gun (magazine)
+642,Lobster (magazine)
+643,Details (magazine)
+644,The Smart Set
+645,ST Format
+646,OWL (magazine)
+647,Cooking Light
+648,New African
+649,Buses Magazine
+650,Hara-Kiri (magazine)
+651,Evergreen Review
+652,Positif (magazine)
+653,Executive Intelligence Review
+654,Fuck You (magazine)
+655,Record Mirror
+656,Flaunt
+657,Power Slam
+658,Ethical Consumer
+659,Westminster Review
+660,Top Gear (magazine)
+661,Amateur Gardening (magazine)
+662,Kirkus Reviews
+663,Industrialnation
+664,QX (British magazine)
+665,Fast Company (magazine)
+666,Bound & Gagged (magazine)
+667,Globus (weekly)
+668,Nacional (weekly)
+669,PCQuest (magazine)
+670,On Dit
+671,Physics Today
+672,Fps magazine
+673,Metal Maniacs
+674,Sportstar
+675,MacTech
+676,Comic Book Artist
+677,Faze (magazine)
+678,Ananda Vikatan
+679,Kumudam
+680,Kungumam
+681,Aperture (magazine)
+682,Evo (magazine)
+683,Practical Wireless
+684,Back Issue (magazine)
+685,The Friday Times
+686,Sepia (magazine)
+687,Atari Age
+688,DJ Magazine
+689,Minotaure
+690,On Spec
+691,Railway Age
+692,Gameplay (magazine)
+693,Star Trek Magazine
+694,ToyFare
+695,House & Garden (magazine)
+696,Birds & Blooms
+697,Ranger Rick
+698,Sugar (magazine)
+699,The Duelist
+700,Starburst (magazine)
+701,TV Zone
+702,Free Inquiry
+703,Scanlan's Monthly
+704,I-D
+705,Nuts (magazine)
+706,Golf Digest
+707,The Freethinker (journal)
+708,Stereophile
+709,Clash (magazine)
+710,British Chess Magazine
+711,Le Point
+712,Nursing Standard
+713,CCM Magazine
+714,Dollars & Sense
+715,Music Week
+716,Railroad Man's Magazine
+717,Apollo (magazine)
+718,Allure (magazine)
+719,Yes! (U.S. magazine)
+720,Inc. (magazine)
+721,RELEVANT (magazine)
+722,Lavender (magazine)
+723,Red Pepper (magazine)
+724,Compliance Week
+725,Chess Life
+726,Atari ST User
+727,Page 6
+728,Personal Computer World
+729,Famiglia Cristiana
+730,Neo (magazine)
+731,The Courier (magazine)
+732,Tehelka
+733,Entrepreneur (magazine)
+734,Men's World
+735,Black Enterprise
+736,Black Gate (magazine)
+737,Hoard's Dairyman
+738,Meanjin
+739,Computer Gamer
+740,Popular Computing Weekly
+741,GamesMaster International
+742,Transworld Snowboarding
+743,Track & Field News
+744,Inpress
+745,Art & Antiques
+746,World Policy Journal
+747,Astronomy (magazine)
+748,Computer Weekly
+749,The Week
+750,Grazia
+751,Young Magazine
+752,World War 3 Illustrated
+753,Diva (magazine)
+754,Kadro
+755,Make (magazine)
+756,Humbug (magazine)
+757,Science Fiction World
+758,Only (magazine)
+759,The End Is Nigh
+760,Old Farmer's Almanac
+761,ACM Queue
+762,Prologue (magazine)
+763,Relix
+764,VegNews
+765,Urecco
+766,Dilema veche
+767,The Fly (magazine)
+768,TechLife
+769,The New Atlantis (journal)
+770,Columbus Monthly
+771,The American Enterprise
+772,Canadian Living
+773,Harp (magazine)
+774,Africa Confidential
+775,Bizarre (magazine)
+776,DUB (magazine)
+777,Ad Astra (magazine)
+778,AVN (magazine)
+779,The Gospel Magazine
+780,Maayan
+781,Cinefantastique
+782,New England Monthly
+783,Bowens International
+784,GamesTM
+785,Claremont Review of Books
+786,The Cricketer
+787,Video Watchdog
+788,Cook's Illustrated
+789,In Touch Weekly
+790,Comics International
+791,Men (magazine)
+792,Armchair General
+793,EDN (magazine)
+794,Meccano Magazine
+795,BH Dani
+796,Nezavisne novine
+797,Liwayway
+798,Paste (magazine)
+799,Keyboard (magazine)
+800,Amstrad Computer User
+801,Egg (magazine)
+802,MensEGG
+803,Electronic Games
+804,Australian Geographic
+805,Muscle & Fitness
+806,SixDegrees (magazine)
+807,Pro Football Weekly
+808,Zeta (magazine)
+809,Quill & Quire
+810,Teen Vogue
+811,Communication Arts (magazine)
+812,The Sciences
+813,Inside Sport
+814,Naval History (magazine)
+815,Filter (magazine)
+816,Skateboarder (magazine)
+817,Starz (magazine)
+818,Outlook (magazine)
+819,Sega Saturn Magazine
+820,Current Biography
+821,A&F Quarterly
+822,The Lady (magazine)
+823,Men's Vogue
+824,Polymancer
+825,QST
+826,Intelligent Computing CHIP magazine (India)
+827,PC Plus
+828,Resident (magazine)
+829,Revolver (magazine)
+830,Children's Digest
+831,Model Engineer
+832,Guitar Player
+833,Chronicle of Current Events (samizdat)
+834,City Life (magazine)
+835,Lui
+836,Match (magazine)
+837,Reality Check Network
+838,The Oldie
+839,Broadcast (magazine)
+840,Plaza Magazine
+841,Animation (magazine)
+842,Official Nintendo Magazine
+843,Bunte
+844,Disney Magazine
+845,Architectural Review
+846,Architects' Journal
+847,Black Static
+848,Flight International
+849,The Hockey News
+850,CanCam
+851,Cannabis Culture (magazine)
+852,Eclectica Magazine
+853,Gempak
+854,Radical Teacher
+855,Woman's Day
+856,Micro Mart
+857,DJ Times
+858,Gangan Comics
+859,Putnam's Magazine
+860,The Knickerbocker
+861,Magill
+862,The Record Music Magazine
+863,Harvard Political Review
+864,New Humanist
+865,Fruits (magazine)
+866,The Literary Review
+867,HERO (magazine)
+868,PC Life
+869,Krokodil
+870,A.N.A.L.O.G.
+871,City Limits (magazine)
+872,Booklist
+873,Official Guide of the Railways
+874,Hymy
+875,Decibel (magazine)
+876,News from the Republic of Letters
+877,Clarion (magazine)
+878,Datum (magazine)
+879,La Conquista del Estado
+880,Al-Manar (magazine)
+881,Dolly (magazine)
+882,APC (magazine)
+883,MetroSource
+884,Commonweal
+885,Nintendo Magazine System (Australia)
+886,Proceso (magazine)
+887,The Ladder (magazine)
+888,WoodenBoat
+889,Faklen
+890,Cosmos (magazine)
+891,LiP magazine
+892,Gramophone (magazine)
+893,Fanfare (magazine)
+894,Philosophy Now
+895,New Media Age
+896,Anandamela
+897,Men's Fitness
+898,Scrye
+899,Comics & Games Retailer
+900,Her World
+901,Art in America
+902,Das Neue Blatt
+903,Light Railways
+904,Official U.S. PlayStation Magazine
+905,V Jump
+906,Critical Review (Brown University)
+907,American Heritage (magazine)
+908,Literary Review of Canada
+909,American Heritage of Invention & Technology
+910,The Tufts Observer
+911,GameFan
+912,Seura
+913,Advertising Age
+914,Call-A.P.P.L.E.
+915,Animage
+916,Wings (magazine)
+917,Ribon Original
+918,Cornerstone (magazine)
+919,Sky Kids magazine
+920,Dutch Birding
+921,La Settimana Enigmistica
+922,CoroCoro Comic
+923,Girl Germs
+924,Army Man (magazine)
+925,Film Score Monthly
+926,Shout (magazine)
+927,Harvest (Neopagan magazine)
+928,Corporate Knights
+929,Fire & Movement
+930,Strange Horizons
+931,Realms of Fantasy
+932,Battle Games in Middle-earth
+933,Computing Today
+934,Amiga Format
+935,The Black Flame
+936,The Wargamer (magazine)
+937,Silicon Chip
+938,Electronic Musician
+939,Political Affairs (magazine)
+940,LeveL
+941,The American Magazine
+942,Girlfriends (magazine)
+943,Open Source For You
+944,New Weekly
+945,Shonen Magz
+946,Chagurin
+947,Ray Li
+948,Computing (magazine)
+949,Wet (magazine)
+950,Dazed & Confused (magazine)
+951,Eureka (University of Cambridge magazine)
+952,The Comet
+953,Solaris (magazine)
+954,Record Collector
+955,Al-Hadaf
+956,Young King OURs
+957,Critic (magazine)
+958,Artforum
+959,Cornhill Magazine
+960,Internet Magazine
+961,Tekhnika Molodezhi
+962,Air Forces Monthly
+963,Deadly Hands of Kung Fu
+964,RWD Magazine
+965,World Soccer (magazine)
+966,L'espresso
+967,Game World Navigator
+968,Irish Music (magazine)
+969,Black Belt (magazine)
+970,Metro Weekly
+971,Drum (South African magazine)
+972,Tokion
+973,Global Rhythm
+974,Hudson Valley (magazine)
+975,Railway Gazette International
+976,Huisgenoot
+977,True Detective
+978,Select (magazine)
+979,Znamya
+980,True Confessions (magazine)
+981,JJ (magazine)
+982,Bis (magazine)
+983,Talkers Magazine
+984,Fast Forward (magazine)
+985,Juiced.GS
+986,Tinkle
+987,Better Homes and Gardens (magazine)
+988,Portland Magazine
+989,Cavalier (magazine)
+990,New Jersey Monthly
+991,Ryerson Review of Journalism
+992,Men's Journal
+993,SKY magazine
+994,PlayStation Magazine
+995,Aku Ankka
+996,NIN (magazine)
+997,Amtix!
+998,The Crack (magazine)
+999,Sport Compact Car
+1000,Canada's History
+1001,Extra!
+1002,Arizona Highways
+1003,Impact (student magazine)
+1004,Athletics Weekly
+1005,Quattroruote
+1006,J-14 (magazine)
+1007,Rock Sound
+1008,Lilith (magazine)
+1009,Scouting (magazine)
+1010,Oui (magazine)
+1011,In-Training
+1012,America (magazine)
+1013,MacFormat
+1014,Little India (magazine)
+1015,Everyday Food
+1016,Total!
+1017,UnixWorld
+1018,Elsevier (magazine)
+1019,Warp (magazine)
+1020,Brick (magazine)
+1021,Musician (magazine)
+1022,Null Hypothesis: The Journal of Unlikely Science
+1023,Timothy McSweeney's Quarterly Concern
+1024,Nude & Natural
+1025,Go-Set
+1026,Australasian Post
+1027,Shimmer Magazine
+1028,BBC Gardeners' World
+1029,Monocle (satirical magazine)
+1030,Option (car magazine)
+1031,Encounter (magazine)
+1032,Margaret (magazine)
+1033,Betsucomi
+1034,Bessatsu Friend
+1035,Monthly Asuka
+1036,Max Power (magazine)
+1037,LaLa
+1038,N+1
+1039,The New Masses
+1040,Classic Car Weekly
+1041,Big Comic Original
+1042,Weekly Morning
+1043,Petit Comic
+1044,Magazine Z
+1045,Weg!
+1046,Beresford Republic
+1047,Weatherwise
+1048,El Nuevo Cojo
+1049,ZigZag (magazine)
+1050,Your Computer (British magazine)
+1051,Grassroots Motorsports
+1052,Swimming World Magazine
+1053,Mathematics Magazine
+1054,Newsweek Polska
+1055,The Irrawaddy
+1056,Comic Shop News
+1057,Tearaway Magazine
+1058,The Formalist
+1059,Chelcheragh
+1060,Science Digest
+1061,Micro Cornucopia
+1062,Lippincott's Monthly Magazine
+1063,Norsk Ukeblad
+1064,Familien
+1065,Hjemmet
+1066,Emel (magazine)
+1067,Det Nye
+1068,Scientific American Mind
+1069,Business Jump
+1070,The Irish Humanist
+1071,Scribner's Magazine
+1072,Respekt
+1073,The Ecologist
+1074,Press Gazette
+1075,Kicker (sports magazine)
+1076,Peace Magazine
+1077,Himal Khabarpatrika
+1078,Nepali Times
+1079,Chemistry World
+1080,Birdwatch (magazine)
+1081,Nightlife Magazine
+1082,Nicola (magazine)
+1083,Electron User
+1084,Jackie (magazine)
+1085,The Masses
+1086,Milwaukee Magazine
+1087,American Scientist
+1088,Food & Wine
+1089,Mean Machines
+1090,Wholphin (DVD)
+1091,When Saturday Comes
+1092,HM (magazine)
+1093,Blitz (newspaper)
+1094,North & South (magazine)
+1095,QSaltLake
+1096,NACLA Report on the Americas
+1097,Expert (magazine)
+1098,Leading Edge
+1099,The American Jewess
+1100,Antaeus (magazine)
+1101,Bessatsu Margaret
+1102,Princess (magazine)
+1103,CFO (magazine)
+1104,Executive Travel magazine
+1105,Australian and New Zealand Wine Industry Journal
+1106,Sports Illustrated Kids
+1107,Chip (magazine)
+1108,Grihshobha
+1109,That's Life (magazine)
+1110,Travel + Leisure
+1111,Soccer America
+1112,Bowlers Journal Online
+1113,Barely Legal (magazine)
+1114,RES (magazine)
+1115,Real Simple
+1116,Milford Magazine
+1117,Inside Carolina
+1118,Adweek
+1119,Doctor Who Adventures
+1120,Coronet (magazine)
+1121,$pread
+1122,Microbe Magazine
+1123,RFD (magazine)
+1124,BBC History
+1125,Brides (magazine)
+1126,Texas Highways
+1127,Hai Bangalore
+1128,Billboard Radio Monitor
+1129,Curtis's Botanical Magazine
+1130,GQ Australia
+1131,Out Front Colorado
+1132,Pageant (magazine)
+1133,The Motor
+1134,The Texas Observer
+1135,Sporting Life (American newspaper)
+1136,BBC Focus
+1137,Young You
+1138,Hip Hop Connection
+1139,House Beautiful
+1140,RPM (magazine)
+1141,New York Quarterly
+1142,Daily Word
+1143,Mir Fantastiki
+1144,MyLINUX
+1145,Gaysweek
+1146,Arena Homme +
+1147,Comptiq
+1148,Glow (magazine)
+1149,Club (magazine)
+1150,BuySell Magazine
+1151,BlackBook
+1152,American Rifleman
+1153,Mandate (magazine)
+1154,Comic Yuri Hime
+1155,Big League
+1156,Esli
+1157,MensuHell
+1158,New Era (magazine)
+1159,Ziarul Financiar
+1160,ColorLines
+1161,Metal Forces
+1162,Metro (magazine)
+1163,Tennis (magazine)
+1164,Planetary Report
+1165,.info (magazine)
+1166,The Washingtonian (magazine)
+1167,Marketing Week
+1168,GEO (magazine)
+1169,CKM (magazine)
+1170,Al-Ahram Weekly
+1171,Contemporary (magazine)
+1172,Liberty (Adventist magazine)
+1173,Transworld Skateboarding
+1174,Anime Insider
+1175,PC Chip
+1176,Love it!
+1177,Babaganewz
+1178,Notices of the American Mathematical Society
+1179,Your Family Tree
+1180,MicroMega
+1181,Al Fateh
+1182,Plan B (magazine)
+1183,Play (UK magazine)
+1184,Funny Times (newspaper)
+1185,Practical Fishkeeping
+1186,Urheilulehti
+1187,Chollima (magazine)
+1188,True (magazine)
+1189,Seed (magazine)
+1190,The Briefing
+1191,Venture Capital Journal
+1192,OutWeek
+1193,Cleo (magazine)
+1194,Lowrider (magazine)
+1195,Gospel Advocate
+1196,CINEMAEDITOR
+1197,Sound on Sound
+1198,New York Magazine
+1199,Creativity (magazine)
+1200,The Mind's Construction Quarterly
+1201,V (American magazine)
+1202,Dengeki G's Magazine
+1203,Vanitha
+1204,Xclusive Magazine
+1205,The Engineer (magazine)
+1206,Fighting Spirit Magazine
+1207,Ancestry Magazine
+1208,Inside Soap
+1209,Monitor (magazine)
+1210,Artscribe
+1211,The Skinny (magazine)
+1212,Sunstone (magazine)
+1213,Computerra
+1214,Soul Purpose
+1215,Women's Physique World
+1216,Children's World (magazine)
+1217,Best Motoring
+1218,ACE (games magazine)
+1219,Rolling Thunder (journal)
+1220,Commodore Force
+1221,Back Stage
+1222,Washington Report on Middle East Affairs
+1223,Katso
+1224,Field Artillery (magazine)
+1225,Zoetrope: All-Story
+1226,Borderline (magazine)
+1227,Sunset (magazine)
+1228,Classic Gamer
+1229,Toxic (magazine)
+1230,Rugby League Week
+1231,Live Steam & Outdoor Railroading (magazine)
+1232,Cineaste (magazine)
+1233,Poetry Review
+1234,Prevention (magazine)
+1235,Sing Out!
+1236,Theatre Record
+1237,Yale Alumni Magazine
+1238,Brandweek
+1239,Moviespot
+1240,ChuChu (magazine)
+1241,T3 (magazine)
+1242,Impact (action entertainment magazine)
+1243,Cosmogirl
+1244,Swank
+1245,Classy (magazine)
+1246,Men Only
+1247,The Realist
+1248,San Francisco (magazine)
+1249,Nauka i Zhizn
+1250,Dublin Review (Catholic periodical)
+1251,Auto Bild
+1252,The Western Producer
+1253,Flex (magazine)
+1254,Hit Parader
+1255,Scarlet (magazine)
+1256,Smooth (magazine)
+1257,California Lawyer
+1258,Undercurrents (magazine)
+1259,Outdoor Life
+1260,Look (American magazine)
+1261,Ontario Out of Doors
+1262,Lego Club Magazine
+1263,Panzerfaust Magazine
+1264,What Satellite and Digital TV
+1265,Farmand
+1266,Profil (magazine)
+1267,Nintendo Gamer
+1268,El Jueves
+1269,ImagineFX
+1270,Aera (magazine)
+1271,FRoots
+1272,Semper Floreat
+1273,Apex Magazine
+1274,CHARGE! (magazine)
+1275,Linux User and Developer
+1276,Martha Stewart Weddings
+1277,BBC Music Magazine
+1278,Zero Tolerance (magazine)
+1279,NOW (UK magazine)
+1280,Top of the Pops (magazine)
+1281,Lady Churchill's Rosebud Wristlet
+1282,Opzij
+1283,Amiga Computing
+1284,Alternative Ulster
+1285,Billiken (magazine)
+1286,Zeit Wissen
+1287,Flux (US)
+1288,Shape (magazine)
+1289,16 (magazine)
+1290,Saga of the Sanpitch
+1291,The Jerusalem Report
+1292,Magnet (magazine)
+1293,Poetry Ireland Review
+1294,Bookseller and Publisher (Australian magazine)
+1295,Geez (magazine)
+1296,Salt Water Sportsman
+1297,En Patufet
+1298,BBC MindGames Magazine
+1299,Chinese National Geography
+1300,Jack and Jill (magazine)
+1301,Science Illustrated
+1302,Times Higher Education
+1303,Practical Computing
+1304,WWE Magazine
+1305,Debonair (magazine)
+1306,The New Formalist
+1307,Rock-A-Rolla
+1308,Gothic Beauty
+1309,Bad Subjects
+1310,Inquiry Magazine
+1311,American Way (magazine)
+1312,Chi (magazine)
+1313,Cabinet (magazine)
+1314,Ain al-Yaqeen
+1315,BEEB
+1316,Look-in
+1317,The American Interest
+1318,Civil War Times
+1319,Contingencies
+1320,America's Civil War
+1321,The Village Voice of Ottawa Hills
+1322,Libertarian Review
+1323,Aesthetica
+1324,Alaska (magazine)
+1325,Undo magazine
+1326,Circus (magazine)
+1327,Sandesh (magazine)
+1328,New Zealand Geographic
+1329,Azure (magazine)
+1330,Kangura
+1331,Frequency: The Snowboarder's Journal
+1332,Crain's Chicago Business
+1333,Buffy the Vampire Slayer Magazine incorporating Angel Magazine
+1334,Simpsons Illustrated
+1335,The Friend (LDS magazine)
+1336,Bidoun
+1337,Tropical Fish Hobbyist
+1338,FlyPast
+1339,PC Extreme
+1340,Webuser
+1341,Computer Music (magazine)
+1342,Computer Shopper (US magazine)
+1343,JOM (journal)
+1344,Combat (newspaper)
+1345,Sound & Vision (magazine)
+1346,The Sneaker
+1347,Vietnam Magazine
+1348,Songlines (magazine)
+1349,Architectural Record
+1350,Living Blues
+1351,Jeune Afrique
+1352,Vital Speeches of the Day
+1353,Tint (magazine)
+1354,Official PlayStation Magazine (Ireland)
+1355,Adventist Review
+1356,Wingspan (magazine)
+1357,Collecticus
+1358,InTown
+1359,Boston Review
+1360,Dirty Linen
+1361,Monthly Sunday Gene-X
+1362,Scarsdale Magazine
+1363,The Reporter (magazine)
+1364,Putnam Magazine
+1365,The Africa Report
+1366,InStyle
+1367,Rockdelux
+1368,Xbox World
+1369,GameGO!
+1370,Muscular Development
+1371,Christopher Street (magazine)
+1372,Politikin Zabavnik
+1373,After Dark (magazine)
+1374,The Grocer
+1375,The Progressive Farmer
+1376,Yachting (magazine)
+1377,Businessworld
+1378,Controlled Environments Magazine
+1379,Forensic Magazine
+1380,The American Scholar (magazine)
+1381,The American Lawyer
+1382,Lighthouse Digest
+1383,Magic (music magazine)
+1384,Monthly Comic Alive
+1385,Merkur (magazine)
+1386,Unmad
+1387,Sybil's Garage
+1388,Sovremennik
+1389,Unish-Kuri
+1390,F1 Magazine
+1391,Jockey Slut
+1392,New Idea
+1393,The Horn Book Magazine
+1394,After the Battle
+1395,TransWorld Motocross
+1396,View Magazine
+1397,Suomen Kuvalehti
+1398,Computeractive
+1399,ON Magazine
+1400,Colors (magazine)
+1401,The Field (magazine)
+1402,YOU
+1403,Albedo One
+1404,Mothering (magazine)
+1405,Proceedings (magazine)
+1406,Spex (magazine)
+1407,Gotham (magazine)
+1408,The Monthly
+1409,Blue Book (magazine)
+1410,FACTS (newspaper)
+1411,Complex (magazine)
+1412,Flagship magazine
+1413,Amazing Comics
+1414,Bluff Magazine
+1415,Goldmine (magazine)
+1416,New York State Conservationist
+1417,The Nerve (magazine)
+1418,Saveur
+1419,Bomb (magazine)
+1420,Archaeology (magazine)
+1421,Balamangalam
+1422,Gear (magazine)
+1423,Kvant magazine
+1424,Australian Railway History
+1425,Blueprint (architecture magazine)
+1426,Armed Forces Journal
+1427,SERVO Magazine
+1428,LeftLion
+1429,RadCom
+1430,Terrorizer (magazine)
+1431,Art Papers
+1432,Akhbar Al-Adab
+1433,Bent (magazine)
+1434,TV Choice
+1435,Celebrity Skin (magazine)
+1436,World Literature Today
+1437,SLUG Magazine
+1438,Charlton Bullseye (fanzine)
+1439,History Today
+1440,Vellinakshatram (magazine)
+1441,Samakalika Malayalam
+1442,Backpacking Light Magazine
+1443,Engineering News-Record
+1444,PC Utilities
+1445,Wink (comics)
+1446,Jolie (magazine)
+1447,The Bloomsbury Review
+1448,ARTnews
+1449,Femina (India)
+1450,The Scientific Monthly
+1451,Children & Young People Now
+1452,Jester of Columbia
+1453,American Art Review
+1454,Korrespondent
+1455,Columbia Political Review
+1456,Front (magazine)
+1457,73 (magazine)
+1458,New Mexico Magazine
+1459,Discovery Girls
+1460,The Cricket
+1461,Resurgence & Ecologist
+1462,Cadence Magazine
+1463,Spare Rib
+1464,GamesMaster (magazine)
+1465,ERB-dom
+1466,The Hibernian
+1467,Australian Playboy
+1468,Switch (Romanian magazine)
+1469,I.D. (magazine)
+1470,DNA (magazine)
+1471,Nichane
+1472,The Argonaut
+1473,Wet Ink
+1474,Monkey magazine
+1475,Post Magazine
+1476,Dave Campbell's Texas Football
+1477,Ahoy!
+1478,Emergency Nurse (magazine)
+1479,Primary Health Care (magazine)
+1480,Nursing Times
+1481,Odra (magazine)
+1482,Azerbaijan International
+1483,Adventist Today
+1484,The Liberator (magazine)
+1485,Orion (magazine)
+1486,Blade (magazine)
+1487,Jewish World Review
+1488,Shooting Times
+1489,Whole Terrain
+1490,Fast Car (magazine)
+1491,Frontline (journal)
+1492,Labor Notes (organization)
+1493,The Big Takeover
+1494,VSD (French magazine)
+1495,Frankie (magazine)
+1496,Seattle Metropolitan
+1497,Essentials
+1498,Alter Ego (magazine)
+1499,Chithrabhumi
+1500,PSM3
+1501,Ulster Tatler
+1502,Cycling Weekly
+1503,Design Week
+1504,Janus (science fiction magazine)
+1505,Electronics Illustrated
+1506,Tae Kwon Do Times
+1507,StoryWorks
+1508,Weekly Comic Bunch
+1509,Hobby Japan
+1510,Kemps Film and TV Production Services Handbook
+1511,Country Home (magazine)
+1512,The Brooklyn Rail
+1513,Terror Australis
+1514,Pride Magazine
+1515,The Australian Horror and Fantasy Magazine
+1516,Local Government Chronicle
+1517,Tilllate
+1518,11 Freunde
+1519,Mirabella
+1520,Lucky (magazine)
+1521,Spectrum (magazine)
+1522,Babytalk (magazine)
+1523,Education in Chemistry
+1524,WomenSports
+1525,Woman's Own
+1526,The Fader
+1527,Business Jet Traveler
+1528,Chroma: A Queer Literary Journal
+1529,Kentucky Monthly
+1530,Parenting (magazine)
+1531,Guitarist (magazine)
+1532,Risk (magazine)
+1533,Manga Time Kirara Carat
+1534,Classic Images
+1535,PREF mag
+1536,Landfall (journal)
+1537,The National Student Magazine
+1538,Zingmagazine
+1539,Birding Scotland
+1540,Classic Rock (magazine)
+1541,Focus (German magazine)
+1542,Games for Windows: The Official Magazine
+1543,Bike (magazine)
+1544,The Messenger (magazine)
+1545,Radio Ink
+1546,The Tyee
+1547,Oxford American
+1548,Sport auto (Germany)
+1549,Gnosis (magazine)
+1550,Zoobooks
+1551,Fast Folk
+1552,Clamor (magazine)
+1553,FOOM
+1554,Beyond Fantasy Fiction
+1555,People (Australian magazine)
+1556,Filmink
+1557,Guernica Magazine
+1558,Los Angeles (magazine)
+1559,The Youth's Companion
+1560,Midwest Living
+1561,Traditional Home
+1562,The Fed (Columbia newspaper)
+1563,Gracies Dinnertime Theatre
+1564,Familia (literary magazine)
+1565,Japan Railfan Magazine
+1566,Adventist World
+1567,Signs of the Times (magazine)
+1568,The Waterways Journal Weekly
+1569,Signs of the Times (Australian magazine)
+1570,El Centinela (Adventist magazine)
+1571,K9YA Telegraph
+1572,Flying (magazine)
+1573,16 de Abril
+1574,Show Business (magazine)
+1575,Modern Man (magazine)
+1576,Speculative Grammarian
+1577,Take 5 (magazine)
+1578,Boston (magazine)
+1579,Philadelphia (magazine)
+1580,032c
+1581,Fantastic Universe
+1582,Mega (magazine)
+1583,The New York Times Book Review
+1584,Rhode Island Monthly
+1585,Ikonz
+1586,Genii (magazine)
+1587,Goldberg Magazine
+1588,Departures (magazine)
+1589,Screen International
+1590,Destroyer Magazine
+1591,FLYER (magazine)
+1592,Catholic World
+1593,Bessatsu Hana to Yume
+1594,Bethesda Magazine
+1595,Dance Magazine
+1596,Grooves (magazine)
+1597,Acoustic Guitar (magazine)
+1598,Commodore Format
+1599,Pipesdrums Magazine
+1600,Monk Magazine
+1601,BBC Sky at Night
+1602,CTO Forum
+1603,Girlfriend (magazine)
+1604,Rugby World
+1605,Molla Nasraddin (magazine)
+1606,JPG (magazine)
+1607,Hemmings Motor News
+1608,Shoxx
+1609,FinanceAsia
+1610,Australian ZX Users' Association
+1611,The Philadelphia Trumpet
+1612,80 Micro
+1613,Metropolis (free magazine)
+1614,Home Media Magazine
+1615,Kilobaud Microcomputing
+1616,Electronics Today International
+1617,Jack (magazine)
+1618,SoftSide
+1619,Boyz (magazine)
+1620,CineAction
+1621,MegaTech
+1622,Mega Drive Advanced Gaming
+1623,Mega Power
+1624,Sega Power
+1625,Sega Pro
+1626,Sega Force
+1627,Sega Zone
+1628,Backpacker (magazine)
+1629,The Art Journal
+1630,Commodore Power Play
+1631,Your Commodore
+1632,International Record Review
+1633,Gray's Sporting Journal
+1634,American Journalism Review
+1635,Rip It Up (Adelaide)
+1636,Film Comment
+1637,Neon (magazine)
+1638,Entertainment Today
+1639,AXM
+1640,Renditions
+1641,8 Days (magazine)
+1642,House and Home (magazine)
+1643,Falter
+1644,Ziligurti
+1645,Mi Gente Hispana Magazine
+1646,Gazeta Polska
+1647,Erotic Review
+1648,Print (magazine)
+1649,Manga Force: The Ultimate Collection
+1650,Wine Enthusiast Magazine
+1651,Harvard Magazine
+1652,River Styx (magazine)
+1653,The Blast (newspaper)
+1654,Faust (magazine)
+1655,Standard (magazine)
+1656,Evropa (magazine)
+1657,Bluestocking (magazine)
+1658,United Church Observer
+1659,Paletten
+1660,New Music Weekly
+1661,Creative Review
+1662,Guide Magazine (ACQ)
+1663,Sommelier India
+1664,The Threepenny Review
+1665,New American Writing
+1666,The American Poetry Review
+1667,JazzTimes
+1668,Putsj
+1669,Bear Magazine
+1670,Madame Figaro
+1671,La Gente de Aztlan
+1672,Improvement Era
+1673,Pen Pusher
+1674,Japanzine
+1675,Cosmode
+1676,Anokhi Kahaniyan
+1677,Broadcasting & Cable
+1678,Natural Life (magazine)
+1679,GUD Magazine
+1680,FIELD (magazine)
+1681,Motorcyclist (magazine)
+1682,Hambone (magazine)
+1683,Warlock (magazine)
+1684,Barrow Street (magazine)
+1685,ArtAsiaPacific
+1686,Parnassus (magazine)
+1687,ComputerScope
+1688,Culture Crash Comics
+1689,The Harrow
+1690,Zwrot
+1691,Blunt Magazine
+1692,Underground Voices
+1693,Sports Afield
+1694,Epoch (American magazine)
+1695,Pop (fashion magazine)
+1696,L'Hebdo
+1697,White Buffalo Gazette
+1698,Little White Lies (magazine)
+1699,SchoolArts
+1700,Domus (magazine)
+1701,Soaplife
+1702,Bookforum
+1703,Australian Book Review
+1704,The Skateboard Mag
+1705,Esprit de Corps (magazine)
+1706,American Alpine Journal
+1707,Theme (magazine)
+1708,Worldwide jam (magazine)
+1709,Academic Matters
+1710,Guide (Adventist magazine)
+1711,LOU LOU
+1712,Kalle Anka & C:o
+1713,Woman's World
+1714,Nuovi Argomenti
+1715,Chimurenga (magazine)
+1716,Monthly Comic Blade
+1717,Australian Banking & Finance
+1718,Movmnt
+1719,Revue Noire (magazine)
+1720,The Writer
+1721,Photonics Spectra
+1722,Logan (magazine)
+1723,Rock Street Journal
+1724,Freeskier Magazine
+1725,GO (American magazine)
+1726,Air & Space/Smithsonian
+1727,Today's Golfer
+1728,Metropolis (architecture magazine)
+1729,Zan-e Rooz
+1730,Fur-Fish-Game
+1731,A Public Space
+1732,Gameroom magazine
+1733,The Strad
+1734,Windows: The Official Magazine
+1735,Death Ray (magazine)
+1736,Sky Magazine
+1737,Fashion (magazine)
+1738,Lime (magazine)
+1739,Manja (magazine)
+1740,Sheeko (magazine)
+1741,Parents (magazine)
+1742,Cursor (magazine)
+1743,Angelicuss
+1744,Auto Express
+1745,Venus Zine
+1746,Etiqueta Negra (magazine)
+1747,Computing (Urdu Magazine)
+1748,Hobo (magazine)
+1749,Stardust (magazine)
+1750,Harpies and Quines
+1751,Charlie Mensuel
+1752,Southern Living
+1753,St. Joseph Communications
+1754,Semana
+1755,Newsbreak (magazine)
+1756,Rock & Folk
+1757,Playmen
+1758,Pulse St. Petersburg
+1759,The Politic
+1760,Zero (Spanish magazine)
+1761,Cambio (magazine)
+1762,Canadian Alpine Journal
+1763,Yale Literary Magazine
+1764,The Lifted Brow
+1765,High Country News
+1766,Cromos
+1767,Huriyah (magazine)
+1768,Sir John (magazine)
+1769,The Stinging Fly
+1770,Building (magazine)
+1771,Global Science
+1772,PlayStation Official Magazine
+1773,Decanter (magazine)
+1774,2512 (magazine)
+1775,National Geographic Traveler
+1776,American Libraries
+1777,National Club Golfer
+1778,Candid Austin Teen Magazine
+1779,The Absolute Sound
+1780,Le Crapouillot
+1781,Architecture (magazine)
+1782,Marketing (magazine)
+1783,Sanathana Sarathi (magazine)
+1784,Current Archaeology
+1785,Buzz (magazine)
+1786,Renaissance Magazine
+1787,Pentacle (magazine)
+1788,Comic Beam
+1789,Gulf Stream Magazine
+1790,The Boulevard (magazine)
+1791,Vertigo (UTS)
+1792,Current World Archaeology
+1793,The Packer
+1794,Memphis Sport
+1795,Option (music magazine)
+1796,Films of the Golden Age
+1797,OffBeat (music magazine)
+1798,Monthly Comic Zero Sum
+1799,Queen (magazine)
+1800,Cycle World
+1801,Muy Interesante
+1802,Gentleman (magazine)
+1803,Croissant (magazine)
+1804,Cosmetics & Toiletries
+1805,Hazards (magazine)
+1806,Aquila (children's magazine)
+1807,Spectator Magazine
+1808,Nintendo Fun Club
+1809,Photosho
+1810,ArtCrimes
+1811,James Bond Car Collection
+1812,Townsend Letter
+1813,Rail Business Intelligence
+1814,Cyclic Defrost
+1815,Hip Mama
+1816,Nature China
+1817,Urban Realm (magazine)
+1818,Thirteen minutes
+1819,Fluide Glacial
+1820,Diabetes Health
+1821,Another Magazine
+1822,Brentwood Magazine
+1823,Audrey (magazine)
+1824,Cheese!
+1825,Dengeki Hime
+1826,Dengeki Hobby Magazine
+1827,Dengeki Maoh
+1828,Laboratory News
+1829,Popular Photography
+1830,Eye (magazine)
+1831,GameWeek Magazine
+1832,Pilot und Flugzeug
+1833,Steampunk Magazine
+1834,Tokyo Journal
+1835,SuperBike (magazine)
+1836,American Iron Magazine
+1837,Not Private Eye
+1838,Baseline (magazine)
+1839,Imagine (AD&D magazine)
+1840,Culture Lounge
+1841,Surfer (magazine)
+1842,PC Live!
+1843,The Instructor
+1844,Young Woman's Journal
+1845,Fused Magazine
+1846,Road & Travel Magazine
+1847,Megami Magazine
+1848,Power Engineering (magazine)
+1849,Iceland Review
+1850,Celebrated Living
+1851,Ugly Things
+1852,Dragon Age Pure
+1853,Estates Gazette
+1854,Railroads Illustrated
+1855,Bicycle Quarterly
+1856,Existere
+1857,European Car (magazine)
+1858,The Face (magazine)
+1859,Comic BonBon
+1860,Practical Mechanics
+1861,Sylk Magazine
+1862,Placar
+1863,The Lawyer
+1864,Journal of Singing
+1865,Lusso (magazine)
+1866,Voici
+1867,Narrow Gauge and Shortline Gazette
+1868,Vue Weekly
+1869,Fourteen Hills
+1870,See Magazine
+1871,The New Times (Russia)
+1872,Child (magazine)
+1873,Magi-Cu
+1874,Golf Magazine
+1875,The Studio (magazine)
+1876,"Down East, The Magazine of Maine"
+1877,The Wolf (magazine)
+1878,Asuka Fantasy DX
+1879,Conceive (magazine)
+1880,Gyro (magazine)
+1881,Inside Front
+1882,Enterprise Magazine
+1883,Dissent (Australian magazine)
+1884,The East Bay Monthly
+1885,The Archaeologist
+1886,Thuglak
+1887,Chicago (magazine)
+1888,The Valley Beat
+1889,Catholic Biblical Quarterly
+1890,Investigate (magazine)
+1891,Igromania
+1892,Mobile World
+1893,Comic High!
+1894,Music Express (magazine)
+1895,SPAN magazine
+1896,Investors Chronicle
+1897,Metal Bulletin
+1898,Art+Auction
+1899,Latina (magazine)
+1900,The Monster Times
+1901,Your 64
+1902,Scarlet Street (magazine)
+1903,The Mountain Astrologer
+1904,Weekly Playboy
+1905,Monthly Playboy
+1906,Canadian Notes & Queries
+1907,Desert Magazine
+1908,Due South (magazine)
+1909,Vancouver Magazine
+1910,Sojourners
+1911,Play (US magazine)
+1912,World Affairs
+1913,The Popular Magazine
+1914,Icarus (magazine)
+1915,Pipeline Instrumental Review
+1916,Manga Time Kirara
+1917,Manga Time Kirara Forward
+1918,Sport (US magazine)
+1919,Big K (magazine)
+1920,National Geographic Adventure (magazine)
+1921,Science World (magazine)
+1922,Fantastic Films
+1923,Prantik
+1924,Professional Wealth Management
+1925,Bravo (magazine)
+1926,Self (magazine)
+1927,Pakistan Textile Journal
+1928,Koululainen
+1929,Apu (magazine)
+1930,Oho!
+1931,Popular Communications
+1932,Otaku USA
+1933,Time Off
+1934,Molodaya Gvardiya (magazine)
+1935,Beaver Hunt
+1936,Yoga Journal
+1937,Guns & Weapons for Law Enforcement
+1938,Geek Monthly
+1939,DC-TIPS
+1940,Amiga Force
+1941,G Magazine
+1942,Lemon People
+1943,Manga Burikko
+1944,Safari magazine
+1945,Sparta (magazine)
+1946,Financial Engineering News
+1947,Tate Etc.
+1948,MovieMaker
+1949,Meat magazine
+1950,Gamereactor
+1951,Abitare (magazine)
+1952,Pcplayer
+1953,Metro Magazine
+1954,Logistics Management (magazine)
+1955,Bible Review
+1956,Trap Door (magazine)
+1957,Europa Magazine
+1958,The Good News
+1959,Ideal Home
+1960,European Vibe Magazine
+1961,Pariscope
+1962,Touchstone Magazine
+1963,Yaahting
+1964,7x7 (magazine)
+1965,Missbehave
+1966,Taki's Magazine
+1967,Health (magazine)
+1968,The Seven Arts
+1969,Russh
+1970,Weekly Young Sunday
+1971,Cure (magazine)
+1972,Oriental Stories
+1973,Classic Style Magazine
+1974,Country Weekly
+1975,Financial Mail
+1976,Next American City
+1977,Stranger (magazine)
+1978,Nang!
+1979,Mob Candy
+1980,Input Magazine
+1981,The Wilson Quarterly
+1982,Horse & Hound
+1983,Record (magazine)
+1984,Wild River Review
+1985,Pictorial Review
+1986,Jump Square
+1987,Aquarium Fish International
+1988,Ministry (magazine)
+1989,Esquire (UK Edition)
+1990,Coalition chronicle
+1991,Cobalt (magazine)
+1992,CPA Practice Advisor
+1993,CS4FN
+1994,Fence (magazine)
+1995,Spectrofon
+1996,Acoustic (magazine)
+1997,Galileu
+1998,Poetry Toronto
+1999,Air Enthusiast
+2000,Electronics Weekly
+2001,Hairdressers Journal International
+2002,MicroScope
+2003,Foodservice Equipment & Supplies
+2004,Electronics For You
+2005,TV & Satellite Week
+2006,Opera News
+2007,Fire Chief (magazine)
+2008,Mountain Record
+2009,Empty (magazine)
+2010,Film Journal International
+2011,TV easy
+2012,Hotels (magazine)
+2013,Above&Beyond (magazine)
+2014,Bearded (magazine)
+2015,PC Tools (magazine)
+2016,PC Explorer
+2017,SciFiNow
+2018,Ulenspiegel
+2019,The Contemporary Review
+2020,Reptiles (magazine)
+2021,MoneyWeek
+2022,The Record (magazine)
+2023,Popteen
+2024,Sactown Magazine
+2025,T (New York Times)
+2026,Prick (magazine)
+2027,The American (magazine)
+2028,Vokrug sveta
+2029,More (magazine)
+2030,Taste of Home
+2031,Morbid Curiosity magazine
+2032,Monthly Ikki
+2033,White Fungus (magazine)
+2034,Vijenac
+2035,British Wildlife
+2036,Ancient Egypt (magazine)
+2037,BeE Woman (magazine)
+2038,Ideomancer
+2039,Hinduism Today
+2040,Livingetc
+2041,Acorn User
+2042,Chief Executive (magazine)
+2043,IEEE Communications Magazine
+2044,Genesis (magazine)
+2045,Wilson Library Bulletin
+2046,IEEE Design & Test of Computers
+2047,Voetbal International
+2048,Filmmaker (magazine)
+2049,To Periodiko
+2050,Fortnight Magazine
+2051,Woman (Australian magazine)
+2052,Ararat Quarterly
+2053,Capital (German magazine)
+2054,Sinister Wisdom
+2055,Common Lives/Lesbian Lives
+2056,Style at Home
+2057,Homemakers (magazine)
+2058,Caterer and Hotelkeeper
+2059,Supply & Demand Chain Executive
+2060,Non-no
+2061,The Executive (magazine)
+2062,Canadian Home Workshop
+2063,Canadian Gardening
+2064,Hispanic Enterprise Magazine
+2065,Look (UK magazine)
+2066,Mshana
+2067,Canadian Home & Country
+2068,Harvard Review
+2069,InformationWeek
+2070,Revue Aerospatiale
+2071,LivingNow
+2072,Fight Stories
+2073,American Record Guide
+2074,Computer Underground Digest
+2075,Ann Arbor Observer
+2076,Hardcore Gamer
+2077,Les Affaires
+2078,The Jackdaw
+2079,Performer Magazine
+2080,Craft (magazine)
+2081,ReadyMade (magazine)
+2082,Los Angeles Times Magazine
+2083,Politique internationale
+2084,Pentecostal Evangel
+2085,All Out Cricket
+2086,Mishpacha
+2087,The Galaxy (magazine)
+2088,Knucklebones (magazine)
+2089,Rugby League World
+2090,Daylight magazine
+2091,Ant (newspaper)
+2092,Australian 4WD Action
+2093,Craft&design Magazine
+2094,Yes! (Hong Kong magazine)
+2095,Hoop (magazine)
+2096,Gent (magazine)
+2097,Leg Show
+2098,Global Custodian
+2099,National Contest Journal
+2100,CQ Amateur Radio
+2101,QEX
+2102,Five Nine
+2103,CQ ham radio
+2104,WorldRadio
+2105,Official PlayStation Magazine (Australia)
+2106,Contrary Magazine
+2107,Mladina
+2108,The Word Among Us
+2109,The People's Friend
+2110,Nokta
+2111,391 (magazine)
+2112,Authentic Science Fiction
+2113,National Observer (Australia)
+2114,Femme Fatales (magazine)
+2115,PlayStation: The Official Magazine
+2116,Gundam Ace
+2117,Story (magazine)
+2118,Land Line Magazine
+2119,Charano!
+2120,Juxtaposition Magazine
+2121,Australasian Science
+2122,The English Mechanic and World of Science
+2123,British Homing World
+2124,Frontiers of Health Services Management
+2125,Car Magazine
+2126,Oregon Commentator
+2127,Pittsburgh Quarterly
+2128,Vinduet
+2129,Vintage Guitar (magazine)
+2130,Corriere dei Piccoli
+2131,This Is Fake DIY
+2132,Caribbean Travel & Life
+2133,Action Stories
+2134,Gulf Coast (journal)
+2135,CartaCapital
+2136,Prestige Hong Kong
+2137,Krytyka Polityczna
+2138,Energy Matters
+2139,The Alternate Source Programmer's Journal
+2140,Country Homes & Interiors
+2141,Sneaker Freaker
+2142,Rodina (magazine)
+2143,Lighting & Sound America
+2144,InStyle UK
+2145,Denim delinquent
+2146,Hana Hou!
+2147,The Magazine
+2148,Comi Digi +
+2149,Lighting&Sound International
+2150,VeckoRevyn
+2151,Boxing News
+2152,Light Quarterly
+2153,Chess Review
+2154,Skope Magazine
+2155,Suspense Digest
+2156,AARP The Magazine
+2157,College & Research Libraries News
+2158,Caros Amigos
+2159,News Weekly
+2160,Scandinavian Oil-Gas Magazine
+2161,Performance Bikes (magazine)
+2162,Comic Champ
+2163,Medicine Magazine
+2164,Cookie (magazine)
+2165,Urban Land
+2166,Sister 2 Sister
+2167,Fusion Magazine (Kent State University)
+2168,AneCan
+2169,Pink (LGBT magazine)
+2170,Family Tree (magazine)
+2171,Feel Young
+2172,Monthly Comic Avarus
+2173,G Magazine (Australia)
+2174,American Cheerleader
+2175,Automotive Industries (magazine)
+2176,Super Jump
+2177,Psychotronic Video
+2178,DC Universe Presents Batman Superman
+2179,Ars Interpres
+2180,Eternity SF
+2181,Golf World
+2182,Global Reinsurance
+2183,WHIRL Magazine
+2184,MdN Interactive
+2185,Mix (magazine)
+2186,Sport (UK magazine)
+2187,Power Unlimited
+2188,Green Car Journal
+2189,One Story
+2190,"People, Places, and Plants"
+2191,Manga Life
+2192,Clarkesworld Magazine
+2193,Aktuel Naturvidenskab
+2194,World Press Review
+2195,The Dude (magazine)
+2196,Andromeda Spaceways Inflight Magazine
+2197,Hakin9
+2198,Iton 77
+2199,Pearson's Magazine
+2200,The Week (Indian magazine)
+2201,Venture (magazine)
+2202,OC Metro
+2203,Pinups Magazine
+2204,The Writer's Chronicle
+2205,Genre (magazine)
+2206,David Atlanta
+2207,Monthly Dragon Age
+2208,Mandalay Gazette
+2209,Ritz Newspaper
+2210,Revolution (magazine)
+2211,Dengeki Bunko Magazine
+2212,Fyne Times
+2213,5280
+2214,Vivi (magazine)
+2215,Easyriders
+2216,Avotakka
+2217,Property Week
+2218,Buy&Sell
+2219,Greenhouse Canada
+2220,The Yale Globalist
+2221,Renewal (magazine)
+2222,Mundo Estranho
+2223,Superinteressante
+2224,Revista da Folha
+2225,Model Rocketry (magazine)
+2226,PlayStation World
+2227,AudioFile (magazine)
+2228,Family Computing
+2229,Ptisi & Diastima
+2230,Amusement Today
+2231,Vidi (magazine)
+2232,Adventure (magazine)
+2233,Comic Yuri Hime S
+2234,NUVO (magazine)
+2235,The Wine Advocate
+2236,The Month
+2237,Rolling Stone Australia
+2238,Alpine Journal
+2239,Liahona (magazine)
+2240,Automation World
+2241,Professional Tool & Equipment News
+2242,Professional Distributor Magazine
+2243,Packaging World
+2244,Spendere Meglio
+2245,RSQ (magazine)
+2246,Bodhi Magazine
+2247,Mean (magazine)
+2248,Bookmarks (magazine)
+2249,Varliq
+2250,Oyster (magazine)
+2251,Scribner's Monthly
+2252,Alive (magazine)
+2253,Print Solutions Magazine
+2254,Elle Decor
+2255,BLK (magazine)
+2256,Gunzo (magazine)
+2257,Oxford Poetry
+2258,Kalki (magazine)
+2259,Modern Electronics
+2260,Sea History (magazine)
+2261,Torchwood Magazine
+2262,Teen (magazine)
+2263,Faithworks
+2264,JVibe
+2265,Company (magazine)
+2266,Lapham's Quarterly
+2267,My Career magazine
+2268,Kerokero Ace
+2269,Armadillo (magazine)
+2270,Graphotism
+2271,Destiny (magazine)
+2272,Fantasy Fan
+2273,Okno (Russian magazine)
+2274,Marquette Journal
+2275,Outside (magazine)
+2276,People's Songs
+2277,Quick Fiction
+2278,Motor Sport (magazine)
+2279,Pick Me Up (magazine)
+2280,DPR Europe
+2281,Scholastic Parent & Child
+2282,Classic Motorsports
+2283,The World of Fine Wine
+2284,Capital (French magazine)
+2285,Alfred Hitchcock's Anthology
+2286,BPM (magazine)
+2287,Phlow
+2288,Plastics News
+2289,Surfing Magazine
+2290,Non-Sport Update
+2291,Components in Electronics
+2292,The European Courier
+2293,Electrical Experimenter
+2294,Something Wicked (magazine)
+2295,Blues News
+2296,Sidewalk (magazine)
+2297,R.M. Williams Outback
+2298,Popstar!
+2299,Louisville Magazine
+2300,Himal Southasian
+2301,Legal Affairs
+2302,Indianapolis Monthly
+2303,RATTLE
+2304,ShortList (magazine)
+2305,Izgled
+2306,Zarez
+2307,The Improper Bostonian
+2308,Modra lasta
+2309,Esse arts + opinions
+2310,PinGame Journal
+2311,Orbit Science Fiction
+2312,Today's Railways
+2313,LaLa DX
+2314,Cinemaya
+2315,Nexus (student magazine)
+2316,Alternative Press Review
+2317,Loud and Quiet
+2318,Business & Finance
+2319,The Progressive Christian
+2320,Woman (UK magazine)
+2321,State (magazine)
+2322,Taddle Creek (magazine)
+2323,Icon (magazine)
+2324,Vice Versa (magazine)
+2325,Murky Depths
+2326,Amerika (magazine)
+2327,The Liberator Magazine
+2328,Modern dog (magazine)
+2329,Ascent (magazine)
+2330,Kmt (magazine)
+2331,Museums Journal
+2332,Fine Woodworking
+2333,Small Wars Journal
+2334,OPEN Magazine
+2335,Business Matters (magazine)
+2336,Woman's Weekly (UK magazine)
+2337,Lancashire Life
+2338,La Revue du vin de France
+2339,Game Pro
+2340,Sowar (magazine)
+2341,Yeti (magazine)
+2342,Octane (magazine)
+2343,Kono Light Novel ga Sugoi!
+2344,Paper (magazine)
+2345,OOR
+2346,Egypt Today
+2347,Historisk Tidsskrift (Denmark)
+2348,Soldier Magazine
+2349,Butt (magazine)
+2350,Wine & Spirit
+2351,CD-ROM Today
+2352,The DoG Street Journal
+2353,Model Rail
+2354,Kewl Magazine
+2355,360 (magazine)
+2356,The Journal of Life Sciences
+2357,Boutique Design (magazine)
+2358,The Home Computer Course
+2359,The Home Computer Advanced Course
+2360,Para Todos
+2361,Jewish Renaissance
+2362,Razorcake
+2363,Draft Magazine
+2364,Creative Nonfiction (magazine)
+2365,L.A. Record
+2366,Nature India
+2367,Beyond Race Magazine
+2368,British Film (magazine)
+2369,Pizzazz (magazine)
+2370,Kokoku Hihyo
+2371,New Voices
+2372,Quarterly Review of Wines
+2373,"PS, The Preventive Maintenance Monthly"
+2374,Best Life
+2375,Microfinance Insights
+2376,Simbolul
+2377,Camas (magazine)
+2378,Kung Fu Tai Chi
+2379,Kiki (magazine)
+2380,ESPN HS
+2381,Tea Moderna (magazine)
+2382,The Whistler Answer
+2383,"Amazones d'Hier, Lesbiennes d'Aujourd'hui"
+2384,Andhrimner
+2385,Comic Gum
+2386,Galatasaray (magazine)
+2387,Vogue China
+2388,Vogue Italia
+2389,Severny Vestnik
+2390,EMS Magazine
+2391,Wine & Spirits
+2392,Cuisine (magazine)
+2393,Pinky (magazine)
+2394,Ray Gun Revival
+2395,Vogue (British magazine)
+2396,Le Scienze
+2397,Nictoglobe
+2398,Maui No Ka 'Oi Magazine
+2399,Life & Style (magazine)
+2400,Kinema Junpo
+2401,Veidas
+2402,MH-18 (magazine)
+2403,Sony Magazine
+2404,Wings (Canadian magazine)
+2405,Wings (US magazine)
+2406,Screen (magazine)
+2407,Modern Painters (magazine)
+2408,Olive (magazine)
+2409,Strategy+Business
+2410,International Trade Today
+2411,Dine (magazine)
+2412,Classic Bike
+2413,A-CLUB
+2414,Classic Bike Guide
+2415,The Micro User
+2416,Videomaker Magazine
+2417,Time and Tide (magazine)
+2418,Country Life in America
+2419,MedLabNews
+2420,Air Transport World
+2421,The DO
+2422,The Northeast Today
+2423,ADDitude Magazine
+2424,Northern Virginia Magazine
+2425,'47
+2426,Men's Health (British magazine)
+2427,Outreach (magazine)
+2428,Hispanic Outlook in Higher Education
+2429,Gerarchia
+2430,Car Mechanics Magazine
+2431,Justice of the Peace Magazine
+2432,San Diego Magazine
+2433,SOUTHASIA Magazine
+2434,Booking (comics)
+2435,Staffrider
+2436,Regards
+2437,Standpoint (magazine)
+2438,Fit Pregnancy
+2439,Rez Biz
+2440,Prison Legal News
+2441,Practical Photography
+2442,Halftime Magazine
+2443,Asian Fever
+2444,Safeguard (magazine)
+2445,Banzai! (magazine)
+2446,Shonen Jump (magazine)
+2447,Reax Music Magazine
+2448,Gatopardo (magazine)
+2449,Sylph (magazine)
+2450,The Deal (magazine)
+2451,Americas Quarterly
+2452,Comic Rex
+2453,Star Girls
+2454,Eliza (magazine)
+2455,Business Today (student magazine)
+2456,Comic Birz
+2457,Business Today (business magazine)
+2458,Cinema X
+2459,Big Picture (magazine)
+2460,Billboard (magazine)
+2461,Literal (magazine)
+2462,Dynamic Chiropractic
+2463,Source (magazine)
+2464,The Word (magazine)
+2465,Asian Geographic
+2466,Sport Bild
+2467,Super Champ
+2468,University World News
+2469,Rouleur (magazine)
+2470,Dog World
+2471,L'architecture Vivante
+2472,Total Politics
+2473,Mineshaft (magazine)
+2474,SPIKES magazine
+2475,AZ Business Magazine
+2476,Bird Talk
+2477,All You
+2478,Hobby Farms (magazine)
+2479,Issue (magazine)
+2480,ThreeWeeks
+2481,Performance Car (magazine)
+2482,T+D
+2483,Sonora Review
+2484,Big Comic
+2485,Washington Technology
+2486,The Owl Journal
+2487,The Land Report
+2488,Big Comic Superior
+2489,Quo (magazine)
+2490,Horizon (U.S. magazine)
+2491,Secular Homeschooling (magazine)
+2492,Insight (Adventist magazine)
+2493,Cement and its applications
+2494,St. Louis Magazine
+2495,Pound (magazine)
+2496,Bluegrass Unlimited
+2497,Chat (magazine)
+2498,L'Expansion
+2499,Y-Mag
+2500,Frank Talk
+2501,Tsotso (magazine)
+2502,Glendora Review
+2503,Hamptons (magazine)
+2504,Aspen Peak
+2505,FMQB
+2506,German Medical Journal
+2507,Miami Monthly
+2508,Lamalif
+2509,Old man (magazine)
+2510,Yen Plus
+2511,The Motor Cycle (magazine)
+2512,Motor Cycling (magazine)
+2513,Poets & Writers
+2514,That's Life! (Australian magazine)
+2515,Words Without Borders
+2516,EventDV
+2517,The Bulletin (Brussels weekly)
+2518,Dance Music Report
+2519,Replica Magazine
+2520,Prism International
+2521,Okyeame
+2522,Moto (magazine)
+2523,Joe (magazine)
+2524,Souffles (magazine)
+2525,Ecrans d'Afrique
+2526,POZ (magazine)
+2527,Investment Executive
+2528,Chandamama
+2529,Noggin (magazine)
+2530,Mega Zone
+2531,Surface (magazine)
+2532,Global Sources Magazines
+2533,Newfoundland Herald
+2534,Analog Science Fiction and Fact
+2535,Botteghe Oscure
+2536,Harvard Design Magazine
+2537,The New York Times Upfront
+2538,Savacou
+2539,Civil Lines (magazine)
+2540,291 (magazine)
+2541,Science Fiction Monthly
+2542,Giochi per il mio computer
+2543,Blanco y Negro (newspaper)
+2544,Wax Poetics
+2545,Owl and Weasel
+2546,Passages North
+2547,Charlton Spotlight
+2548,Procycling
+2549,WSJ.
+2550,Kids Discover
+2551,Purple (magazine)
+2552,Total PC Gaming
+2553,Portland Monthly
+2554,EMMA (magazine)
+2555,Scrutiny (journal)
+2556,Basketball Times
+2557,Noizemag
+2558,The Ukrainian Week
+2559,Microsystems (magazine)
+2560,Third Coast (magazine)
+2561,Audio (magazine)
+2562,Massis (weekly)
+2563,Australian Aviation (magazine)
+2564,Arabian Business
+2565,Girls' Life (magazine)
+2566,Fitness (magazine)
+2567,Restaurant Insider (magazine)
+2568,TV Technology
+2569,Catholic Digest
+2570,Tor.com
+2571,Comic LO
+2572,Sunshine (magazine)
+2573,Forest and Stream
+2574,Noticias (magazine)
+2575,TV Guide (Canada)
+2576,Princeton Alumni Weekly
+2577,Industrial Minerals (magazine)
+2578,Traverse (magazine)
+2579,FamilyFun
+2580,Cine Blitz
+2581,Eastern Panorama
+2582,Permafrost: Literary Journal
+2583,Woman's Day (Australian magazine)
+2584,Radio World
+2585,Shout NY
+2586,Euromoney
+2587,Dublin University Magazine
+2588,Quest: The History of Spaceflight
+2589,Photographos
+2590,Aerosvet
+2591,Advanced/Decay
+2592,Speech Technology (magazine)
+2593,Homocore (zine)
+2594,Black Inches
+2595,Source: Music of the Avant Garde
+2596,Gente (magazine)
+2597,Chicagoland Golf
+2598,Hombre (magazine)
+2599,House to House Heart to Heart
+2600,Pointe (magazine)
+2601,Southcoast247
+2602,Tribal College Journal
+2603,Hrvatska revija
+2604,Daisuki
+2605,Mediaweek
+2606,A-YA
+2607,FT Magazine
+2608,The Good Citizen
+2609,NZ Classic Car magazine
+2610,NZ Performance Car
+2611,New Oxford Review
+2612,The Moneypaper
+2613,Tone (magazine)
+2614,The Chinese Repository
+2615,NZV8 magazine
+2616,The Sunday Times Magazine
+2617,The Chicagoan
+2618,L'Officiel
+2619,The Photographer's Mail
+2620,Repere Transilvane
+2621,Formosa Youth
+2622,Neon City Magazine
+2623,BBC Focus on Africa
+2624,D-Photo
+2625,The Ladies' Repository
+2626,Polite (magazine)
+2627,Bobo (magazine)
+2628,France Magazine
+2629,Mehfil Magazine
+2630,Ford Times
+2631,Bloomberg Markets
+2632,Inside the Vatican
+2633,Avotaynu Magazine
+2634,True Tunes News
+2635,SUCCESS (magazine)
+2636,Running Fitness
+2637,Glamour (magazine)
+2638,Blueprintreview
+2639,Style (magazine)
+2640,The Sienese Shredder
+2641,IGIZMO
+2642,Cool English
+2643,FDA Consumer
+2644,SPO:)
+2645,Kvir
+2646,Drift Tengoku
+2647,Art Monthly
+2648,Campaign (magazine)
+2649,Wave (magazine)
+2650,InRock
+2651,The American Home
+2652,Manga Time Jumbo
+2653,Savant publications
+2654,Allgemeine Bauzeitung
+2655,Manga Home
+2656,Comic Blade Brownie
+2657,Portland Spaces
+2658,HEAT (magazine)
+2659,Manga Time
+2660,Fact (UK magazine)
+2661,Weekly Manga Times
+2662,Caravan (magazine)
+2663,Sound Rider!
+2664,Avery Anthology
+2665,3D World
+2666,Moldova (newspaper)
+2667,Graiul Nostru
+2668,Backwoods Home Magazine
+2669,Airways Magazine
+2670,Dublin Opinion
+2671,Weekly Manga Goraku
+2672,Weekly Manga Sunday
+2673,Wagmag
+2674,LoftLife (magazine)
+2675,Ctrl.Alt.Shift
+2676,Irish Pages
+2677,Forward Magazine
+2678,Remix (magazine)
+2679,Nob Hill Gazette
+2680,Travel Agent (magazine)
+2681,Kiss (magazine)
+2682,Jours de France
+2683,Burkenroad Reports
+2684,Lviv Today
+2685,90210 magazine
+2686,Artes (magazine)
+2687,The European (magazine)
+2688,Style: (magazine)
+2689,Railway Modeller
+2690,Torque (magazine)
+2691,Buck (magazine)
+2692,Christian Examiner
+2693,Eon Magazine
+2694,The Drawbridge
+2695,Making Music (magazine)
+2696,Axess magasin
+2697,Lesbian Feminist Circle
+2698,Rap-Up
+2699,New York Dog
+2700,VIP (magazine)
+2701,TV Now
+2702,Kiss (Irish magazine)
+2703,Stellar (magazine)
+2704,Rain Taxi
+2705,American Art Directory
+2706,Maxim (India)
+2707,Vervegirl
+2708,MAA FOCUS
+2709,Irish Voice
+2710,Revista H
+2711,Number One (magazine)
+2712,Products Finishing
+2713,ReNew
+2714,Sodobnost
+2715,First for Women
+2716,Pacific Magazine
+2717,Vogue Paris
+2718,Money Management
+2719,"Software Testing, Verification & Reliability"
+2720,Tempo (Indonesian magazine)
+2721,The Zamboni (magazine)
+2722,Disability Now
+2723,Acadiana Profile
+2724,Max (magazine)
+2725,Math Horizons
+2726,Ritam
+2727,Femmes du Maroc
+2728,Politick! Magazine
+2729,John O'London's Weekly
+2730,Congressional Digest
+2731,Barn Owl Review
+2732,Akher Saa
+2733,The Oxonian Review
+2734,Private Eye
+2735,H&E naturist
+2736,Prabodhanam
+2737,Faktum
+2738,Sommelier Journal
+2739,Focus (Italian magazine)
+2740,Jack (Italian magazine)
+2741,944 Magazine
+2742,Elle (magazine)
+2743,Jane's All the World's Aircraft
+2744,Tekniikan Maailma
+2745,Tuulilasi
+2746,Moottori
+2747,Sense magazine
+2748,Pnai Plus
+2749,Stock Car Racing (magazine)
+2750,Faith & Family
+2751,Soul Underground
+2752,Ainslee's Magazine
+2753,American Book Review
+2754,Seventeen (Japanese magazine)
+2755,Sculpture (magazine)
+2756,Murzilka
+2757,Inside Sports
+2758,Up Here (magazine)
+2759,Welsh Living
+2760,Philadelphia Style
+2761,Dom in svet
+2762,Opera (magazine)
+2763,Santa Monica Magazine
+2764,The Lone Star Report
+2765,Democratiya
+2766,Bahrain Confidential
+2767,Perceptions (magazine)
+2768,Brio (magazine)
+2769,Xbox Magazine Ufficiale
+2770,Nintendo La Rivista Ufficiale
+2771,The Games Machine (Italy)
+2772,PlayStation Magazine Ufficiale
+2773,The Asian Banker Journal
+2774,Macabre Cadaver
+2775,Nordstjernan (newspaper)
+2776,Noon (Literary Annual)
+2777,Follow Follow (fanzine)
+2778,L'Officiel Hommes
+2779,Rockland County's Best Magazine
+2780,The Journal of Commerce
+2781,The Courier (ACP-EU)
+2782,Photo District News
+2783,MONTECRISTO (magazine)
+2784,Eve (magazine)
+2785,NthWORD
+2786,Huntin' Fool
+2787,7ball
+2788,Champion Red
+2789,Outdoor Canada
+2790,Chitralekha (weekly)
+2791,Bass Player (magazine)
+2792,ABA Journal
+2793,F*INK
+2794,Vermont Business Magazine
+2795,The Hedge Fund Journal
+2796,Samtiden
+2797,Dossier Journal
+2798,Variety (magazine)
+2799,Frieze (magazine)
+2800,Syn og Segn
+2801,Tiede
+2802,Shooting Gazette
+2803,Afterall
+2804,Country Standard Time
+2805,Poker Player
+2806,Alberta Views
+2807,FutureClaw
+2808,Hotel & Motel Management
+2809,The Harvard Voice
+2810,Metal Edge
+2811,Balcony Press
+2812,Biznes Segodnya
+2813,Metropolitan Magazine (New York)
+2814,Cenobio
+2815,Cornucopia (magazine)
+2816,Edda. Scandinavian Journal of Literary Research
+2817,Accountancy Age
+2818,Dispatches (magazine)
+2819,Diplomacy World
+2820,Boston Rock
+2821,Charisma (magazine)
+2822,Die Aula
+2823,Next Magazine (New York City)
+2824,Abasebenzi
+2825,Young Animal Arashi
+2826,The English Illustrated Magazine
+2827,Preservation (magazine)
+2828,125 Magazine
+2829,Clear (magazine)
+2830,RAJ Pharma
+2831,Handes Amsorya
+2832,Modern Healthcare
+2833,Practical Classics
+2834,Kick Off (magazine)
+2835,Narrative Magazine
+2836,LaIsha
+2837,Museum Management and Curatorship
+2838,Parabola (magazine)
+2839,The Ensign (USPS magazine)
+2840,Taiwan Church News
+2841,New Man (Christian magazine)
+2842,Aliqtisadi
+2843,Canard PC
+2844,Quest (lifestyle magazine)
+2845,Descant (magazine)
+2846,The Word For Today
+2847,TV Sorrisi e Canzoni
+2848,Flying Aces (magazine)
+2849,Poet Lore
+2850,Bass Guitar (magazine)
+2851,Zanan magazine
+2852,FHM (India)
+2853,Cowboys & Indians (magazine)
+2854,Kidsguide
+2855,Holocaust Studies and Materials
+2856,Movieline
+2857,Colorado Music Buzz
+2858,The Marketer
+2859,La Semaine de Suzette
+2860,Good Reading
+2861,The Fountain Magazine
+2862,The Deli Magazine
+2863,Institutional Investor (magazine)
+2864,Wisconsin Trails
+2865,Reedy's Mirror
+2866,Automobile Year
+2867,American Digger (magazine)
+2868,Submarine Telecoms Forum
+2869,MacTribe
+2870,Kitsch (magazine)
+2871,The Bookseller
+2872,Scuba Diver AustralAsia
+2873,MumBaee
+2874,June (manga magazine)
+2875,VMAN
+2876,Inside Golf (magazine)
+2877,Muskoka Magazine
+2878,Links (magazine)
+2879,Revolutionart
+2880,TV Guide (New Zealand)
+2881,Open Salon
+2882,The Industrial Pioneer
+2883,El Temps
+2884,Rhythms Monthly
+2885,Blush (magazine)
+2886,Arizona Rubber
+2887,Gaffa (magazine)
+2888,Concho River Review
+2889,Ny Tid (Finland)
+2890,Portfolio Magazine
+2891,Ubuntu User
+2892,Artrocker (magazine)
+2893,Inside New York
+2894,Full Circle (magazine)
+2895,The Middle East (magazine)
+2896,Atlanta (magazine)
+2897,Develop (magazine)
+2898,Avon Fantasy Reader
+2899,Natural Bridge (magazine)
+2900,WildTomato (magazine)
+2901,Newsweek Argentina
+2902,Metronome magazine
+2903,LIFO (magazine)
+2904,Commodore Disk User
+2905,Robot Magazine
+2906,Nation's Restaurant News
+2907,SportsPro
+2908,The New Ledger
+2909,The World's Work
+2910,Pop Magazine
+2911,The Moving Arts Film Journal
+2912,Metropolitan Home
+2913,Filament (magazine)
+2914,Sadhana (weekly)
+2915,More!
+2916,Classical Music Magazine
+2917,For Men
+2918,The Canadian Amateur
+2919,Hispanic Business
+2920,Ecology and Law
+2921,If Magazine
+2922,Eisenbahn Kurier
+2923,Inland Empire Magazine
+2924,World Aircraft Information Files
+2925,G3 (British magazine)
+2926,The Tridge (magazine)
+2927,Young Ace
+2928,The Jeepney Magazine
+2929,NIE (weekly magazine)
+2930,Cycle (magazine)
+2931,Europe (magazine)
+2932,NewHorizon
+2933,Africa Renewal
+2934,Africa Week
+2935,Smartish Pace
+2936,Race Walking Record
+2937,Hype Hair
+2938,Burda Style
+2939,Elrad (magazine)
+2940,Naked Eye (magazine)
+2941,Vestnik Evropy
+2942,Newsrail
+2943,African Communist
+2944,The Yellow Journal
+2945,Jasad (magazine)
+2946,Dhaka Courier
+2947,Forum (Bangladesh)
+2948,Der Esperantist
+2949,Automobile Quarterly
+2950,The Single Tax
+2951,Land Values
+2952,Exit (magazine)
+2953,Government Technology
+2954,Junk Jet (magazine)
+2955,The Smart Manager
+2956,ACBF Newsletter
+2957,Teraz Rock
+2958,Electric Velocipede
+2959,African Leaders State of Africa Report
+2960,African Markets Overview
+2961,The Cornell Lunatic
+2962,El Croquis
+2963,Asiamoney
+2964,American Short Fiction
+2965,Autozeitung
+2966,Drum (American magazine)
+2967,Vox (magazine)
+2968,CAT (magazine)
+2969,Nou Nou Hau
+2970,British Columbia Magazine
+2971,MS&T (magazine)
+2972,GIGA Focus Afrika
+2973,Africana Libraries Newsletter
+2974,Forum Mleczarskie
+2975,Word Ways
+2976,CODA (magazine)
+2977,Lokaltrafikk
+2978,Slovenski glasnik
+2979,ONLINE
+2980,American Atheist Magazine
+2981,Knack (magazine)
+2982,Young King
+2983,SoHo (magazine)
+2984,Airone
+2985,Lyon Capitale
+2986,San Jose Mercury News West Magazine
+2987,Letras Libres
+2988,Ciak (Italian magazine)
+2989,Televi-Kun
+2990,Absolute Return + Alpha
+2991,Boating (magazine)
+2992,Truckin' Magazine
+2993,Charaktery
+2994,Design World
+2995,Saras Salil
+2996,Popular Astronomy (US magazine)
+2997,Big Cheese (magazine)
+2998,Young Comic
+2999,Monthly Big Comic Spirits
+3000,"First Empire: The International Magazine for the Napoleonic Enthusiast, Historian, and Gamer"
+3001,The Cricket: Black Music in Evolution
+3002,Hogan's Alley (magazine)
+3003,Der Spiegel-Profil
+3004,Sudha (weekly magazine)
+3005,Blue Water Sailing Magazine
+3006,Elektronikpraxis
+3007,Best Eleven
+3008,Fast Track (magazine)
+3009,Sharp (magazine)
+3010,Argia (magazine)
+3011,The Music Scene (magazine)
+3012,Harvest magazine
+3013,Industry 2.0
+3014,Logistics 2.0
+3015,Tennis Week
+3016,Film (Iranian magazine)
+3017,Kentucky Afield
+3018,Motormag
+3019,Wired UK
+3020,The Architect's Newspaper
+3021,Bismoi
+3022,Bike India
+3023,Whole Living
+3024,Owen Wister Review
+3025,Two Tone (magazine)
+3026,The Book of Tongues
+3027,African Film (magazine)
+3028,Wietie
+3029,Molotov Cocktail (magazine)
+3030,Inc. India
+3031,Trailer Life
+3032,Cincinnati Magazine
+3033,Revista de Libros
+3034,Ever Manifesto
+3035,Above (magazine)
+3036,30 Days (magazine)
+3037,Forza Milan
+3038,Inside United
+3039,Indradhanush (magazine)
+3040,Ham Radio (magazine)
+3041,Animato!
+3042,Comic Valkyrie
+3043,Evening (magazine)
+3044,Magazine Special
+3045,The English Review
+3046,Paranormal Magazine
+3047,American Songwriter
+3048,Religion Dispatches
+3049,Olivia (magazine)
+3050,Global Securities Lending
+3051,The American Hebrew
+3052,The Public Ledger
+3053,Profit (magazine)
+3054,South Scope
+3055,Investor Services Journal
+3056,Bazmavep
+3057,Angler's Mail
+3058,Sports Car Market
+3059,STOCKYARD Magazine
+3060,Der Orchideengarten
+3061,Five Dials
+3062,Ice Today
+3063,The Star (Bangladesh)
+3064,Forth magazine
+3065,Business and Finance
+3066,Different Worlds
+3067,Construct Ireland
+3068,Teacher Plus (magazine)
+3069,REM (Real Estate Magazine)
+3070,Amusement (magazine)
+3071,CFO India
+3072,Stack magazine
+3073,Australian Sailing magazine
+3074,Times Higher Education World University Rankings
+3075,Edu Tech
+3076,Digit Channel Connect
+3077,The Real Deal (magazine)
+3078,QS World University Rankings
+3079,ArtReview
+3080,Avances Magazine
+3081,American Motorcyclist
+3082,Goriyoshi
+3083,Hemmets Journal
+3084,Marlin (magazine)
+3085,The Picture (magazine)
+3086,Block Magazine
+3087,Pittsburgh Magazine
+3088,Ural Pathfinder
+3089,The Original Magazine
+3090,Eppo (comics)
+3091,Component Developer Magazine
+3092,Plaza Kvinna
+3093,Mama (magazine)
+3094,Frida (magazine)
+3095,Vagabond (magazine)
+3096,Adelaide Review
+3097,Waters (magazine)
+3098,Nylon Guys
+3099,The Gooner
+3100,The Body Issue
+3101,Scootering (British magazine)
+3102,Scrubs Magazine
+3103,Cahiers d'art
+3104,For Mrs.
+3105,Frank Leslie's Illustrated Newspaper
+3106,Graphic Story Magazine
+3107,Textsound journal
+3108,The Brown Jug
+3109,Fantastic Man (magazine)
+3110,The Georgetown Heckler
+3111,London Calling (The Overseas Journal of the BBC)
+3112,Star Wars (UK comics)
+3113,Word and Work
+3114,MONEYworks
+3115,New!
+3116,ABC Insight
+3117,Innovation (magazine)
+3118,Flowers (magazine)
+3119,Cocohana
+3120,Marmnamarz
+3121,You (magazine)
+3122,Terminator Salvation Comic
+3123,Melody (magazine)
+3124,BBC Knowledge (magazine)
+3125,Dinaman
+3126,La Vie
+3127,E!Sharp
+3128,Journal of Transpersonal Psychology
+3129,The Nash & Cibinic Report
+3130,Government Executive
+3131,Women's Health (magazine)
+3132,Motorrad (magazine)
+3133,CanadaOne
+3134,MilK Magazine (France)
+3135,ZYN!
+3136,Diapason (magazine)
+3137,Marg (magazine)
+3138,Swans (magazine)
+3139,Hanako (magazine)
+3140,True Story (magazine)
+3141,Top Gear: Turbo Challenge
+3142,The Surfer's Journal
+3143,L'Europeo
+3144,A1 Magazine
+3145,Inside Tennis
+3146,AV MAX
+3147,Practical Reptile Keeping
+3148,Professional Pilot Magazine
+3149,Creme (magazine)
+3150,Pulp (Filipino music magazine)
+3151,NAC Fanzine De Rat
+3152,Riptide (book series)
+3153,Chitra Chinta
+3154,R2 (Rock'n'Reel)
+3155,"Eurasia, Rivista di Studi Geopolitici"
+3156,24 images
+3157,Texas Music
+3158,Plan (magazine)
+3159,Donya ye Bazi
+3160,CRN Magazine
+3161,Manshots
+3162,Horns Illustrated
+3163,Limes (magazine)
+3164,Tank (magazine)
+3165,Niva (magazine)
+3166,Investment Week
+3167,Hinnerk (magazine)
+3168,WildBird
+3169,The Chicago Reporter
+3170,DU&ICH
+3171,National Wildlife (magazine)
+3172,Asia Literary Review
+3173,Escapism Travel Magazine
+3174,Ethos Magazine
+3175,Turkish Policy Quarterly
+3176,Constructor Quarterly
+3177,Theatre Pasta
+3178,Cibles
+3179,Foxfire (magazine)
+3180,Crypt of Cthulhu
+3181,Boy's Life (Japanese magazine)
+3182,The Arbuturian
+3183,Motorcycle Consumer News
+3184,Jewish Review of Books
+3185,Computer!Totaal
+3186,Aqua Planta
+3187,Suspense magazine
+3188,Megaton (magazine)
+3189,Magazin Istoric
+3190,Fire (magazine)
+3191,Real Magazine
+3192,Newsweek Pakistan
+3193,Time Out (magazine)
+3194,H.O.W. Journal
+3195,Modern Teen
+3196,Windsor Magazine
+3197,Damals
+3198,Al-Musawar
+3199,Mad Monster
+3200,Batman: The Brave and the Bold (comics)
+3201,Ukrainian Gothic Portal
+3202,The Nation's Health
+3203,Antiques (magazine)
+3204,Outlook Media
+3205,The New Islander
+3206,Bravo (Romanian magazine)
+3207,Kingdom magazine
+3208,Canadian Musician
+3209,360 Gamer
+3210,Gigantic (magazine)
+3211,Drita (magazine)
+3212,Rural Cooperatives
+3213,Juke Blues
+3214,Accounting Today
+3215,Phoenix Home & Garden
+3216,State Magazine
+3217,The Malahat Review
+3218,Errr-Magazine
+3219,Beneath Ceaseless Skies
+3220,Top Gear Magazine India
+3221,New Africa Analysis
+3222,Teen Voices
+3223,The Hana to Yume
+3224,TV Quick
+3225,Orunodoi
+3226,Take a Break (magazine)
+3227,Disco 45 (magazine)
+3228,Grafik (magazine)
+3229,Irish America magazine
+3230,SER (magazine)
+3231,Good! Afternoon
+3232,Moving Art Magazine
+3233,Jonaki (magazine)
+3234,Rebel Magazine
+3235,International Socialist Review (1900)
+3236,KUNST Magazin
+3237,Hispanic (magazine)
+3238,Later (magazine)
+3239,The Family Handyman
+3240,The Beat (magazine)
+3241,Sputnik Monthly Digest
+3242,Bicycling (magazine)
+3243,Tribute (magazine)
+3244,Daneshmand (magazine)
+3245,Arna (publication)
+3246,Missouri Conservationist
+3247,Hermes (publication)
+3248,Syn otechestva
+3249,Limelight (magazine)
+3250,Rail Professional
+3251,Australian Art Review
+3252,Flash Me Magazine
+3253,Diario (magazine)
+3254,Zvezda (magazine)
+3255,Screenland
+3256,Photo Bits
+3257,Gothic & Lolita Bible
+3258,Champak
+3259,Albania (periodical)
+3260,Urbane Magazine
+3261,Jewish Sports Review
+3262,Poptimal
+3263,Hermes o Logios
+3264,Shock Totem
+3265,OPEN (Indian magazine)
+3266,Schweizer Eisenbahn-Revue
+3267,Women's Post
+3268,Reflex (magazine)
+3269,Automotive News
+3270,KtmROCKS (magazine)
+3271,Burr McIntosh Monthly
+3272,Supply Management (magazine)
+3273,Food Network Magazine
+3274,Humpty Dumpty (magazine)
+3275,Bahn-Report
+3276,Junon (magazine)
+3277,Girl Talk (magazine)
+3278,Proto magazine
+3279,The Computer Paper
+3280,Women in Crime Ink
+3281,The Majalla
+3282,Oxford Today
+3283,Significance (magazine)
+3284,Sayidaty
+3285,Anna.aero
+3286,Huck Magazine
+3287,Bionyt
+3288,Hvepsen
+3289,Fine Arts Journal
+3290,SmartPlanet
+3291,Portfolio: An Intercontinental Quarterly
+3292,Three Rivers Review
+3293,Musical America
+3294,Minerva (archaeology journal)
+3295,CQ VHF Magazine
+3296,Border Crossings (magazine)
+3297,Moj mikro
+3298,This is a magazine
+3299,Pocket Gamer
+3300,Direct Selling News
+3301,Elmore Magazine
+3302,Lonny (magazine)
+3303,The Port Folio
+3304,Jornal Sporting
+3305,Sacramento (magazine)
+3306,Light Metal Age (magazine)
+3307,Parkett
+3308,Wild Animal Baby
+3309,PlayStation Underground
+3310,Home and Away (newspaper)
+3311,Inspire (magazine)
+3312,The Comic Reader
+3313,Spectroscopy (magazine)
+3314,Red Carpet Diary
+3315,AB Bookman's Weekly
+3316,Isurv
+3317,Twill (magazine)
+3318,Fine Gardening
+3319,Bellingham Review
+3320,Baller Magazine
+3321,Baltimore (magazine)
+3322,Pacific RailNews
+3323,Passenger Train Journal
+3324,Vegetarian Times
+3325,FlightTime Radio
+3326,Emunah Magazine
+3327,Square Mile magazine
+3328,Daily Front Row
+3329,Book Magazine
+3330,Black Issues Book Review
+3331,Mapo (magazine)
+3332,Roshd Biological Education
+3333,Irish Builder
+3334,Party (magazine)
+3335,Aria (magazine)
+3336,Otechestvennye Zapiski
+3337,Film (Polish magazine)
+3338,The Dublin Review
+3339,Compete Magazine
+3340,Great Lakes Life Magazine
+3341,Overload (magazine)
+3342,Shook (magazine)
+3343,Panzer Digest
+3344,Rockstar Weekly
+3345,Manchester City F.C. media
+3346,Glasul
+3347,Scottish Review of Books
+3348,Los Angeles Review of Books
+3349,Pichi Lemon
+3350,The Bollard
+3351,Turkish Review
+3352,EuroWeek
+3353,Love Berry
+3354,Audubon (magazine)
+3355,Canadian Monarchist News
+3356,UNIX Review
+3357,Cycle News
+3358,Professional Pensions
+3359,CLiNT
+3360,PC Leisure
+3361,Aeroplane Magazine
+3362,Melodymag
+3363,Musicworks
+3364,The Cover
+3365,Ny Teknik
+3366,Canadian Immigrant (magazine)
+3367,Ayandah
+3368,Montanan (magazine)
+3369,Instinct (magazine)
+3370,Bungakukai
+3371,Brigitte (magazine)
+3372,The Negro Digest
+3373,Australian Art Collector
+3374,Strategie (magazine)
+3375,Worcester Magazine
+3376,New Spotlight Magazine
+3377,Taiwan This Month
+3378,Rhythm (music magazine)
+3379,West Branch (journal)
+3380,Canadian Cowboy Country Magazine
+3381,Whitelines
+3382,FENUXE
+3383,The Magazine of American History
+3384,McKinsey Quarterly
+3385,The Rip Off Review of Western Culture
+3386,The Angolite
+3387,C++ Report
+3388,The Cane Toad Times
+3389,InsideCounsel
+3390,Wanted in Rome
+3391,Spremnost
+3392,Intereconomics
+3393,Yachting World
+3394,The Human Life Review
+3395,Video Boy
+3396,Bejean
+3397,SUSIE Magazine
+3398,Post Road (magazine)
+3399,Gamesauce
+3400,West Shore (magazine)
+3401,Q News (Australian magazine)
+3402,Venezuela Analitica
+3403,Tape Op
+3404,Pacific Standard
+3405,All About Accounting
+3406,Nritoday
+3407,Think: act
+3408,Catholic Art Quarterly
+3409,Die Gartenlaube
+3410,UN Special (magazine)
+3411,Marvel Super Hero Squad (comics)
+3412,Black Sea Security (journal)
+3413,Nebelspalter
+3414,Just Seventeen
+3415,PACO (magazine)
+3416,Canoe & Kayak UK
+3417,L Magazine
+3418,Comstock's Magazine
+3419,Mystery Scene
+3420,Cyclops (magazine)
+3421,Motarjem
+3422,Barker Black
+3423,Uncovered (magazine)
+3424,POOSHESH
+3425,Tramways & Urban Transit
+3426,European Coatings Journal
+3427,California Literary Review
+3428,Building Design
+3429,This Month in Taiwan
+3430,Daily Science Fiction
+3431,Sur La Terre International
+3432,International Accounting Bulletin
+3433,The Accountant (magazine)
+3434,Delayed Gratification (magazine)
+3435,Studia theologica
+3436,Bass Musician Magazine
+3437,OMG! Magazine
+3438,Carpatho-Rusyn American
+3439,Focus (Ukrainian magazine)
+3440,Hanalala
+3441,Back Street Heroes
+3442,Cthulhu Cultus
+3443,The Entertainment Herald
+3444,Gangway (magazine)
+3445,Bazinama
+3446,Cavall Fort
+3447,Today's Traveller
+3448,Nightshift (magazine)
+3449,AiCIO
+3450,Idrottsarvet
+3451,Pizzicato Magazine
+3452,CERN Courier
+3453,Cafcaf
+3454,Westchester Magazine
+3455,SoGlos.com
+3456,The Parliament Magazine
+3457,1000 Jokes
+3458,On the Water (magazine)
+3459,Auto Italia
+3460,Novosti (Croatia)
+3461,Everybody's Magazine
+3462,Thrilling Adventures
+3463,Synthesis/Regeneration
+3464,Working Mother
+3465,The Dawn (feminist magazine)
+3466,Pulse Weekly
+3467,Numbers (magazine)
+3468,ChemistryViews
+3469,Irish Statesman
+3470,Entertain Magazine
+3471,Sniff Petrol
+3472,Hrvatski vojnik
+3473,Irish Monthly
+3474,Yolk magazine
+3475,Click (magazine)
+3476,Behavioral and Social Sciences Librarian
+3477,Our Voice Today
+3478,Opernwelt
+3479,BUG (magazine)
+3480,Ciao (magazine)
+3481,Playboy Special Edition
+3482,Weekly Manga Action
+3483,The Grand Magazine
+3484,New Zealand Local Government
+3485,Family Friend magazine
+3486,Total Carp
+3487,Bards and Sages Quarterly
+3488,Antiques Info
+3489,XRDS (magazine)
+3490,The Play Pictorial
+3491,Opera Canada
+3492,INOUT
+3493,Railways Illustrated
+3494,Sports+Travel Hong Kong
+3495,Every Day Fiction
+3496,Dark Discoveries
+3497,WORD Magazine (Isla Vista)
+3498,Vs. (magazine)
+3499,Spindle Magazine
+3500,Shabakeh
+3501,Terre Haute Living
+3502,Tap!
+3503,Stone Canoe
+3504,4Q Magazine
+3505,Vremya (magazine)
+3506,The Blizzard (magazine)
+3507,Galaxie (magazine)
+3508,Puzha Magazine
+3509,Iskusstvo
+3510,Epoch (Russian magazine)
+3511,Ethos (magazine)
+3512,Gobar Times
+3513,Women in Music
+3514,Umbrella Magazine
+3515,Boards (magazine)
+3516,Earth First! (magazine)
+3517,Craft (manga magazine)
+3518,Jacobin (magazine)
+3519,Business Mir
+3520,Linkiesta
+3521,Down to Earth (magazine)
+3522,Library Connect
+3523,Rico Tipo
+3524,Oggi (magazine)
+3525,Premier Guitar
+3526,Hunter and Cook
+3527,Hype (magazine)
+3528,Police Review
+3529,Bloom Magazine
+3530,Honkaku Mystery Best 10
+3531,Rock N Roll Experience Magazine
+3532,Top Billing (magazine)
+3533,Supreme Court Debates
+3534,International Debates
+3535,The Enchanting Verses
+3536,Capuchin Annual
+3537,Sesame Street Magazine
+3538,Shave (magazine)
+3539,Mountain Path
+3540,Windsor Review
+3541,PopSister
+3542,British Journal of Photography
+3543,Where (magazine)
+3544,Protecta (magazine)
+3545,Nine-O-One Network Magazine
+3546,Chip Chats
+3547,Happie Nuts
+3548,This Land Press
+3549,Koakuma Ageha
+3550,Easy Milano
+3551,DestinAsian
+3552,Ranzuki
+3553,World of Interiors
+3554,Focus (Polish magazine)
+3555,Documentary News Letter
+3556,Popoli (magazine)
+3557,The Hub (magazine)
+3558,Rotana Magazine
+3559,Irish Homestead
+3560,The National Law Review
+3561,Bird Watching (magazine)
+3562,The New Enthusiast
+3563,Meatpaper
+3564,Tajrobeh
+3565,The New Electric Railway Journal
+3566,Dancing Times
+3567,Illustrated Life Rhodesia
+3568,Aircraft Recognition (magazine)
+3569,The Printed Blog
+3570,Mnemozina
+3571,Remix (fashion magazine)
+3572,Good Words
+3573,Il Becco Giallo
+3574,Album (magazine)
+3575,Science of Mind (magazine)
+3576,NutriMag (magazine)
+3577,Sublime Magazine
+3578,The Caravan
+3579,Polar Star (Decembrist journal)
+3580,Northern Flowers
+3581,Royal Flush (magazine)
+3582,Calcio 2000
+3583,Image (magazine)
+3584,Golfweek
+3585,Fragments (magazine)
+3586,Sai Kung & Clearwater Bay Magazine
+3587,New Jersey Business magazine
+3588,Lunchmeat VHS
+3589,Raze (magazine)
+3590,The trades
+3591,SquareGo
+3592,Canadian Art (magazine)
+3593,Tiger Men's Magazine
+3594,Metal (magazine)
+3595,Tom Tom Magazine
+3596,Young Magazine Uppers
+3597,The Chariton Collector
+3598,Shoot (advertising magazine)
+3599,El Malpensante
+3600,Afghan Scene
+3601,Raknno
+3602,L'Ordine Nuovo
+3603,Stylist (magazine)
+3604,Argentus
+3605,Arabica Magazine
+3606,Be Love
+3607,Taleem-o-Tarbiat
+3608,Our Rural Magazine
+3609,Rabotnitsa
+3610,5vor12
+3611,ABC-Zeitung
+3612,Aero International
+3613,Jasoosi Digest
+3614,Dosheeza Digest
+3615,Kiran Digest
+3616,Warship International
+3617,The State of Australia's Birds
+3618,Rubbish (magazine)
+3619,Coilhouse
+3620,Newsletter for Birdwatchers
+3621,Sonic Seducer
+3622,Science Reporter (magazine)
+3623,Quick (German magazine)
+3624,Cambio 16
+3625,Pollstar
+3626,Exame (magazine)
+3627,Uppercase magazine
+3628,Total Advance
+3629,Binah (magazine)
+3630,Parnassus (literary magazine)
+3631,Redstone Science Fiction
+3632,ISKCON Communications Journal
+3633,Glass Mountain (journal)
+3634,Acne Paper
+3635,Dnipro (magazine)
+3636,Yale Journal of Medicine and Law
+3637,IRIS Magazine
+3638,Folker (music magazine)
+3639,Amiga Action
+3640,Musica e Dischi
+3641,"Dutch, the magazine"
+3642,She Kicks (magazine)
+3643,Yo Vizag
+3644,John Martin's Book
+3645,Structo
+3646,Curve (design magazine)
+3647,Serra d'Or
+3648,Short Stories (magazine)
+3649,Inventors Digest
+3650,Nexos
+3651,Trouble (magazine)
+3652,Personal Computer Magazine
+3653,Finanztest
+3654,Hoog Spel
+3655,New Land (magazine)
+3656,Financial Advisor (magazine)
+3657,Gun Digest
+3658,HighEnd Teen
+3659,HighEnd (magazine)
+3660,The Music Network
+3661,Football Budget (Western Australia)
+3662,Sculpture Review
+3663,Business India
+3664,South Australian Football Budget
+3665,Illustreret Nyhedsblad
+3666,The Hobby Horse
+3667,Telugu Naadi (magazine)
+3668,France Dimanche
+3669,Science & Spirit
+3670,The Chanticleer
+3671,Gong (magazine)
+3672,Massis (periodical)
+3673,Avedik
+3674,Hask (periodical)
+3675,Jadeed Adab
+3676,The Moving Picture World
+3677,Madhouse (magazine)
+3678,New Zealand Woman's Weekly
+3679,Bartlesville Monthly Magazine
+3680,Byte (magazine)
+3681,Manga Erotics F
+3682,Business New Europe
+3683,Norsk Lovtidend
+3684,Kittenpants
+3685,Bella (magazine)
+3686,Puthiya Thalaimurai
+3687,Kunst og Kultur
+3688,Russkaya Beseda
+3689,The Kashmir Walla
+3690,Renal & Urology News
+3691,American Handgunner
+3692,Cosmopolitan Serbia
+3693,Appalachian Heritage
+3694,American Literary Review
+3695,Wascana Review
+3696,Lepota & Zdravlje
+3697,On the Issues (magazine)
+3698,Climbing (magazine)
+3699,Vesy
+3700,Descent (magazine)
+3701,Ruminator Review
+3702,SD Times
+3703,The Horror Zine
+3704,I Love Mama
+3705,Guns & Ammo
+3706,Guns (magazine)
+3707,Coast (magazine)
+3708,Nursery World
+3709,Anannya Magazine
+3710,Motion Picture Magazine
+3711,Dessert (magazine)
+3712,Outsource magazine
+3713,Miasto Kobiet
+3714,Zambak
+3715,Human Capital Magazine
+3716,Candis Magazine
+3717,Planet PC
+3718,TV Park
+3719,Jadaliyya
+3720,The Capilano Review
+3721,San Francisco Chronicle Magazine
+3722,Arkansas Highways
+3723,Asian Scientist
+3724,Joy (magazine)
+3725,Tropic (magazine)
+3726,The Sunday Funnies
+3727,Nova revija (magazine)
+3728,Schweizer Illustrierte
+3729,Melbourne Historical Journal
+3730,Games-X
+3731,Intersec
+3732,International Journal of Meteorology
+3733,The Music Trades (magazine)
+3734,The New Quarterly
+3735,Monthly Prescribing Reference
+3736,Brew Your Own
+3737,WineMaker Magazine
+3738,Mshak
+3739,Weekly Shonen Jump (magazine)
+3740,Your Trading Edge Magazine
+3741,Meskerem (magazine)
+3742,L'Indice dei libri del mese
+3743,Star Insight
+3744,Eulenspiegel (magazine)
+3745,Croc (magazine)
+3746,Safarir
+3747,VIP Magazin
+3748,The City (magazine)
+3749,Mother Earth Living
+3750,PQ Monthly
+3751,OutServe Magazine
+3752,Chirp (magazine)
+3753,1859 (magazine)
+3754,The White Review
+3755,Opus (classical record magazine)
+3756,Grand Jump
+3757,Music Connection
+3758,Gloria (magazine)
+3759,Poedjangga Baroe
+3760,Gekkan bunkazai
+3761,South Dakota Magazine
+3762,Suomen Luonto
+3763,Blurt (magazine)
+3764,St. Anthony Messenger
+3765,Die Freundin
+3766,Il Male
+3767,Consumers' Checkbook
+3768,Thomas Cook European Timetable
+3769,Banjo Newsletter
+3770,City Limits (New York magazine)
+3771,Modern Poetry in Translation
+3772,Pocket World
+3773,SportsNet Magazine
+3774,Mud Life Magazine
+3775,Our State
+3776,Kawanku (magazine)
+3777,Romantic Times
+3778,Connoisseur Magazine
+3779,Journal of Electronic Defense
+3780,Women With Vision!
+3781,Cottage Life
+3782,Explore magazine
+3783,Sabujpatra
+3784,CA-Modern
+3785,Honduras Tips
+3786,Zest magazine
+3787,Zooey Magazine
+3788,Jet-Set (magazine)
+3789,Dinero (magazine)
+3790,Arcadia (magazine)
+3791,Living Bird
+3792,Fucsia
+3793,Cocina (magazine)
+3794,Semana Jr.
+3795,Railfan & Railroad
+3796,Kono Mystery ga Sugoi!
+3797,Synapse (magazine)
+3798,Kyoto Journal
+3799,Afterimage (magazine)
+3800,Amina (magazine)
+3801,Petersen's 4-Wheel & Off-Road
+3802,Jp (magazine)
+3803,Trois couleurs magazine
+3804,Asian Woman magazine
+3805,Mosharekat-e Melli Weekly
+3806,Aerie (magazine)
+3807,Global Asia
+3808,Shair
+3809,Future Life
+3810,Facta (magazine)
+3811,The Antigonish Review
+3812,Altima Ace
+3813,Teenage survival handbook
+3814,The Cortland Review
+3815,Mostar (magazine)
+3816,BYU Magazine
+3817,We Are In America
+3818,Red Lightbulbs
+3819,Opportunity: A Journal of Negro Life
+3820,Journal of Film Preservation
+3821,Continuum (magazine)
+3822,Southeast Asia Building (magazine)
+3823,Sport Aviation (magazine)
+3824,Australian Wildlife Secrets Magazine
+3825,Al Yamamah (magazine)
+3826,Stone Soup (magazine)
+3827,Literary Club (magazine)
+3828,Military History Monthly
+3829,Wallace's Monthly
+3830,Orange Coast (magazine)
+3831,Al Jamila
+3832,Arrajol
+3833,L'Usine nouvelle
+3834,The Comic Bible
+3835,Donjuan (magazine)
+3836,Signum (magazine)
+3837,Bodos Power Systems
+3838,Airports of the World
+3839,MuscleMag International
+3840,Orer (magazine)
+3841,"The Maud Powell Signature, Women in Music"
+3842,Art International
+3843,NH7 (webzine)
+3844,SWA (magazine)
+3845,RESPECT. (magazine)
+3846,Seeds of Hope Publishers
+3847,Archive (magazine)
+3848,Disk User
+3849,Jazz Journal
+3850,Udbodhan
+3851,Turtle Magazine
+3852,Emerge (magazine)
+3853,New Humanity
+3854,The Stool Pigeon (newspaper)
+3855,Grain (magazine)
+3856,Top Pops (newspaper)
+3857,Elohi Gadugi Journal
+3858,Poetry Kanto
+3859,Biblioteka Dlya Chteniya
+3860,Veranda (magazine)
+3861,Dunes Review
+3862,Shokun
+3863,Mushtum
+3864,Femina (Denmark)
+3865,Cosmetics International
+3866,EAR Magazine
+3867,Mookychick
+3868,The Scene Magazine
+3869,Today's Trucking (magazine)
+3870,Cross Rhythms (magazine)
+3871,Windpower Monthly
+3872,Balabhumi
+3873,Countryman (magazine)
+3874,MusicRow
+3875,Madhyamam Weekly
+3876,Vive Le Rock (magazine)
+3877,Manikkodi
+3878,The Syrian World
+3879,DTest
+3880,Clutch (magazine)
+3881,Neue Rundschau
+3882,Le Spectacle du Monde
+3883,Global Movie
+3884,Today's Parent
+3885,Grab (magazine)
+3886,Akhand Jyoti
+3887,Scope (magazine)
+3888,The New Inquiry
+3889,Western Socialist
+3890,Paedo Alert News
+3891,Christian Music Planet
+3892,Closer (magazine)
+3893,Commercial Motor
+3894,Brooklyn Magazine
+3895,TWX (magazine)
+3896,Subaru (literary magazine)
+3897,Adam Film World
+3898,Magnate Magazine
+3899,The MagPi
+3900,Goldenseal (magazine)
+3901,The Authors' Circular
+3902,Velikij Drakon
+3903,Hong Kong Island Magazine
+3904,Mute (magazine)
+3905,Tufts Magazine
+3906,Zenith Magazine
+3907,The Commonline Journal
+3908,Vogue Knitting
+3909,Handy Shipping Guide
+3910,PC Games (magazine)
+3911,Drik magazine
+3912,Gatra (magazine)
+3913,African Business
+3914,Mena Report
+3915,Hot Doc
+3916,Juked
+3917,Blip Magazine
+3918,BEEBUG
+3919,Ravnen
+3920,Mathrubhumi Azhchappathippu
+3921,Millennial Harbinger
+3922,Christian Baptist
+3923,Christian Messenger
+3924,SPUR (magazine)
+3925,Vu (magazine)
+3926,TD Daily Magazine
+3927,Tabula (magazine)
+3928,Surfing World Magazine
+3929,Stanford Social Innovation Review
+3930,Shotgun News
+3931,Stella (Norwegian magazine)
+3932,Young Champion
+3933,Susana (magazine)
+3934,Hobart (magazine)
+3935,Bukla Magazine
+3936,Australian Birdlife
+3937,NOTCH (magazine)
+3938,Spirit of Bosnia
+3939,Unstuck
+3940,Manga Time Kirara Max
+3941,Paesaggio Urbano
+3942,Salut les copains (magazine)
+3943,Kultuur ja Elu
+3944,Flying Models
+3945,Berliner Illustrirte Zeitung
+3946,Worship Leader (magazine)
+3947,Centric (magazine)
+3948,Revista Autismo
+3949,DAS GEDICHT
+3950,Common Ground (magazine)
+3951,Quatro Rodas
+3952,Norsk Slektshistorisk Tidsskrift
+3953,Jahan-e Ketab
+3954,Informatics.nic.in
+3955,Garden Culture
+3956,Film Magazine
+3957,Chalachithram (magazine)
+3958,The Chronicle of the Horse
+3959,Architecture Media Politics Society
+3960,Weave Magazine
+3961,Rio Grande Review
+3962,Talking Electronics
+3963,Il Covile
+3964,Hard Metal (magazine)
+3965,Ritam (Novi Sad magazine)
+3966,Rock (magazine)
+3967,Pop Express
+3968,RAM Magazine
+3969,Planinski Vestnik (magazine)
+3970,Heroina (magazine)
+3971,Moulin rouge (magazine)
+3972,Vreme zabave
+3973,JHU Politik
+3974,Ideas and Discoveries (magazine)
+3975,Black Sports Magazine
+3976,ColoradoBiz
+3977,Propaganda (magazine)
+3978,Mais Alto
+3979,Web Techniques Magazine
+3980,The MMA Digest
+3981,MyM
+3982,Verve (magazine)
+3983,AJ Buildings Library
+3984,Fantastic Novels
+3985,Kirke og Kultur
+3986,Kvinnen og Tiden
+3987,C (California magazine)
+3988,Ami (magazine)
+3989,Vogue India
+3990,Creation Quarterly
+3991,Contemporary review (Chinese magazine)
+3992,Rock Express
+3993,Elle (India)
+3994,Environment (magazine)
+3995,The Yeti (magazine)
+3996,Dhanam (Business Magazine)
+3997,GQ (Indian edition)
+3998,Da znaem poveche
+3999,PORK (magazine)
+4000,Russkaya Mysl
+4001,Global Oneness Project
+4002,Tattler (Chinese periodical)
+4003,Fiction Monthly
+4004,Porthole Cruise Magazine
